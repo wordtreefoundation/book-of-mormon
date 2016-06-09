@@ -6,7 +6,7 @@ Welcome to our project to crowd source the origins of the Book of Mormon. This i
 
 As the basis for this project, we’ve selected the *1830 First Edition* of the Book of Mormon. This edition likely to be closest to the original sources. We fully acknowledge that this won’t match the current published version of the Book of Mormon; however, the current version as published by the Church of Jesus Christ of Latter-day Saints has been updated by numerous LDS leaders since 1830.
 
-> #### type::title
+> #### Note::This is a note
 >
 > Test content for a callout.
 
