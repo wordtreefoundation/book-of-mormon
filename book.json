@@ -1,5 +1,5 @@
 {
-	"plugins": ["expandable-chapters", "callouts", "emphasize", "bibtex-citation"],
+	"plugins": ["expandable-chapters", "callouts", "emphasize"],
 	"pluginsConfig": {
 		"callouts": {
 			"showTypeInHeader": false
