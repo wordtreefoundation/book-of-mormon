@@ -1,6 +1,7 @@
 # Summary
 
-* 1 Nephi
+* [Introduction](README.md)
+* [1 Nephi](1_nephi.md)
 * 2 Nephi
 * Jacob
 * Enos
