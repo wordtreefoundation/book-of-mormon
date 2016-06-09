@@ -1,5 +1,5 @@
 {
-	"plugins": ["expandable-chapters", "callouts", "emphasize", "comments"],
+	"plugins": ["expandable-chapters", "callouts", "emphasize", "comment"],
 	"pluginsConfig": {
 		"callouts": {
 			"showTypeInHeader": false
