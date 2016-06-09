@@ -47,4 +47,3 @@
 
 **1 Nephi 1:20** And when the Jews heard these things, they were angry with him, yea, even as with the prophets of old, whom they had cast out and stoned and slain. And they also sought his life that they might take it away. But behold, I Nephi will shew unto you that the tender mercies of the Lord is over all them whom he hath chosen because of their faith to make them mighty, even unto the power of deliverance.
 
-{% references %} {% endreferences %}
