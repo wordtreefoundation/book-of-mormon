@@ -41,7 +41,7 @@ You can generate the source text of this book in its unannotated form (i.e. as a
 This gitbook uses the following plugins:
 
 * expandable-chapters
-* comment
+* callouts
 
 We're considering using these plugins as well:
 
@@ -49,7 +49,7 @@ We're considering using these plugins as well:
 * image-captions
 * forkmegithub / github
 * bibtex-citation-michael
-* callouts / richquotes
+* richquotes
 * emphasize
 * infinitescroll
 * toc
