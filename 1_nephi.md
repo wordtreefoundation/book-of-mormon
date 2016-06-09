@@ -1,4 +1,3 @@
 # 1 Nephi
 
-* Chapter 1
-* Chapter 2
+book header goes here
