@@ -8,8 +8,6 @@ As the basis for this project, we’ve selected the *1830 First Edition* of the 
 
 The objective is not to find the “most correct” version of the Book of Mormon, but to instead provide the sources which Joseph Smith [remixed](http://everythingisaremix.info/watch-the-series/) to create the Book of Mormon.
 
-If you are a believing member of the Church of Jesus Christ of Latter-day Saints, you may find this information disturbing.
-
 If you’d like to contribute to this work, please register as a user and begin annotating! If you have written a post somewhere else that explains how a verse was created, feel free to provide a 2 sentence summary and then link to your post! This is a community effort.
 
 ## Annotation Requirements
