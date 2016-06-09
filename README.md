@@ -35,3 +35,18 @@ You can generate the source text of this book in its unannotated form (i.e. as a
 * Install Ruby
 * Install [bomdb](https://github.com/wordtreefoundation/bomdb), a command-line tool for querying, diffing, and generating portions of text from the Book of Mormon
 * Run the `gen.sh` command in this repository
+
+## Plugins
+
+This gitbook uses the following plugins:
+
+* expandable-chapters
+
+We're considering using these plugins as well:
+
+* injection
+* comment
+* image-captions
+* forkmegithub
+* collapsible-menu
+* toggle-chapters
