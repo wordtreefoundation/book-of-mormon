@@ -1,2 +1,2 @@
 # jarom
-[Chapter 1](jarom/chapter_1.md)
+[Chapter 1](jarom/chapter_01.md)

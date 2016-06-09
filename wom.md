@@ -1,2 +1,2 @@
 # Words of Mormon
-[Chapter 1](wom/chapter_1.md)
+[Chapter 1](wom/chapter_01.md)

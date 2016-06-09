@@ -2,6 +2,7 @@
 
 Annotated Book of Mormon
 
+[Table of Contents](README.md)
 
 # Generating this book
 
