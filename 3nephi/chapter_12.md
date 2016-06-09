@@ -1,0 +1,96 @@
+**3 Nephi 12:1** And it came to pass that when Jesus had spake these words unto Nephi and to those which had been called--now the number of them which had been called and received power and authority to baptize were twelve--and behold, he stretched forth his hand unto the multitude and cried unto them, saying: Blessed are ye if ye shall give heed unto the words of these twelve which I have chosen from among you to minister unto you and to be your servants. And unto them I have given power that they may baptize you with water. And after that ye are baptized with water, behold, I will baptize you with fire and with the Holy Ghost. Therefore blessed are ye if ye shall believe in me and be baptized after that ye have seen me and know that I am.
+
+**3 Nephi 12:2** And again, more blessed are they which shall believe in your words because that ye shall testify that ye have seen me and that ye know that I am. Yea, blessed are they which shall believe in your words and come down into the depths of humility and be baptized, for they shall be visited with fire and with the Holy Ghost and shall receive a remission of their sins.
+
+**3 Nephi 12:3** Yea, blessed are the poor in spirit which cometh unto me, for theirs is the kingdom of heaven.
+
+**3 Nephi 12:4** And again, blessed are all they that mourn, for they shall be comforted.
+
+**3 Nephi 12:5** And blessed are the meek, for they shall inherit the earth.
+
+**3 Nephi 12:6** And blessed are all they which do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.
+
+**3 Nephi 12:7** And blessed are the merciful, for they shall obtain mercy.
+
+**3 Nephi 12:8** And blessed are all the pure in heart, for they shall see God.
+
+**3 Nephi 12:9** And blessed are all the peacemakers, for they shall be called the children of God.
+
+**3 Nephi 12:10** And blessed are all they which are persecuted for my name's sake, for theirs is the kingdom of heaven.
+
+**3 Nephi 12:11** And blessed are ye when men shall revile you and persecute and shall say all manner of evil against you falsely, for my sake,
+
+**3 Nephi 12:12** for ye shall have great joy and be exceeding glad, for great shall be your reward in heaven; for so persecuted they the prophets which were before you.
+
+**3 Nephi 12:13** Verily verily I say unto you: I give unto you to be the salt of the earth. But if the salt shall lose its savor, wherewith shall the earth be salted? The salt shall be thenceforth good for nothing but to be cast out and to be trodden under foot of men.
+
+**3 Nephi 12:14** Verily verily I say unto you: I give unto you to be the light of this people. A city that is set on a hill cannot be hid.
+
+**3 Nephi 12:15** Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house.
+
+**3 Nephi 12:16** Therefore let your light so shine before this people, that they may see your good works and glorify your Father which is in heaven.
+
+**3 Nephi 12:17** Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfill.
+
+**3 Nephi 12:18** For verily I say unto you: One jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.
+
+**3 Nephi 12:19** And behold, I have given unto you the law and the commandments of my Father, that ye shall believe in me and that ye shall repent of your sins and come unto me with a broken heart and a contrite spirit. Behold, ye have the commandments before you, and the law is fulfilled.
+
+**3 Nephi 12:20** Therefore come unto me and be ye saved, for verily I say unto you that except ye shall keep my commandments, which I have commanded you at this time, ye shall in no case enter into the kingdom of heaven.
+
+**3 Nephi 12:21** Ye have heard that it hath been said by them of old time--and it is also written before you--that thou shalt not kill. And whosoever shall kill shall be in danger of the judgment of God.
+
+**3 Nephi 12:22** But I say unto you that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, thou fool, shall be in danger of hell fire.
+
+**3 Nephi 12:23** Therefore if ye shall come unto me or shall desire to come unto me and rememberest that thy brother hath aught against thee,
+
+**3 Nephi 12:24** go thy way unto thy brother and first be reconciled to thy brother and then come unto me with full purpose of heart and I will receive you.
+
+**3 Nephi 12:25** Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee and thou shalt be cast into prison.
+
+**3 Nephi 12:26** Verily I say unto thee: Thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison, can ye pay even one senine? Verily verily I say unto you: Nay.
+
+**3 Nephi 12:27** Behold, it is written by them of old time that thou shalt not commit adultery.
+
+**3 Nephi 12:28** But I say unto you that whosoever looketh on a woman to lust after her hath committed adultery already in his heart.
+
+**3 Nephi 12:29** Behold, I give unto you a commandment that ye suffer none of these things to enter into your heart.
+
+**3 Nephi 12:30** For it is better that ye should deny yourselves of these things, wherein ye will take up your cross, than that ye should be cast into hell.
+
+**3 Nephi 12:31** It hath been written that whosoever shall put away his wife, let him give her a writing of divorcement.
+
+**3 Nephi 12:32** Verily verily I say unto you that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.
+
+**3 Nephi 12:33** And again it is written: Thou shalt not forswear thyself but shalt perform unto the Lord thine oaths.
+
+**3 Nephi 12:34** But verily verily I say unto you: Swear not at all, neither by heaven--for it is God's throne--
+
+**3 Nephi 12:35** nor by the earth--for it is his footstool--
+
+**3 Nephi 12:36** neither shalt thou swear by thy head, because thou canst not make one hair black or white.
+
+**3 Nephi 12:37** But let your communication be, yea yea, nay nay; for whatsoever cometh of more than these are evil.
+
+**3 Nephi 12:38** And behold, it is written: An eye for an eye and a tooth for a tooth.
+
+**3 Nephi 12:39** But I say unto you that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also.
+
+**3 Nephi 12:40** And if any man will sue thee at the law and take away thy coat, let him have thy cloak also.
+
+**3 Nephi 12:41** And whosoever shall compel thee to go a mile, go with him twain.
+
+**3 Nephi 12:42** Give to him that asketh thee, and from him that would borrow of thee turn thou not away.
+
+**3 Nephi 12:43** And behold, it is written also that thou shalt love thy neighbor and hate thine enemy.
+
+**3 Nephi 12:44** But behold, I say unto you: Love your enemies! Bless them that curse you! Do good to them that hate you, and pray for them which despitefully use you and persecute you,
+
+**3 Nephi 12:45** that ye may be the children of your Father which is in heaven, for he maketh his sun to rise on the evil and on the good.
+
+**3 Nephi 12:46** Therefore those things which were of old time which were under the law, in me are all fulfilled.
+
+**3 Nephi 12:47** Old things are done away, and all things have become new.
+
+**3 Nephi 12:48** Therefore I would that ye should be perfect, even as I or your Father which is in heaven is perfect.
+

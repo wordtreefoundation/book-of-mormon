@@ -1,0 +1,44 @@
+**2 Nephi 23:1** The burden of Babylon which Isaiah the son of Amoz did see.
+
+**2 Nephi 23:2** Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand that they may go into the gates of the nobles.
+
+**2 Nephi 23:3** I have commanded my sanctified ones; I have also called my mighty ones. For mine anger is not upon them that rejoice in my highness.
+
+**2 Nephi 23:4** The noise of the multitude in the mountains like as of a great people, a tumultuous noise of the kingdoms of nations gathered together--the Lord of Hosts mustereth the host of the battle.
+
+**2 Nephi 23:5** They come from a far country, from the end of heaven, yea, the Lord and the weapons of his indignation, to destroy the whole land.
+
+**2 Nephi 23:6** Howl ye, for the day of the Lord is at hand. It shall come as a destruction from the Almighty.
+
+**2 Nephi 23:7** Therefore shall all hands be faint. Every man's heart shall melt,
+
+**2 Nephi 23:8** and they shall be afraid. Pangs and sorrows shall take hold of them. They shall be amazed one at another. Their faces shall be as flames.
+
+**2 Nephi 23:9** Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate. And he shall destroy the sinners thereof out of it.
+
+**2 Nephi 23:10** For the stars of heaven and the constellations thereof shall not give their light. The sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
+
+**2 Nephi 23:11** And I will punish the world for evil and the wicked for their iniquity. I will cause the arrogancy of the proud to cease and will lay down the haughtiness of the terrible.
+
+**2 Nephi 23:12** I will make a man more precious than fine gold, even a man than the golden wedge of Ophir.
+
+**2 Nephi 23:13** Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of Hosts and in the day of his fierce anger.
+
+**2 Nephi 23:14** And it shall be as the chased roe and as a sheep that no man taketh up. They shall every man turn to his own people and flee every one into his own land.
+
+**2 Nephi 23:15** Every one that is proud shall be thrust through. Yea, and every one that is joined to the wicked shall fall by the sword.
+
+**2 Nephi 23:16** Their children also shall be dashed to pieces before their eyes. Their houses shall be spoiled and their wives ravished.
+
+**2 Nephi 23:17** Behold, I will stir up the Medes against them, which shall not regard silver and gold, nor they shall not delight in it.
+
+**2 Nephi 23:18** Their bows shall also dash the young men to pieces. And they shall have no pity on the fruit of the womb; their eyes shall not spare children.
+
+**2 Nephi 23:19** And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.
+
+**2 Nephi 23:20** It shall never be inhabited, neither shall it be dwelt in, from generation to generation. Neither shall the Arabian pitch tent there, neither shall the shepherds make their fold there.
+
+**2 Nephi 23:21** But wild beasts of the desert shall lie there, and their houses shall be full of doleful creatures. And owls shall dwell there, and satyrs shall dance there.
+
+**2 Nephi 23:22** And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces. And her time is near to come and her day shall not be prolonged, for I will destroy her speedily. Yea, for I will be merciful unto my people, but the wicked shall perish.
+

@@ -1,0 +1,50 @@
+**Ether 2:1** And it came to pass that Jared and his brother and their families, and also the friends of Jared and his brother and their families, went down into the valley which was northward--and the name of the valley was Nimrod, being called after the mighty hunter--with their flocks which they had gathered together, male and female, of every kind.
+
+**Ether 2:2** And they did also lay snares and catch fowls of the air. And they did also prepare a vessel, in the which they did carry with them the fish of the waters.
+
+**Ether 2:3** And they did also carry with them deseret, which by interpretation is a honey bee. And thus they did carry with them swarms of bees and all manner of that which was upon the face of the land, seeds of every kind.
+
+**Ether 2:4** And it came to pass that when they had came down into the valley of Nimrod, the Lord came down and talked with the brother of Jared. And he was in a cloud and the brother of Jared saw him not.
+
+**Ether 2:5** And it came to pass that the Lord commanded them that they should go forth into the wilderness, yea, into that quarter where there never had man been. And it came to pass that the Lord did go before them and did talk with them as he stood in a cloud and gave directions whither they should travel.
+
+**Ether 2:6** And it came to pass that they did travel in the wilderness and did build barges, in the which they did cross many waters, being directed continually by the hand of the Lord.
+
+**Ether 2:7** And the Lord would not suffer that they should stop beyond the sea in the wilderness, but he would that they should come forth, even unto the land of promise, which was choice above all other lands, which the Lord God had preserved for a righteous people.
+
+**Ether 2:8** And he had sworn in his wrath unto the brother of Jared that whoso should possess this land of promise, from that time henceforth and forever, should serve him, the true and only God, or they should be swept off when the fullness of his wrath should come upon them.
+
+**Ether 2:9** And now we can behold the decrees of God concerning this land, that it is a land of promise, and whatsoever nation shall possess it shall serve God or they shall be swept off when the fullness of his wrath shall come upon them. And the fullness of his wrath cometh upon them when they are ripened in iniquity.
+
+**Ether 2:10** For behold, this is a land which is choice above all other lands. Wherefore he that doth possess it shall serve God or shall be swept off, for it is the everlasting decrees of God. And it is not until the fullness of iniquity among the children of the land that they are swept off.
+
+**Ether 2:11** And this cometh unto you, O ye Gentiles, that ye may know the decrees of God, that ye may repent and not continue in your iniquities until the fullness be come, that ye may not bring down the fullness of the wrath of God upon you as the inhabitants of the land hath hitherto done.
+
+**Ether 2:12** Behold, this is a choice land; and whatsoever nation shall possess it shall be free from bondage and from captivity and from all other nations under heaven if they will but serve the God of the land, which is Jesus Christ, which hath been manifested by the things which we have written.
+
+**Ether 2:13** And now I proceed with my record. For behold, it came to pass that the Lord did bring Jared and his brethren forth, even to that great sea which divideth the lands. And as they came to the sea, they pitched their tents; and they called the name of the place Moriancumer. And they dwelt in tents upon the seashore for the space of four years.
+
+**Ether 2:14** And it came to pass at the end of the four years that the Lord came again unto the brother of Jared and stood in a cloud and talked with him. And for the space of three hours did the Lord talk with the brother of Jared and chastened him because he remembered not to call upon the name of the Lord.
+
+**Ether 2:15** And the brother of Jared repented him of the evil which he had done and did call upon the name of the Lord for his brethren which were with him. And the Lord said unto him: I will forgive thee and thy brethren of their sins, but thou shalt not sin any more. For ye shall remember that my Spirit will not always strive with man. Wherefore if ye will sin until ye are fully ripe, ye shall be cut off from the presence of the Lord. And this is my thoughts upon the land which I shall give you for your inheritance, for it shall be a land choice above all other lands.
+
+**Ether 2:16** And the Lord said: Go to work and build after the manner of barges which ye have hitherto built. And it came to pass that the brother of Jared did go to work and also his brethren and built barges after the manner which they had built, according to the instructions of the Lord. And they were small and they were light upon the water, even like unto the lightness of a fowl upon the water.
+
+**Ether 2:17** And they were built after a manner that they were exceeding tight, even that they would hold water like unto a dish; and the bottom thereof was tight like unto a dish, and the sides thereof was tight like unto a dish, and the ends thereof were peaked, and the top thereof was tight like unto a dish, and the length thereof was the length of a tree, and the door thereof--when it was shut--was tight like unto a dish.
+
+**Ether 2:18** And it came to pass that the brother of Jared cried unto the Lord, saying: O Lord, I have performed the work which thou hast commanded me, and I have made the barges according as thou hast directed me.
+
+**Ether 2:19** And behold, O Lord, in them there is no light. Whither shall we steer? And also we shall perish, for in them we cannot breathe save it is the air which is in them; therefore we shall perish.
+
+**Ether 2:20** And the Lord said unto the brother of Jared: Behold, thou shalt make a hole in the top thereof and also in the bottom thereof. And when thou shalt suffer for air, thou shalt unstop the hole thereof and receive air. And if it so be that the water come in upon thee, behold, ye shall stop the hole thereof, that ye may not perish in the flood.
+
+**Ether 2:21** And it came to pass that the brother of Jared did so, according as the Lord had commanded.
+
+**Ether 2:22** And he cried again unto the Lord, saying: O Lord, behold, I have done even as thou hast commanded me, and I have prepared the vessels for my people. And behold, there is no light in them. Behold, O Lord, wilt thou suffer that we shall cross this great water in darkness?
+
+**Ether 2:23** And the Lord said unto the brother of Jared: What will ye that I should do that ye may have light in your vessels? For behold, ye cannot have windows, for they will be dashed in pieces. Neither shall ye take fire with you, for ye shall not go by the light of fire.
+
+**Ether 2:24** For behold, ye shall be as a whale in the midst of the sea, for the mountain waves shall dash upon you. Nevertheless I will bring you up again out of the depths of the sea; for the winds have gone forth out of my mouth, and also the rains and the floods have I sent forth.
+
+**Ether 2:25** And behold, I prepare you against these things; for how be it, ye cannot cross this great deep save I prepare you against the waves of the sea and the winds which have gone forth and the floods which shall come. Therefore what will ye that I should prepare for you that ye may have light when ye are swallowed up in the depths of the sea?
+

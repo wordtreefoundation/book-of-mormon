@@ -1,0 +1,34 @@
+**Helaman 15:1** And now my beloved brethren, behold, I declare unto you that except ye shall repent, your houses shall be left unto you desolate.
+
+**Helaman 15:2** Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck. For ye shall attempt to flee and there shall be no place for refuge. Yea, and woe unto them which are with child, for they shall be heavy and cannot flee. Therefore they shall be trodden down and shall be left to perish.
+
+**Helaman 15:3** Yea, woe unto this people which are called the people of Nephi except they shall repent when they shall see all those signs and wonders which shall be shewed unto them. For behold, they have been a chosen people of the Lord. Yea, the people of Nephi hath he loved. And also hath he chastened them; yea, in the days of their iniquities hath he chastened them because he loveth them.
+
+**Helaman 15:4** But behold, my brethren, the Lamanites hath he hated because their deeds have been evil continually--and this because of the iniquity of the tradition of their fathers. But behold, salvation hath come unto them through the preaching of the Nephites; and for this intent hath the Lord prolonged their days.
+
+**Helaman 15:5** And I would that ye should behold that the more part of them are in the path of their duty, and they do walk circumspectly before God, and they do observe to keep his commandments and his statutes and his judgments according to the law of Moses.
+
+**Helaman 15:6** Yea, I say unto you that the more part of them are doing this. And they are striving with unwearied diligence that they may bring the remainder of their brethren to the knowledge of the truth. Therefore there are many which do add to their numbers daily.
+
+**Helaman 15:7** And behold, ye do know of yourselves, for ye have witnessed it, that as many of them as are brought to the knowledge of the truth and to know of the wicked and abominable traditions of their fathers and are led to believe the holy scriptures--yea, the prophecies of the holy prophets which are written, which leadeth them to faith on the Lord and unto repentance, which faith and repentance bringeth a change of heart unto them--
+
+**Helaman 15:8** therefore as many as have come to this, ye know of yourselves are firm and steadfast in the faith and in the thing wherewith they have been made free.
+
+**Helaman 15:9** And ye know also that they have buried their weapons of war, and they fear to take them up lest by any means they shall sin; yea, ye can see that they fear to sin. For behold, they will suffer themselves that they be trodden down and slain by their enemies and will not lift their swords against them--and this because of their faith in Christ.
+
+**Helaman 15:10** And now because of their steadfastness when they do believe in that thing which they do believe, for because of their firmness when they are once enlightened, behold, the Lord shall bless them and prolong their days, notwithstanding their iniquity.
+
+**Helaman 15:11** Yea, even if they should dwindle in unbelief, the Lord shall prolong their days until the time shall come which hath been spoken of by our fathers, and also by the prophet Zenos and many other prophets, concerning the restoration of our brethren the Lamanites again to the knowledge of the truth.
+
+**Helaman 15:12** Yea, I say unto you that in the latter times the promises of the Lord hath been extended to our brethren the Lamanites. And notwithstanding the many afflictions which they shall have and notwithstanding they shall be driven to and fro upon the face of the earth and be hunted and shall be smitten and scattered abroad, having no place for refuge, the Lord shall be merciful unto them.
+
+**Helaman 15:13** And this is according to the prophecy that they shall again be brought to the true knowledge, which is the knowledge of their Redeemer and their great and their true shepherd, and be numbered among his sheep.
+
+**Helaman 15:14** Therefore I say unto you: It shall be better for them than for you except ye repent.
+
+**Helaman 15:15** For behold, had the mighty works been shewn unto them which have been shewn unto you--yea, unto them which have dwindled in unbelief because of the traditions of their fathers--ye can see of yourselves that they never would again have dwindled in unbelief.
+
+**Helaman 15:16** Therefore, saith the Lord, I will not utterly destroy them, but I will cause that in the day of my wisdom they shall return again unto me, saith the Lord.
+
+**Helaman 15:17** And now behold, saith the Lord concerning the people of the Nephites, if they will not repent and observe to do my will, I will utterly destroy them, saith the Lord, because of their unbelief, notwithstanding the many mighty works which I have done among them. And as surely as the Lord liveth shall these things be, saith the Lord.
+

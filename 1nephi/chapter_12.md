@@ -1,0 +1,46 @@
+**1 Nephi 12:1** And it came to pass that the angel said unto me: Look and behold thy seed and also the seed of thy brethren. And I looked and beheld the land of promise. And I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.
+
+**1 Nephi 12:2** And it came to pass that I beheld multitudes gathered together to battle one against the other. And I beheld wars and rumors of wars and great slaughters with the sword among my people.
+
+**1 Nephi 12:3** And it came to pass that I beheld many generations pass away after the manner of wars and contentions in the land. And I beheld many cities, yea, even that I did not number them.
+
+**1 Nephi 12:4** And it came to pass that I saw a mist of darkness on the face of the land of promise. And I saw lightnings and I heard thunderings and earthquakes and all manner of tumultuous noises. And I saw the earth that it rent the rocks, and I saw mountains tumbling into pieces, and I saw the plains of the earth that they were broken up. And I saw many cities that they were sunk, and I saw many that they were burnt with fire, and I saw many that they did tumble to the earth because of the quaking thereof.
+
+**1 Nephi 12:5** And it came to pass that after I saw these things, I saw the vapor of darkness, that it passed from off the face of the earth. And behold, I saw the multitudes which had not fallen because of the great and terrible judgments of the Lord.
+
+**1 Nephi 12:6** And I saw the heavens open and the Lamb of God descending out of heaven. And he came down and he shewed himself unto them.
+
+**1 Nephi 12:7** And I also saw and bare record that the Holy Ghost fell upon twelve others, and they were ordained of God and chosen.
+
+**1 Nephi 12:8** And the angel spake unto me, saying: Behold the twelve disciples of the Lamb which are chosen to minister unto thy seed.
+
+**1 Nephi 12:9** And he saith unto me: Thou rememberest the twelve apostles of the Lamb. Behold, they are they which shall judge the twelve tribes of Israel; wherefore the twelve ministers of thy seed shall be judged of them, for ye are of the house of Israel.
+
+**1 Nephi 12:10** And these twelve ministers which thou beholdest shall judge thy seed. And behold, they are righteous forever, for because of their faith in the Lamb of God, their garments are made white in his blood.
+
+**1 Nephi 12:11** And the angel saith unto me: Look! And I looked and beheld three generations did pass away in righteousness, and their garments were white, even like unto the Lamb of God. And the angel said unto me: These are made white in the blood of the Lamb because of their faith in him.
+
+**1 Nephi 12:12** And I Nephi also saw many of the fourth generation which did pass away in righteousness.
+
+**1 Nephi 12:13** And it came to pass that I saw the multitudes of the earth gathered together.
+
+**1 Nephi 12:14** And the angel said unto me: Behold thy seed and also the seed of thy brethren.
+
+**1 Nephi 12:15** And it came to pass that I looked and beheld the people of my seed gathered together in multitudes against the seed of my brethren; and they were gathered together to battle.
+
+**1 Nephi 12:16** And the angel spake unto me, saying: Behold the fountain of filthy water which thy father saw, yea, even the river of which he spake; and the depths thereof are the depths of hell.
+
+**1 Nephi 12:17** And the mists of darkness are the temptations of the devil, which blindeth the eyes and hardeneth the hearts of the children of men and leadeth them away into broad roads that they perish and are lost.
+
+**1 Nephi 12:18** And the large and spacious building which thy father saw is vain imaginations and the pride of the children of men. And a great and a terrible gulf divideth them, yea, even the sword of the justice of the Eternal God and Jesus Christ, which is the Lamb of God, of whom the Holy Ghost beareth record from the beginning of the world until this time and from this time henceforth and forever.
+
+**1 Nephi 12:19** And while the angel spake these words, I beheld and saw that the seed of my brethren did contend against my seed, according to the word of the angel. And because of the pride of my seed and the temptations of the devil, I beheld that the seed of my brethren did overpower the people of my seed.
+
+**1 Nephi 12:20** And it came to pass that I beheld and saw the people of the seed of my brethren, that they had overcome my seed. And they went forth in multitudes upon the face of the land;
+
+**1 Nephi 12:21** and I saw them gathered together in multitudes. And I saw wars and rumors of wars among them, and in wars and rumors of wars I saw many generations pass away.
+
+**1 Nephi 12:22** And the angel said unto me: Behold, these shall dwindle in unbelief.
+
+**1 Nephi 12:23** And it came to pass that I beheld that after they had dwindled in unbelief, they became a dark and loathsome and a filthy people, full of idleness and all manner of abominations.
+

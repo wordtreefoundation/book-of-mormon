@@ -1,0 +1,72 @@
+**3 Nephi 19:1** And now it came to pass that when Jesus had ascended into heaven, the multitude did disperse; and every man did take his wife and his children and did return to his own home.
+
+**3 Nephi 19:2** And it was noised abroad among the people immediately, before it was yet dark, that the multitude had seen Jesus and that he had ministered unto them and that he would also shew himself on the morrow unto the multitude.
+
+**3 Nephi 19:3** Yea, and even all the night it was noised abroad concerning Jesus. And insomuch did they send forth unto the people that there were many--yea, an exceeding great number--did labor exceedingly all that night that they might be on the morrow in the place where Jesus should shew himself unto the multitude.
+
+**3 Nephi 19:4** And it came to pass that on the morrow when the multitude was gathered together, behold, Nephi and his brother--whom he had raised from the dead, whose name was Timothy--and also his son, whose name was Jonas, and also Mathoni and Mathonihah, his brother, and Kumen and Kumenonhi and Jeremiah and Shemnon and Jonas and Zedekiah and Isaiah--now these were the names of the disciples whom Jesus had chosen--and it came to pass that they went forth and stood in the midst of the multitude.
+
+**3 Nephi 19:5** And behold, the multitude was so great that they did cause that they should be separated into twelve bodies.
+
+**3 Nephi 19:6** And the twelve did teach the multitude. And behold, they did cause that the multitude should kneel down upon the face of the earth and should pray unto the Father in the name of Jesus.
+
+**3 Nephi 19:7** And the disciples did pray unto the Father also in the name of Jesus. And it came to pass that they arose and ministered unto the people.
+
+**3 Nephi 19:8** And when they had ministered them same words which Jesus had spoken, nothing varying from the words which Jesus had spoken, behold, they knelt again and prayed to the Father in the name of Jesus.
+
+**3 Nephi 19:9** And they did pray for that which they most desired; and they desired that the Holy Ghost should be given unto them.
+
+**3 Nephi 19:10** And when they had thus prayed, they went down unto the water's edge; and the multitude followed them.
+
+**3 Nephi 19:11** And it came to pass that Nephi went down into the water and was baptized.
+
+**3 Nephi 19:12** And he came up out of the water and began to baptize, and he baptized all they whom Jesus had chosen.
+
+**3 Nephi 19:13** And it came to pass when they were all baptized and had come up out of the water, the Holy Ghost did fall upon them; and they were filled with the Holy Ghost and with fire.
+
+**3 Nephi 19:14** And behold, they were encircled about as if it were fire; and it came down from heaven. And the multitude did witness it and do bear record. And angels did come down out of heaven and did minister unto them.
+
+**3 Nephi 19:15** And it came to pass that while the angels were ministering unto the disciples, behold, Jesus came and stood in the midst and ministered unto them.
+
+**3 Nephi 19:16** And it came to pass that he spake unto the multitude and commanded them that they should kneel down again upon the earth, and also that his disciples should kneel down upon the earth.
+
+**3 Nephi 19:17** And it came to pass that when they had all knelt down upon the earth, he commanded his disciples that they should pray.
+
+**3 Nephi 19:18** And behold, they began to pray; and they did pray unto Jesus, calling him their Lord and their God.
+
+**3 Nephi 19:19** And it came to pass that Jesus departed out of the midst of them and went a little way off from them and bowed himself to the earth, and he saith:
+
+**3 Nephi 19:20** Father, I thank thee that thou hast given the Holy Ghost unto these whom I have chosen. And it is because of their belief in me that I have chosen them out of the world.
+
+**3 Nephi 19:21** Father, I pray thee that thou wilt give the Holy Ghost unto all them that shall believe in their words.
+
+**3 Nephi 19:22** Father, thou hast given them the Holy Ghost because they believe in me. And thou seest that they believe in me because thou hearest them, and they pray unto me; and they pray unto me because I am with them.
+
+**3 Nephi 19:23** And now Father, I pray unto thee for them, and also for all they which shall believe on their words, that they may believe in me, that I may be in them as thou Father art in me, that we may be one.
+
+**3 Nephi 19:24** And it came to pass that when Jesus had thus prayed unto the Father, he came unto his disciples, and behold, they did still continue without ceasing to pray unto him. And they did not multiply many words, for it was given unto them what they should pray; and they were filled with desire.
+
+**3 Nephi 19:25** And it came to pass that Jesus blessed them as they did pray unto him. And his countenance did smile upon them, and the light of his countenance did shine upon them. And behold, they were as white as the countenance and also the garments of Jesus. And behold, the whiteness thereof did exceed all whiteness; yea, even there could be nothing upon earth so white as the whiteness thereof.
+
+**3 Nephi 19:26** And Jesus saith unto them: Pray on. Nevertheless they did not cease to pray.
+
+**3 Nephi 19:27** And he turned from them again and went a little way off and bowed himself to the earth, and he prayed again unto the Father, saying:
+
+**3 Nephi 19:28** Father, I thank thee that thou hast purified these which I have chosen because of their faith. And I pray for them and also for them which shall believe on their words, that they may be purified in me through faith on their words, even as they are purified in me.
+
+**3 Nephi 19:29** Father, I pray not for the world but for them which thou hast given unto me out of the world because of their faith, that they may be purified in me, that I may be in them as thou Father art in me, that we may be one, that I may be glorified in them.
+
+**3 Nephi 19:30** And it came to pass that when Jesus had spake these words, he came again unto his disciples, and behold, they did pray steadfastly without ceasing unto him. And he did smile upon them again. And behold, they were white, even as Jesus.
+
+**3 Nephi 19:31** And it came to pass that he went again a little way off and prayed unto the Father.
+
+**3 Nephi 19:32** And tongue cannot speak the words which he prayed, neither can be written by man the words which he prayed.
+
+**3 Nephi 19:33** And the multitude did hear and do bear record. And their hearts were open, and they did understand in their hearts the words which he prayed.
+
+**3 Nephi 19:34** Nevertheless, so great and marvelous were the words which he prayed that they cannot be written, neither can they be uttered by man.
+
+**3 Nephi 19:35** And it came to pass that when Jesus had made an end of praying, he came again to the disciples and saith unto them: So great faith have I never seen among all the Jews. Wherefore I could not shew unto them so great miracles because of their unbelief.
+
+**3 Nephi 19:36** Verily I say unto you: There are none of them that have seen so great things as ye have seen, neither have they heard so great things as ye have heard.
+

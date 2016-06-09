@@ -1,0 +1,10 @@
+# Mormon
+[Chapter 1](mormon/chapter_1.md)
+[Chapter 2](mormon/chapter_2.md)
+[Chapter 3](mormon/chapter_3.md)
+[Chapter 4](mormon/chapter_4.md)
+[Chapter 5](mormon/chapter_5.md)
+[Chapter 6](mormon/chapter_6.md)
+[Chapter 7](mormon/chapter_7.md)
+[Chapter 8](mormon/chapter_8.md)
+[Chapter 9](mormon/chapter_9.md)

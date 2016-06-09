@@ -1,0 +1,84 @@
+**1 Nephi 13:1** And it came to pass that the angel spake unto me, saying: Look! And I looked and beheld many nations and kingdoms.
+
+**1 Nephi 13:2** And the angel saith unto me: What beholdest thou? And I said: I behold many nations and kingdoms.
+
+**1 Nephi 13:3** And he saith unto me: These are the nations and kingdoms of the Gentiles.
+
+**1 Nephi 13:4** And it came to pass that I saw among the nations of the Gentiles the formation of a great church.
+
+**1 Nephi 13:5** And the angel said unto me: Behold the formation of a church which is most abominable above all other churches, which slayeth the saints of God, yea, and tortureth them and bindeth them down and yoketh them with a yoke of iron and bringeth them down into captivity.
+
+**1 Nephi 13:6** And it came to pass that I beheld this great and abominable church, and I saw the devil that he was the founder of it.
+
+**1 Nephi 13:7** And I also saw gold and silver and silks and scarlets and fine-twined linen and all manner of precious clothing, and I saw many harlots.
+
+**1 Nephi 13:8** And the angel spake unto me, saying: Behold, the gold and the silver and the silks and the scarlets and the fine-twined linen and the precious clothing and the harlots are the desires of this great and abominable church.
+
+**1 Nephi 13:9** And also for the praise of the world do they destroy the saints of God and bring them down into captivity.
+
+**1 Nephi 13:10** And it came to pass that I looked and beheld many waters, and they divided the Gentiles from the seed of my brethren.
+
+**1 Nephi 13:11** And it came to pass that the angel saith unto me: Behold, the wrath of God is upon the seed of thy brethren.
+
+**1 Nephi 13:12** And I looked and beheld a man among the Gentiles, which were separated from the seed of my brethren by the many waters. And I beheld the Spirit of God, that it came down and wrought upon the man, and he went forth upon the many waters, even unto the seed of my brethren, which were in the promised land.
+
+**1 Nephi 13:13** And it came to pass that I beheld the Spirit of God, that it wrought upon other Gentiles, and they went forth out of captivity upon the many waters.
+
+**1 Nephi 13:14** And it came to pass that I beheld many multitudes of the Gentiles upon the land of promise. And I beheld the wrath of God, that it was upon the seed of my brethren. And they were scattered before the Gentiles and they were smitten.
+
+**1 Nephi 13:15** And I beheld the Spirit of the Lord, that it was upon the Gentiles, that they did prosper and obtain the land for their inheritance. And I beheld that they were white and exceeding fair and beautiful, like unto my people before that they were slain.
+
+**1 Nephi 13:16** And it came to pass that I Nephi beheld that the Gentiles which had gone forth out of captivity did humble themselves before the Lord, and the power of the Lord was with them.
+
+**1 Nephi 13:17** And I beheld that their mother Gentiles was gathered together upon the waters and upon the land also, to battle against them.
+
+**1 Nephi 13:18** And I beheld that the power of God was with them, and also that the wrath of God was upon all those that were gathered together against them to battle.
+
+**1 Nephi 13:19** And I Nephi beheld that the Gentiles which had gone out of captivity were delivered by the power of God out of the hands of all other nations.
+
+**1 Nephi 13:20** And it came to pass that I Nephi beheld that they did prosper in the land. And I beheld a book and it was carried forth among them.
+
+**1 Nephi 13:21** And the angel saith unto me: Knowest thou the meaning of the book?
+
+**1 Nephi 13:22** And I saith: I know not.
+
+**1 Nephi 13:23** And he saith: Behold, it proceedeth out of the mouth of a Jew. And I Nephi beheld it. And he saith unto me: The book which thou beholdest is a record of the Jews, which contain the covenants of the Lord which he hath made unto the house of Israel. And it also containeth many of the prophecies of the holy prophets. And it is a record like unto the engravings which are upon the plates of brass, save there are not so many. Nevertheless they contain the covenants of the Lord which he hath made unto the house of Israel; wherefore they are of great worth unto the Gentiles.
+
+**1 Nephi 13:24** And the angel of the Lord said unto me: Thou hast beheld that the book proceeded forth from the mouth of a Jew. And when it proceeded forth from the mouth of a Jew, it contained the fullness of the gospel of the Lamb, of whom the twelve apostles bare record. And they bare record according to the truth which is in the Lamb of God.
+
+**1 Nephi 13:25** Wherefore these things go forth from the Jews in purity unto the Gentiles, according to the truth which is in God.
+
+**1 Nephi 13:26** And after that they go forth by the hand of the twelve apostles of the Lamb from the Jews unto the Gentiles, behold, after this thou seest the formation of that great and abominable church, which is the most abominable of all other churches. For behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away.
+
+**1 Nephi 13:27** And all this have they done that they might pervert the right ways of the Lord, that they might blind the eyes and harden the hearts of the children of men.
+
+**1 Nephi 13:28** Wherefore thou seest that after the book hath gone forth through the hands of the great and abominable church that there are many plain and most precious things taken away from the book, which is the book of the Lamb of God.
+
+**1 Nephi 13:29** And after that these plain and precious things were taken away, it goeth forth unto all the nations of the Gentiles. And after it goeth forth unto all the nations of the Gentiles, yea, even across the many waters--which thou hast seen--with the Gentiles which have gone forth out of captivity, and thou seest because of the many plain and precious things which have been taken out of the book, which were plain unto the understanding of the children of men according to the plainness which is in the Lamb of God--and because of these things which are taken away out of the gospel of the Lamb, an exceeding great many do stumble, yea, insomuch that Satan hath great power over them.
+
+**1 Nephi 13:30** Nevertheless thou beholdest that the Gentiles which have gone forth out of captivity and have been lifted up by the power of God above all other nations upon the face of the land which is choice above all other lands, which is the land which the Lord God hath covenanted with thy father that his seed should have for the land of their inheritance, wherefore thou seest that the Lord God will not suffer that the Gentiles will utterly destroy the mixture of thy seed which is among thy brethren.
+
+**1 Nephi 13:31** Neither will he suffer that the Gentiles shall destroy the seed of thy brethren.
+
+**1 Nephi 13:32** Neither will the Lord God suffer that the Gentiles shall forever remain in that state of awful wickedness which thou beholdest that they are in because of the plain and most precious parts of the gospel of the Lamb which hath been kept back by that abominable church, whose formation thou hast seen.
+
+**1 Nephi 13:33** Wherefore, saith the Lamb of God, I will be merciful unto the Gentiles, unto the visiting of the remnant of the house of Israel in great judgment.
+
+**1 Nephi 13:34** And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after that I have visited the remnant of the house of Israel--and this remnant of which I speak is the seed of thy father--wherefore after that I have visited them in judgment and smitten them by the hand of the Gentiles, and after that the Gentiles do stumble exceedingly because of the most plain and precious parts of the gospel of the Lamb which hath been kept back by that abominable church, which is the mother of harlots, saith the Lamb, wherefore I will be merciful unto the Gentiles in that day, saith the Lamb, insomuch that I will bring forth unto them in mine own power much of my gospel, which shall be plain and precious, saith the Lamb.
+
+**1 Nephi 13:35** For behold, saith the Lamb, I will manifest myself unto thy seed that they shall write many things which I shall minister unto them, which shall be plain and precious. And after that thy seed shall be destroyed and dwindle in unbelief, and also the seed of thy brethren, behold, these things shall be hid up to come forth unto the Gentiles by the gift and power of the Lamb.
+
+**1 Nephi 13:36** And in them shall be written my gospel, saith the Lamb, and my rock and my salvation.
+
+**1 Nephi 13:37** And blessed are they which shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost. And if they endure unto the end, they shall be lifted up at the last day and shall be saved in the everlasting kingdom of the Lamb. Yea, whoso shall publish peace--that shall publish tidings of great joy--how beautiful upon the mountains shall they be!
+
+**1 Nephi 13:38** And it came to pass that I beheld the remnant of the seed of my brethren and also the book of the Lamb of God which had proceeded forth from the mouth of the Jew. And I beheld that it came forth from the Gentiles unto the remnant of the seed of my brethren.
+
+**1 Nephi 13:39** And after it had come forth unto them, I beheld other books which came forth by the power of the Lamb from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren--and also to the Jews, which were scattered upon all the face of the earth--that the records of the prophets and of the twelve apostles of the Lamb are true.
+
+**1 Nephi 13:40** And the angel spake unto me, saying: These last records which thou hast seen among the Gentiles shall establish the truth of the first, which is of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them and shall make known to all kindreds, tongues, and people that the Lamb of God is the Eternal Father and the Savior of the world and that all men must come unto him or they cannot be saved.
+
+**1 Nephi 13:41** And they must come according to the words which shall be established by the mouth of the Lamb. And the words of the Lamb shall be made known in the records of thy seed as well as in the records of the twelve apostles of the Lamb. Wherefore they both shall be established in one, for there is one God and one Shepherd over all the earth.
+
+**1 Nephi 13:42** And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles. And after that he hath manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews. And the last shall be first and the first shall be last.
+

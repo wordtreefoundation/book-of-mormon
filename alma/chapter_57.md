@@ -1,0 +1,72 @@
+**Alma 57:1** And now it came to pass that I received an epistle from Ammoron the king stating that if I would deliver up those prisoners of war which we had taken that he would deliver up the city of Antiparah unto us.
+
+**Alma 57:2** But I sent an epistle unto the king that we were sure that our forces were sufficient to take the city of Antiparah by our force, and by delivering up the prisoners for that city we should suppose ourselves unwise, and that we would only deliver up our prisoners on exchange.
+
+**Alma 57:3** And as Ammoron refused mine epistle--for he would not exchange prisoners--therefore we began to make preparations to go against the city of Antiparah.
+
+**Alma 57:4** But the people of Antiparah did leave the city and fled to their other cities which they had possession of, to fortify them. And thus the city of Antiparah fell into our hands.
+
+**Alma 57:5** And thus ended the twenty and eighth year of the reign of the judges.
+
+**Alma 57:6** And it came to pass that in the commencement of the twenty and ninth year we received a supply of provisions and also an addition to our army from the land of Zarahemla and from the land round about to the number of six thousand men, besides sixty of the sons of the Ammonites which had come to join their brethren, my little band of two thousand. And now behold, we were strong; yea, and we had also a plenty of provisions brought unto us.
+
+**Alma 57:7** And it came to pass that it was our desire to wage a battle with the army which was placed to protect the city Cumeni.
+
+**Alma 57:8** And now behold, I will shew unto you that we soon accomplished our desire. Yea, with our strong force--or with a part of our strong force--we did surround by night the city Cumeni a little before they were to receive a supply of provisions.
+
+**Alma 57:9** And it came to pass that we did camp round about the city for many nights, but we did sleep upon our swords and keep guards that the Lamanites could not come upon us by night and slay us, which they attempted many times. But as many times as they attempted this, their blood was spilt.
+
+**Alma 57:10** At length their provisions did arrive, and they were about to enter the city by night. And we, instead of being Lamanites, were Nephites; therefore we did take them and their provisions.
+
+**Alma 57:11** And notwithstanding the Lamanites being cut off from their support after this manner, they were still determined to maintain the city. Therefore it became expedient that we should take those provisions and send them to Judea and our prisoners to the land of Zarahemla.
+
+**Alma 57:12** And it came to pass that not many days had passed away before the Lamanites began to lose all hopes of succor; therefore they yielded up the city into our hands. And thus we had accomplished our designs in obtaining the city Cumeni.
+
+**Alma 57:13** But it came to pass that our prisoners were so numerous that notwithstanding the enormity of our number, we were obliged to employ all our force to keep them or put them to death.
+
+**Alma 57:14** For behold, they would break out in great numbers and would fight with stones and with clubs, or whatsoever thing they could get into their hands, insomuch that we did slay upwards of two thousand of them after they had surrendered themselves prisoners of war.
+
+**Alma 57:15** Therefore it became expedient for us that we should put an end to their lives or guard them sword in hand down to the land of Zarahemla. And also our provisions were not any more than sufficient for our own people, notwithstanding that which we had taken from the Lamanites.
+
+**Alma 57:16** And now in those critical circumstances it became a very serious matter to determine concerning those prisoners of war. Nevertheless we did resolve to send them down to the land of Zarahemla. Therefore we selected a part of our men and gave them charge over our prisoners to go down to the land of Zarahemla.
+
+**Alma 57:17** But it came to pass that on the morrow they did return. And now behold, we did not inquire of them concerning the prisoners; for behold, the Lamanites were upon us, and they returned in season to save us from falling into their hands. For behold, Ammoron had sent to their support a new supply of provision and also a numerous army of men.
+
+**Alma 57:18** And it came to pass that those men which we sent with the prisoners did arrive in season to check them as they were about to overpower us.
+
+**Alma 57:19** But behold, my little band of two thousand and sixty fought most desperately. Yea, they were firm before the Lamanites and did administer death unto all those who opposed them.
+
+**Alma 57:20** And as the remainder of our army were about to give way before the Lamanites, behold, these two thousand and sixty were firm and undaunted.
+
+**Alma 57:21** Yea, and they did obey and observe to perform every word of command with exactness. Yea, and even according to their faith it was done unto them. And I did remember the words which they said unto me that their mothers had taught them.
+
+**Alma 57:22** And now behold, it was these my sons and those men which had been selected to convey the prisoners to whom we owe this great victory, for it was they who did beat the Lamanites. Therefore they were driven back to the city of Manti.
+
+**Alma 57:23** And we retained our city Cumeni and were not all destroyed by the sword; nevertheless we had suffered great loss.
+
+**Alma 57:24** And it came to pass that after the Lamanites had fled, I immediately gave orders that my men which had been wounded should be taken from among the dead and caused that their wounds should be dressed.
+
+**Alma 57:25** And it came to pass that there were two hundred out of my two thousand and sixty which had fainted because of the loss of blood. Nevertheless, according to the goodness of God and to our great astonishment and also the joy of our whole army, there was not one soul of them which did perish. Yea, and neither was there one soul among them which had not received many wounds.
+
+**Alma 57:26** And now their preservation was astonishing to our whole army, yea, that they should be spared, while there was a thousand of our brethren which were slain. And we do justly ascribe it to the miraculous power of God because of their exceeding faith in that which they had been taught to believe, that there was a just God, and whosoever did not doubt, that they should be preserved by his marvelous power.
+
+**Alma 57:27** Now this was the faith of these of which I have spoken. They are young and their minds are firm; and they do put their trust in God continually.
+
+**Alma 57:28** And now it came to pass that after we had thus taken care of our wounded men and had buried our dead and also the dead of the Lamanites, which were many, behold, we did inquire of Gid concerning the prisoners which they had started to go down to the land of Zarahemla with.
+
+**Alma 57:29** Now Gid was the chief captain over the band which was appointed to guard them down to that land.
+
+**Alma 57:30** And now these are the words which Gid said unto me: Behold, we did start to go down to the land of Zarahemla with our prisoners. And it came to pass that we did meet the spies of our armies, which had been sent out to watch the camp of the Lamanites.
+
+**Alma 57:31** And they cried unto us, saying: Behold, the armies of the Lamanites are a marching towards the city of Cumeni. And behold, they will fall upon them, yea, and will destroy our people.
+
+**Alma 57:32** And it came to pass that our prisoners did hear their cries, which caused them to take courage, and they did raise up in rebellion against us.
+
+**Alma 57:33** And it came to pass because of their rebellion we did cause that our swords should come upon them. And it came to pass that they did in a body run upon our swords, in the which the greater number of them were slain. And the remainder of them brake through and fled from us.
+
+**Alma 57:34** And behold, when they had fled and we could not overtake them, we took our march with speed towards the city Cumeni. And behold, we did arrive in time that we might assist our brethren in preserving the city.
+
+**Alma 57:35** And behold, we are again delivered out of the hands of our enemies. And blessed is the name of our God; for behold, it is he that hath delivered us, yea, that hath done this great thing for us.
+
+**Alma 57:36** Now it came to pass that when I Helaman had heard these words of Gid, I was filled with exceeding joy because of the goodness of God in preserving us, that we might not all perish. Yea, and I trust that the souls of them which has been slain have entered into the rest of their God.
+

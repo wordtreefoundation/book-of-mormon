@@ -1,0 +1,58 @@
+**Alma 14:1** And it came to pass that after he had made an end of speaking unto the people, many of them did believe on his words and began to repent and to search the scriptures.
+
+**Alma 14:2** But the more part of them were desirous that they might destroy Alma and Amulek, for they were angry with Alma because of the plainness of his words unto Zeezrom. And they also said that Amulek had lied unto them and had reviled against their law and also against their lawyers and judges.
+
+**Alma 14:3** And they were also angry with Alma and Amulek. And because they had testified so plainly against their wickedness, they sought to put them away privily.
+
+**Alma 14:4** But it came to pass that they did not, but they took them and bound them with strong cords and took them before the chief judge of the land.
+
+**Alma 14:5** And the people went forth and witnessed against them, testifying that they had reviled against the law and their lawyers and the judges of the land and also all the people that were in the land, and also testified that there was but one God and that he should send his Son among the people, but he should not save them; and many such things did the people testify against Alma and Amulek. And it came to pass that it was done before the chief judge of the land.
+
+**Alma 14:6** And it also came to pass that Zeezrom was astonished at the words which had been spoken. And he also knew concerning the blindness of the minds which he had caused among the people by his lying words. And his soul began to be harrowed up under a consciousness of his own guilt; yea, he began to be encircled about by the pains of hell.
+
+**Alma 14:7** And it came to pass that he began to cry unto the people, saying: Behold, I am guilty, and these men are spotless before God. And it came to pass that he began to plead for them from that time forth, but they reviled him, saying: Art thou also possessed with the devil? And it came to pass that they spit upon him and cast him out from among them and also all those who believed in the words which had been spoken by Alma and Amulek. And they cast them out and sent men to cast stones at them.
+
+**Alma 14:8** And they brought their wives and children together; and whosoever believed or had been taught to believe in the word of God, they caused that they should be cast into the fire. And they also brought forth their records, which contained the holy scriptures, and cast them into the fire also, that they might be burned and destroyed by fire.
+
+**Alma 14:9** And it came to pass that they took Alma and Amulek and carried them forth to the place of martyrdom, that they might witness the destruction of those which were consumed by fire.
+
+**Alma 14:10** And it came to pass that when Amulek saw the pains of the women and children which were consuming in the fire, he was also pained, and he saith unto Alma: How can we witness this awful scene? Therefore let us stretch forth our hands and exercise the power of God which is in us and save them from the flames.
+
+**Alma 14:11** But Alma saith unto him: The Spirit constraineth me that I must not stretch forth mine hand. For behold, the Lord receiveth them up unto himself in glory. And he doth suffer that they may do this thing--or that the people may do this thing unto them--according to the hardness of their hearts, that the judgments which he shall exercise upon them in his wrath may be just. And the blood of the innocent shall stand as a witness against them, yea, and cry mightily against them at the last day.
+
+**Alma 14:12** Now Amulek saith unto Alma: Behold, perhaps they will burn us also.
+
+**Alma 14:13** And Alma saith: Be it according to the will of the Lord. But behold, our work is not finished; therefore they burn us not.
+
+**Alma 14:14** Now it came to pass that when the bodies of those which had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek as they were bound, and he smote them with his hand upon their cheeks and saith unto them: After what ye have seen, will ye preach again unto this people that they shall be cast into a lake of fire and brimstone?
+
+**Alma 14:15** Behold, ye see that ye had not power to save these which had been cast into the fire, neither hath God saved them because they were of thy faith. And the judge smote them again upon their cheeks and asked: What say ye for yourselves?
+
+**Alma 14:16** Now this judge was after the order and faith of Nehor, which slew Gideon.
+
+**Alma 14:17** And it came to pass that Alma and Amulek answered him nothing. And he smote them again and delivered them to the officers to be cast into prison.
+
+**Alma 14:18** And it came to pass that when they had been cast into prison three days, there came many lawyers and judges and priests and teachers which were of the profession of Nehor, and they came in unto the prison to see them. And they questioned them about many words, but they answered them nothing.
+
+**Alma 14:19** And it came to pass that the judge stood before them and saith: Why do ye not answer the words of this people? Know ye not that I have power to deliver ye up unto the flames? And he commanded them to speak, but they answered nothing.
+
+**Alma 14:20** And it came to pass that they departed and went their ways, but came again on the morrow. And the judge also smote them again on their cheeks; and many came forth also and smote them, saying: Will ye stand again and judge this people and condemn our law? If ye have such great power, why do ye not deliver yourselves?
+
+**Alma 14:21** And many such things did they say unto them, gnashing their teeth upon them and spitting upon them and saying: How shall we look when we are damned?
+
+**Alma 14:22** And many such things, yea, all manner of such things, did they say unto them. And thus they did mock them for many days. And they did withhold food from them that they might hunger, and water that they might thirst. And they also did take from them their clothes that they were naked, and thus they were bound with strong cords and confined in prison.
+
+**Alma 14:23** And it came to pass after they had thus suffered for many days--and it was on the twelfth day in the tenth month in the tenth year of the reign of the judges over the people of Nephi--that the chief judge over the land of Ammonihah and many of their teachers and their lawyers went in unto the prison where Alma and Amulek was bound with cords.
+
+**Alma 14:24** And the chief judge stood before them and smote them again and saith unto them: If ye have the power of God, deliver yourselves from these bands, and then we will believe that the Lord will destroy this people according to your words.
+
+**Alma 14:25** And it came to pass that they all went forth and smote them, saying the same words, even until the last. And when the last had spoken unto them, the power of God was upon Alma and Amulek, and they arose and stood upon their feet.
+
+**Alma 14:26** And Alma cried, saying: How long shall we suffer these great afflictions, O Lord? O Lord, give us strength according to our faith which is in Christ, even unto deliverance. And they brake the cords with which they were bound. And when the people saw this, they began to flee, for the fear of destruction had come upon them.
+
+**Alma 14:27** And it came to pass that so great was their fear that they fell to the earth and did not obtain the outer door of the prison. And the earth shook mightily and the walls of the prison were rent in twain, so that they fell to the earth; and the chief judge and the lawyers and priests and teachers which smote upon Alma and Amulek were slain by the fall thereof.
+
+**Alma 14:28** And Alma and Amulek came forth out of the prison and they were not hurt, for the Lord had granted unto them power according to their faith which was in Christ. And they straightway came forth out of the prison, and they were loosed from their bands; and the prison had fallen to the earth, and every soul which was within the walls thereof, save it were Alma and Amulek, were slain; and they straightway came forth into the city.
+
+**Alma 14:29** Now the people, having heard a great noise, came running together by multitudes to know the cause of it. And when they saw Alma and Amulek coming forth out of the prison and the walls thereof had fallen to the earth, they were struck with great fear and fled from the presence of Alma and Amulek, even as a goat fleeth with her young from two lions; and thus they did flee from the presence of Alma and Amulek.
+

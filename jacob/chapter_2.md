@@ -1,0 +1,70 @@
+**Jacob 2:1** The words which Jacob the brother of Nephi spake unto the people of Nephi after the death of Nephi:
+
+**Jacob 2:2** Now my beloved brethren, I Jacob, according to the responsibility which I am under to God to magnify mine office with soberness and that I might rid my garments of your sins, I come up into the temple this day that I might declare unto you the word of God.
+
+**Jacob 2:3** And ye yourselves know that I have hitherto been diligent in the office of my calling, but I this day am weighed down with much more desire and anxiety for the welfare of your souls than I have hitherto been.
+
+**Jacob 2:4** For behold, as yet ye have been obedient unto the word of the Lord which I have given unto you.
+
+**Jacob 2:5** But behold, hearken ye unto me and know that by the help of the all-powerful Creator of heaven and earth I can tell you concerning your thoughts, how that ye are beginning to labor in sin, which sin appeareth very abominable unto me, yea, and abominable unto God.
+
+**Jacob 2:6** Yea, and it grieveth my soul and causeth me to shrink with shame before the presence of my Maker that I must testify unto you concerning the wickedness of your hearts.
+
+**Jacob 2:7** And also it grieveth me that I must use so much boldness of speech concerning you before your wives and your children, many of whose feelings are exceeding tender and chaste and delicate before God, which thing is pleasing unto God.
+
+**Jacob 2:8** And it supposeth me that they have come up hither to hear the pleasing word of God, yea, the word which healeth the wounded soul.
+
+**Jacob 2:9** Wherefore it burdeneth my soul that I should be constrained because of the strict commandment which I have received from God to admonish you according to your crimes, to enlarge the wounds of those which are already wounded, instead of consoling and healing their wounds. And those which have not been wounded, instead of feasting upon the pleasing word of God, have daggers placed to pierce their souls and wound their delicate minds.
+
+**Jacob 2:10** But notwithstanding the greatness of the task, I must do according to the strict commands of God and tell you concerning your wickedness and abominations in the presence of the pure in heart and the broken heart and under the glance of the piercing eye of the Almighty God.
+
+**Jacob 2:11** Wherefore I must tell you the truth according to the plainness of the word of God. For behold, as I inquired of the Lord, thus came the word unto me, saying: unto this people.
+
+**Jacob 2:12** And now behold, my brethren, this is the word which I declare unto you, that many of you have begun to search for gold and for silver and for all manner of precious ores in the which this land, which is a land of promise unto you and to your seed, doth abound most plentifully.
+
+**Jacob 2:13** And the hand of Providence hath smiled upon you most pleasingly, that ye have obtained many riches. And because that some of you have obtained more abundantly than that of your brethren, ye are lifted up in the pride of your hearts and wear stiff necks and high heads because of the costliness of your apparel and persecute your brethren because that ye suppose that ye are better than they.
+
+**Jacob 2:14** And now my brethren, do ye suppose that God justifieth you in this thing? Behold, I say unto you: Nay. But he condemneth you; and if ye persist in these things, his judgments must speedily come unto you.
+
+**Jacob 2:15** O that he would show you that he can pierce you and with one glance of his eye he can smite you to the dust!
+
+**Jacob 2:16** O that he would rid you from this iniquity and abomination! And O that ye would listen unto the word of his commands and let not this pride of your hearts destroy your souls!
+
+**Jacob 2:17** Think of your brethren like to yourselves, and be familiar with all and free with your substance, that they may be rich like unto you.
+
+**Jacob 2:18** But before that ye seek for riches, seek ye for the kingdom of God.
+
+**Jacob 2:19** And after that ye have obtained a hope in Christ, ye shall obtain riches if ye seek them; and ye will seek them for the intent to do good, to clothe the naked and to feed the hungry and to liberate the captive and administer relief to the sick and the afflicted.
+
+**Jacob 2:20** And now my brethren, I have spoken unto you concerning pride. And those of you which have afflicted your neighbor and persecuted him because that ye were proud in your hearts of the things which God hath given you, what say ye of it?
+
+**Jacob 2:21** Do ye not suppose that such things are abominable unto him who created all flesh? And the one being is as precious in his sight as the other. And all flesh is of the dust; and for the selfsame end hath he created them, that they should keep his commandments and glorify him forever.
+
+**Jacob 2:22** And now I make an end of speaking unto you concerning this pride. And were it not that I must speak unto you concerning a grosser crime, my heart would rejoice exceedingly because of you.
+
+**Jacob 2:23** But the word of God burthens me because of your grosser crimes. For behold, thus saith the Lord: This people beginneth to wax in iniquity; they understand not the scriptures, for they seek to excuse themselves in committing whoredoms because of the things which are written concerning David and Solomon his son.
+
+**Jacob 2:24** Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.
+
+**Jacob 2:25** Wherefore thus saith the Lord: I have led this people forth out of the land of Jerusalem by the power of mine arm, that I might raise up unto me a righteous branch from the fruit of the loins of Joseph.
+
+**Jacob 2:26** Wherefore I the Lord God will not suffer that this people shall do like unto them of old.
+
+**Jacob 2:27** Wherefore, my brethren, hear me and hearken to the word of the Lord, for there shall not any man among you have save it be one wife, and concubines he shall have none.
+
+**Jacob 2:28** For I the Lord God delighteth in the chastity of women; and whoredoms is abomination before me, thus saith the Lord of Hosts.
+
+**Jacob 2:29** Wherefore this people shall keep my commandments, saith the Lord of Hosts, or cursed be the land for their sakes.
+
+**Jacob 2:30** For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise, they shall hearken unto these things.
+
+**Jacob 2:31** For behold, I the Lord have seen the sorrow and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.
+
+**Jacob 2:32** And I will not suffer, saith the Lord of Hosts, that the cries of the fair daughters of this people, which I have led out of the land of Jerusalem, shall come up unto me against the men of my people, saith the Lord of Hosts,
+
+**Jacob 2:33** for they shall not lead away captive the daughters of my people because of their tenderness, save I shall visit them with a sore curse, even unto destruction, for they shall not commit whoredoms like unto they of old, saith the Lord of Hosts.
+
+**Jacob 2:34** And now behold, my brethren, ye know that these commandments was given to our father Lehi; wherefore ye have known them before. And ye have come unto great condemnation, for ye have done these things which ye ought not to have done.
+
+**Jacob 2:35** Behold, ye have done greater iniquity than the Lamanites our brethren. Ye have broken the hearts of your tender wives and lost the confidence of your children because of your bad examples before them. And the sobbings of their hearts ascendeth up to God against you. And because of the strictness of the word of God which cometh down against you, many hearts died, pierced with deep wounds.
+

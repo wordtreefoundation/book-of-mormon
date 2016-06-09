@@ -1,0 +1,94 @@
+**Alma 37:1** And now my son Helaman, I command you that ye take the records which have been entrusted with me.
+
+**Alma 37:2** And I also command you that ye shall keep a record of this people, according as I have done, upon the plates of Nephi and keep all these things sacred which I have kept, even as I have kept them--for it is for a wise purpose that they are kept--
+
+**Alma 37:3** and these plates of brass, which contain these engravings, which have the records of the holy scriptures upon them, which have the genealogy of our forefathers, even from the beginning.
+
+**Alma 37:4** And behold, it hath been prophesied by our fathers that they should be kept and handed down from one generation to another, and be kept and preserved by the hand of the Lord until they should go forth unto every nation, kindred, tongue, and people, that they shall know of the mysteries contained thereon.
+
+**Alma 37:5** And now behold, if they are kept, they must retain their brightness. Yea, and they will retain their brightness--yea, and also shall all the plates which do contain that which is holy writ.
+
+**Alma 37:6** Now ye may suppose that this is foolishness in me. But behold, I say unto you that by small and simple things are great things brought to pass. And small means in many instances doth confound the wise.
+
+**Alma 37:7** And the Lord God doth work by means to bring about his great and eternal purposes. And by very small means the Lord doth confound the wise and bringeth about the salvation of many souls.
+
+**Alma 37:8** And now it hath hitherto been wisdom in God that these things should be preserved. For behold, they have enlarged the memory of this people, yea, and convinced many of the error of their ways and brought them to the knowledge of their God, unto the salvation of their souls.
+
+**Alma 37:9** Yea, I say unto you: Were it not for these things that these records do contain, which are on these plates, Ammon and his brethren could not have convinced so many thousands of the Lamanites of the incorrect tradition of their fathers. Yea, these records and their words brought them unto repentance; that is, they brought them to the knowledge of the Lord their God and to rejoice in Jesus Christ their Redeemer.
+
+**Alma 37:10** And who knoweth but what they will be the means of bringing many thousands of them--yea, and also many thousands of our stiffnecked brethren, the Nephites, which are now hardening their hearts in sins and iniquities--to the knowledge of their Redeemer.
+
+**Alma 37:11** Now these mysteries are not yet fully made known unto me; therefore I shall forbear.
+
+**Alma 37:12** And it may suffice if I only say they are preserved for a wise purpose, which purpose is known unto God. For he doth counsel in wisdom over all his works, and his paths are straight, and his course is one eternal round.
+
+**Alma 37:13** O remember, remember, my son Helaman, how strict is the commandments of God! And he saith: If ye will keep my commandments, ye shall prosper in the land. But if ye keep not his commandments, ye shall be cut off from his presence.
+
+**Alma 37:14** And now remember, my son, that God hath entrusted you with these things which are sacred, which he hath kept sacred, and also which he will keep and preserve for a wise purpose in him, that he may shew forth his power unto future generations.
+
+**Alma 37:15** And now behold, I tell you by the spirit of prophecy that if ye transgress the commandments of God, behold, these things which are sacred shall be taken away from you by the power of God; and ye shall be delivered up unto Satan, that he may sift you as chaff before the wind.
+
+**Alma 37:16** But if ye keep the commandments of God and do with these things which are sacred according to that which the Lord doth command you--for you must appeal unto the Lord for all things whatsoever ye must do with them--behold, no power of earth or hell can take them from you, for God is powerful to the fulfilling of all his words.
+
+**Alma 37:17** For he will fulfill all his promises which he shall make unto you, for he hath fulfilled his promise which he hath made unto our fathers.
+
+**Alma 37:18** For he promised unto them that he would preserve these things for a wise purpose in him, that he might shew forth his power unto future generations.
+
+**Alma 37:19** And now behold, one purpose hath he fulfilled, even to the restoration of many thousands of the Lamanites to the knowledge of the truth. And he hath shewn forth his power in them. And he will also still shew forth his power in them unto future generations. Therefore they shall be preserved.
+
+**Alma 37:20** Therefore I command you, my son Helaman, that ye be diligent in fulfilling all my words and that ye be diligent in keeping the commandments of God as they are written.
+
+**Alma 37:21** And now I will speak unto you concerning those twenty four plates, that ye keep them, that the mysteries and the works of darkness and their secret works--or the secret works of those people which have been destroyed--may be made manifest unto this people--yea, all their murders and robbings and their plunderings and all their wickedness and abominations may be made manifest unto this people--yea, and that ye preserve these directors.
+
+**Alma 37:22** For behold, the Lord saw that his people began to work in darkness--yea, work secret murders and abominations--therefore the Lord said if they did not repent, they should be destroyed from off the face of the earth.
+
+**Alma 37:23** And the Lord said: I will prepare unto my servant Gazelem a stone which shall shine forth in darkness unto light, that I may discover unto my people which serve me--that I may discover unto them the works of their brethren, yea, their secret works, their works of darkness, and their wickedness and abominations.
+
+**Alma 37:24** And now my son, these directors were prepared that the word of God might be fulfilled which he spake, saying:
+
+**Alma 37:25** I will bring forth out of darkness unto light all their secret works and their abominations. And except they repent, I will destroy them from off the face of the earth. And I will bring to light all their secrets and abominations unto every nation which shall hereafter possess the land.
+
+**Alma 37:26** And now my son, we see that they did not repent; therefore they have been destroyed. And thus far the word of God hath been fulfilled; yea, their secret abominations have been brought out of darkness and made known unto us.
+
+**Alma 37:27** And now my son, I command you that ye retain all their oaths and their covenants and their agreements in their secret abominations; yea, and all their signs and their wonders ye shall retain from this people, that they know them not, lest peradventure they should fall into darkness also and be destroyed.
+
+**Alma 37:28** For behold, there is a curse upon all this land, that destruction shall come upon all those workers of darkness, according to the power of God, when they are fully ripe. Therefore I desire that this people might not be destroyed.
+
+**Alma 37:29** Therefore ye shall keep these secret plans of their oaths and their covenants from this people. And only their wickedness and their murders and their abominations shall ye make known unto them. And ye shall teach them to abhor such wickedness and abominations and murders. And ye shall also teach them that those people were destroyed on account of their wickedness and abominations and their murders.
+
+**Alma 37:30** For behold, they murdered all the prophets of the Lord which came among them to declare unto them concerning their iniquities. And the blood of those which they murdered did cry unto the Lord their God for vengeance upon those which were their murderers. And thus the judgments of God did come upon them workers of darkness and secret combinations.
+
+**Alma 37:31** Yea, and cursed be the land forever and ever unto those workers of darkness and secret combinations, even unto destruction, except they repent before they are fully ripe.
+
+**Alma 37:32** And now my son, remember the words which I have spoken unto you. Trust not those secret plans unto this people, but teach them an everlasting hatred against sin and iniquity.
+
+**Alma 37:33** Preach unto them repentance and faith on the Lord Jesus Christ. Teach them to humble themselves and to be meek and lowly in heart. Teach them to withstand every temptation of the devil, with their faith on the Lord Jesus Christ.
+
+**Alma 37:34** Teach them to never be weary of good works, but to be meek and lowly in heart, for such shall find rest to their souls.
+
+**Alma 37:35** O remember, my son, and learn wisdom in thy youth; yea, learn in thy youth to keep the commandments of God.
+
+**Alma 37:36** Yea, and cry unto God for all thy support. Yea, let all thy doings be unto the Lord. And whithersoever thou goest, let it be in the Lord. Yea, let all thy thoughts be directed unto the Lord. Yea, let the affections of thy heart be placed upon the Lord forever.
+
+**Alma 37:37** Counsel the Lord in all thy doings, and he will direct thee for good. Yea, when thou liest down at night, lie down unto the Lord, that he may watch over you in your sleep. And when thou risest in the morning, let thy heart be full of thanks unto God. And if ye always do these things, ye shall be lifted up at the last day.
+
+**Alma 37:38** And now my son, I have somewhat to say concerning the thing which our fathers call a ball or director--or our fathers called it Liahona, which is being interpreted a compass--and the Lord prepared it.
+
+**Alma 37:39** And behold, there cannot any man work after the manner of so curious a workmanship. And behold, it was prepared to shew unto our fathers the course which they should travel in the wilderness.
+
+**Alma 37:40** And it did work for them according to their faith in God. Therefore if they had faith to believe that God could cause that those spindles should point the way they should go, behold, it was done. Therefore they had this miracle--and also many other miracles--wrought by the power of God day by day.
+
+**Alma 37:41** Nevertheless, because those miracles were worked by small means--nevertheless it did shew unto them marvelous works--they were slothful and forgat to exercise their faith and diligence. And then those marvelous works ceased, and they did not progress in their journey.
+
+**Alma 37:42** Therefore they tarried in the wilderness, or did not travel a direct course, and were afflicted with hunger and thirst because of their transgression.
+
+**Alma 37:43** And now my son, I would that ye should understand that these things are not without a shadow. For as our fathers were slothful to give heed to this compass--now these things were temporal--they did not prosper; even so it is with things which are spiritual.
+
+**Alma 37:44** For behold, it is as easy to give heed to the word of Christ, which will point to you a straight course to eternal bliss, as it was for our fathers to give heed to this compass, which would point unto them a straight course to the promised land.
+
+**Alma 37:45** And now I say: Is there not a type in this thing? For just assuredly as this director did bring our fathers by following its course to the promised land, shall the word of Christ, if we follow its course, carry us beyond this vale of sorrow into a far better land of promise.
+
+**Alma 37:46** O my son, do not let us be slothful because of the easiness of the way, for so was it with our fathers. For so was it prepared for them that if they would look, they might live. Even so it is with us: the way is prepared; and if we will look, we may live forever.
+
+**Alma 37:47** And now my son, see that ye take care of these sacred things. Yea, see that ye look to God and live. Go unto this people and declare the word, and be sober. My son, farewell. The commandments of Alma to his son Shiblon.
+

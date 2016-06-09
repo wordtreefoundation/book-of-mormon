@@ -1,0 +1,66 @@
+**3 Nephi 27:1** And it came to pass that as the disciples of Jesus were journeying and were preaching the things which they had both heard and seen and were baptizing in the name of Jesus, it came to pass that the disciples were gathered together and were united in mighty prayer and fasting.
+
+**3 Nephi 27:2** And Jesus again shewed himself unto them, for they were praying unto the Father in his name. And Jesus came and stood in the midst of them and saith unto them: What will ye that I shall give unto you?
+
+**3 Nephi 27:3** And they saith unto him: Lord, we will that thou wouldst tell us the name whereby we shall call this church, for there are disputations among the people concerning this matter.
+
+**3 Nephi 27:4** And the Lord said unto them: Verily verily I say unto you: Why is it that the people should murmur and dispute because of this thing?
+
+**3 Nephi 27:5** Have they not read the scriptures which saith: Ye must take upon you the name of Christ, which is my name. For by this name shall ye be called at the last day.
+
+**3 Nephi 27:6** And whoso taketh upon him my name and endureth to the end, the same shall be saved at the last day.
+
+**3 Nephi 27:7** Therefore whatsoever ye shall do, ye shall do it in my name. Therefore ye shall call the church in my name. And ye shall call upon the Father in my name, that he will bless the church for my sake.
+
+**3 Nephi 27:8** And how be it my church save it be called in my name? For if a church be called in Moses' name, then it be Moses' church. Or if it be called in the name of a man, then it be the church of a man. But if it be called in my name, then it is my church, if it so be that they are built upon my gospel.
+
+**3 Nephi 27:9** Verily I say unto you that ye are built upon my gospel; therefore ye shall call whatsoever things ye do call, in my name. Therefore if ye call upon the Father for the church, if it be in my name, the Father will hear you.
+
+**3 Nephi 27:10** And if it so be that the church is built upon my gospel, then will the Father shew forth his own works in it.
+
+**3 Nephi 27:11** But if it be not built upon my gospel and is built upon the works of men or upon the works of the devil, verily I say unto you: They have joy in their works for a season; and by and by the end cometh, and they are hewn down and cast into the fire from whence there is no return.
+
+**3 Nephi 27:12** For their works do follow them, for it is because of their works that they are hewn down. Therefore remember the things that I have told you.
+
+**3 Nephi 27:13** Behold, I have given unto you my gospel. And this is the gospel which I have given unto you, that I came into the world to do the will of my Father, because my Father sent me.
+
+**3 Nephi 27:14** And my Father sent me that I might be lifted up upon the cross--and after that I had been lifted up upon the cross, I might draw all men unto me--that as I have been lifted up by men, even so should men be lifted up by the Father to stand before me to be judged of their works, whether they be good or whether they be evil.
+
+**3 Nephi 27:15** And for this cause have I been lifted up. Therefore, according to the power of the Father, I will draw all men unto me that they may be judged according to their works.
+
+**3 Nephi 27:16** And it shall come to pass that whoso repenteth and is baptized in my name shall be filled. And if he endureth to the end, behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world.
+
+**3 Nephi 27:17** And he that endureth not unto the end, the same is he that is also hewn down and cast into the fire from whence they can no more return because of the justice of the Father.
+
+**3 Nephi 27:18** And this is the word which he hath given unto the children of men. And for this cause he fulfilleth the words which he hath given; and he lieth not but fulfilleth all his words.
+
+**3 Nephi 27:19** And no unclean thing can enter into his kingdom. Therefore nothing entereth into his rest save it be those who have washed their garments in my blood because of their faith and the repentance of all their sins and their faithfulness unto the end.
+
+**3 Nephi 27:20** Now this is the commandment: repent, all ye ends of the earth, and come unto me and be baptized in my name, that ye may be sanctified by the reception of the Holy Ghost, that ye may stand spotless before me at the last day.
+
+**3 Nephi 27:21** Verily verily I say unto you: This is my gospel. And ye know the things that ye must do in my church. For the works which ye have seen me do, that shall ye also do; for that which ye have seen me do, even that shall ye do.
+
+**3 Nephi 27:22** Therefore if ye do these things, blessed are ye, for ye shall be lifted up at the last day.
+
+**3 Nephi 27:23** Write the things which ye have seen and heard, save it be those which are forbidden.
+
+**3 Nephi 27:24** Write the works of this people which shall be, even as hath been written of that which hath been.
+
+**3 Nephi 27:25** For behold, out of the books which have been written and which shall be written shall this people be judged, for by them shall their works be known unto men.
+
+**3 Nephi 27:26** And behold, all things are written by the Father. Therefore out of the books which shall be written shall the world be judged.
+
+**3 Nephi 27:27** And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore what manner of men had ye ought to be? Verily I say unto you: Even as I am.
+
+**3 Nephi 27:28** And now I go unto the Father. And verily I say unto you: Whatsoever things ye shall ask the Father in my name, it shall be given unto you.
+
+**3 Nephi 27:29** Therefore ask and ye shall receive; knock and it shall be opened unto you. For he that asketh receiveth; and unto him that knocketh it shall be opened.
+
+**3 Nephi 27:30** And now behold, my joy is great, even unto fullness, because of you and also this generation. Yea, and even the Father rejoiceth, and also all the holy angels, because of you and this generation, for none of them are lost.
+
+**3 Nephi 27:31** Behold, I would that ye should understand, for I mean them which are now alive of this generation. And none of them are lost, and in them I have fullness of joy.
+
+**3 Nephi 27:32** But behold, it sorroweth me because of the fourth generation from this generation, for they are led away captive by him, even as was the son of perdition. For they will sell me for silver and for gold and for that which moth doth corrupt and which thieves can break through and steal. And in that day will I visit them, even in turning their works upon their own heads.
+
+**3 Nephi 27:33** And it came to pass that when Jesus had ended these sayings, he saith unto his disciples: Enter ye in at the strait gate. For strait is the gate and narrow is the way that leads to life, and few there be that find it. But wide is the gate and broad the way which leads to death, and many there be that traveleth therein until the night cometh wherein no man can work.
+

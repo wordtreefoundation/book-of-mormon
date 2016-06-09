@@ -1,0 +1,34 @@
+**Alma 29:1** O that I were an angel and could have the wish of mine heart, that I might go forth and speak with the trump of God, with a voice to shake the earth and cry repentance unto every people!
+
+**Alma 29:2** Yea, I would declare unto every soul as with the voice of thunder repentance and the plan of redemption, that they should repent and come unto our God, that there might be no more sorrow upon all the face of the earth.
+
+**Alma 29:3** But behold, I am a man and do sin in my wish, for I had ought to be content with the things which the Lord hath allotted unto me.
+
+**Alma 29:4** I had not ought to harrow up in my desires the firm decree of a just God, for I know that he granteth unto men according to their desires, whether it be unto death or unto life. Yea, I know that he allotteth unto man, yea, decreeth unto them decrees which are unalterable according to their wills, whether it be unto salvation or unto destruction.
+
+**Alma 29:5** Yea, and I know that good and evil hath come before all men--or he that knoweth not good from evil is blameless--but he that knoweth good and evil, to him it is given according to his desires, whether he desireth good or evil, life or death, joy or remorse of conscience.
+
+**Alma 29:6** Now seeing that I know these things, why should I desire more than to perform the work to which I have been called?
+
+**Alma 29:7** Why should I desire that I was an angel that I could speak unto all the ends of the earth?
+
+**Alma 29:8** For behold, the Lord doth grant unto all nations of their own nation and tongue to teach his word, yea, in wisdom all that he seeth fit that they should have. Therefore we see that the Lord doth counsel in his wisdom according to that which is just and true.
+
+**Alma 29:9** I know that which the Lord hath commanded me, and I glory in it. I do not glory of myself, but I glory in that which the Lord hath commanded me. Yea, and this is my glory, that perhaps I may be an instrument in the hands of God to bring some soul to repentance; and this is my joy.
+
+**Alma 29:10** And behold, when I see many of my brethren truly penitent and coming to the Lord their God, then is my soul filled with joy; then do I remember what the Lord has done for me, yea, even that he hath heard my prayer. Yea, then do I remember his merciful arm which he extended towards me.
+
+**Alma 29:11** Yea, and I also remember the captivity of my fathers, for I surely do know that the Lord did deliver them out of bondage and by them did establish his church. Yea, the Lord God, the God of Abraham and the God of Isaac and the God of Jacob, did deliver them out of bondage.
+
+**Alma 29:12** Yea, I have always remembered the captivity of my fathers. And that same God who delivered them out of the hands of the Egyptians did deliver them out of bondage.
+
+**Alma 29:13** Yea, and that same God did establish his church among them. Yea, and that same God hath called me by a holy calling to preach the word unto this people and hath given me much success, in the which my joy is full.
+
+**Alma 29:14** But I do not joy in my own success alone, but my joy is more full because of the success of my brethren which have been up to the land of Nephi.
+
+**Alma 29:15** Behold, they have labored exceedingly and have brought forth much fruit. And how great shall be their reward!
+
+**Alma 29:16** Now when I think of the success of these my brethren, my soul is carried away, even to the separation of it from the body, as it were, so great is my joy.
+
+**Alma 29:17** And now may God grant unto these my brethren that they may sit down in the kingdom of God, yea, and also all those which are the fruit of their labor, that they may go no more out but that they may praise him forever. And may God grant that it may be done according to my words, even as I have spoken. Amen.
+

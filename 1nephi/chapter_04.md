@@ -1,0 +1,76 @@
+**1 Nephi 4:1** And it came to pass that I spake unto my brethren, saying: Let us go up again unto Jerusalem, and let us be faithful in keeping the commandments of the Lord. For behold, he is mightier than all the earth. Then why not mightier than Laban and his fifty? Yea, or even than his tens of thousands?
+
+**1 Nephi 4:2** Therefore let us go up. Let us be strong like unto Moses, for he truly spake unto the waters of the Red Sea and they divided hither and thither, and our fathers came through out of captivity on dry ground, and the armies of Pharaoh did follow and were drownded in the waters of the Red Sea.
+
+**1 Nephi 4:3** Now behold, ye know that this is true. And ye also know that an angel hath spoken unto you. Wherefore can ye doubt? Let us go up. The Lord is able to deliver us, even as our fathers, and to destroy Laban, even as the Egyptians.
+
+**1 Nephi 4:4** Now when I had spoken these words, they was yet wroth and did still continue to murmur. Nevertheless they did follow me up until we came without the walls of Jerusalem.
+
+**1 Nephi 4:5** And it was by night, and I caused that they should hide themselves without the wall. And after that they had hid themselves, I Nephi crept into the city and went forth towards the house of Laban.
+
+**1 Nephi 4:6** And I was led by the Spirit, not knowing beforehand the things which I should do.
+
+**1 Nephi 4:7** Nevertheless I went forth. And as I came near unto the house of Laban, I beheld a man, and he had fallen to the earth before me, for he was drunken with wine.
+
+**1 Nephi 4:8** And when I came to him, I found that it was Laban.
+
+**1 Nephi 4:9** And I beheld his sword, and I drew it forth from the sheath thereof. And the hilt thereof was of pure gold, and the workmanship thereof was exceeding fine. And I saw that the blade thereof was of the most precious steel.
+
+**1 Nephi 4:10** And it came to pass that I was constrained by the Spirit that I should kill Laban. But I said in my heart: Never at any time have I shed the blood of man. And I shrunk and would that I might not slay him.
+
+**1 Nephi 4:11** And the Spirit saith unto me again: Behold, the Lord hath delivered him into thy hands. Yea, and I also knew that he had sought to take away mine own life. Yea, and he would not hearken unto the commandments of the Lord. And he also had taken away our property.
+
+**1 Nephi 4:12** And it came to pass that the Spirit said unto me again: Slay him, for the Lord hath delivered him into thy hands.
+
+**1 Nephi 4:13** Behold, the Lord slayeth the wicked to bring forth his righteous purposes. It is better that one man should perish than that a nation should dwindle and perish in unbelief.
+
+**1 Nephi 4:14** And now when I Nephi had heard these words, I remembered the words of the Lord which he spake unto me in the wilderness, saying that inasmuch as thy seed shall keep my commandments, they shall prosper in the land of promise.
+
+**1 Nephi 4:15** Yea, and I also thought that they could not keep the commandments of the Lord according to the law of Moses save they should have the law.
+
+**1 Nephi 4:16** And I also knew that the law was engraven upon the plates of brass.
+
+**1 Nephi 4:17** And again I knew that the Lord had delivered Laban into my hands for this cause that I might obtain the records according to his commandments.
+
+**1 Nephi 4:18** Therefore I did obey the voice of the Spirit and took Laban by the hair of the head, and I smote off his head with his own sword.
+
+**1 Nephi 4:19** And after that I had smote off his head with his own sword, I took the garments of Laban and put them upon mine own body, yea, even every whit. And I did gird on his armor about my loins.
+
+**1 Nephi 4:20** And after that I had done this, I went forth unto the treasury of Laban. And as I went forth towards the treasury of Laban, behold, I saw the servant of Laban which had the keys of the treasury, and I commanded him in the voice of Laban that he should go with me into the treasury.
+
+**1 Nephi 4:21** And he supposing me to be his master Laban--for he beheld the garments and also the sword girded about my loins--
+
+**1 Nephi 4:22** and he spake unto me concerning the elders of the Jews, he knowing that his master Laban had been out by night among them.
+
+**1 Nephi 4:23** And I spake unto him as if it had been Laban.
+
+**1 Nephi 4:24** And I also spake unto him that I should carry the engravings which were upon the plates of brass to my elder brethren, which were without the wall.
+
+**1 Nephi 4:25** And I also bade him that he should follow me.
+
+**1 Nephi 4:26** And he supposing that I spake of the brethren of the church and that I was truly that Laban whom I had slew, wherefore he did follow me.
+
+**1 Nephi 4:27** And he spake unto me many times concerning the elders of the Jews as I went forth unto my brethren, which were without the wall.
+
+**1 Nephi 4:28** And it came to pass that when Laman saw me, he was exceedingly frightened, and also Lemuel and Sam. And they fled from before my presence, for they supposed it was Laban and that he had slain me and had sought to take away their lives also.
+
+**1 Nephi 4:29** And it came to pass that I called after them and they did hear me; wherefore they did cease to flee from my presence.
+
+**1 Nephi 4:30** And it came to pass that when the servant of Laban beheld my brethren, he began to tremble and was about to flee from before me and return to the city of Jerusalem.
+
+**1 Nephi 4:31** And now I Nephi being a man large in stature, and also having received much strength of the Lord, therefore I did seize upon the servant of Laban and held him that he should not flee.
+
+**1 Nephi 4:32** And it came to pass that I spake with him that if he would hearken unto my words--as the Lord liveth and as I live--even so that if he would hearken unto our words, we would spare his life.
+
+**1 Nephi 4:33** And I spake unto him, even with an oath, that he need not fear, that he should be a free man like unto us if he would go down into the wilderness with us.
+
+**1 Nephi 4:34** And I also spake unto him, saying: Surely the Lord hath commanded us to do this thing. And shall we not be diligent in keeping the commandment of the Lord? Therefore if thou wilt go down into the wilderness to my father, thou shalt have place with us.
+
+**1 Nephi 4:35** And it came to pass that Zoram did take courage at the words which I spake--now Zoram was the name of the servant--and he promised that he would go down into the wilderness unto our father; yea, and he also made an oath unto us that he would tarry with us from that time forth.
+
+**1 Nephi 4:36** Now we were desirous that he should tarry with us for this cause that the Jews might not know concerning our flight into the wilderness, lest they should pursue us and destroy us.
+
+**1 Nephi 4:37** And it came to pass that when Zoram had made an oath unto us, our fears did cease concerning him.
+
+**1 Nephi 4:38** And it came to pass that we took the plates of brass and the servant of Laban and departed into the wilderness and journeyed unto the tent of our father.
+

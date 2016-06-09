@@ -1,0 +1,60 @@
+**Alma 49:1** And now it came to pass in the eleventh month of the nineteenth year, on the tenth day of the month, the armies of the Lamanites were seen approaching towards the land of Ammonihah.
+
+**Alma 49:2** And behold, the city had been rebuilt, and Moroni had stationed an army by the borders of the city. And they had cast up dirt round about to shield them from the arrows and the stones of the Lamanites. For behold, they fought with stones and with arrows.
+
+**Alma 49:3** Behold, I said that the city of Ammonihah had been rebuilt. I say unto you, yea, that it was in part rebuilt. And because the Lamanites had destroyed it once, because of the iniquity of the people, they supposed that it would again become an easy prey for them.
+
+**Alma 49:4** But behold, how great was their disappointment! For behold, the Nephites had dug up a ridge of earth round about them which was so high that the Lamanites could not cast their stones and their arrows at them that they might take effect, neither could they come upon them save it was by their place of entrance.
+
+**Alma 49:5** Now at this time the chief captains of the Lamanites were astonished exceedingly because of the wisdom of the Nephites in repairing their places of security.
+
+**Alma 49:6** Now the leaders of the Lamanites had supposed because of the greatness of their numbers--yea, they supposed that they should be privileged to come upon them as they had hitherto done; yea, and they had also prepared themselves with shields and with breastplates; and they had also prepared themselves with garments of skins, yea, very thick garments to cover their nakedness--
+
+**Alma 49:7** and being thus prepared, they supposed that they should easily overpower and subject their brethren to the yoke of bondage, or slay and massacre them according to their pleasure.
+
+**Alma 49:8** But behold, to their uttermost astonishment, they were prepared for them in a manner which never had been known among all the children of Lehi; now they were prepared for the Lamanites, to battle after the manner of the instructions of Moroni.
+
+**Alma 49:9** And it came to pass that the Lamanites, or the Amalickiahites, were exceedingly astonished at their manner of preparation for war.
+
+**Alma 49:10** Now if king Amalickiah had came down out of the land of Nephi at the head of his army, perhaps he would have caused the Lamanites to have attackted the Nephites at the city of Ammonihah; for behold, he did care not for the blood of his people.
+
+**Alma 49:11** But behold, Amalickiah did not come down himself to battle. And behold, his chief captains durst not attackt the Nephites at the city of Ammonihah, for Moroni had altered the management of affairs among the Nephites, insomuch that the Lamanites were disappointed in their places of retreat and they could not come upon them.
+
+**Alma 49:12** Therefore they retreated into the wilderness and took their camp and marched towards the land of Noah, supposing that to be the next best place for them to come against the Nephites.
+
+**Alma 49:13** For they knew not that Moroni had fortified--or had built forts of security for every city in all the land round about. Therefore they marched forward to the land of Noah with a firm determination. Yea, their chief captains came forward and took an oath that they would destroy the people of that city.
+
+**Alma 49:14** But behold, to their astonishment, the city of Noah, which had hitherto been a weak place, had now by the means of Moroni became strong, yea, even to exceed the strength of the city Ammonihah.
+
+**Alma 49:15** And now behold, this was wisdom in Moroni. For he had supposed that they would be frightened at the city Ammonihah; and as the city of Noah had hitherto been the weakest part of the land, therefore they would march thither to battle. And thus it was according to his desires.
+
+**Alma 49:16** And behold, Moroni had appointed Lehi to be chief captain over the men of that city. And it was that same Lehi which fought with the Lamanites in the valley on the east of the river Sidon.
+
+**Alma 49:17** And now behold, it came to pass that when the Lamanites had found that Lehi commanded the city, they were again disappointed, for they feared Lehi exceedingly. Nevertheless their chief captains had sworn with an oath to attackt the city; therefore they brought up their armies.
+
+**Alma 49:18** Now behold, the Lamanites could not get into their forts of security by any other way save by the entrance, because of the highness of the bank which had been thrown up and the depth of the ditch which had been dug round about, save it were by the entrance.
+
+**Alma 49:19** And thus were the Nephites prepared to destroy all such as should attempt to climb up to enter the fort by any other way by casting over stones and arrows at them.
+
+**Alma 49:20** Thus they were prepared, yea, a body of their most strong men with their swords and their slings to smite down all who should attempt to come into their place of security by the place of entrance. And thus were they prepared to defend themselves against the Lamanites.
+
+**Alma 49:21** And it came to pass that the captains of the Lamanites brought up their armies before the place of entrance and began to contend with the Nephites, to get into their place of security. But behold, they were driven back from time to time, insomuch that they were slain with an immense slaughter.
+
+**Alma 49:22** Now when they found that they could not obtain power over the Nephites by the pass, they began to dig down their banks of earth that they might obtain a pass to their armies, that they might have an equal chance to fight. But behold, in these attempts they were swept off by the stones and the arrows which were thrown at them. And instead of filling up their ditches by pulling down the banks of earth, they were filled up in a measure with their dead and wounded bodies.
+
+**Alma 49:23** Thus the Nephites had all power over their enemies. And thus the Lamanites did attempt to destroy the Nephites until their chief captains were all slain--yea, and more than a thousand of the Lamanites were slain--while on the other hand there was not a single soul of the Nephites which were slain.
+
+**Alma 49:24** There were about fifty which were wounded which had been exposed to the arrows of the Lamanites through the pass. But they were shielded by their shields and their breastplates and their headplates, insomuch that their wounds were upon their legs, many of which were very severe.
+
+**Alma 49:25** And it came to pass that when the Lamanites saw that their chief captains were all slain, they fled into the wilderness. And it came to pass that they returned to the land of Nephi to inform their king Amalickiah, who was a Nephite by birth, concerning their great loss.
+
+**Alma 49:26** And it came to pass that he was exceeding angry with his people because he had not obtained his desires over the Nephites; he had not subjected them to the yoke of bondage.
+
+**Alma 49:27** Yea, he was exceeding wroth, and he did curse God, and also Moroni, and swearing with an oath that he would drink his blood--and this because Moroni had kept the commandments of God in preparing for the safety of his people.
+
+**Alma 49:28** And it came to pass that on the other hand the people of Nephi did thank the Lord their God because of his miraculous power in delivering them from the hands of their enemies.
+
+**Alma 49:29** And thus ended the nineteenth year of the reign of the judges over the people of Nephi.
+
+**Alma 49:30** Yea, and there was continual peace among them and exceeding great prosperity in the church because of their heed and diligence which they gave unto the word of God, which was declared unto them by Helaman and Shiblon and Corianton and Ammon and his brethren etc., yea, and by all those which had been ordained by the holy order of God, being baptized unto repentance and sent forth to preach among the people etc.
+

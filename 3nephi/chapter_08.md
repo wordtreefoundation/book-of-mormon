@@ -1,0 +1,50 @@
+**3 Nephi 8:1** And now it came to pass that according to our record--and we know our record to be true, for behold, it was a just man which did keep the record; for he truly did many miracles in the name of Jesus, and there was not any man which could do a miracle in the name of Jesus save he were cleansed every whit from his iniquity--
+
+**3 Nephi 8:2** and now it came to pass, if there was no mistake made by this man in the reckoning of our time, the thirty and third year had passed away.
+
+**3 Nephi 8:3** And the people began to look with great earnestness for the sign which had been given by the prophet Samuel the Lamanite, yea, for the time that there should be darkness for the space of three days over the face of the land.
+
+**3 Nephi 8:4** And there began to be great doubtings and disputations among the people, notwithstanding so many signs had been given.
+
+**3 Nephi 8:5** And it came to pass in the thirty and fourth year, in the first month, in the fourth day of the month, there arose a great storm, such an one as never had been known in all the land.
+
+**3 Nephi 8:6** And there was also a great and terrible tempest; and there was terrible thunder, insomuch that it did shake the whole earth as if it was about to divide asunder.
+
+**3 Nephi 8:7** And there was exceeding sharp lightnings such as never had been known in all the land.
+
+**3 Nephi 8:8** And the city of Zarahemla did take fire.
+
+**3 Nephi 8:9** And the city of Moroni did sink into the depths of the sea and the inhabitants thereof were drowned.
+
+**3 Nephi 8:10** And the earth was carried up upon the city of Moronihah, that in the place of the city thereof there became a great mountain.
+
+**3 Nephi 8:11** And there was a great and terrible destruction in the land southward.
+
+**3 Nephi 8:12** But behold, there was a more great and terrible destruction in the land northward; for behold, the whole face of the land was changed because of the tempests and the whirlwinds and the thunderings and the lightnings and the exceeding great quaking of the whole earth.
+
+**3 Nephi 8:13** And the highways were broken up, and the level roads were spoiled, and many smooth places became rough.
+
+**3 Nephi 8:14** And many great and notable cities were sunk, and many were burned, and many were shook till the buildings thereof had fallen to the earth and the inhabitants thereof were slain and the places were left desolate.
+
+**3 Nephi 8:15** And there were some cities which remained, but the damage thereof was exceeding great; and there were many in them which were slain.
+
+**3 Nephi 8:16** And there were some which were carried away in the whirlwind; and whither they went no man knoweth, save they know that they were carried away.
+
+**3 Nephi 8:17** And thus the face of the whole earth became deformed because of the tempests and the thunderings and the lightnings and the quaking of the earth.
+
+**3 Nephi 8:18** And behold, the rocks were rent in twain; yea, they were broken up upon the face of the whole earth, insomuch that they were found in broken fragments and in seams and in cracks upon all the face of the land.
+
+**3 Nephi 8:19** And it came to pass that when the thunderings and the lightnings and the storm and the tempest and the quakings of the earth did cease--for behold, they did last for about the space of three hours; and it was said by some that the time was greater; nevertheless all these great and terrible things were done in about the space of three hours--and then behold, there was darkness upon the face of the land.
+
+**3 Nephi 8:20** And it came to pass that there was thick darkness upon the face of all the land, insomuch that the inhabitants thereof which had not fallen could feel the vapor of darkness.
+
+**3 Nephi 8:21** And there could be no light because of the darkness, neither candles, neither torches; neither could there be fire kindled with their fine and exceeding dry wood, so that there could not be any light at all.
+
+**3 Nephi 8:22** And there was not any light seen, neither fire nor glimmer, neither the sun nor the moon nor the stars, for so great were the mists of darkness which were upon the face of the land.
+
+**3 Nephi 8:23** And it came to pass that it did last for the space of three days that there was no light seen. And there was great mourning and howling and weeping among all the people continually; yea, great were the groanings of the people because of the darkness and the great destruction which had come upon them.
+
+**3 Nephi 8:24** And in one place they were heard to cry, saying: O that we had repented before this great and terrible day, and then would our brethren have been spared and they would not have been burned in that great city Zarahemla.
+
+**3 Nephi 8:25** And in another place they were heard to cry and mourn, saying: O that we had repented before this great and terrible day and had not killed and stoned the prophets and cast them out, then would our mothers and our fair daughters and our children have been spared and not have been buried up in that great city Moronihah. And thus were the howlings of the people great and terrible.
+
