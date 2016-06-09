@@ -1,12 +1,8 @@
 {
-    "plugins": ["expandable-chapters", "callouts"],
-    "pluginsConfig": {
-    	"callouts": {
-    		"showTypeInHeader": false,
-    		"book": {
-    			"alert": "info",
-    			"picto": "book"
-    		}
-    	}
-    }
+	"plugins": ["expandable-chapters", "callouts"],
+	"pluginsConfig": {
+		"callouts": {
+			"showTypeInHeader": false
+		}
+	}
 }

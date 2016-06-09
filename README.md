@@ -42,6 +42,7 @@ This gitbook uses the following plugins:
 
 * expandable-chapters
 * callouts
+* emphasize
 
 We're considering using these plugins as well:
 
@@ -50,6 +51,5 @@ We're considering using these plugins as well:
 * forkmegithub / github
 * bibtex-citation-michael
 * richquotes
-* emphasize
 * infinitescroll
 * toc
