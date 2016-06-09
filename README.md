@@ -4,7 +4,7 @@
 
 Welcome to our project to crowd source the origins of the Book of Mormon. This is a collaborative project and we request basic respect.
 
-As the basis for this project, we’ve selected the *1830 First Edition* of the Book of Mormon. This edition likely to be closest to the original sources. We fully acknowledge that this won’t match the current published version of the Book of Mormon; however, the current version as published by the Church of Jesus Christ of Latter-day Saints has been updated by numerous LDS leaders since 1830.
+As the basis for this project, we’ve selected the *1830 First Edition* of the Book of Mormon. This edition is likely to be closest to the original sources. We fully acknowledge that this won’t match the current published version of the Book of Mormon; however, the current version as published by the Church of Jesus Christ of Latter-day Saints has been updated by numerous LDS leaders since 1830.
 
 The objective is not to find the “most correct” version of the Book of Mormon, but to instead provide the sources which Joseph Smith [remixed](http://everythingisaremix.info/watch-the-series/) to create the Book of Mormon.
 
