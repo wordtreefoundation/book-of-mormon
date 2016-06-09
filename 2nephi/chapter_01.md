@@ -1,4 +1,4 @@
-**2 Nephi 1:1** And now it came to pass after I Nephi had made an end of teaching my brethren, our father Lehi also spake many things unto them and rehearsed unto them how great things the Lord had done for them in bringing them out of the land of Jerusalem. {{ "TLW" | cite }}
+**2 Nephi 1:1** And now it came to pass after I Nephi had made an end of teaching my brethren, our father Lehi also spake many things unto them and rehearsed unto them how great things the Lord had done for them in bringing them out of the land of Jerusalem.
 
 **2 Nephi 1:2** And he spake unto them concerning their rebellions upon the waters and the mercies of God in sparing their lives, that they were not swallowed up in the sea.
 
