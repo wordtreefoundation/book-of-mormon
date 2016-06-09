@@ -1,7 +1,9 @@
-**1 Nephi 1:1** {% em %}I Nephi having been born of goodly parents{% endem %}, {{ "roc" | therefore }} I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
+**1 Nephi 1:1** {% em %}I Nephi having been born of goodly parents{% endem %}, {{ "roc" | cite }} therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
 
 > #### Quote::I, the writer, was born of Presbyterian parents...
 > [The Rights of Christ, 1815, p. 1](https://archive.org/details/cihm_62453)
+
+{% references %} {% endreferences %}
 
 **1 Nephi 1:2** Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
 
