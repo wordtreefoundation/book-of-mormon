@@ -1,3 +1,12 @@
 {
-    "plugins": ["expandable-chapters", "callouts"]
+    "plugins": ["expandable-chapters", "callouts"],
+    "pluginsConfig": {
+    	"callouts": {
+    		"showTypeInHeader": false,
+    		"book": {
+    			"alert": "info",
+    			"picto": "book"
+    		}
+    	}
+    }
 }
