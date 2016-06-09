@@ -1,7 +1,10 @@
-**1 Nephi 1:1** {% em %}I Nephi having been born of goodly parents{% endem %}, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
-
 > #### Quote::I, the writer, was born of Presbyterian parents...
-> [The Rights of Christ, 1815, p. 1](https://archive.org/details/cihm_62453)
+> The Rights of Christ, 1815, p. 1 {{ "ROC" | cite }}
+
+**1 Nephi 1:1** {% em %}I Nephi having been born of goodly parents{% endem %}, {{ "ROC" | cite }} therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
+
+> #### Quote::Reformed Egyptian
+> has never been found
 
 **1 Nephi 1:2** Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
 
@@ -44,3 +47,4 @@
 
 **1 Nephi 1:20** And when the Jews heard these things, they were angry with him, yea, even as with the prophets of old, whom they had cast out and stoned and slain. And they also sought his life that they might take it away. But behold, I Nephi will shew unto you that the tender mercies of the Lord is over all them whom he hath chosen because of their faith to make them mighty, even unto the power of deliverance.
 
+{% references %} {% endreferences %}

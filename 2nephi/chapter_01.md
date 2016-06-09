@@ -1,4 +1,6 @@
-**2 Nephi 1:1** And now it came to pass after I Nephi had made an end of teaching my brethren, our father Lehi also spake many things unto them and rehearsed unto them how great things the Lord had done for them in bringing them out of the land of Jerusalem.
+**2 Nephi 1:1** And now it came to pass after I Nephi had made an end of teaching my brethren, our father Lehi also spake many things unto them and rehearsed unto them how great things the Lord had done for them in bringing them out of the land of Jerusalem. {{ "TLW" | cite }}
+
+{% references %} {% endreferences %}
 
 **2 Nephi 1:2** And he spake unto them concerning their rebellions upon the waters and the mercies of God in sparing their lives, that they were not swallowed up in the sea.
 
@@ -61,4 +63,3 @@
 **2 Nephi 1:31** Wherefore because thou hast been faithful, thy seed shall be blessed with his seed, that they dwell in prosperity long upon the face of this land. And nothing save it shall be iniquity among them shall harm or disturb their prosperity upon the face of this land forever.
 
 **2 Nephi 1:32** Wherefore if ye shall keep the commandments of the Lord, the Lord hath consecrated this land for the security of thy seed with the seed of my son.
-
