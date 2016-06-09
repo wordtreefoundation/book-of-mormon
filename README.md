@@ -41,12 +41,15 @@ You can generate the source text of this book in its unannotated form (i.e. as a
 This gitbook uses the following plugins:
 
 * expandable-chapters
+* comment
 
 We're considering using these plugins as well:
 
-* injection
-* comment
+* injection / addcssjs
 * image-captions
-* forkmegithub
-* collapsible-menu
-* toggle-chapters
+* forkmegithub / github
+* bibtex-citation-michael
+* callouts / richquotes
+* emphasize
+* infinitescroll
+* toc
