@@ -1,8 +1,6 @@
-# Book of Mormon
+# Book of Mormon Origins
 
-The Annotated Book of Mormon
-
-[Table of Contents](README.md)
+## The Internet Annotated Book of Mormon
 
 Welcome to our project to crowd source the origins of the Book of Mormon. This is a collaborative project and we request basic respect.
 
@@ -24,6 +22,9 @@ Each annotation must include the following:
 * Link if available
 * If you need storage for video/images hosting of content is available on this site
 
+## Table of Contents
+
+The [Table of Contents](README.md) is available at the panel on the left-hand side of the screen.
 
 ## Generating the Text
 
