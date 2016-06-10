@@ -1,44 +1,132 @@
-**1 Nephi 20:1** Hearken and hear this, O house of Jacob, which are called by the name of Israel and are come forth out of the waters of Judah, which swear by the name of the Lord and make mention of the God of Israel; yet they swear not in truth nor in righteousness.
+{% marginal %}
+> #### Quote::Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness.
+> KJV Bible, 1769, [Isaiah 48:1](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:1** {% em %}Hearken and hear this, O house of Jacob, which are called by the name of Israel and are come forth out of the waters of Judah, which swear by the name of the Lord and make mention of the God of Israel; yet they swear not in truth nor in righteousness.{% endem %}
 
-**1 Nephi 20:2** Nevertheless they call themselves of the holy city, but they do not stay themselves upon the God of Israel, which is the Lord of Hosts; yea, the Lord of Hosts is his name.
+{% marginal %}
+> #### Quote::For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts is his name.
+> KJV Bible, 1769, [Isaiah 48:2](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:2** {% em %}Nevertheless they call themselves of the holy city, but they do not stay themselves upon the God of Israel, which is the Lord of Hosts; yea, the Lord of Hosts is his name.{% endem %}
 
-**1 Nephi 20:3** Behold, I have declared the former things from the beginning. And they went forth out of my mouth and I shewed them. I did shew them suddenly.
+{% marginal %}
+> #### Quote::I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass.
+> KJV Bible, 1769, [Isaiah 48:3](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:3** {% em %}Behold, I have declared the former things from the beginning. And they went forth out of my mouth and I shewed them. I did shew them suddenly.{% endem %}
 
-**1 Nephi 20:4** And I did it because I knew that thou art obstinate, and thy neck was an iron sinew and thy brow brass.
+{% marginal %}
+> #### Quote::Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;
+> KJV Bible, 1769, [Isaiah 48:4](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:4** {% em %}And I did it because I knew that thou art obstinate, and thy neck was an iron sinew and thy brow brass.{% endem %}
 
-**1 Nephi 20:5** And I have even from the beginning declared to thee; before it came to pass, I shewed them thee. And I shewed them for fear lest thou shouldest say: Mine idol hath done them, and my graven image and my molten image hath commanded them.
+{% marginal %}
+> #### Quote::I have even from the beginning declared it to thee; before it came to pass I shewed it thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them.
+> KJV Bible, 1769, [Isaiah 48:5](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:5** {% em %}And I have even from the beginning declared to thee; before it came to pass, I shewed them thee. And I shewed them for fear lest thou shouldest say: Mine idol hath done them, and my graven image and my molten image hath commanded them.{% endem %}
 
-**1 Nephi 20:6** Thou hast heard and seen all this, and will ye not declare them? And that I have shewed thee new things from this time, even hidden things, and thou didst not know them.
+{% marginal %}
+> #### Quote::Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them.
+> KJV Bible, 1769, [Isaiah 48:6](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:6** {% em %}Thou hast heard and seen all this, and will ye not declare them? And that I have shewed thee new things from this time, even hidden things, and thou didst not know them.{% endem %}
 
-**1 Nephi 20:7** They are created now and not from the beginning. Even before the day when thou heardest them not, they were declared unto thee, lest thou shouldst say: Behold, I knew them.
+{% marginal %}
+> #### Quote::They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.
+> KJV Bible, 1769, [Isaiah 48:7](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:7** {% em %}They are created now and not from the beginning. Even before the day when thou heardest them not, they were declared unto thee, lest thou shouldst say: Behold, I knew them.{% endem %}
 
-**1 Nephi 20:8** Yea, and thou heardest not, yea, thou knewest not; yea, from that time thine ear was not opened. For I knew that thou wouldst deal very treacherously and wast called a transgressor from the womb.
+{% marginal %}
+> #### Quote::Yea, thou heardest not; yea, thou knewest not; yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.
+> KJV Bible, 1769, [Isaiah 48:8](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:8** {% em %}Yea, and thou heardest not, yea, thou knewest not; yea, from that time thine ear was not opened. For I knew that thou wouldst deal very treacherously and wast called a transgressor from the womb.{% endem %}
 
-**1 Nephi 20:9** Nevertheless for my name's sake will I defer mine anger. And for my praise will I refrain from thee, that I cut thee not off.
+{% marginal %}
+> #### Quote::For my name's sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
+> KJV Bible, 1769, [Isaiah 48:9](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:9** {% em %}Nevertheless for my name's sake will I defer mine anger. And for my praise will I refrain from thee, that I cut thee not off.{% endem %}
 
-**1 Nephi 20:10** For behold, I have refined thee; I have chosen thee in the furnace of affliction.
+{% marginal %}
+> #### Quote::Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
+> KJV Bible, 1769, [Isaiah 48:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:10** {% em %}For behold, I have refined thee; I have chosen thee in the furnace of affliction.{% endem %}
 
-**1 Nephi 20:11** For mine own sake--yea, for mine own sake--will I do this. For how should I suffer my name to be polluted? And I will not give my glory unto another.
+{% marginal %}
+> #### Quote::For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.
+> KJV Bible, 1769, [Isaiah 48:11](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:11** {% em %}For mine own sake--yea, for mine own sake--will I do this. For how should I suffer my name to be polluted? And I will not give my glory unto another.{% endem %}
 
-**1 Nephi 20:12** Hearken unto me, O Jacob and Israel my called. For I am he, and I am the first and I am also the last.
+{% marginal %}
+> #### Quote::Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.
+> KJV Bible, 1769, [Isaiah 48:12](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:12** {% em %}Hearken unto me, O Jacob and Israel my called. For I am he, and I am the first and I am also the last.{% endem %}
 
-**1 Nephi 20:13** Mine hand hath also laid the foundation of the earth, and my right hand hath spanned the heavens. And I called unto them and they stand up together.
+{% marginal %}
+> #### Quote::Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
+> KJV Bible, 1769, [Isaiah 48:13](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:13** {% em %}Mine hand hath also laid the foundation of the earth, and my right hand hath spanned the heavens. And I called unto them and they stand up together.{% endem %}
 
-**1 Nephi 20:14** All ye, assemble yourselves and hear. Which among them hath declared these things unto them? The Lord hath loved him. Yea, and he will fulfill his word which he hath declared by them. And he will do his pleasure on Babylon, and his arm shall come upon the Chaldeans.
+{% marginal %}
+> #### Quote::All ye, assemble yourselves, and hear; which among them hath declared these things? The LORD hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
+> KJV Bible, 1769, [Isaiah 48:14](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:14** {% em %}All ye, assemble yourselves and hear. Which among them hath declared these things unto them? The Lord hath loved him. Yea, and he will fulfill his word which he hath declared by them. And he will do his pleasure on Babylon, and his arm shall come upon the Chaldeans.{% endem %}
 
-**1 Nephi 20:15** Also saith the Lord: I the Lord, yea, I have spoken. Yea, I have called him to declare; I have brought him, and he shall make his way prosperous.
+{% marginal %}
+> #### Quote::I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous.
+> KJV Bible, 1769, [Isaiah 48:15](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:15** {% em %}Also saith the Lord: I the Lord, yea, I have spoken. Yea, I have called him to declare; I have brought him, and he shall make his way prosperous.{% endem %}
 
-**1 Nephi 20:16** Come ye near unto me. I have not spoken in secret from the beginning; from the time that it was declared have I spoken. And the Lord God and his Spirit hath sent me.
+{% marginal %}
+> #### Quote::Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord GOD, and his Spirit, hath sent me.
+> KJV Bible, 1769, [Isaiah 48:16](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:16** {% em %}Come ye near unto me. I have not spoken in secret from the beginning; from the time that it was declared have I spoken. And the Lord God and his Spirit hath sent me.{% endem %}
 
-**1 Nephi 20:17** And thus saith the Lord thy Redeemer, the Holy One of Israel: I have sent him. The Lord thy God, which teacheth thee to profit, which leadeth thee by the way thou shouldst go, hath done it.
+{% marginal %}
+> #### Quote::Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.
+> KJV Bible, 1769, [Isaiah 48:17](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:17** {% em %}And thus saith the Lord thy Redeemer, the Holy One of Israel: I have sent him. The Lord thy God, which teacheth thee to profit, which leadeth thee by the way thou shouldst go, hath done it.{% endem %}
 
-**1 Nephi 20:18** O that thou hadst hearkened to my commandments! Then had thy peace been as a river and thy righteousness as the waves of the sea.
+{% marginal %}
+> #### Quote::O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:
+> KJV Bible, 1769, [Isaiah 48:18](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:18** {% em %}O that thou hadst hearkened to my commandments! Then had thy peace been as a river and thy righteousness as the waves of the sea.{% endem %}
 
-**1 Nephi 20:19** Thy seed also had been as the sand, the offspring of thy bowels like the gravel thereof. His name should not have been cut off, nor destroyed from before me.
+{% marginal %}
+> #### Quote::Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.
+> KJV Bible, 1769, [Isaiah 48:19](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:19** {% em %}Thy seed also had been as the sand, the offspring of thy bowels like the gravel thereof. His name should not have been cut off, nor destroyed from before me.{% endem %}
 
-**1 Nephi 20:20** Go ye forth of Babylon; flee ye from the Chaldeans. With a voice of singing declare ye, tell this; utter to the end of the earth, say ye: The Lord hath redeemed his servant Jacob.
+{% marginal %}
+> #### Quote::Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
+> KJV Bible, 1769, [Isaiah 48:20](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:20** {% em %}Go ye forth of Babylon; flee ye from the Chaldeans. With a voice of singing declare ye, tell this; utter to the end of the earth, say ye: The Lord hath redeemed his servant Jacob.{% endem %}
 
-**1 Nephi 20:21** And they thirsted not. He led them through the deserts. He caused the waters to flow out of the rock for them. He clave the rock also and the waters gushed out.
+{% marginal %}
+> #### Quote::And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
+> KJV Bible, 1769, [Isaiah 48:21](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:21** {% em %}And they thirsted not. He led them through the deserts. He caused the waters to flow out of the rock for them. He clave the rock also and the waters gushed out.{% endem %}
 
-**1 Nephi 20:22** And notwithstanding he hath done all this and greater also, there is no peace, saith the Lord, unto the wicked.
+{% marginal %}
+> #### Quote::There is no peace, saith the LORD, unto the wicked.
+> KJV Bible, 1769, [Isaiah 48:22](http://www.kingjamesbibleonline.org/Isaiah-Chapter-48/)
+{% endmarginal %}
+**1 Nephi 20:22** {% em %}And notwithstanding he hath done all this and greater also, there is no peace, saith the Lord, unto the wicked.{% endem %}
 

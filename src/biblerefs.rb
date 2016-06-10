@@ -17,7 +17,7 @@ end
 def inserted_before_verse(book, chapter, verse, text, highlight=true)
   file = find_bom_file(book, chapter)
   file_content = File.read(file)
-  replacement = highlight ? "#{text}\n\\1 {% em %}\\2{% endem %}" : "#{text}\n\\1 \\2"
+  replacement = highlight ? "#{text}\n\\1 {% em color=\"orange\" %}\\2{% endem %}" : "#{text}\n\\1 \\2"
   file_content.sub(/^(\*\*#{book} #{chapter}:#{verse}\*\*) (.*)$/, replacement)
 end
 
@@ -31,7 +31,7 @@ end
 blank_verse_format = lambda{ |b,c,v| '' }
 
 BomDB.db[:refs].
-  where(:ref_name => 'Bible-OT').
+  where(:ref_name => 'Bible-NT').
   join(:verses, :verse_id => :verse_id).
   join(:books, :book_id => :book_id).
   each do |r|

@@ -1,52 +1,156 @@
-**2 Nephi 13:1** For behold, the Lord, the Lord of Hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole staff of bread and the whole stay of water,
+{% marginal %}
+> #### Quote::For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water.
+> KJV Bible, 1769, [Isaiah 3:1](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:1** {% em %}For behold, the Lord, the Lord of Hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole staff of bread and the whole stay of water,{% endem %}
 
-**2 Nephi 13:2** the mighty man and the man of war, the judge and the prophet and the prudent and the ancient,
+{% marginal %}
+> #### Quote::The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,
+> KJV Bible, 1769, [Isaiah 3:2](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:2** {% em %}the mighty man and the man of war, the judge and the prophet and the prudent and the ancient,{% endem %}
 
-**2 Nephi 13:3** the captain of fifty and the honorable man and the counselor and the cunning artificer and the eloquent orator.
+{% marginal %}
+> #### Quote::The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.
+> KJV Bible, 1769, [Isaiah 3:3](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:3** {% em %}the captain of fifty and the honorable man and the counselor and the cunning artificer and the eloquent orator.{% endem %}
 
-**2 Nephi 13:4** And I will give children unto them to be their princes, and babes shall rule over them.
+{% marginal %}
+> #### Quote::And I will give children to be their princes, and babes shall rule over them.
+> KJV Bible, 1769, [Isaiah 3:4](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:4** {% em %}And I will give children unto them to be their princes, and babes shall rule over them.{% endem %}
 
-**2 Nephi 13:5** And the people shall be oppressed, every one by another and every one by his neighbor. The child shall behave himself proudly against the ancient, and the base against the honorable.
+{% marginal %}
+> #### Quote::And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.
+> KJV Bible, 1769, [Isaiah 3:5](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:5** {% em %}And the people shall be oppressed, every one by another and every one by his neighbor. The child shall behave himself proudly against the ancient, and the base against the honorable.{% endem %}
 
-**2 Nephi 13:6** When a man shall take hold of his brother of the house of his father and shall say: Thou hast clothing, be thou our ruler, and let not this ruin come under thy hand--
+{% marginal %}
+> #### Quote::When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:
+> KJV Bible, 1769, [Isaiah 3:6](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:6** {% em %}When a man shall take hold of his brother of the house of his father and shall say: Thou hast clothing, be thou our ruler, and let not this ruin come under thy hand--{% endem %}
 
-**2 Nephi 13:7** in that day shall he swear, saying: I will not be a healer, for in my house there is neither bread nor clothing. Make me not a ruler of the people.
+{% marginal %}
+> #### Quote::In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.
+> KJV Bible, 1769, [Isaiah 3:7](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:7** {% em %}in that day shall he swear, saying: I will not be a healer, for in my house there is neither bread nor clothing. Make me not a ruler of the people.{% endem %}
 
-**2 Nephi 13:8** For Jerusalem is ruined and Judah is fallen because their tongues and their doings have been against the Lord, to provoke the eyes of his glory.
+{% marginal %}
+> #### Quote::For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory.
+> KJV Bible, 1769, [Isaiah 3:8](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:8** {% em %}For Jerusalem is ruined and Judah is fallen because their tongues and their doings have been against the Lord, to provoke the eyes of his glory.{% endem %}
 
-**2 Nephi 13:9** The shew of their countenance doth witness against them and doth declare their sin to be even as Sodom, and they cannot hide it. Woe unto their souls, for they have rewarded evil unto themselves.
+{% marginal %}
+> #### Quote::The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.
+> KJV Bible, 1769, [Isaiah 3:9](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:9** {% em %}The shew of their countenance doth witness against them and doth declare their sin to be even as Sodom, and they cannot hide it. Woe unto their souls, for they have rewarded evil unto themselves.{% endem %}
 
-**2 Nephi 13:10** Say unto the righteous that it is well with them, for they shall eat the fruit of their doings.
+{% marginal %}
+> #### Quote::Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.
+> KJV Bible, 1769, [Isaiah 3:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:10** {% em %}Say unto the righteous that it is well with them, for they shall eat the fruit of their doings.{% endem %}
 
-**2 Nephi 13:11** Woe unto the wicked, for they shall perish. For the reward of their hands shall be upon them.
+{% marginal %}
+> #### Quote::Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.
+> KJV Bible, 1769, [Isaiah 3:11](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:11** {% em %}Woe unto the wicked, for they shall perish. For the reward of their hands shall be upon them.{% endem %}
 
-**2 Nephi 13:12** And my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err and destroy the way of thy paths.
+{% marginal %}
+> #### Quote::As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
+> KJV Bible, 1769, [Isaiah 3:12](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:12** {% em %}And my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err and destroy the way of thy paths.{% endem %}
 
-**2 Nephi 13:13** The Lord standeth up to plead and standeth to judge the people.
+{% marginal %}
+> #### Quote::The LORD standeth up to plead, and standeth to judge the people.
+> KJV Bible, 1769, [Isaiah 3:13](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:13** {% em %}The Lord standeth up to plead and standeth to judge the people.{% endem %}
 
-**2 Nephi 13:14** The Lord will enter into judgment with the ancients of his people and the princes thereof. For ye have eaten up the vineyard and the spoil of the poor in your houses.
+{% marginal %}
+> #### Quote::The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses.
+> KJV Bible, 1769, [Isaiah 3:14](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:14** {% em %}The Lord will enter into judgment with the ancients of his people and the princes thereof. For ye have eaten up the vineyard and the spoil of the poor in your houses.{% endem %}
 
-**2 Nephi 13:15** What mean ye? Ye beat my people to pieces and grind the faces of the poor, saith the Lord God of Hosts.
+{% marginal %}
+> #### Quote::What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.
+> KJV Bible, 1769, [Isaiah 3:15](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:15** {% em %}What mean ye? Ye beat my people to pieces and grind the faces of the poor, saith the Lord God of Hosts.{% endem %}
 
-**2 Nephi 13:16** Moreover the Lord saith: Because the daughters of Zion are haughty and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet,
+{% marginal %}
+> #### Quote::Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:
+> KJV Bible, 1769, [Isaiah 3:16](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:16** {% em %}Moreover the Lord saith: Because the daughters of Zion are haughty and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet,{% endem %}
 
-**2 Nephi 13:17** therefore the Lord will smite with a scab the crown of the head of the daughters of Zion. And the Lord will discover their secret parts.
+{% marginal %}
+> #### Quote::Therefore the LORD will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.
+> KJV Bible, 1769, [Isaiah 3:17](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:17** {% em %}therefore the Lord will smite with a scab the crown of the head of the daughters of Zion. And the Lord will discover their secret parts.{% endem %}
 
-**2 Nephi 13:18** In that day the Lord will take away the bravery of tinkling ornaments and cauls and round tires like the moon,
+{% marginal %}
+> #### Quote::In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,
+> KJV Bible, 1769, [Isaiah 3:18](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:18** {% em %}In that day the Lord will take away the bravery of tinkling ornaments and cauls and round tires like the moon,{% endem %}
 
-**2 Nephi 13:19** the chains and the bracelets and the mufflers,
+{% marginal %}
+> #### Quote::The chains, and the bracelets, and the mufflers,
+> KJV Bible, 1769, [Isaiah 3:19](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:19** {% em %}the chains and the bracelets and the mufflers,{% endem %}
 
-**2 Nephi 13:20** the bonnets and the ornaments of the legs and the headbands and the tablets and the earrings,
+{% marginal %}
+> #### Quote::The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,
+> KJV Bible, 1769, [Isaiah 3:20](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:20** {% em %}the bonnets and the ornaments of the legs and the headbands and the tablets and the earrings,{% endem %}
 
-**2 Nephi 13:21** the rings and nose jewels,
+{% marginal %}
+> #### Quote::The rings, and nose jewels,
+> KJV Bible, 1769, [Isaiah 3:21](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:21** {% em %}the rings and nose jewels,{% endem %}
 
-**2 Nephi 13:22** the changeable suits of apparel and the mantles and the wimples and the crisping pins,
+{% marginal %}
+> #### Quote::The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,
+> KJV Bible, 1769, [Isaiah 3:22](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:22** {% em %}the changeable suits of apparel and the mantles and the wimples and the crisping pins,{% endem %}
 
-**2 Nephi 13:23** the glasses and the fine linen and hoods and the veils.
+{% marginal %}
+> #### Quote::The glasses, and the fine linen, and the hoods, and the vails.
+> KJV Bible, 1769, [Isaiah 3:23](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:23** {% em %}the glasses and the fine linen and hoods and the veils.{% endem %}
 
-**2 Nephi 13:24** And it shall all come to pass: instead of sweet smell there shall be stink, and instead of a girdle a rent, and instead of well-set hair baldness, and instead of a stomacher a girding of sackcloth, burning instead of beauty.
+{% marginal %}
+> #### Quote::And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.
+> KJV Bible, 1769, [Isaiah 3:24](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:24** {% em %}And it shall all come to pass: instead of sweet smell there shall be stink, and instead of a girdle a rent, and instead of well-set hair baldness, and instead of a stomacher a girding of sackcloth, burning instead of beauty.{% endem %}
 
-**2 Nephi 13:25** Thy men shall fall by the sword and thy mighty in the war.
+{% marginal %}
+> #### Quote::Thy men shall fall by the sword, and thy mighty in the war.
+> KJV Bible, 1769, [Isaiah 3:25](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:25** {% em %}Thy men shall fall by the sword and thy mighty in the war.{% endem %}
 
-**2 Nephi 13:26** And her gates shall lament and mourn, and she shall be desolate and shall sit upon the ground.
+{% marginal %}
+> #### Quote::And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
+> KJV Bible, 1769, [Isaiah 3:26](http://www.kingjamesbibleonline.org/Isaiah-Chapter-3/)
+{% endmarginal %}
+**2 Nephi 13:26** {% em %}And her gates shall lament and mourn, and she shall be desolate and shall sit upon the ground.{% endem %}
 

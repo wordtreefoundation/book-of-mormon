@@ -30,7 +30,15 @@
 
 **2 Nephi 25:16** And after that they have been scattered and the Lord God hath scourged them by other nations for the space of many generations--yea, even down from generation to generation until they shall be persuaded to believe in Christ the Son of God and the atonement, which is infinite for all mankind--and when that day shall come that they shall believe in Christ and worship the Father in his name with pure hearts and clean hands and look not forward any more for another Messiah--and then at that time the day will come that it must needs be expedient that they should believe these things--
 
-**2 Nephi 25:17** the Lord will set his hand again the second time to restore his people from their lost and fallen state. Wherefore he will proceed to do a marvelous work and a wonder among the children of men.
+{% marginal %}
+> #### Quote::And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
+> KJV Bible, 1769, [Isaiah 11:11](http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/)
+{% endmarginal %}
+{% marginal %}
+> #### Quote::Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
+> KJV Bible, 1769, [Isaiah 29:14](http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/)
+{% endmarginal %}
+**2 Nephi 25:17** {% em %}{% em %}the Lord will set his hand again the second time to restore his people from their lost and fallen state. Wherefore he will proceed to do a marvelous work and a wonder among the children of men.{% endem %}{% endem %}
 
 **2 Nephi 25:18** Wherefore he shall bring forth his words unto them, which words shall judge them at the last day; for they shall be given them for the purpose of convincing them of the true Messiah, who was rejected by them, and unto the convincing of them that they need not look forward any more for a Messiah to come; for there should not any come save it should be a false Messiah which should deceive the people. For there is save one Messiah spoken of by the prophets, and that Messiah is he which should be rejected of the Jews.
 

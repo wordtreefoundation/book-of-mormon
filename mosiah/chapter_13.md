@@ -20,31 +20,87 @@
 
 **Mosiah 13:11** And now I read unto you the remainder of the commandments of God, for I perceive that they are not written in your hearts. I perceive that ye have studied and taught iniquity the most part of your lives.
 
-**Mosiah 13:12** And now ye remember that I said unto you: Thou shalt not make unto thee any graven image, or any likeness of things which is in heaven above, or which is in the earth beneath, or which is in the water under the earth.
+{% marginal %}
+> #### Quote::Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+> KJV Bible, 1769, [Exodus 20:4](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:12** {% em %}And now ye remember that I said unto you: Thou shalt not make unto thee any graven image, or any likeness of things which is in heaven above, or which is in the earth beneath, or which is in the water under the earth.{% endem %}
 
-**Mosiah 13:13** And again, thou shalt not bow down thyself unto them nor serve them, for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children unto the third and fourth generation of them that hate me,
+{% marginal %}
+> #### Quote::Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;
+> KJV Bible, 1769, [Exodus 20:5](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:13** {% em %}And again, thou shalt not bow down thyself unto them nor serve them, for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children unto the third and fourth generation of them that hate me,{% endem %}
 
-**Mosiah 13:14** and shewing mercy unto thousands of them that love me and keep my commandments.
+{% marginal %}
+> #### Quote::And showing mercy unto thousands of them that love me, and keep my commandments.
+> KJV Bible, 1769, [Exodus 20:6](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:14** {% em %}and shewing mercy unto thousands of them that love me and keep my commandments.{% endem %}
 
-**Mosiah 13:15** Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh his name in vain.
+{% marginal %}
+> #### Quote::Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
+> KJV Bible, 1769, [Exodus 20:7](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:15** {% em %}Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh his name in vain.{% endem %}
 
-**Mosiah 13:16** Remember the sabbath day, to keep it holy.
+{% marginal %}
+> #### Quote::Remember the sabbath day, to keep it holy.
+> KJV Bible, 1769, [Exodus 20:8](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:16** {% em %}Remember the sabbath day, to keep it holy.{% endem %}
 
-**Mosiah 13:17** Six days shalt thou labor and do all thy work;
+{% marginal %}
+> #### Quote::Six days shalt thou labor, and do all thy work:
+> KJV Bible, 1769, [Exodus 20:9](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:17** {% em %}Six days shalt thou labor and do all thy work;{% endem %}
 
-**Mosiah 13:18** but the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou nor thy son nor thy daughter, thy manservant nor thy maidservant nor thy cattle nor thy stranger that is within thy gates.
+{% marginal %}
+> #### Quote::But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
+> KJV Bible, 1769, [Exodus 20:10](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:18** {% em %}but the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou nor thy son nor thy daughter, thy manservant nor thy maidservant nor thy cattle nor thy stranger that is within thy gates.{% endem %}
 
-**Mosiah 13:19** For in six days the Lord made heaven and earth and the sea and all that in them is; wherefore the Lord blessed the sabbath day and hallowed it.
+{% marginal %}
+> #### Quote::For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
+> KJV Bible, 1769, [Exodus 20:11](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:19** {% em %}For in six days the Lord made heaven and earth and the sea and all that in them is; wherefore the Lord blessed the sabbath day and hallowed it.{% endem %}
 
-**Mosiah 13:20** Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.
+{% marginal %}
+> #### Quote::Honor thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
+> KJV Bible, 1769, [Exodus 20:12](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:20** {% em %}Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.{% endem %}
 
-**Mosiah 13:21** Thou shalt not kill.
+{% marginal %}
+> #### Quote::Thou shalt not kill.
+> KJV Bible, 1769, [Exodus 20:13](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:21** {% em %}Thou shalt not kill.{% endem %}
 
-**Mosiah 13:22** Thou shalt not commit adultery. Thou shalt not steal.
+{% marginal %}
+> #### Quote::Thou shalt not commit adultery.
+> KJV Bible, 1769, [Exodus 20:14](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+{% marginal %}
+> #### Quote::Thou shalt not steal.
+> KJV Bible, 1769, [Exodus 20:15](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:22** {% em %}{% em %}Thou shalt not commit adultery. Thou shalt not steal.{% endem %}{% endem %}
 
-**Mosiah 13:23** Thou shalt not bear false witness against thy neighbor.
+{% marginal %}
+> #### Quote::Thou shalt not bear false witness against thy neighbor.
+> KJV Bible, 1769, [Exodus 20:16](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:23** {% em %}Thou shalt not bear false witness against thy neighbor.{% endem %}
 
-**Mosiah 13:24** Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his manservant nor his maidservant nor his ox nor his ass, nor any thing that is thy neighbor's.
+{% marginal %}
+> #### Quote::Thou shalt not covet thy neighbor's house, thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbor's.
+> KJV Bible, 1769, [Exodus 20:17](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 13:24** {% em %}Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his manservant nor his maidservant nor his ox nor his ass, nor any thing that is thy neighbor's.{% endem %}
 
 **Mosiah 13:25** And it came to pass that after Abinadi had made an end of these sayings that he said unto them: Have ye taught this people that they should observe to do all these things, for to keep these commandments?
 

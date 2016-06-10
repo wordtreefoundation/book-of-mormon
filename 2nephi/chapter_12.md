@@ -1,44 +1,132 @@
-**2 Nephi 12:1** The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem:
+{% marginal %}
+> #### Quote::The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
+> KJV Bible, 1769, [Isaiah 2:1](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:1** {% em %}The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem:{% endem %}
 
-**2 Nephi 12:2** And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains and shall be exalted above the hills, and all nations shall flow unto it.
+{% marginal %}
+> #### Quote::And it shall come to pass in the last days, that the mountain of the LORD's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
+> KJV Bible, 1769, [Isaiah 2:2](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:2** {% em %}And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains and shall be exalted above the hills, and all nations shall flow unto it.{% endem %}
 
-**2 Nephi 12:3** And many people shall go and say: Come ye and let us go up to the mountain of the Lord, to the house of the God of Jacob, and he will teach us of his ways and we will walk in his paths. For out of Zion shall go forth the law and the word of the Lord from Jerusalem.
+{% marginal %}
+> #### Quote::And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
+> KJV Bible, 1769, [Isaiah 2:3](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:3** {% em %}And many people shall go and say: Come ye and let us go up to the mountain of the Lord, to the house of the God of Jacob, and he will teach us of his ways and we will walk in his paths. For out of Zion shall go forth the law and the word of the Lord from Jerusalem.{% endem %}
 
-**2 Nephi 12:4** And he shall judge among the nations and shall rebuke many people. And they shall beat their swords into plowshares and their spears into pruning hooks. Nation shall not lift up sword against nation, neither shall they learn war any more.
+{% marginal %}
+> #### Quote::And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
+> KJV Bible, 1769, [Isaiah 2:4](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:4** {% em %}And he shall judge among the nations and shall rebuke many people. And they shall beat their swords into plowshares and their spears into pruning hooks. Nation shall not lift up sword against nation, neither shall they learn war any more.{% endem %}
 
-**2 Nephi 12:5** O house of Jacob, come ye and let us walk in the light of the Lord, yea, come, for ye have all gone astray, every one to his wicked ways.
+{% marginal %}
+> #### Quote::O house of Jacob, come ye, and let us walk in the light of the LORD.
+> KJV Bible, 1769, [Isaiah 2:5](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:5** {% em %}O house of Jacob, come ye and let us walk in the light of the Lord, yea, come, for ye have all gone astray, every one to his wicked ways.{% endem %}
 
-**2 Nephi 12:6** Therefore, O Lord, thou hast forsaken thy people, the house of Jacob, because they be replenished from the east and hearken unto soothsayers like the Philistines, and they please themselves in the children of strangers.
+{% marginal %}
+> #### Quote::Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.
+> KJV Bible, 1769, [Isaiah 2:6](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:6** {% em %}Therefore, O Lord, thou hast forsaken thy people, the house of Jacob, because they be replenished from the east and hearken unto soothsayers like the Philistines, and they please themselves in the children of strangers.{% endem %}
 
-**2 Nephi 12:7** Their land also is full of silver and gold, neither is there any end of their treasures. Their land is also full of horses, neither is there any end of their chariots.
+{% marginal %}
+> #### Quote::Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:
+> KJV Bible, 1769, [Isaiah 2:7](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:7** {% em %}Their land also is full of silver and gold, neither is there any end of their treasures. Their land is also full of horses, neither is there any end of their chariots.{% endem %}
 
-**2 Nephi 12:8** Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made.
+{% marginal %}
+> #### Quote::Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:
+> KJV Bible, 1769, [Isaiah 2:8](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:8** {% em %}Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made.{% endem %}
 
-**2 Nephi 12:9** And the mean man boweth down and the great man humbleth himself; therefore forgive them not.
+{% marginal %}
+> #### Quote::And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.
+> KJV Bible, 1769, [Isaiah 2:9](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:9** {% em %}And the mean man boweth down and the great man humbleth himself; therefore forgive them not.{% endem %}
 
-**2 Nephi 12:10** O ye wicked ones, enter into the rock and hide thee in the dust, for the fear of the Lord and the glory of his majesty shall smite thee.
+{% marginal %}
+> #### Quote::Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.
+> KJV Bible, 1769, [Isaiah 2:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:10** {% em %}O ye wicked ones, enter into the rock and hide thee in the dust, for the fear of the Lord and the glory of his majesty shall smite thee.{% endem %}
 
-**2 Nephi 12:11** And it shall come to pass that the lofty looks of man shall be humbled and the haughtiness of men shall be bowed down. And the Lord alone shall be exalted in that day.
+{% marginal %}
+> #### Quote::The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
+> KJV Bible, 1769, [Isaiah 2:11](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:11** {% em %}And it shall come to pass that the lofty looks of man shall be humbled and the haughtiness of men shall be bowed down. And the Lord alone shall be exalted in that day.{% endem %}
 
-**2 Nephi 12:12** For the day of the Lord of Hosts soon cometh upon all nations, yea, upon every one, yea, upon the proud and lofty, and upon every one which is lifted up; and he shall be brought low.
+{% marginal %}
+> #### Quote::For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:
+> KJV Bible, 1769, [Isaiah 2:12](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:12** {% em %}For the day of the Lord of Hosts soon cometh upon all nations, yea, upon every one, yea, upon the proud and lofty, and upon every one which is lifted up; and he shall be brought low.{% endem %}
 
-**2 Nephi 12:13** Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up, and upon all the oaks of Bashan,
+{% marginal %}
+> #### Quote::And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,
+> KJV Bible, 1769, [Isaiah 2:13](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:13** {% em %}Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up, and upon all the oaks of Bashan,{% endem %}
 
-**2 Nephi 12:14** and upon all the high mountains and upon all the hills, and upon all the nations which are lifted up and upon every people,
+{% marginal %}
+> #### Quote::And upon all the high mountains, and upon all the hills that are lifted up,
+> KJV Bible, 1769, [Isaiah 2:14](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:14** {% em %}and upon all the high mountains and upon all the hills, and upon all the nations which are lifted up and upon every people,{% endem %}
 
-**2 Nephi 12:15** and upon every high tower and upon every fenced wall,
+{% marginal %}
+> #### Quote::And upon every high tower, and upon every fenced wall,
+> KJV Bible, 1769, [Isaiah 2:15](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:15** {% em %}and upon every high tower and upon every fenced wall,{% endem %}
 
-**2 Nephi 12:16** and upon all the ships of the sea and upon all the ships of Tarshish, and upon all the pleasant pictures.
+{% marginal %}
+> #### Quote::And upon all the ships of Tarshish, and upon all pleasant pictures.
+> KJV Bible, 1769, [Isaiah 2:16](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:16** {% em %}and upon all the ships of the sea and upon all the ships of Tarshish, and upon all the pleasant pictures.{% endem %}
 
-**2 Nephi 12:17** And the loftiness of man shall be bowed down and the haughtiness of men shall be made low. And the Lord alone shall be exalted in that day.
+{% marginal %}
+> #### Quote::And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.
+> KJV Bible, 1769, [Isaiah 2:17](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:17** {% em %}And the loftiness of man shall be bowed down and the haughtiness of men shall be made low. And the Lord alone shall be exalted in that day.{% endem %}
 
-**2 Nephi 12:18** And the idols he shall utterly abolish.
+{% marginal %}
+> #### Quote::And the idols he shall utterly abolish.
+> KJV Bible, 1769, [Isaiah 2:18](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:18** {% em %}And the idols he shall utterly abolish.{% endem %}
 
-**2 Nephi 12:19** And they shall go into the holes of the rocks and into the caves of the earth, for the fear of the Lord shall come upon them. And the glory of his majesty shall smite them when he ariseth to shake terribly the earth.
+{% marginal %}
+> #### Quote::And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
+> KJV Bible, 1769, [Isaiah 2:19](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:19** {% em %}And they shall go into the holes of the rocks and into the caves of the earth, for the fear of the Lord shall come upon them. And the glory of his majesty shall smite them when he ariseth to shake terribly the earth.{% endem %}
 
-**2 Nephi 12:20** In that day a man shall cast his idols of silver and his idols of gold which he hath made for himself to worship, to the moles and to the bats,
+{% marginal %}
+> #### Quote::In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;
+> KJV Bible, 1769, [Isaiah 2:20](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:20** {% em %}In that day a man shall cast his idols of silver and his idols of gold which he hath made for himself to worship, to the moles and to the bats,{% endem %}
 
-**2 Nephi 12:21** to go into the clefts of the rocks and into the tops of the ragged rocks. For the fear of the Lord shall come upon them, and the majesty of his glory shall smite them when he ariseth to shake terribly the earth.
+{% marginal %}
+> #### Quote::To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
+> KJV Bible, 1769, [Isaiah 2:21](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:21** {% em %}to go into the clefts of the rocks and into the tops of the ragged rocks. For the fear of the Lord shall come upon them, and the majesty of his glory shall smite them when he ariseth to shake terribly the earth.{% endem %}
 
-**2 Nephi 12:22** Cease ye from man, whose breath is in his nostrils, for wherein is he to be accounted of?
+{% marginal %}
+> #### Quote::Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of ?
+> KJV Bible, 1769, [Isaiah 2:22](http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/)
+{% endmarginal %}
+**2 Nephi 12:22** {% em %}Cease ye from man, whose breath is in his nostrils, for wherein is he to be accounted of?{% endem %}
 

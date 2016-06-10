@@ -2,95 +2,255 @@
 
 **3 Nephi 12:2** And again, more blessed are they which shall believe in your words because that ye shall testify that ye have seen me and that ye know that I am. Yea, blessed are they which shall believe in your words and come down into the depths of humility and be baptized, for they shall be visited with fire and with the Holy Ghost and shall receive a remission of their sins.
 
-**3 Nephi 12:3** Yea, blessed are the poor in spirit which cometh unto me, for theirs is the kingdom of heaven.
+{% marginal %}
+> #### Quote::Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+> KJV Bible, 1769, [Matthew 5:3](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:3** {% em color="orange" %}Yea, blessed are the poor in spirit which cometh unto me, for theirs is the kingdom of heaven.{% endem %}
 
-**3 Nephi 12:4** And again, blessed are all they that mourn, for they shall be comforted.
+{% marginal %}
+> #### Quote::Blessed are they that mourn: for they shall be comforted.
+> KJV Bible, 1769, [Matthew 5:4](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:4** {% em color="orange" %}And again, blessed are all they that mourn, for they shall be comforted.{% endem %}
 
-**3 Nephi 12:5** And blessed are the meek, for they shall inherit the earth.
+{% marginal %}
+> #### Quote::Blessed are the meek: for they shall inherit the earth.
+> KJV Bible, 1769, [Matthew 5:5](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:5** {% em color="orange" %}And blessed are the meek, for they shall inherit the earth.{% endem %}
 
-**3 Nephi 12:6** And blessed are all they which do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.
+{% marginal %}
+> #### Quote::Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+> KJV Bible, 1769, [Matthew 5:6](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:6** {% em color="orange" %}And blessed are all they which do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.{% endem %}
 
-**3 Nephi 12:7** And blessed are the merciful, for they shall obtain mercy.
+{% marginal %}
+> #### Quote::Blessed are the merciful: for they shall obtain mercy.
+> KJV Bible, 1769, [Matthew 5:7](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:7** {% em color="orange" %}And blessed are the merciful, for they shall obtain mercy.{% endem %}
 
-**3 Nephi 12:8** And blessed are all the pure in heart, for they shall see God.
+{% marginal %}
+> #### Quote::Blessed are the pure in heart: for they shall see God.
+> KJV Bible, 1769, [Matthew 5:8](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:8** {% em color="orange" %}And blessed are all the pure in heart, for they shall see God.{% endem %}
 
-**3 Nephi 12:9** And blessed are all the peacemakers, for they shall be called the children of God.
+{% marginal %}
+> #### Quote::Blessed are the peacemakers: for they shall be called the children of God.
+> KJV Bible, 1769, [Matthew 5:9](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:9** {% em color="orange" %}And blessed are all the peacemakers, for they shall be called the children of God.{% endem %}
 
-**3 Nephi 12:10** And blessed are all they which are persecuted for my name's sake, for theirs is the kingdom of heaven.
+{% marginal %}
+> #### Quote::Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
+> KJV Bible, 1769, [Matthew 5:10](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:10** {% em color="orange" %}And blessed are all they which are persecuted for my name's sake, for theirs is the kingdom of heaven.{% endem %}
 
-**3 Nephi 12:11** And blessed are ye when men shall revile you and persecute and shall say all manner of evil against you falsely, for my sake,
+{% marginal %}
+> #### Quote::Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
+> KJV Bible, 1769, [Matthew 5:11](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:11** {% em color="orange" %}And blessed are ye when men shall revile you and persecute and shall say all manner of evil against you falsely, for my sake,{% endem %}
 
-**3 Nephi 12:12** for ye shall have great joy and be exceeding glad, for great shall be your reward in heaven; for so persecuted they the prophets which were before you.
+{% marginal %}
+> #### Quote::Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
+> KJV Bible, 1769, [Matthew 5:12](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:12** {% em color="orange" %}for ye shall have great joy and be exceeding glad, for great shall be your reward in heaven; for so persecuted they the prophets which were before you.{% endem %}
 
-**3 Nephi 12:13** Verily verily I say unto you: I give unto you to be the salt of the earth. But if the salt shall lose its savor, wherewith shall the earth be salted? The salt shall be thenceforth good for nothing but to be cast out and to be trodden under foot of men.
+{% marginal %}
+> #### Quote::Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
+> KJV Bible, 1769, [Matthew 5:13](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:13** {% em color="orange" %}Verily verily I say unto you: I give unto you to be the salt of the earth. But if the salt shall lose its savor, wherewith shall the earth be salted? The salt shall be thenceforth good for nothing but to be cast out and to be trodden under foot of men.{% endem %}
 
-**3 Nephi 12:14** Verily verily I say unto you: I give unto you to be the light of this people. A city that is set on a hill cannot be hid.
+{% marginal %}
+> #### Quote::Ye are the light of the world. A city that is set on an hill cannot be hid.
+> KJV Bible, 1769, [Matthew 5:14](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:14** {% em color="orange" %}Verily verily I say unto you: I give unto you to be the light of this people. A city that is set on a hill cannot be hid.{% endem %}
 
-**3 Nephi 12:15** Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house.
+{% marginal %}
+> #### Quote::Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.
+> KJV Bible, 1769, [Matthew 5:15](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:15** {% em color="orange" %}Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house.{% endem %}
 
-**3 Nephi 12:16** Therefore let your light so shine before this people, that they may see your good works and glorify your Father which is in heaven.
+{% marginal %}
+> #### Quote::Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+> KJV Bible, 1769, [Matthew 5:16](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:16** {% em color="orange" %}Therefore let your light so shine before this people, that they may see your good works and glorify your Father which is in heaven.{% endem %}
 
-**3 Nephi 12:17** Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfill.
+{% marginal %}
+> #### Quote::Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
+> KJV Bible, 1769, [Matthew 5:17](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:17** {% em color="orange" %}Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfill.{% endem %}
 
-**3 Nephi 12:18** For verily I say unto you: One jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.
+{% marginal %}
+> #### Quote::For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+> KJV Bible, 1769, [Matthew 5:18](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:18** {% em color="orange" %}For verily I say unto you: One jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.{% endem %}
 
 **3 Nephi 12:19** And behold, I have given unto you the law and the commandments of my Father, that ye shall believe in me and that ye shall repent of your sins and come unto me with a broken heart and a contrite spirit. Behold, ye have the commandments before you, and the law is fulfilled.
 
 **3 Nephi 12:20** Therefore come unto me and be ye saved, for verily I say unto you that except ye shall keep my commandments, which I have commanded you at this time, ye shall in no case enter into the kingdom of heaven.
 
-**3 Nephi 12:21** Ye have heard that it hath been said by them of old time--and it is also written before you--that thou shalt not kill. And whosoever shall kill shall be in danger of the judgment of God.
+{% marginal %}
+> #### Quote::Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
+> KJV Bible, 1769, [Matthew 5:21](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:21** {% em color="orange" %}Ye have heard that it hath been said by them of old time--and it is also written before you--that thou shalt not kill. And whosoever shall kill shall be in danger of the judgment of God.{% endem %}
 
-**3 Nephi 12:22** But I say unto you that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, thou fool, shall be in danger of hell fire.
+{% marginal %}
+> #### Quote::But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+> KJV Bible, 1769, [Matthew 5:22](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:22** {% em color="orange" %}But I say unto you that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, thou fool, shall be in danger of hell fire.{% endem %}
 
-**3 Nephi 12:23** Therefore if ye shall come unto me or shall desire to come unto me and rememberest that thy brother hath aught against thee,
+{% marginal %}
+> #### Quote::Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
+> KJV Bible, 1769, [Matthew 5:23](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:23** {% em color="orange" %}Therefore if ye shall come unto me or shall desire to come unto me and rememberest that thy brother hath aught against thee,{% endem %}
 
-**3 Nephi 12:24** go thy way unto thy brother and first be reconciled to thy brother and then come unto me with full purpose of heart and I will receive you.
+{% marginal %}
+> #### Quote::Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
+> KJV Bible, 1769, [Matthew 5:24](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:24** {% em color="orange" %}go thy way unto thy brother and first be reconciled to thy brother and then come unto me with full purpose of heart and I will receive you.{% endem %}
 
-**3 Nephi 12:25** Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee and thou shalt be cast into prison.
+{% marginal %}
+> #### Quote::Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
+> KJV Bible, 1769, [Matthew 5:25](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:25** {% em color="orange" %}Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee and thou shalt be cast into prison.{% endem %}
 
-**3 Nephi 12:26** Verily I say unto thee: Thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison, can ye pay even one senine? Verily verily I say unto you: Nay.
+{% marginal %}
+> #### Quote::Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
+> KJV Bible, 1769, [Matthew 5:26](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:26** {% em color="orange" %}Verily I say unto thee: Thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison, can ye pay even one senine? Verily verily I say unto you: Nay.{% endem %}
 
-**3 Nephi 12:27** Behold, it is written by them of old time that thou shalt not commit adultery.
+{% marginal %}
+> #### Quote::Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
+> KJV Bible, 1769, [Matthew 5:27](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:27** {% em color="orange" %}Behold, it is written by them of old time that thou shalt not commit adultery.{% endem %}
 
-**3 Nephi 12:28** But I say unto you that whosoever looketh on a woman to lust after her hath committed adultery already in his heart.
+{% marginal %}
+> #### Quote::But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
+> KJV Bible, 1769, [Matthew 5:28](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:28** {% em color="orange" %}But I say unto you that whosoever looketh on a woman to lust after her hath committed adultery already in his heart.{% endem %}
 
 **3 Nephi 12:29** Behold, I give unto you a commandment that ye suffer none of these things to enter into your heart.
 
 **3 Nephi 12:30** For it is better that ye should deny yourselves of these things, wherein ye will take up your cross, than that ye should be cast into hell.
 
-**3 Nephi 12:31** It hath been written that whosoever shall put away his wife, let him give her a writing of divorcement.
+{% marginal %}
+> #### Quote::It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
+> KJV Bible, 1769, [Matthew 5:31](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:31** {% em color="orange" %}It hath been written that whosoever shall put away his wife, let him give her a writing of divorcement.{% endem %}
 
-**3 Nephi 12:32** Verily verily I say unto you that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.
+{% marginal %}
+> #### Quote::But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
+> KJV Bible, 1769, [Matthew 5:32](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:32** {% em color="orange" %}Verily verily I say unto you that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.{% endem %}
 
-**3 Nephi 12:33** And again it is written: Thou shalt not forswear thyself but shalt perform unto the Lord thine oaths.
+{% marginal %}
+> #### Quote::Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
+> KJV Bible, 1769, [Matthew 5:33](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:33** {% em color="orange" %}And again it is written: Thou shalt not forswear thyself but shalt perform unto the Lord thine oaths.{% endem %}
 
-**3 Nephi 12:34** But verily verily I say unto you: Swear not at all, neither by heaven--for it is God's throne--
+{% marginal %}
+> #### Quote::But I say unto you, Swear not at all; neither by heaven; for it is God's throne:
+> KJV Bible, 1769, [Matthew 5:34](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:34** {% em color="orange" %}But verily verily I say unto you: Swear not at all, neither by heaven--for it is God's throne--{% endem %}
 
-**3 Nephi 12:35** nor by the earth--for it is his footstool--
+{% marginal %}
+> #### Quote::Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.
+> KJV Bible, 1769, [Matthew 5:35](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:35** {% em color="orange" %}nor by the earth--for it is his footstool--{% endem %}
 
-**3 Nephi 12:36** neither shalt thou swear by thy head, because thou canst not make one hair black or white.
+{% marginal %}
+> #### Quote::Neither shalt thou swear by thy head, because thou canst not make one hair white or black.
+> KJV Bible, 1769, [Matthew 5:36](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:36** {% em color="orange" %}neither shalt thou swear by thy head, because thou canst not make one hair black or white.{% endem %}
 
-**3 Nephi 12:37** But let your communication be, yea yea, nay nay; for whatsoever cometh of more than these are evil.
+{% marginal %}
+> #### Quote::But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
+> KJV Bible, 1769, [Matthew 5:37](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:37** {% em color="orange" %}But let your communication be, yea yea, nay nay; for whatsoever cometh of more than these are evil.{% endem %}
 
-**3 Nephi 12:38** And behold, it is written: An eye for an eye and a tooth for a tooth.
+{% marginal %}
+> #### Quote::Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:
+> KJV Bible, 1769, [Matthew 5:38](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:38** {% em color="orange" %}And behold, it is written: An eye for an eye and a tooth for a tooth.{% endem %}
 
-**3 Nephi 12:39** But I say unto you that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also.
+{% marginal %}
+> #### Quote::But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
+> KJV Bible, 1769, [Matthew 5:39](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:39** {% em color="orange" %}But I say unto you that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also.{% endem %}
 
-**3 Nephi 12:40** And if any man will sue thee at the law and take away thy coat, let him have thy cloak also.
+{% marginal %}
+> #### Quote::And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.
+> KJV Bible, 1769, [Matthew 5:40](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:40** {% em color="orange" %}And if any man will sue thee at the law and take away thy coat, let him have thy cloak also.{% endem %}
 
-**3 Nephi 12:41** And whosoever shall compel thee to go a mile, go with him twain.
+{% marginal %}
+> #### Quote::And whosoever shall compel thee to go a mile, go with him twain.
+> KJV Bible, 1769, [Matthew 5:41](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:41** {% em color="orange" %}And whosoever shall compel thee to go a mile, go with him twain.{% endem %}
 
-**3 Nephi 12:42** Give to him that asketh thee, and from him that would borrow of thee turn thou not away.
+{% marginal %}
+> #### Quote::Give to him that asketh thee, and from him that would borrow of thee turn not thou away.
+> KJV Bible, 1769, [Matthew 5:42](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:42** {% em color="orange" %}Give to him that asketh thee, and from him that would borrow of thee turn thou not away.{% endem %}
 
-**3 Nephi 12:43** And behold, it is written also that thou shalt love thy neighbor and hate thine enemy.
+{% marginal %}
+> #### Quote::Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
+> KJV Bible, 1769, [Matthew 5:43](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:43** {% em color="orange" %}And behold, it is written also that thou shalt love thy neighbor and hate thine enemy.{% endem %}
 
-**3 Nephi 12:44** But behold, I say unto you: Love your enemies! Bless them that curse you! Do good to them that hate you, and pray for them which despitefully use you and persecute you,
+{% marginal %}
+> #### Quote::But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
+> KJV Bible, 1769, [Matthew 5:44](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:44** {% em color="orange" %}But behold, I say unto you: Love your enemies! Bless them that curse you! Do good to them that hate you, and pray for them which despitefully use you and persecute you,{% endem %}
 
-**3 Nephi 12:45** that ye may be the children of your Father which is in heaven, for he maketh his sun to rise on the evil and on the good.
+{% marginal %}
+> #### Quote::That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
+> KJV Bible, 1769, [Matthew 5:45](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:45** {% em color="orange" %}that ye may be the children of your Father which is in heaven, for he maketh his sun to rise on the evil and on the good.{% endem %}
 
 **3 Nephi 12:46** Therefore those things which were of old time which were under the law, in me are all fulfilled.
 
 **3 Nephi 12:47** Old things are done away, and all things have become new.
 
-**3 Nephi 12:48** Therefore I would that ye should be perfect, even as I or your Father which is in heaven is perfect.
+{% marginal %}
+> #### Quote::Be ye therefore perfect, even as your Father which is in heaven is perfect.
+> KJV Bible, 1769, [Matthew 5:48](http://www.kingjamesbibleonline.org/Matthew-Chapter-5/)
+{% endmarginal %}
+**3 Nephi 12:48** {% em color="orange" %}Therefore I would that ye should be perfect, even as I or your Father which is in heaven is perfect.{% endem %}
 

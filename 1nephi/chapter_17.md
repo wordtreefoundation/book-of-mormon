@@ -68,7 +68,11 @@
 
 **1 Nephi 17:35** Behold, the Lord esteemeth all flesh in one; he that is righteous is favored of God. But behold, this people had rejected every word of God, and they were ripe in iniquity, and the fullness of the wrath of God was upon them. And the Lord did curse the land against them and bless it unto our fathers. Yea, he did curse it against them unto their destruction, and he did bless it unto our fathers unto their obtaining power over it.
 
-**1 Nephi 17:36** Behold, the Lord hath created the earth that it should be inhabited, and he hath created his children that they should possess it.
+{% marginal %}
+> #### Quote::For thus saith the LORD that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I am the LORD; and there is none else.
+> KJV Bible, 1769, [Isaiah 45:18](http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/)
+{% endmarginal %}
+**1 Nephi 17:36** {% em %}Behold, the Lord hath created the earth that it should be inhabited, and he hath created his children that they should possess it.{% endem %}
 
 **1 Nephi 17:37** And he raiseth up a righteous nation and destroyeth the nations of the wicked.
 

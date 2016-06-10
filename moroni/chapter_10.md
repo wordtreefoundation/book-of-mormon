@@ -58,7 +58,15 @@
 
 **Moroni 10:30** And again I would exhort you that ye would come unto Christ and lay hold upon every good gift, and touch not the evil gift nor the unclean thing.
 
-**Moroni 10:31** And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.
+{% marginal %}
+> #### Quote::Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
+> KJV Bible, 1769, [Isaiah 52:1](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+{% marginal %}
+> #### Quote::Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
+> KJV Bible, 1769, [Isaiah 54:2](http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/)
+{% endmarginal %}
+**Moroni 10:31** {% em %}{% em %}And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.{% endem %}{% endem %}
 
 **Moroni 10:32** Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ. And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
 

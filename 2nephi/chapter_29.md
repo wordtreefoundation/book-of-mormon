@@ -1,6 +1,14 @@
-**2 Nephi 29:1** But behold, there shall be many at that day when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people which are of the house of Israel
+{% marginal %}
+> #### Quote::And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
+> KJV Bible, 1769, [Isaiah 11:11](http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/)
+{% endmarginal %}
+**2 Nephi 29:1** {% em %}But behold, there shall be many at that day when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people which are of the house of Israel{% endem %}
 
-**2 Nephi 29:2** --and also that I may remember the promises which I have made unto thee Nephi and also unto thy father, that I would remember your seed, and that the words of your seed should proceed forth out of my mouth unto your seed, and my words shall hiss forth unto the ends of the earth for a standard unto my people which are of the house of Israel--
+{% marginal %}
+> #### Quote::And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:
+> KJV Bible, 1769, [Isaiah 5:26](http://www.kingjamesbibleonline.org/Isaiah-Chapter-5/)
+{% endmarginal %}
+**2 Nephi 29:2** {% em %}--and also that I may remember the promises which I have made unto thee Nephi and also unto thy father, that I would remember your seed, and that the words of your seed should proceed forth out of my mouth unto your seed, and my words shall hiss forth unto the ends of the earth for a standard unto my people which are of the house of Israel--{% endem %}
 
 **2 Nephi 29:3** and because my words shall hiss forth, many of the Gentiles shall say: A Bible, a Bible, we have got a Bible! And there cannot be any more Bible!
 

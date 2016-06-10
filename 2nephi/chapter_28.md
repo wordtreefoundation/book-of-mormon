@@ -10,11 +10,31 @@
 
 **2 Nephi 28:6** Behold, hearken ye unto my precept. If they shall say there is a miracle wrought by the hand of the Lord, believe it not! For this day he is not a God of miracles; he hath done his work.
 
-**2 Nephi 28:7** Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.
+{% marginal %}
+> #### Quote::And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
+> KJV Bible, 1769, [Isaiah 22:13](http://www.kingjamesbibleonline.org/Isaiah-Chapter-22/)
+{% endmarginal %}
+{% marginal %}
+> #### Quote::If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
+> KJV Bible, 1769, [1 Corinthians 15:32](http://www.kingjamesbibleonline.org/1 Corinthians-Chapter-15/)
+{% endmarginal %}
+{% marginal %}
+> #### Quote::And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.
+> KJV Bible, 1769, [Luke 12:19](http://www.kingjamesbibleonline.org/Luke-Chapter-12/)
+{% endmarginal %}
+**2 Nephi 28:7** {% em color="orange" %}{% em color="orange" %}{% em %}Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.{% endem %}{% endem %}{% endem %}
 
-**2 Nephi 28:8** And there shall also be many which shall say: Eat, drink, and be merry, nevertheless fear God. He will justify in committing a little sin. Yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this. And do all these things, for tomorrow we die. And if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.
+{% marginal %}
+> #### Quote::And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
+> KJV Bible, 1769, [Isaiah 22:13](http://www.kingjamesbibleonline.org/Isaiah-Chapter-22/)
+{% endmarginal %}
+**2 Nephi 28:8** {% em %}And there shall also be many which shall say: Eat, drink, and be merry, nevertheless fear God. He will justify in committing a little sin. Yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this. And do all these things, for tomorrow we die. And if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.{% endem %}
 
-**2 Nephi 28:9** Yea, and there shall be many which shall teach after this manner false and vain and foolish doctrines and shall be puffed up in their hearts and shall seek deep to hide their counsels from the Lord, and their works shall be in the dark.
+{% marginal %}
+> #### Quote::Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
+> KJV Bible, 1769, [Isaiah 29:15](http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/)
+{% endmarginal %}
+**2 Nephi 28:9** {% em %}Yea, and there shall be many which shall teach after this manner false and vain and foolish doctrines and shall be puffed up in their hearts and shall seek deep to hide their counsels from the Lord, and their works shall be in the dark.{% endem %}
 
 **2 Nephi 28:10** And the blood of the saints shall cry from the ground against them.
 
@@ -56,9 +76,25 @@
 
 **2 Nephi 28:29** Woe be unto him that shall say: We have received the word of God, and we need no more of the word of God, for we have enough.
 
-**2 Nephi 28:30** For behold, thus saith the Lord God: I will give unto the children of men line upon line and precept upon precept, here a little and there a little. And blessed are they that hearken unto my precepts and lend an ear unto my counsel, for they shall learn wisdom. For unto him that receiveth I will give more; and them that shall say we have enough, from them shall be taken away even that which they have.
+{% marginal %}
+> #### Quote::For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
+> KJV Bible, 1769, [Isaiah 28:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-28/)
+{% endmarginal %}
+{% marginal %}
+> #### Quote::But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.
+> KJV Bible, 1769, [Isaiah 28:13](http://www.kingjamesbibleonline.org/Isaiah-Chapter-28/)
+{% endmarginal %}
+**2 Nephi 28:30** {% em %}{% em %}For behold, thus saith the Lord God: I will give unto the children of men line upon line and precept upon precept, here a little and there a little. And blessed are they that hearken unto my precepts and lend an ear unto my counsel, for they shall learn wisdom. For unto him that receiveth I will give more; and them that shall say we have enough, from them shall be taken away even that which they have.{% endem %}{% endem %}
 
-**2 Nephi 28:31** Cursed is he that putteth his trust in man or maketh flesh his arm, or shall hearken unto the precepts of men, save their precepts shall be given by the power of the Holy Ghost.
+{% marginal %}
+> #### Quote::Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.
+> KJV Bible, 1769, [Jeremiah 17:5](http://www.kingjamesbibleonline.org/Jeremiah-Chapter-17/)
+{% endmarginal %}
+**2 Nephi 28:31** {% em %}Cursed is he that putteth his trust in man or maketh flesh his arm, or shall hearken unto the precepts of men, save their precepts shall be given by the power of the Holy Ghost.{% endem %}
 
-**2 Nephi 28:32** Woe be unto the Gentiles, saith the Lord God of Hosts; for notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me. Nevertheless I will be merciful unto them, saith the Lord God, if they will repent and come unto me. For mine arm is lengthened out all the day long, saith the Lord God of Hosts.
+{% marginal %}
+> #### Quote::The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand is stretched out still.
+> KJV Bible, 1769, [Isaiah 9:12](http://www.kingjamesbibleonline.org/Isaiah-Chapter-9/)
+{% endmarginal %}
+**2 Nephi 28:32** {% em %}Woe be unto the Gentiles, saith the Lord God of Hosts; for notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me. Nevertheless I will be merciful unto them, saith the Lord God, if they will repent and come unto me. For mine arm is lengthened out all the day long, saith the Lord God of Hosts.{% endem %}
 

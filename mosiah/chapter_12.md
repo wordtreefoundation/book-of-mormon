@@ -38,13 +38,29 @@
 
 **Mosiah 12:20** And it came to pass that one of them saith unto him: What meaneth the words which are written and which have been taught by our fathers, saying:
 
-**Mosiah 12:21** How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!
+{% marginal %}
+> #### Quote::How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
+> KJV Bible, 1769, [Isaiah 52:7](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**Mosiah 12:21** {% em %}How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!{% endem %}
 
-**Mosiah 12:22** Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.
+{% marginal %}
+> #### Quote::Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
+> KJV Bible, 1769, [Isaiah 52:8](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**Mosiah 12:22** {% em %}Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.{% endem %}
 
-**Mosiah 12:23** Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.
+{% marginal %}
+> #### Quote::Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
+> KJV Bible, 1769, [Isaiah 52:9](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**Mosiah 12:23** {% em %}Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.{% endem %}
 
-**Mosiah 12:24** The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.
+{% marginal %}
+> #### Quote::The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
+> KJV Bible, 1769, [Isaiah 52:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**Mosiah 12:24** {% em %}The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.{% endem %}
 
 **Mosiah 12:25** And now Abinadi saith unto them: Are you priests and pretend to teach this people and to understand the spirit of prophesying, and yet desireth to know of me what these things mean?
 
@@ -64,11 +80,23 @@
 
 **Mosiah 12:33** But now Abinadi saith unto them: I know if ye keep the commandments of God, ye shall be saved--yea, if ye keep the commandments which the Lord delivered unto Moses in the mount of Sinai, saying:
 
-**Mosiah 12:34** I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+{% marginal %}
+> #### Quote::I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+> KJV Bible, 1769, [Exodus 20:2](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 12:34** {% em %}I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.{% endem %}
 
-**Mosiah 12:35** Thou shalt have no other God before me.
+{% marginal %}
+> #### Quote::Thou shalt have no other gods before me.
+> KJV Bible, 1769, [Exodus 20:3](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 12:35** {% em %}Thou shalt have no other God before me.{% endem %}
 
-**Mosiah 12:36** Thou shalt not make unto thee any graven image, or any likeness of any thing in the heaven above, or things which is in the earth beneath.
+{% marginal %}
+> #### Quote::Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+> KJV Bible, 1769, [Exodus 20:4](http://www.kingjamesbibleonline.org/Exodus-Chapter-20/)
+{% endmarginal %}
+**Mosiah 12:36** {% em %}Thou shalt not make unto thee any graven image, or any likeness of any thing in the heaven above, or things which is in the earth beneath.{% endem %}
 
 **Mosiah 12:37** Now Abinadi saith unto them: Have ye done all this? I say unto you: Nay, ye have not. And have ye taught this people that they should do all these things? I say unto you: Nay, ye have not.
 

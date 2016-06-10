@@ -8,17 +8,33 @@
 
 **1 Nephi 22:5** And since that they have been led away, these things have been prophesied concerning them, and also concerning all they which shall hereafter be scattered and be confounded because of the Holy One of Israel, for against him will they harden their hearts. Wherefore they shall be scattered among all nations and shall be hated by all men.
 
-**1 Nephi 22:6** Nevertheless, after that they have been nursed by the Gentiles, and the Lord hath lifted up his hand upon the Gentiles and set them up for a standard, and their children shall be carried in their arms and their daughters shall be carried upon their shoulders--behold, these things of which are spoken are temporal, for thus is the covenants of the Lord with our fathers. And it meaneth us in the days to come and also all our brethren which are of the house of Israel.
+{% marginal %}
+> #### Quote::Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
+> KJV Bible, 1769, [Isaiah 49:22](http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/)
+{% endmarginal %}
+**1 Nephi 22:6** {% em %}Nevertheless, after that they have been nursed by the Gentiles, and the Lord hath lifted up his hand upon the Gentiles and set them up for a standard, and their children shall be carried in their arms and their daughters shall be carried upon their shoulders--behold, these things of which are spoken are temporal, for thus is the covenants of the Lord with our fathers. And it meaneth us in the days to come and also all our brethren which are of the house of Israel.{% endem %}
 
 **1 Nephi 22:7** And it meaneth that the time cometh that after all the house of Israel have been scattered and confounded that the Lord God will raise up a mighty nation among the Gentiles, yea, even upon the face of this land, and by them shall our seed be scattered.
 
-**1 Nephi 22:8** And after that our seed is scattered, the Lord God will proceed to do a marvelous work among the Gentiles which shall be of great worth unto our seed. Wherefore it is likened unto the being nursed by the Gentiles and being carried in their arms and upon their shoulders.
+{% marginal %}
+> #### Quote::Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
+> KJV Bible, 1769, [Isaiah 49:22](http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/)
+{% endmarginal %}
+**1 Nephi 22:8** {% em %}And after that our seed is scattered, the Lord God will proceed to do a marvelous work among the Gentiles which shall be of great worth unto our seed. Wherefore it is likened unto the being nursed by the Gentiles and being carried in their arms and upon their shoulders.{% endem %}
 
 **1 Nephi 22:9** And it shall also be of worth unto the Gentiles--and not only unto the Gentiles but unto all the house of Israel--unto the making known of the covenants of the Father of heaven unto Abraham, saying: In thy seed shall all the kindreds of the earth be blessed.
 
-**1 Nephi 22:10** And I would, my brethren, that ye should know that all the kindreds of the earth cannot be blessed unless he shall make bare his arm in the eyes of the nations.
+{% marginal %}
+> #### Quote::The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
+> KJV Bible, 1769, [Isaiah 52:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**1 Nephi 22:10** {% em %}And I would, my brethren, that ye should know that all the kindreds of the earth cannot be blessed unless he shall make bare his arm in the eyes of the nations.{% endem %}
 
-**1 Nephi 22:11** Wherefore the Lord God will proceed to make bare his arm in the eyes of all the nations, in bringing about his covenants and his gospel unto they which are of the house of Israel.
+{% marginal %}
+> #### Quote::The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
+> KJV Bible, 1769, [Isaiah 52:10](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**1 Nephi 22:11** {% em %}Wherefore the Lord God will proceed to make bare his arm in the eyes of all the nations, in bringing about his covenants and his gospel unto they which are of the house of Israel.{% endem %}
 
 **1 Nephi 22:12** Wherefore he will bring them again out of captivity, and they shall be gathered together to the lands of their first inheritance. And they shall be brought out of obscurity and out of darkness, and they shall know that the Lord is their Savior and their Redeemer, the Mighty One of Israel.
 

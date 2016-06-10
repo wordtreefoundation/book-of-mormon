@@ -58,7 +58,11 @@
 
 **Mosiah 27:30** I rejected my Redeemer and denied that which had been spoken of by our fathers. But now I know that they may foresee that he will come and that he remembereth every creature of his creating and he will make himself manifest unto all.
 
-**Mosiah 27:31** Yea, every knee shall bow and every tongue confess before him. Yea, even at the last day when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess who live without God in the world that the judgment of an everlasting punishment is just upon them. And they shall quake and tremble and shrink beneath the glance of his all-searching eye.
+{% marginal %}
+> #### Quote::I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.
+> KJV Bible, 1769, [Isaiah 45:23](http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/)
+{% endmarginal %}
+**Mosiah 27:31** {% em %}Yea, every knee shall bow and every tongue confess before him. Yea, even at the last day when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess who live without God in the world that the judgment of an everlasting punishment is just upon them. And they shall quake and tremble and shrink beneath the glance of his all-searching eye.{% endem %}
 
 **Mosiah 27:32** And now it came to pass that and those which were with Alma at the time the angel appeared unto them, traveling round about through all the land, publishing to all the people the things which they had heard and seen, and preaching the word of God, in much tribulation, being greatly persecuted by those which were unbelievers, being smitten by many of them.
 
@@ -70,5 +74,9 @@
 
 **Mosiah 27:36** and thus they were instruments in the hands of God in bringing many to the knowledge of the truth, yea, to the knowledge of their Redeemer.
 
-**Mosiah 27:37** And how blessed are they! For they did publish peace; they did publish good tidings of good, and they did declare unto the people that the Lord reigneth.
+{% marginal %}
+> #### Quote::How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
+> KJV Bible, 1769, [Isaiah 52:7](http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/)
+{% endmarginal %}
+**Mosiah 27:37** {% em %}And how blessed are they! For they did publish peace; they did publish good tidings of good, and they did declare unto the people that the Lord reigneth.{% endem %}
 
