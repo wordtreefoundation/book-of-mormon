@@ -10,6 +10,10 @@ The objective is not to find the “most correct” version of the Book of Mormo
 
 If you’d like to contribute to this work, please register as a user and begin annotating! If you have written a post somewhere else that explains how a verse was created, feel free to provide a 2 sentence summary and then link to your post! This is a community effort.
 
+## Contributing
+
+You can add comments to this book using the "+" (plus) signs next to each paragraph or verse in the book. Once we've read your comment or discussion thread, an editor will try to incorporate the content in to the book. If you'd like to become an editor, please contact the WordTree Foundation.
+
 ## Annotation Requirements
 
 Each annotation must include the following:
@@ -20,9 +24,9 @@ Each annotation must include the following:
 * Link if available
 * If you need storage for video/images hosting of content is available on this site
 
-## Table of Contents
+## Style Guide
 
-The [Table of Contents](README.md) is available at the panel on the left-hand side of the screen.
+We use [asciidoc](http://powerman.name/doc/asciidoc) as the formatting language for this gitbook project.
 
 ## Generating the Text
 
