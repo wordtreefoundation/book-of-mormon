@@ -26,13 +26,49 @@
 
 *2 Nephi 26:14* But behold, I prophesy unto you concerning the last days, concerning the days when the Lord God shall bring these things forth unto the children of men.
 
-*2 Nephi 26:15* After that my seed and the seed of my brethren shall have dwindled in unbelief and shall have been smitten by the Gentiles--yea, after that the Lord God shall have camped against them round about and shall have laid siege against them with a mount and raised forts against them, and after that they shall have been brought down low in the dust, even that they are not--yet the words of the righteous shall be written and the prayers of the faithful shall be heard, and all they which have dwindled in unbelief shall not be forgotten.
+{% marginal %}
+****
+*Quote* And the fortress of the high fort of thy walls shall he bring down, lay low, and bring to the ground, even to the dust.
 
-*2 Nephi 26:16* For they which shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit. For the Lord God will give unto him power that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-25/[Isaiah 25:12]
+****
+{% endmarginal %}
+
+
+{% marginal %}
+****
+*Quote* And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:3]
+****
+{% endmarginal %}
+
+
+*2 Nephi 26:15* [yellow-background]#[yellow-background]#After that my seed and the seed of my brethren shall have dwindled in unbelief and shall have been smitten by the Gentiles--yea, after that the Lord God shall have camped against them round about and shall have laid siege against them with a mount and raised forts against them, and after that they shall have been brought down low in the dust, even that they are not--yet the words of the righteous shall be written and the prayers of the faithful shall be heard, and all they which have dwindled in unbelief shall not be forgotten.##
+
+{% marginal %}
+****
+*Quote* And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:4]
+****
+{% endmarginal %}
+
+
+*2 Nephi 26:16* [yellow-background]#For they which shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit. For the Lord God will give unto him power that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.#
 
 *2 Nephi 26:17* For thus saith the Lord God: They shall write the things which shall be done among them, and they shall be written and sealed up in a book. And they that have dwindled in unbelief shall not have them, for they seek to destroy the things of God.
 
-*2 Nephi 26:18* Wherefore as they which have been destroyed have been destroyed speedily and the multitude of their terrible ones shall be as chaff that passeth away, yea, thus saith the Lord God: It shall be at an instant, suddenly.
+{% marginal %}
+****
+*Quote* Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:5]
+****
+{% endmarginal %}
+
+
+*2 Nephi 26:18* [yellow-background]#Wherefore as they which have been destroyed have been destroyed speedily and the multitude of their terrible ones shall be as chaff that passeth away, yea, thus saith the Lord God: It shall be at an instant, suddenly.#
 
 *2 Nephi 26:19* And it shall come to pass that they which have dwindled in unbelief shall be smitten by the hand of the Gentiles.
 
@@ -46,7 +82,16 @@
 
 *2 Nephi 26:24* He doeth not any thing save it be for the benefit of the world, for he loveth the world, even that he layeth down his own life that he may draw all men unto him; wherefore he commandeth none that they shall not partake of his salvation.
 
-*2 Nephi 26:25* Behold, doth he cry unto any, saying: Depart from me! Behold, I say unto you: Nay. But he saith: Come unto me, all ye ends of the earth; buy milk and honey without money and without price.
+{% marginal %}
+****
+*Quote* Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:1]
+****
+{% endmarginal %}
+
+
+*2 Nephi 26:25* [yellow-background]#Behold, doth he cry unto any, saying: Depart from me! Behold, I say unto you: Nay. But he saith: Come unto me, all ye ends of the earth; buy milk and honey without money and without price.#
 
 *2 Nephi 26:26* Behold, hath he commanded any that they should depart out of the synagogues or out of the houses of worship? Behold, I say unto you: Nay.
 

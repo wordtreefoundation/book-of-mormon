@@ -12,7 +12,16 @@
 
 *1 Nephi 10:7* And he spake also concerning a prophet which should come before the Messiah to prepare the way of the Lord,
 
-*1 Nephi 10:8* yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord and make his paths straight, for there standeth one among you whom ye know not--and he is mightier than I--whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.
+{% marginal %}
+****
+*Quote* The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-40/[Isaiah 40:3]
+****
+{% endmarginal %}
+
+
+*1 Nephi 10:8* [yellow-background]#yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord and make his paths straight, for there standeth one among you whom ye know not--and he is mightier than I--whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.#
 
 *1 Nephi 10:9* And my father saith that he should baptize in Bethabara beyond Jordan. And he also spake that he should baptize with water, yea, even that he should baptize the Messiah with water.
 

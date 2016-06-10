@@ -14,19 +14,73 @@
 
 *2 Nephi 30:8* And it shall come to pass that the Lord God shall commence his work among all nations, kindreds, tongues, and people to bring about the restoration of his people upon the earth.
 
-*2 Nephi 30:9* And with righteousness shall the Lord God judge the poor and reprove with equity for the meek of the earth. And he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
+{% marginal %}
+****
+*Quote* But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth: with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:4]
+****
+{% endmarginal %}
+
+
+*2 Nephi 30:9* [yellow-background]#And with righteousness shall the Lord God judge the poor and reprove with equity for the meek of the earth. And he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.#
 
 *2 Nephi 30:10* For the time speedily cometh that the Lord God shall cause a great division among the people; and the wicked will he destroy and he will spare his people, yea, even if it so be that he must destroy the wicked by fire.
 
-*2 Nephi 30:11* And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
+{% marginal %}
+****
+*Quote* And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
 
-*2 Nephi 30:12* And then shall the wolf dwell with the lamb, and the leopard shall lie down with the kid, and the calf and the young lion and the fatling together; and a little child shall lead them.
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:5]
+****
+{% endmarginal %}
 
-*2 Nephi 30:13* And the cow and the bear shall feed; their young ones shall lie down together. And the lion shall eat straw like the ox.
 
-*2 Nephi 30:14* And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice's den.
+*2 Nephi 30:11* [yellow-background]#And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.#
 
-*2 Nephi 30:15* They shall not hurt nor destroy in all my holy mountain, for the earth shall be full of the knowledge of the Lord as the waters cover the sea.
+{% marginal %}
+****
+*Quote* The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:6]
+****
+{% endmarginal %}
+
+
+*2 Nephi 30:12* [yellow-background]#And then shall the wolf dwell with the lamb, and the leopard shall lie down with the kid, and the calf and the young lion and the fatling together; and a little child shall lead them.#
+
+{% marginal %}
+****
+*Quote* And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:7]
+****
+{% endmarginal %}
+
+
+*2 Nephi 30:13* [yellow-background]#And the cow and the bear shall feed; their young ones shall lie down together. And the lion shall eat straw like the ox.#
+
+{% marginal %}
+****
+*Quote* And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:8]
+****
+{% endmarginal %}
+
+
+*2 Nephi 30:14* [yellow-background]#And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice's den.#
+
+{% marginal %}
+****
+*Quote* They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:9]
+****
+{% endmarginal %}
+
+
+*2 Nephi 30:15* [yellow-background]#They shall not hurt nor destroy in all my holy mountain, for the earth shall be full of the knowledge of the Lord as the waters cover the sea.#
 
 *2 Nephi 30:16* Wherefore the things of all nations shall be made known; yea, all things shall be made known unto the children of men.
 

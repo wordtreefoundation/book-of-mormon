@@ -8,9 +8,27 @@
 
 *2 Nephi 6:5* And now the words which I shall read are they which Isaiah spake concerning all the house of Israel. Wherefore they may be likened unto you, for ye are of the house of Israel. And there are many things which have been spoken by Isaiah which may be likened unto you because that ye are of the house of Israel.
 
-*2 Nephi 6:6* And now these are the words: Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles and set up my standard to the people. And they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
+{% marginal %}
+****
+*Quote* Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
 
-*2 Nephi 6:7* And kings shall be thy nursing fathers, and their queens thy nursing mothers. They shall bow down to thee with their faces towards the earth and lick up the dust of thy feet. And thou shalt know that I am the Lord, for they shall not be ashamed that wait for me.
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]
+****
+{% endmarginal %}
+
+
+*2 Nephi 6:6* [yellow-background]#And now these are the words: Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles and set up my standard to the people. And they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.#
+
+{% marginal %}
+****
+*Quote* And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:23]
+****
+{% endmarginal %}
+
+
+*2 Nephi 6:7* [yellow-background]#And kings shall be thy nursing fathers, and their queens thy nursing mothers. They shall bow down to thee with their faces towards the earth and lick up the dust of thy feet. And thou shalt know that I am the Lord, for they shall not be ashamed that wait for me.#
 
 *2 Nephi 6:8* And now I Jacob would speak somewhat concerning these words. For behold, the Lord hath shewn me that they which were at Jerusalem, from whence we came, have been slain and carried away captive.
 
@@ -26,11 +44,47 @@
 
 *2 Nephi 6:14* And behold, according to the words of the prophet, the Messiah will set himself again the second time to recover them. Wherefore he will manifest himself unto them in power and great glory unto the destruction of their enemies, when that day cometh when they shall believe in him. And none will he destroy that believeth in him.
 
-*2 Nephi 6:15* And they that believe not in him shall be destroyed, both by fire and by tempest and by earthquakes and by bloodsheds and by pestilence and by famine. And they shall know that the Lord is God, the Holy One of Israel.
+{% marginal %}
+****
+*Quote* Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 
-*2 Nephi 6:16* For shall the prey be taken from the mighty or the lawful captive delivered?
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:6]
+****
+{% endmarginal %}
 
-*2 Nephi 6:17* But thus saith the Lord: Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered, for the mighty God shall deliver his covenant people. For thus saith the Lord: I will contend with them that contendeth with thee.
 
-*2 Nephi 6:18* And I will feed them that oppress thee with their own flesh. And they shall be drunken with their own blood as with sweet wine. And all flesh shall know that I the Lord am thy Savior and thy Redeemer, the Mighty One of Jacob.
+*2 Nephi 6:15* [yellow-background]#And they that believe not in him shall be destroyed, both by fire and by tempest and by earthquakes and by bloodsheds and by pestilence and by famine. And they shall know that the Lord is God, the Holy One of Israel.#
+
+{% marginal %}
+****
+*Quote* Shall the prey be taken from the mighty, or the lawful captive delivered?
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:24]
+****
+{% endmarginal %}
+
+
+*2 Nephi 6:16* [yellow-background]#For shall the prey be taken from the mighty or the lawful captive delivered?#
+
+{% marginal %}
+****
+*Quote* But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:25]
+****
+{% endmarginal %}
+
+
+*2 Nephi 6:17* [yellow-background]#But thus saith the Lord: Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered, for the mighty God shall deliver his covenant people. For thus saith the Lord: I will contend with them that contendeth with thee.#
+
+{% marginal %}
+****
+*Quote* And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:26]
+****
+{% endmarginal %}
+
+
+*2 Nephi 6:18* [yellow-background]#And I will feed them that oppress thee with their own flesh. And they shall be drunken with their own blood as with sweet wine. And all flesh shall know that I the Lord am thy Savior and thy Redeemer, the Mighty One of Jacob.#
 

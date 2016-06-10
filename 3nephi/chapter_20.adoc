@@ -28,13 +28,49 @@
 
 *3 Nephi 20:15* And I say unto you that if the Gentiles do not repent after the blessings which they shall receive, after that they have scattered my people,
 
-*3 Nephi 20:16* then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.
+{% marginal %}
+****
+*Quote* And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 
-*3 Nephi 20:17* Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]
+****
+{% endmarginal %}
 
-*3 Nephi 20:18* And I will gather my people together as a man gathereth his sheaves into the floor,
 
-*3 Nephi 20:19* for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.
+*3 Nephi 20:16* [yellow-background]#then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.#
+
+{% marginal %}
+****
+*Quote* Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]
+****
+{% endmarginal %}
+
+
+*3 Nephi 20:17* [yellow-background]#Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.#
+
+{% marginal %}
+****
+*Quote* But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:12]
+****
+{% endmarginal %}
+
+
+*3 Nephi 20:18* [yellow-background]#And I will gather my people together as a man gathereth his sheaves into the floor,#
+
+{% marginal %}
+****
+*Quote* Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:13]
+****
+{% endmarginal %}
+
+
+*3 Nephi 20:19* [yellow-background]#for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.#
 
 *3 Nephi 20:20* And it shall come to pass, saith the Father, that the sword of my justice shall hang over them at that day. And except they repent, it shall fall upon them, saith the Father, yea, even upon all the nations of the Gentiles.
 
@@ -60,13 +96,40 @@
 
 *3 Nephi 20:31* And they shall believe in me, that I am Jesus Christ the Son of God, and shall pray unto the Father in my name.
 
-*3 Nephi 20:32* Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.
+{% marginal %}
+****
+*Quote* Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
+****
+{% endmarginal %}
+
+
+*3 Nephi 20:32* [yellow-background]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
 
 *3 Nephi 20:33* Then will the Father gather them together again and give unto them Jerusalem for the land of their inheritance.
 
-*3 Nephi 20:34* Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.
+{% marginal %}
+****
+*Quote* Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
-*3 Nephi 20:35* The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
+****
+{% endmarginal %}
+
+
+*3 Nephi 20:34* [yellow-background]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
+
+{% marginal %}
+****
+*Quote* The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
+****
+{% endmarginal %}
+
+
+*3 Nephi 20:35* [yellow-background]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
 
 *3 Nephi 20:36* And then shall be brought to pass that which is written: Awake, awake again and put on thy strength, O Zion! Put on thy beautiful garments, O Jerusalem the holy city! For henceforth there shall no more come into thee the uncircumcised and the unclean.
 
