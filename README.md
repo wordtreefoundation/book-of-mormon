@@ -20,8 +20,8 @@ Each annotation must include the following:
 
 * Quote
 * Source title
-* Date source published
-* Link if available
+* Date the source was published
+* Link, if available
 * If you need storage for video/images hosting of content is available on this site
 
 ## Style Guide
