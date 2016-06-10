@@ -25,12 +25,11 @@ def kjv_margin_quote(book, chapter, verse)
 	body = $bible.book(book).chapter(chapter).verse(verse).text
 	pericope = "#{book} #{chapter}:#{verse}"
 	link = "http://www.kingjamesbibleonline.org/#{book}-Chapter-#{chapter}/"
-	"> #### Quote::#{body}\n> KJV Bible, 1769, [#{pericope}](#{link})"
+	"{% marginal %}\n> #### Quote::#{body}\n> KJV Bible, 1769, [#{pericope}](#{link})\n{% endmarginal %}"
 end
 
 blank_verse_format = lambda{ |b,c,v| '' }
 
-count = 0
 BomDB.db[:refs].
   where(:ref_name => 'Bible-OT').
   join(:verses, :verse_id => :verse_id).
@@ -43,12 +42,14 @@ BomDB.db[:refs].
     puts "#{bible_pericope} => #{bom_pericope}"
     file = find_bom_file(r[:book_name], r[:verse_chapter])
     puts file
+
+    # Put a marginal quotation of the bible reference next to the corresponding Book of Mormon verse
     transformed = inserted_before_verse(r[:book_name], r[:verse_chapter], r[:verse_number],
     	kjv_margin_quote(r[:ref_book], r[:ref_chapter], r[:ref_verse]))
+
+    # Save the chapter with the added biblical reference
     File.open(file, "w") do |f|
     	f.write(transformed)
     end
-    exit(0) if count > 2
-    count += 1
   end
 
