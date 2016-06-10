@@ -16,10 +16,22 @@
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-22/[Isaiah 22:13]
 ****
+
+****
+*Quote* If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/1 Corinthians-Chapter-15/[1 Corinthians 15:32]
+****
+
+****
+*Quote* And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-12/[Luke 12:19]
+****
 {% endmarginal %}
 
 
-*2 Nephi 28:7* [yellow-background]#Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.#
+*2 Nephi 28:7* [orange-background]#Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.#
 
 {% marginal %}
 ****
