@@ -1,2 +1,2 @@
 # Omni
-* [Chapter 1](omni/chapter_01.md)
+* [Chapter 1](omni/chapter_01.adoc)
