@@ -1,0 +1,9 @@
+{
+	"gitbook": "3.x.x",
+	"plugins": ["marginal", "callouts", "emphasize", "bibtex-cite", "expandable-chapters"],
+	"pluginsConfig": {
+		"callouts": {
+			"showTypeInHeader": false
+		}
+	}
+}

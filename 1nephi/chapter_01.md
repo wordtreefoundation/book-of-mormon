@@ -1,10 +1,11 @@
+{% marginal %}
+
 > #### Quote::I, the writer, was born of Presbyterian parents...
 > The Rights of Christ, 1815, p. 1
 
-**1 Nephi 1:1** I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
+{% endmarginal %}
 
-> #### Quote::Reformed Egyptian
-> has never been found
+**1 Nephi 1:1** I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
 
 **1 Nephi 1:2** Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
 
@@ -30,8 +31,10 @@
 
 **1 Nephi 1:13** And he read, saying: Woe woe unto Jerusalem, for I have seen thine abominations. Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
 
+{% marginal %}
 > #### Quote::**I have seen thine** adulteries, and thy neighings, the lewdness of thy whoredom, *and* thine **abominations** on the hills in the fields. **Woe unto** thee, O **Jerusalem!** wilt thou not be made clean? *when shall it once be?*
 > King James Bible, 1769, Jeremiah 13:27 (http://www.kingjamesbibleonline.org/Jeremiah-Chapter-13/) 
+{% endmarginal %}
 
 **1 Nephi 1:14** And it came to pass that when my father had read and saw many great and marvelous things, he did exclaim many things unto the Lord, such as: Great and marvelous are thy works, O Lord God Almighty. Thy throne is high in the heavens, and thy power and goodness and mercy is over all the inhabitants of the earth. And because thou art merciful, thou wilt not suffer those who come unto thee that they shall perish.
 

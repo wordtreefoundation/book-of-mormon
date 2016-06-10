@@ -1,8 +1,0 @@
-{
-	"plugins": ["callouts", "emphasize", "bibtex-cite", "expandable-chapters"],
-	"pluginsConfig": {
-		"callouts": {
-			"showTypeInHeader": false
-		}
-	}
-}
