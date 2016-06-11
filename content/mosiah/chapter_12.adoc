@@ -47,7 +47,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:21* [yellow-background]#How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!#
+*Mosiah 12:21* [highlight]#How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!#
 
 {% marginal %}
 ____
@@ -58,7 +58,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:22* [yellow-background]#Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
+*Mosiah 12:22* [highlight]#Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
 
 {% marginal %}
 ____
@@ -69,7 +69,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:23* [yellow-background]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
+*Mosiah 12:23* [highlight]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
 
 {% marginal %}
 ____
@@ -80,7 +80,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:24* [yellow-background]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.#
+*Mosiah 12:24* [highlight]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.#
 
 *Mosiah 12:25* And now Abinadi saith unto them: Are you priests and pretend to teach this people and to understand the spirit of prophesying, and yet desireth to know of me what these things mean?
 
@@ -109,7 +109,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:34* [yellow-background]#I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.#
+*Mosiah 12:34* [highlight]#I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.#
 
 {% marginal %}
 ____
@@ -120,7 +120,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:35* [yellow-background]#Thou shalt have no other God before me.#
+*Mosiah 12:35* [highlight]#Thou shalt have no other God before me.#
 
 {% marginal %}
 ____
@@ -131,7 +131,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 12:36* [yellow-background]#Thou shalt not make unto thee any graven image, or any likeness of any thing in the heaven above, or things which is in the earth beneath.#
+*Mosiah 12:36* [highlight]#Thou shalt not make unto thee any graven image, or any likeness of any thing in the heaven above, or things which is in the earth beneath.#
 
 *Mosiah 12:37* Now Abinadi saith unto them: Have ye done all this? I say unto you: Nay, ye have not. And have ye taught this people that they should do all these things? I say unto you: Nay, ye have not.
 

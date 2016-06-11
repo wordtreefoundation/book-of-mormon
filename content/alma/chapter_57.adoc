@@ -49,7 +49,7 @@ ____
 
 {% endmarginal %}
 
-*Alma 57:19* But behold, my little band of two thousand and sixty fought most desperately. Yea, they were firm before the Lamanites and did administer death unto all those who opposed them.
+*Alma 57:19* [highlight]#But behold, my little band of two thousand and sixty fought most desperately. Yea, they were firm before the Lamanites and did administer death unto all those who opposed them.#
 
 *Alma 57:20* And as the remainder of our army were about to give way before the Lamanites, behold, these two thousand and sixty were firm and undaunted.
 

@@ -44,7 +44,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 26:15* [yellow-background]#[yellow-background]#After that my seed and the seed of my brethren shall have dwindled in unbelief and shall have been smitten by the Gentiles--yea, after that the Lord God shall have camped against them round about and shall have laid siege against them with a mount and raised forts against them, and after that they shall have been brought down low in the dust, even that they are not--yet the words of the righteous shall be written and the prayers of the faithful shall be heard, and all they which have dwindled in unbelief shall not be forgotten.##
+*2 Nephi 26:15* [highlight]#[highlight]#After that my seed and the seed of my brethren shall have dwindled in unbelief and shall have been smitten by the Gentiles--yea, after that the Lord God shall have camped against them round about and shall have laid siege against them with a mount and raised forts against them, and after that they shall have been brought down low in the dust, even that they are not--yet the words of the righteous shall be written and the prayers of the faithful shall be heard, and all they which have dwindled in unbelief shall not be forgotten.##
 
 {% marginal %}
 ____
@@ -55,7 +55,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 26:16* [yellow-background]#For they which shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit. For the Lord God will give unto him power that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.#
+*2 Nephi 26:16* [highlight]#For they which shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit. For the Lord God will give unto him power that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.#
 
 *2 Nephi 26:17* For thus saith the Lord God: They shall write the things which shall be done among them, and they shall be written and sealed up in a book. And they that have dwindled in unbelief shall not have them, for they seek to destroy the things of God.
 
@@ -68,7 +68,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 26:18* [yellow-background]#Wherefore as they which have been destroyed have been destroyed speedily and the multitude of their terrible ones shall be as chaff that passeth away, yea, thus saith the Lord God: It shall be at an instant, suddenly.#
+*2 Nephi 26:18* [highlight]#Wherefore as they which have been destroyed have been destroyed speedily and the multitude of their terrible ones shall be as chaff that passeth away, yea, thus saith the Lord God: It shall be at an instant, suddenly.#
 
 *2 Nephi 26:19* And it shall come to pass that they which have dwindled in unbelief shall be smitten by the hand of the Gentiles.
 
@@ -91,7 +91,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 26:25* [yellow-background]#Behold, doth he cry unto any, saying: Depart from me! Behold, I say unto you: Nay. But he saith: Come unto me, all ye ends of the earth; buy milk and honey without money and without price.#
+*2 Nephi 26:25* [highlight]#Behold, doth he cry unto any, saying: Depart from me! Behold, I say unto you: Nay. But he saith: Come unto me, all ye ends of the earth; buy milk and honey without money and without price.#
 
 *2 Nephi 26:26* Behold, hath he commanded any that they should depart out of the synagogues or out of the houses of worship? Behold, I say unto you: Nay.
 

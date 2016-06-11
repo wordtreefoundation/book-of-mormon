@@ -37,7 +37,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:16* [yellow-background]#then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.#
+*3 Nephi 20:16* [highlight]#then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.#
 
 {% marginal %}
 ____
@@ -48,7 +48,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:17* [yellow-background]#Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.#
+*3 Nephi 20:17* [highlight]#Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.#
 
 {% marginal %}
 ____
@@ -59,7 +59,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:18* [yellow-background]#And I will gather my people together as a man gathereth his sheaves into the floor,#
+*3 Nephi 20:18* [highlight]#And I will gather my people together as a man gathereth his sheaves into the floor,#
 
 {% marginal %}
 ____
@@ -70,7 +70,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:19* [yellow-background]#for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.#
+*3 Nephi 20:19* [highlight]#for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.#
 
 *3 Nephi 20:20* And it shall come to pass, saith the Father, that the sword of my justice shall hang over them at that day. And except they repent, it shall fall upon them, saith the Father, yea, even upon all the nations of the Gentiles.
 
@@ -105,7 +105,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:32* [yellow-background]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
+*3 Nephi 20:32* [highlight]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
 
 *3 Nephi 20:33* Then will the Father gather them together again and give unto them Jerusalem for the land of their inheritance.
 
@@ -118,7 +118,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:34* [yellow-background]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
+*3 Nephi 20:34* [highlight]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
 
 {% marginal %}
 ____
@@ -129,7 +129,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 20:35* [yellow-background]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
+*3 Nephi 20:35* [highlight]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
 
 *3 Nephi 20:36* And then shall be brought to pass that which is written: Awake, awake again and put on thy strength, O Zion! Put on thy beautiful garments, O Jerusalem the holy city! For henceforth there shall no more come into thee the uncircumcised and the unclean.
 

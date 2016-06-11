@@ -21,7 +21,7 @@ ____
 {% endmarginal %}
 
 
-*1 Nephi 10:8* [yellow-background]#yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord and make his paths straight, for there standeth one among you whom ye know not--and he is mightier than I--whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.#
+*1 Nephi 10:8* [highlight]#yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord and make his paths straight, for there standeth one among you whom ye know not--and he is mightier than I--whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.#
 
 *1 Nephi 10:9* And my father saith that he should baptize in Bethabara beyond Jordan. And he also spake that he should baptize with water, yea, even that he should baptize the Messiah with water.
 

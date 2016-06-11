@@ -34,7 +34,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:10* [yellow-background]#[yellow-background]#And now I say unto you: Who shall declare his generation? Behold, I say unto you that when his soul has been made an offering for sin, he shall see his seed. And now, what say ye? And who shall be his seed?##
+*Mosiah 15:10* [highlight]#[highlight]#And now I say unto you: Who shall declare his generation? Behold, I say unto you that when his soul has been made an offering for sin, he shall see his seed. And now, what say ye? And who shall be his seed?##
 
 *Mosiah 15:11* Behold, I say unto you that whosoever hath heard the words of the prophets, yea, all the holy prophets which have prophesied concerning the coming of the Lord, I say unto you that all those who hath hearkened unto their words and believed that the Lord would redeem his people and have looked forward to that day for a remission of their sins, I say unto you that these are his seed--or they are heirs of the kingdom of God.
 
@@ -51,7 +51,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:14* [yellow-background]#And these are they which hath published peace, that hath brought good tidings of good, that hath published salvation, that saith unto Zion: Thy God reigneth!#
+*Mosiah 15:14* [highlight]#And these are they which hath published peace, that hath brought good tidings of good, that hath published salvation, that saith unto Zion: Thy God reigneth!#
 
 {% marginal %}
 ____
@@ -62,7 +62,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:15* [yellow-background]#And O how beautiful upon the mountains were their feet!#
+*Mosiah 15:15* [highlight]#And O how beautiful upon the mountains were their feet!#
 
 {% marginal %}
 ____
@@ -73,7 +73,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:16* [yellow-background]#And again, how beautiful upon the mountains are the feet of those that are still publishing peace!#
+*Mosiah 15:16* [highlight]#And again, how beautiful upon the mountains are the feet of those that are still publishing peace!#
 
 {% marginal %}
 ____
@@ -84,7 +84,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:17* [yellow-background]#And again, how beautiful upon the mountains are the feet of those who shall hereafter publish peace, yea, from this time henceforth and forever!#
+*Mosiah 15:17* [highlight]#And again, how beautiful upon the mountains are the feet of those who shall hereafter publish peace, yea, from this time henceforth and forever!#
 
 {% marginal %}
 ____
@@ -95,7 +95,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:18* [yellow-background]#And behold, I say unto you: This is not all, for O how beautiful upon the mountains are the feet of him that bringeth good tidings, that is the founder of peace, yea, even the Lord who hath redeemed his people, yea, him who hath granted salvation unto his people.#
+*Mosiah 15:18* [highlight]#And behold, I say unto you: This is not all, for O how beautiful upon the mountains are the feet of him that bringeth good tidings, that is the founder of peace, yea, even the Lord who hath redeemed his people, yea, him who hath granted salvation unto his people.#
 
 *Mosiah 15:19* For were it not for the redemption which he hath made for his people, which was prepared from the foundation of the world, I say unto you--were it not for this--that all mankind must have perished.
 
@@ -126,7 +126,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:29* [yellow-background]#Yea, Lord, thy watchmen shall lift up their voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
+*Mosiah 15:29* [highlight]#Yea, Lord, thy watchmen shall lift up their voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
 
 {% marginal %}
 ____
@@ -137,7 +137,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:30* [yellow-background]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
+*Mosiah 15:30* [highlight]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
 
 {% marginal %}
 ____
@@ -148,5 +148,5 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 15:31* [yellow-background]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.#
+*Mosiah 15:31* [highlight]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.#
 

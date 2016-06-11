@@ -29,7 +29,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:12* [yellow-background]#And now ye remember that I said unto you: Thou shalt not make unto thee any graven image, or any likeness of things which is in heaven above, or which is in the earth beneath, or which is in the water under the earth.#
+*Mosiah 13:12* [highlight]#And now ye remember that I said unto you: Thou shalt not make unto thee any graven image, or any likeness of things which is in heaven above, or which is in the earth beneath, or which is in the water under the earth.#
 
 {% marginal %}
 ____
@@ -40,7 +40,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:13* [yellow-background]#And again, thou shalt not bow down thyself unto them nor serve them, for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children unto the third and fourth generation of them that hate me,#
+*Mosiah 13:13* [highlight]#And again, thou shalt not bow down thyself unto them nor serve them, for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children unto the third and fourth generation of them that hate me,#
 
 {% marginal %}
 ____
@@ -51,7 +51,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:14* [yellow-background]#and shewing mercy unto thousands of them that love me and keep my commandments.#
+*Mosiah 13:14* [highlight]#and shewing mercy unto thousands of them that love me and keep my commandments.#
 
 {% marginal %}
 ____
@@ -62,7 +62,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:15* [yellow-background]#Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh his name in vain.#
+*Mosiah 13:15* [highlight]#Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh his name in vain.#
 
 {% marginal %}
 ____
@@ -73,7 +73,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:16* [yellow-background]#Remember the sabbath day, to keep it holy.#
+*Mosiah 13:16* [highlight]#Remember the sabbath day, to keep it holy.#
 
 {% marginal %}
 ____
@@ -84,7 +84,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:17* [yellow-background]#Six days shalt thou labor and do all thy work;#
+*Mosiah 13:17* [highlight]#Six days shalt thou labor and do all thy work;#
 
 {% marginal %}
 ____
@@ -95,7 +95,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:18* [yellow-background]#but the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou nor thy son nor thy daughter, thy manservant nor thy maidservant nor thy cattle nor thy stranger that is within thy gates.#
+*Mosiah 13:18* [highlight]#but the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou nor thy son nor thy daughter, thy manservant nor thy maidservant nor thy cattle nor thy stranger that is within thy gates.#
 
 {% marginal %}
 ____
@@ -106,7 +106,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:19* [yellow-background]#For in six days the Lord made heaven and earth and the sea and all that in them is; wherefore the Lord blessed the sabbath day and hallowed it.#
+*Mosiah 13:19* [highlight]#For in six days the Lord made heaven and earth and the sea and all that in them is; wherefore the Lord blessed the sabbath day and hallowed it.#
 
 {% marginal %}
 ____
@@ -117,7 +117,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:20* [yellow-background]#Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.#
+*Mosiah 13:20* [highlight]#Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.#
 
 {% marginal %}
 ____
@@ -128,7 +128,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:21* [yellow-background]#Thou shalt not kill.#
+*Mosiah 13:21* [highlight]#Thou shalt not kill.#
 
 {% marginal %}
 ____
@@ -148,7 +148,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:22* [yellow-background]#[yellow-background]#Thou shalt not commit adultery. Thou shalt not steal.##
+*Mosiah 13:22* [highlight]#[highlight]#Thou shalt not commit adultery. Thou shalt not steal.##
 
 {% marginal %}
 ____
@@ -159,7 +159,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:23* [yellow-background]#Thou shalt not bear false witness against thy neighbor.#
+*Mosiah 13:23* [highlight]#Thou shalt not bear false witness against thy neighbor.#
 
 {% marginal %}
 ____
@@ -170,7 +170,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 13:24* [yellow-background]#Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his manservant nor his maidservant nor his ox nor his ass, nor any thing that is thy neighbor's.#
+*Mosiah 13:24* [highlight]#Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his manservant nor his maidservant nor his ox nor his ass, nor any thing that is thy neighbor's.#
 
 *Mosiah 13:25* And it came to pass that after Abinadi had made an end of these sayings that he said unto them: Have ye taught this people that they should observe to do all these things, for to keep these commandments?
 

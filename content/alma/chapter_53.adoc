@@ -40,11 +40,11 @@ The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-s
 ____
 {% endmarginal %}
 
-*Alma 53:18* [yellow-background]#Now behold, there were two thousand of those young men which entered into this covenant and took their weapons of war to defend their country.#
+*Alma 53:18* [highlight]#Now behold, there were two thousand of those young men which entered into this covenant and took their weapons of war to defend their country.#
 
-*Alma 53:19* [yellow-background]#And now behold, as they never had hitherto been a disadvantage to the Nephites, they became now at this period of time also a great support; for they took their weapons of war, and they would that Helaman should be their leader.#
+*Alma 53:19* [highlight]#And now behold, as they never had hitherto been a disadvantage to the Nephites, they became now at this period of time also a great support; for they took their weapons of war, and they would that Helaman should be their leader.#
 
-*Alma 53:20* [yellow-background]#And they were all young men, and they were exceeding valiant for courage# and also for strength and activity. But behold, this was not all. They were men which were true at all times in whatsoever thing they were entrusted.
+*Alma 53:20* [highlight]#And they were all young men, and they were exceeding valiant for courage# and also for strength and activity. But behold, this was not all. They were men which were true at all times in whatsoever thing they were entrusted.
 
 *Alma 53:21* Yea, they were men of truth and soberness, for they had been taught to keep the commandments of God and to walk uprightly before him.
 

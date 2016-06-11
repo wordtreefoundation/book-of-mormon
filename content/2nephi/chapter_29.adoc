@@ -7,7 +7,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 29:1* [yellow-background]#But behold, there shall be many at that day when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people which are of the house of Israel#
+*2 Nephi 29:1* [highlight]#But behold, there shall be many at that day when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people which are of the house of Israel#
 
 {% marginal %}
 ____
@@ -18,7 +18,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 29:2* [yellow-background]#--and also that I may remember the promises which I have made unto thee Nephi and also unto thy father, that I would remember your seed, and that the words of your seed should proceed forth out of my mouth unto your seed, and my words shall hiss forth unto the ends of the earth for a standard unto my people which are of the house of Israel--#
+*2 Nephi 29:2* [highlight]#--and also that I may remember the promises which I have made unto thee Nephi and also unto thy father, that I would remember your seed, and that the words of your seed should proceed forth out of my mouth unto your seed, and my words shall hiss forth unto the ends of the earth for a standard unto my people which are of the house of Israel--#
 
 *2 Nephi 29:3* and because my words shall hiss forth, many of the Gentiles shall say: A Bible, a Bible, we have got a Bible! And there cannot be any more Bible!
 

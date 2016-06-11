@@ -23,7 +23,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 10:9* [yellow-background]#Yea, the kings of the Gentiles shall be nursing fathers unto them, and their queens shall become nursing mothers. Wherefore the promises of the Lord is great unto the Gentiles, for he hath spoken it, and who can dispute?#
+*2 Nephi 10:9* [highlight]#Yea, the kings of the Gentiles shall be nursing fathers unto them, and their queens shall become nursing mothers. Wherefore the promises of the Lord is great unto the Gentiles, for he hath spoken it, and who can dispute?#
 
 *2 Nephi 10:10* But behold, this land, saith God, shall be a land of thine inheritance; and the Gentiles shall be blessed upon the land.
 

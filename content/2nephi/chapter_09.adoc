@@ -105,7 +105,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 9:50* [yellow-background]#Come, my brethren, every one that thirsteth, come ye to the waters. And he that hath no money, come, buy and eat, yea, come, buy wine and milk without money and without price.#
+*2 Nephi 9:50* [highlight]#Come, my brethren, every one that thirsteth, come ye to the waters. And he that hath no money, come, buy and eat, yea, come, buy wine and milk without money and without price.#
 
 {% marginal %}
 ____
@@ -116,7 +116,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 9:51* [yellow-background]#Wherefore do not spend money for that which is of no worth, nor your labor for that which cannot satisfy. Hearken diligently unto me and remember the words which I have spoken, and come unto the Holy One of Israel, and feast upon that which perisheth not, neither can be corrupted, and let your soul delight in fatness.#
+*2 Nephi 9:51* [highlight]#Wherefore do not spend money for that which is of no worth, nor your labor for that which cannot satisfy. Hearken diligently unto me and remember the words which I have spoken, and come unto the Holy One of Israel, and feast upon that which perisheth not, neither can be corrupted, and let your soul delight in fatness.#
 
 *2 Nephi 9:52* Behold, my beloved brethren, remember the words of your God. Pray unto him continually by day and give thanks unto his holy name by night. Let your hearts rejoice!
 

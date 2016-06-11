@@ -7,7 +7,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 14:1* [yellow-background]#And in that day seven women shall take hold of one man, saying: We will eat our own bread and wear our own apparel, only let us be called by thy name to take away our reproach.#
+*2 Nephi 14:1* [highlight]#And in that day seven women shall take hold of one man, saying: We will eat our own bread and wear our own apparel, only let us be called by thy name to take away our reproach.#
 
 {% marginal %}
 ____
@@ -18,7 +18,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 14:2* [yellow-background]#In that day shall the branch of the Lord be beautiful and glorious--the fruit of the earth, excellent and comely to them that are escaped of Israel.#
+*2 Nephi 14:2* [highlight]#In that day shall the branch of the Lord be beautiful and glorious--the fruit of the earth, excellent and comely to them that are escaped of Israel.#
 
 {% marginal %}
 ____
@@ -29,7 +29,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 14:3* [yellow-background]#And it shall come to pass: them that are left in Zion and remaineth in Jerusalem shall be called holy, every one that is written among the living in Jerusalem,#
+*2 Nephi 14:3* [highlight]#And it shall come to pass: them that are left in Zion and remaineth in Jerusalem shall be called holy, every one that is written among the living in Jerusalem,#
 
 {% marginal %}
 ____
@@ -40,7 +40,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 14:4* [yellow-background]#when the Lord shall have washed away the filth of the daughters of Zion and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment and by the spirit of burning.#
+*2 Nephi 14:4* [highlight]#when the Lord shall have washed away the filth of the daughters of Zion and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment and by the spirit of burning.#
 
 {% marginal %}
 ____
@@ -51,7 +51,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 14:5* [yellow-background]#And the Lord will create upon every dwelling place of mount Zion and upon her assemblies a cloud and smoke by day and the shining of a flaming fire by night, for upon all the glory of Zion shall be a defense.#
+*2 Nephi 14:5* [highlight]#And the Lord will create upon every dwelling place of mount Zion and upon her assemblies a cloud and smoke by day and the shining of a flaming fire by night, for upon all the glory of Zion shall be a defense.#
 
 {% marginal %}
 ____
@@ -62,5 +62,5 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 14:6* [yellow-background]#And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge and a covert from storm and from rain.#
+*2 Nephi 14:6* [highlight]#And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge and a covert from storm and from rain.#
 

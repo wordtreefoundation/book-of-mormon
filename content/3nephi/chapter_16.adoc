@@ -41,7 +41,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 16:18* [yellow-background]#Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
+*3 Nephi 16:18* [highlight]#Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
 
 {% marginal %}
 ____
@@ -52,7 +52,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 16:19* [yellow-background]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
+*3 Nephi 16:19* [highlight]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
 
 {% marginal %}
 ____
@@ -63,5 +63,5 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 16:20* [yellow-background]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of God--#
+*3 Nephi 16:20* [highlight]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of God--#
 

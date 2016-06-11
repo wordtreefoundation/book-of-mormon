@@ -15,7 +15,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 4:5* [yellow-background]#But behold, my sons and my daughters, I cannot go down to my grave save I should leave a blessing upon you. For behold, I know that if ye are brought up in the right way that ye should go, ye will not depart from it.#
+*2 Nephi 4:5* [highlight]#But behold, my sons and my daughters, I cannot go down to my grave save I should leave a blessing upon you. For behold, I know that if ye are brought up in the right way that ye should go, ye will not depart from it.#
 
 *2 Nephi 4:6* Wherefore if ye are cursed, behold, I leave my blessing upon you, that the cursing may be taken from you and be answered upon the heads of your parents.
 
@@ -40,7 +40,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 4:13* [yellow-background]#And it came to pass that not many days after his death, Laman and Lemuel and the sons of Ishmael were angry with me because of the admonitions of the Lord.#
+*2 Nephi 4:13* [highlight]#And it came to pass that not many days after his death, Laman and Lemuel and the sons of Ishmael were angry with me because of the admonitions of the Lord.#
 
 *2 Nephi 4:14* For I Nephi was constrained to speak unto them according to the word, for I had spake many things unto them, and also my father before his death, many of which sayings are written upon mine other plates, for a more history part are written upon mine other plates.
 

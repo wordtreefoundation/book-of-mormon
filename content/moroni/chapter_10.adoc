@@ -76,7 +76,7 @@ ____
 {% endmarginal %}
 
 
-*Moroni 10:31* [yellow-background]#[yellow-background]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.##
+*Moroni 10:31* [highlight]#[highlight]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.##
 
 *Moroni 10:32* Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ. And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
 

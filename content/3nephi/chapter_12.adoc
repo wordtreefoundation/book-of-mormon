@@ -11,7 +11,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:3* [orange-background]#Yea, blessed are the poor in spirit which cometh unto me, for theirs is the kingdom of heaven.#
+*3 Nephi 12:3* [highlight-orange]#Yea, blessed are the poor in spirit which cometh unto me, for theirs is the kingdom of heaven.#
 
 {% marginal %}
 ____
@@ -22,7 +22,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:4* [orange-background]#And again, blessed are all they that mourn, for they shall be comforted.#
+*3 Nephi 12:4* [highlight-orange]#And again, blessed are all they that mourn, for they shall be comforted.#
 
 {% marginal %}
 ____
@@ -33,7 +33,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:5* [orange-background]#And blessed are the meek, for they shall inherit the earth.#
+*3 Nephi 12:5* [highlight-orange]#And blessed are the meek, for they shall inherit the earth.#
 
 {% marginal %}
 ____
@@ -44,7 +44,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:6* [orange-background]#And blessed are all they which do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.#
+*3 Nephi 12:6* [highlight-orange]#And blessed are all they which do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.#
 
 {% marginal %}
 ____
@@ -55,7 +55,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:7* [orange-background]#And blessed are the merciful, for they shall obtain mercy.#
+*3 Nephi 12:7* [highlight-orange]#And blessed are the merciful, for they shall obtain mercy.#
 
 {% marginal %}
 ____
@@ -66,7 +66,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:8* [orange-background]#And blessed are all the pure in heart, for they shall see God.#
+*3 Nephi 12:8* [highlight-orange]#And blessed are all the pure in heart, for they shall see God.#
 
 {% marginal %}
 ____
@@ -77,7 +77,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:9* [orange-background]#And blessed are all the peacemakers, for they shall be called the children of God.#
+*3 Nephi 12:9* [highlight-orange]#And blessed are all the peacemakers, for they shall be called the children of God.#
 
 {% marginal %}
 ____
@@ -88,7 +88,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:10* [orange-background]#And blessed are all they which are persecuted for my name's sake, for theirs is the kingdom of heaven.#
+*3 Nephi 12:10* [highlight-orange]#And blessed are all they which are persecuted for my name's sake, for theirs is the kingdom of heaven.#
 
 {% marginal %}
 ____
@@ -99,7 +99,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:11* [orange-background]#And blessed are ye when men shall revile you and persecute and shall say all manner of evil against you falsely, for my sake,#
+*3 Nephi 12:11* [highlight-orange]#And blessed are ye when men shall revile you and persecute and shall say all manner of evil against you falsely, for my sake,#
 
 {% marginal %}
 ____
@@ -110,7 +110,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:12* [orange-background]#for ye shall have great joy and be exceeding glad, for great shall be your reward in heaven; for so persecuted they the prophets which were before you.#
+*3 Nephi 12:12* [highlight-orange]#for ye shall have great joy and be exceeding glad, for great shall be your reward in heaven; for so persecuted they the prophets which were before you.#
 
 {% marginal %}
 ____
@@ -121,7 +121,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:13* [orange-background]#Verily verily I say unto you: I give unto you to be the salt of the earth. But if the salt shall lose its savor, wherewith shall the earth be salted? The salt shall be thenceforth good for nothing but to be cast out and to be trodden under foot of men.#
+*3 Nephi 12:13* [highlight-orange]#Verily verily I say unto you: I give unto you to be the salt of the earth. But if the salt shall lose its savor, wherewith shall the earth be salted? The salt shall be thenceforth good for nothing but to be cast out and to be trodden under foot of men.#
 
 {% marginal %}
 ____
@@ -132,7 +132,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:14* [orange-background]#Verily verily I say unto you: I give unto you to be the light of this people. A city that is set on a hill cannot be hid.#
+*3 Nephi 12:14* [highlight-orange]#Verily verily I say unto you: I give unto you to be the light of this people. A city that is set on a hill cannot be hid.#
 
 {% marginal %}
 ____
@@ -143,7 +143,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:15* [orange-background]#Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house.#
+*3 Nephi 12:15* [highlight-orange]#Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house.#
 
 {% marginal %}
 ____
@@ -154,7 +154,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:16* [orange-background]#Therefore let your light so shine before this people, that they may see your good works and glorify your Father which is in heaven.#
+*3 Nephi 12:16* [highlight-orange]#Therefore let your light so shine before this people, that they may see your good works and glorify your Father which is in heaven.#
 
 {% marginal %}
 ____
@@ -165,7 +165,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:17* [orange-background]#Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfill.#
+*3 Nephi 12:17* [highlight-orange]#Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfill.#
 
 {% marginal %}
 ____
@@ -176,7 +176,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:18* [orange-background]#For verily I say unto you: One jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.#
+*3 Nephi 12:18* [highlight-orange]#For verily I say unto you: One jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.#
 
 *3 Nephi 12:19* And behold, I have given unto you the law and the commandments of my Father, that ye shall believe in me and that ye shall repent of your sins and come unto me with a broken heart and a contrite spirit. Behold, ye have the commandments before you, and the law is fulfilled.
 
@@ -191,7 +191,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:21* [orange-background]#Ye have heard that it hath been said by them of old time--and it is also written before you--that thou shalt not kill. And whosoever shall kill shall be in danger of the judgment of God.#
+*3 Nephi 12:21* [highlight-orange]#Ye have heard that it hath been said by them of old time--and it is also written before you--that thou shalt not kill. And whosoever shall kill shall be in danger of the judgment of God.#
 
 {% marginal %}
 ____
@@ -202,7 +202,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:22* [orange-background]#But I say unto you that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, thou fool, shall be in danger of hell fire.#
+*3 Nephi 12:22* [highlight-orange]#But I say unto you that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, thou fool, shall be in danger of hell fire.#
 
 {% marginal %}
 ____
@@ -213,7 +213,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:23* [orange-background]#Therefore if ye shall come unto me or shall desire to come unto me and rememberest that thy brother hath aught against thee,#
+*3 Nephi 12:23* [highlight-orange]#Therefore if ye shall come unto me or shall desire to come unto me and rememberest that thy brother hath aught against thee,#
 
 {% marginal %}
 ____
@@ -224,7 +224,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:24* [orange-background]#go thy way unto thy brother and first be reconciled to thy brother and then come unto me with full purpose of heart and I will receive you.#
+*3 Nephi 12:24* [highlight-orange]#go thy way unto thy brother and first be reconciled to thy brother and then come unto me with full purpose of heart and I will receive you.#
 
 {% marginal %}
 ____
@@ -235,7 +235,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:25* [orange-background]#Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee and thou shalt be cast into prison.#
+*3 Nephi 12:25* [highlight-orange]#Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee and thou shalt be cast into prison.#
 
 {% marginal %}
 ____
@@ -246,7 +246,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:26* [orange-background]#Verily I say unto thee: Thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison, can ye pay even one senine? Verily verily I say unto you: Nay.#
+*3 Nephi 12:26* [highlight-orange]#Verily I say unto thee: Thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison, can ye pay even one senine? Verily verily I say unto you: Nay.#
 
 {% marginal %}
 ____
@@ -257,7 +257,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:27* [orange-background]#Behold, it is written by them of old time that thou shalt not commit adultery.#
+*3 Nephi 12:27* [highlight-orange]#Behold, it is written by them of old time that thou shalt not commit adultery.#
 
 {% marginal %}
 ____
@@ -268,7 +268,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:28* [orange-background]#But I say unto you that whosoever looketh on a woman to lust after her hath committed adultery already in his heart.#
+*3 Nephi 12:28* [highlight-orange]#But I say unto you that whosoever looketh on a woman to lust after her hath committed adultery already in his heart.#
 
 *3 Nephi 12:29* Behold, I give unto you a commandment that ye suffer none of these things to enter into your heart.
 
@@ -283,7 +283,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:31* [orange-background]#It hath been written that whosoever shall put away his wife, let him give her a writing of divorcement.#
+*3 Nephi 12:31* [highlight-orange]#It hath been written that whosoever shall put away his wife, let him give her a writing of divorcement.#
 
 {% marginal %}
 ____
@@ -294,7 +294,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:32* [orange-background]#Verily verily I say unto you that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.#
+*3 Nephi 12:32* [highlight-orange]#Verily verily I say unto you that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.#
 
 {% marginal %}
 ____
@@ -305,7 +305,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:33* [orange-background]#And again it is written: Thou shalt not forswear thyself but shalt perform unto the Lord thine oaths.#
+*3 Nephi 12:33* [highlight-orange]#And again it is written: Thou shalt not forswear thyself but shalt perform unto the Lord thine oaths.#
 
 {% marginal %}
 ____
@@ -316,7 +316,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:34* [orange-background]#But verily verily I say unto you: Swear not at all, neither by heaven--for it is God's throne--#
+*3 Nephi 12:34* [highlight-orange]#But verily verily I say unto you: Swear not at all, neither by heaven--for it is God's throne--#
 
 {% marginal %}
 ____
@@ -327,7 +327,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:35* [orange-background]#nor by the earth--for it is his footstool--#
+*3 Nephi 12:35* [highlight-orange]#nor by the earth--for it is his footstool--#
 
 {% marginal %}
 ____
@@ -338,7 +338,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:36* [orange-background]#neither shalt thou swear by thy head, because thou canst not make one hair black or white.#
+*3 Nephi 12:36* [highlight-orange]#neither shalt thou swear by thy head, because thou canst not make one hair black or white.#
 
 {% marginal %}
 ____
@@ -349,7 +349,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:37* [orange-background]#But let your communication be, yea yea, nay nay; for whatsoever cometh of more than these are evil.#
+*3 Nephi 12:37* [highlight-orange]#But let your communication be, yea yea, nay nay; for whatsoever cometh of more than these are evil.#
 
 {% marginal %}
 ____
@@ -360,7 +360,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:38* [orange-background]#And behold, it is written: An eye for an eye and a tooth for a tooth.#
+*3 Nephi 12:38* [highlight-orange]#And behold, it is written: An eye for an eye and a tooth for a tooth.#
 
 {% marginal %}
 ____
@@ -371,7 +371,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:39* [orange-background]#But I say unto you that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also.#
+*3 Nephi 12:39* [highlight-orange]#But I say unto you that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also.#
 
 {% marginal %}
 ____
@@ -382,7 +382,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:40* [orange-background]#And if any man will sue thee at the law and take away thy coat, let him have thy cloak also.#
+*3 Nephi 12:40* [highlight-orange]#And if any man will sue thee at the law and take away thy coat, let him have thy cloak also.#
 
 {% marginal %}
 ____
@@ -393,7 +393,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:41* [orange-background]#And whosoever shall compel thee to go a mile, go with him twain.#
+*3 Nephi 12:41* [highlight-orange]#And whosoever shall compel thee to go a mile, go with him twain.#
 
 {% marginal %}
 ____
@@ -404,7 +404,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:42* [orange-background]#Give to him that asketh thee, and from him that would borrow of thee turn thou not away.#
+*3 Nephi 12:42* [highlight-orange]#Give to him that asketh thee, and from him that would borrow of thee turn thou not away.#
 
 {% marginal %}
 ____
@@ -415,7 +415,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:43* [orange-background]#And behold, it is written also that thou shalt love thy neighbor and hate thine enemy.#
+*3 Nephi 12:43* [highlight-orange]#And behold, it is written also that thou shalt love thy neighbor and hate thine enemy.#
 
 {% marginal %}
 ____
@@ -426,7 +426,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:44* [orange-background]#But behold, I say unto you: Love your enemies! Bless them that curse you! Do good to them that hate you, and pray for them which despitefully use you and persecute you,#
+*3 Nephi 12:44* [highlight-orange]#But behold, I say unto you: Love your enemies! Bless them that curse you! Do good to them that hate you, and pray for them which despitefully use you and persecute you,#
 
 {% marginal %}
 ____
@@ -437,7 +437,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:45* [orange-background]#that ye may be the children of your Father which is in heaven, for he maketh his sun to rise on the evil and on the good.#
+*3 Nephi 12:45* [highlight-orange]#that ye may be the children of your Father which is in heaven, for he maketh his sun to rise on the evil and on the good.#
 
 *3 Nephi 12:46* Therefore those things which were of old time which were under the law, in me are all fulfilled.
 
@@ -452,5 +452,5 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 12:48* [orange-background]#Therefore I would that ye should be perfect, even as I or your Father which is in heaven is perfect.#
+*3 Nephi 12:48* [highlight-orange]#Therefore I would that ye should be perfect, even as I or your Father which is in heaven is perfect.#
 

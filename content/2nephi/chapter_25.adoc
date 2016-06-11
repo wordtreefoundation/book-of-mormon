@@ -48,7 +48,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 25:17* [yellow-background]#[yellow-background]#the Lord will set his hand again the second time to restore his people from their lost and fallen state. Wherefore he will proceed to do a marvelous work and a wonder among the children of men.##
+*2 Nephi 25:17* [highlight]#[highlight]#the Lord will set his hand again the second time to restore his people from their lost and fallen state. Wherefore he will proceed to do a marvelous work and a wonder among the children of men.##
 
 *2 Nephi 25:18* Wherefore he shall bring forth his words unto them, which words shall judge them at the last day; for they shall be given them for the purpose of convincing them of the true Messiah, who was rejected by them, and unto the convincing of them that they need not look forward any more for a Messiah to come; for there should not any come save it should be a false Messiah which should deceive the people. For there is save one Messiah spoken of by the prophets, and that Messiah is he which should be rejected of the Jews.
 

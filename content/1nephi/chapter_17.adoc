@@ -77,7 +77,7 @@ ____
 {% endmarginal %}
 
 
-*1 Nephi 17:36* [yellow-background]#Behold, the Lord hath created the earth that it should be inhabited, and he hath created his children that they should possess it.#
+*1 Nephi 17:36* [highlight]#Behold, the Lord hath created the earth that it should be inhabited, and he hath created his children that they should possess it.#
 
 *1 Nephi 17:37* And he raiseth up a righteous nation and destroyeth the nations of the wicked.
 

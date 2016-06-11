@@ -67,7 +67,7 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 27:31* [yellow-background]#Yea, every knee shall bow and every tongue confess before him. Yea, even at the last day when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess who live without God in the world that the judgment of an everlasting punishment is just upon them. And they shall quake and tremble and shrink beneath the glance of his all-searching eye.#
+*Mosiah 27:31* [highlight]#Yea, every knee shall bow and every tongue confess before him. Yea, even at the last day when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess who live without God in the world that the judgment of an everlasting punishment is just upon them. And they shall quake and tremble and shrink beneath the glance of his all-searching eye.#
 
 *Mosiah 27:32* And now it came to pass that and those which were with Alma at the time the angel appeared unto them, traveling round about through all the land, publishing to all the people the things which they had heard and seen, and preaching the word of God, in much tribulation, being greatly persecuted by those which were unbelievers, being smitten by many of them.
 
@@ -88,5 +88,5 @@ ____
 {% endmarginal %}
 
 
-*Mosiah 27:37* [yellow-background]#And how blessed are they! For they did publish peace; they did publish good tidings of good, and they did declare unto the people that the Lord reigneth.#
+*Mosiah 27:37* [highlight]#And how blessed are they! For they did publish peace; they did publish good tidings of good, and they did declare unto the people that the Lord reigneth.#
 

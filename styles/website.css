@@ -1,11 +1,11 @@
 /* CSS for website */
 
-.background.yellow, .yellow-background {
+.highlight {
   background-color: #FFFF99;
   padding: 2px 1px 2px 3px;
 }
 
-.background.orange, .orange-background {
+.highlight-orange {
   background-color: #FFDD55;
   padding: 2px 1px 2px 3px;
 }

@@ -21,7 +21,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:8* [yellow-background]#And when that day shall come, it shall come to pass that kings shall shut their mouths; for that which had not been told them shall they see, and that which they had not heard shall they consider.#
+*3 Nephi 21:8* [highlight]#And when that day shall come, it shall come to pass that kings shall shut their mouths; for that which had not been told them shall they see, and that which they had not heard shall they consider.#
 
 *3 Nephi 21:9* For in that day, for my sake, shall the Father work a work which shall be a great and a marvelous work among them. And there shall be many among them which will not believe it, although a man shall declare it unto them.
 
@@ -38,7 +38,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:12* [yellow-background]#And my people which are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep who, if he go through, both treadeth down and teareth in pieces, and none can deliver.#
+*3 Nephi 21:12* [highlight]#And my people which are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep who, if he go through, both treadeth down and teareth in pieces, and none can deliver.#
 
 {% marginal %}
 ____
@@ -49,7 +49,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:13* [yellow-background]#Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.#
+*3 Nephi 21:13* [highlight]#Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.#
 
 {% marginal %}
 ____
@@ -60,7 +60,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:14* [yellow-background]#Yea, woe be unto the Gentiles except they repent. For it shall come to pass in that day, saith the Father, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots.#
+*3 Nephi 21:14* [highlight]#Yea, woe be unto the Gentiles except they repent. For it shall come to pass in that day, saith the Father, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots.#
 
 {% marginal %}
 ____
@@ -71,7 +71,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:15* [yellow-background]#And I will cut off the cities of thy land and throw down all thy strong holds.#
+*3 Nephi 21:15* [highlight]#And I will cut off the cities of thy land and throw down all thy strong holds.#
 
 {% marginal %}
 ____
@@ -82,7 +82,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:16* [yellow-background]#And I will cut off witchcrafts out of thy hand, and thou shalt have no more soothsayers.#
+*3 Nephi 21:16* [highlight]#And I will cut off witchcrafts out of thy hand, and thou shalt have no more soothsayers.#
 
 {% marginal %}
 ____
@@ -93,7 +93,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:17* [yellow-background]#Thy graven images I will also cut off, and thy standing images out of the midst of thee. And thou shalt no more worship the works of thy hands.#
+*3 Nephi 21:17* [highlight]#Thy graven images I will also cut off, and thy standing images out of the midst of thee. And thou shalt no more worship the works of thy hands.#
 
 {% marginal %}
 ____
@@ -104,7 +104,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:18* [yellow-background]#And I will pluck up thy groves out of the midst of thee; so will I destroy thy cities.#
+*3 Nephi 21:18* [highlight]#And I will pluck up thy groves out of the midst of thee; so will I destroy thy cities.#
 
 *3 Nephi 21:19* And it shall come to pass that all lyings and deceivings and envyings and strifes and priestcrafts and whoredoms shall be done away.
 
@@ -135,5 +135,5 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 21:29* [yellow-background]#And they shall go out from all nations. And they shall not go out in haste nor go by flight, for I will go before them, saith the Father, and I will be their rearward.#
+*3 Nephi 21:29* [highlight]#And they shall go out from all nations. And they shall not go out in haste nor go by flight, for I will go before them, saith the Father, and I will be their rearward.#
 

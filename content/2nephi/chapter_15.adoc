@@ -7,7 +7,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:1* [yellow-background]#And then will I sing to my well beloved a song of my beloved touching his vineyard. My well beloved hath a vineyard in a very fruitful hill.#
+*2 Nephi 15:1* [highlight]#And then will I sing to my well beloved a song of my beloved touching his vineyard. My well beloved hath a vineyard in a very fruitful hill.#
 
 {% marginal %}
 ____
@@ -18,7 +18,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:2* [yellow-background]#And he fenced it and gathered out the stones thereof and planted it with the choicest vine and built a tower in the midst of it and also made a winepress therein. And he looked that it should bring forth grapes, and it brought forth wild grapes.#
+*2 Nephi 15:2* [highlight]#And he fenced it and gathered out the stones thereof and planted it with the choicest vine and built a tower in the midst of it and also made a winepress therein. And he looked that it should bring forth grapes, and it brought forth wild grapes.#
 
 {% marginal %}
 ____
@@ -29,7 +29,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:3* [yellow-background]#And now O inhabitants of Jerusalem and men of Judah, judge I pray you betwixt me and my vineyard.#
+*2 Nephi 15:3* [highlight]#And now O inhabitants of Jerusalem and men of Judah, judge I pray you betwixt me and my vineyard.#
 
 {% marginal %}
 ____
@@ -40,7 +40,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:4* [yellow-background]#What could have been done more to my vineyard that I have not done in it? Wherefore when I looked that it should bring forth grapes, it brought forth wild grapes.#
+*2 Nephi 15:4* [highlight]#What could have been done more to my vineyard that I have not done in it? Wherefore when I looked that it should bring forth grapes, it brought forth wild grapes.#
 
 {% marginal %}
 ____
@@ -51,7 +51,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:5* [yellow-background]#And now go to; I will tell you what I will do to my vineyard. I will take away the hedge thereof and it shall be eaten up. And I will break down the wall thereof and it shall be trodden down.#
+*2 Nephi 15:5* [highlight]#And now go to; I will tell you what I will do to my vineyard. I will take away the hedge thereof and it shall be eaten up. And I will break down the wall thereof and it shall be trodden down.#
 
 {% marginal %}
 ____
@@ -62,7 +62,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:6* [yellow-background]#And I will lay it waste. It shall not be pruned nor digged, but there shall come up briars and thorns. I will also command the clouds that they rain no rain upon it.#
+*2 Nephi 15:6* [highlight]#And I will lay it waste. It shall not be pruned nor digged, but there shall come up briars and thorns. I will also command the clouds that they rain no rain upon it.#
 
 {% marginal %}
 ____
@@ -73,7 +73,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:7* [yellow-background]#For the vineyard of the Lord of Hosts is the house of Israel, and the men of Judah his pleasant plant. And he looked for judgment and behold oppression; for righteousness but behold a cry.#
+*2 Nephi 15:7* [highlight]#For the vineyard of the Lord of Hosts is the house of Israel, and the men of Judah his pleasant plant. And he looked for judgment and behold oppression; for righteousness but behold a cry.#
 
 {% marginal %}
 ____
@@ -84,7 +84,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:8* [yellow-background]#Woe unto them that join house to house till there can be no place, that they may be placed alone in the midst of the earth.#
+*2 Nephi 15:8* [highlight]#Woe unto them that join house to house till there can be no place, that they may be placed alone in the midst of the earth.#
 
 {% marginal %}
 ____
@@ -95,7 +95,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:9* [yellow-background]#In mine ears saith the Lord of Hosts: Of a truth many houses shall be desolate, and great and fair cities without inhabitant.#
+*2 Nephi 15:9* [highlight]#In mine ears saith the Lord of Hosts: Of a truth many houses shall be desolate, and great and fair cities without inhabitant.#
 
 {% marginal %}
 ____
@@ -106,7 +106,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:10* [yellow-background]#Yea, ten acres of vineyard shall yield one bath, and the seed of a homer shall yield an ephah.#
+*2 Nephi 15:10* [highlight]#Yea, ten acres of vineyard shall yield one bath, and the seed of a homer shall yield an ephah.#
 
 {% marginal %}
 ____
@@ -117,7 +117,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:11* [yellow-background]#Woe unto them that rise up early in the morning that they may follow strong drink, that continue until night and wine inflame them.#
+*2 Nephi 15:11* [highlight]#Woe unto them that rise up early in the morning that they may follow strong drink, that continue until night and wine inflame them.#
 
 {% marginal %}
 ____
@@ -128,7 +128,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:12* [yellow-background]#And the harp and the viol, the tabret and pipe and wine are in their feasts, but they regard not the work of the Lord, neither consider the operation of his hands.#
+*2 Nephi 15:12* [highlight]#And the harp and the viol, the tabret and pipe and wine are in their feasts, but they regard not the work of the Lord, neither consider the operation of his hands.#
 
 {% marginal %}
 ____
@@ -139,7 +139,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:13* [yellow-background]#Therefore my people are gone into captivity because they have no knowledge. And their honorable men are famished, and their multitude dried up with thirst.#
+*2 Nephi 15:13* [highlight]#Therefore my people are gone into captivity because they have no knowledge. And their honorable men are famished, and their multitude dried up with thirst.#
 
 {% marginal %}
 ____
@@ -150,7 +150,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:14* [yellow-background]#Therefore hell hath enlarged herself and opened her mouth without measure, and their glory and their multitude and their pomp and he that rejoiceth shall descend into it.#
+*2 Nephi 15:14* [highlight]#Therefore hell hath enlarged herself and opened her mouth without measure, and their glory and their multitude and their pomp and he that rejoiceth shall descend into it.#
 
 {% marginal %}
 ____
@@ -161,7 +161,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:15* [yellow-background]#And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled.#
+*2 Nephi 15:15* [highlight]#And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled.#
 
 {% marginal %}
 ____
@@ -172,7 +172,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:16* [yellow-background]#But the Lord of Hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.#
+*2 Nephi 15:16* [highlight]#But the Lord of Hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.#
 
 {% marginal %}
 ____
@@ -183,7 +183,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:17* [yellow-background]#Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.#
+*2 Nephi 15:17* [highlight]#Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.#
 
 {% marginal %}
 ____
@@ -194,7 +194,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:18* [yellow-background]#Woe unto them that draw iniquity with cords of vanity and sin as it were with a cart rope,#
+*2 Nephi 15:18* [highlight]#Woe unto them that draw iniquity with cords of vanity and sin as it were with a cart rope,#
 
 {% marginal %}
 ____
@@ -205,7 +205,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:19* [yellow-background]#that say: Let him make speed, hasten his work that we may see it. And let the counsel of the Holy One of Israel draw nigh and come, that we may know it.#
+*2 Nephi 15:19* [highlight]#that say: Let him make speed, hasten his work that we may see it. And let the counsel of the Holy One of Israel draw nigh and come, that we may know it.#
 
 {% marginal %}
 ____
@@ -216,7 +216,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:20* [yellow-background]#Woe unto them that call evil good and good evil, that put darkness for light and light for darkness, that put bitter for sweet and sweet for bitter.#
+*2 Nephi 15:20* [highlight]#Woe unto them that call evil good and good evil, that put darkness for light and light for darkness, that put bitter for sweet and sweet for bitter.#
 
 {% marginal %}
 ____
@@ -227,7 +227,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:21* [yellow-background]#Woe unto the wise in their own eyes and prudent in their own sight.#
+*2 Nephi 15:21* [highlight]#Woe unto the wise in their own eyes and prudent in their own sight.#
 
 {% marginal %}
 ____
@@ -238,7 +238,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:22* [yellow-background]#Woe unto the mighty to drink wine and men of strength to mingle strong drink,#
+*2 Nephi 15:22* [highlight]#Woe unto the mighty to drink wine and men of strength to mingle strong drink,#
 
 {% marginal %}
 ____
@@ -249,7 +249,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:23* [yellow-background]#which justify the wicked for reward and take away the righteousness of the righteous from him.#
+*2 Nephi 15:23* [highlight]#which justify the wicked for reward and take away the righteousness of the righteous from him.#
 
 {% marginal %}
 ____
@@ -260,7 +260,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:24* [yellow-background]#Therefore as the fire devoureth the stubble and the flame consumeth the chaff, their root shall be rottenness and their blossom shall go up as dust because they have cast away the law of the Lord of Hosts and despised the word of the Holy One of Israel.#
+*2 Nephi 15:24* [highlight]#Therefore as the fire devoureth the stubble and the flame consumeth the chaff, their root shall be rottenness and their blossom shall go up as dust because they have cast away the law of the Lord of Hosts and despised the word of the Holy One of Israel.#
 
 {% marginal %}
 ____
@@ -271,7 +271,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:25* [yellow-background]#Therefore is the anger of the Lord kindled against his people, and he hath stretched forth his hand against them and hath smitten them. And the hills did tremble and their carcasses were torn in the midst of the streets. For all this his anger is not turned away, but his hand stretched out still.#
+*2 Nephi 15:25* [highlight]#Therefore is the anger of the Lord kindled against his people, and he hath stretched forth his hand against them and hath smitten them. And the hills did tremble and their carcasses were torn in the midst of the streets. For all this his anger is not turned away, but his hand stretched out still.#
 
 {% marginal %}
 ____
@@ -282,7 +282,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:26* [yellow-background]#And he will lift up an ensign to the nations from far and will hiss unto them from the end of the earth. And behold, they shall come with speed swiftly.#
+*2 Nephi 15:26* [highlight]#And he will lift up an ensign to the nations from far and will hiss unto them from the end of the earth. And behold, they shall come with speed swiftly.#
 
 {% marginal %}
 ____
@@ -293,7 +293,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:27* [yellow-background]#None shall be weary nor stumble among them. None shall slumber nor sleep, neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken,#
+*2 Nephi 15:27* [highlight]#None shall be weary nor stumble among them. None shall slumber nor sleep, neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken,#
 
 {% marginal %}
 ____
@@ -304,7 +304,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:28* [yellow-background]#whose arrows shall be sharp, and all their bows bent. And their horses' hoofs shall be counted like flint, and their wheels like a whirlwind, their roaring like a lion.#
+*2 Nephi 15:28* [highlight]#whose arrows shall be sharp, and all their bows bent. And their horses' hoofs shall be counted like flint, and their wheels like a whirlwind, their roaring like a lion.#
 
 {% marginal %}
 ____
@@ -315,7 +315,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:29* [yellow-background]#They shall roar like young lions; yea, they shall roar and lay hold of the prey and shall carry away safe, and none shall deliver.#
+*2 Nephi 15:29* [highlight]#They shall roar like young lions; yea, they shall roar and lay hold of the prey and shall carry away safe, and none shall deliver.#
 
 {% marginal %}
 ____
@@ -326,5 +326,5 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 15:30* [yellow-background]#And in that day they shall roar against them like the roaring of the sea. And if they look unto the land, behold, darkness and sorrow, and the light is darkened in the heavens thereof.#
+*2 Nephi 15:30* [highlight]#And in that day they shall roar against them like the roaring of the sea. And if they look unto the land, behold, darkness and sorrow, and the light is darkened in the heavens thereof.#
 

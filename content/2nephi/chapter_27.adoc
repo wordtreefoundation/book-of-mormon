@@ -7,7 +7,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:1* [yellow-background]#But behold, in the last days or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both they which shall come upon this land and they which shall be upon other lands, yea, even upon all the lands of the earth--behold, they will be drunken with iniquity and all manner of abominations.#
+*2 Nephi 27:1* [highlight]#But behold, in the last days or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both they which shall come upon this land and they which shall be upon other lands, yea, even upon all the lands of the earth--behold, they will be drunken with iniquity and all manner of abominations.#
 
 {% marginal %}
 ____
@@ -27,7 +27,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:2* [yellow-background]#[yellow-background]#And when that day shall come, they shall be visited of the Lord of Hosts with thunder and with earthquake and with a great noise and with storm and tempest and with the flame of devouring fire.##
+*2 Nephi 27:2* [highlight]#[highlight]#And when that day shall come, they shall be visited of the Lord of Hosts with thunder and with earthquake and with a great noise and with storm and tempest and with the flame of devouring fire.##
 
 {% marginal %}
 ____
@@ -56,7 +56,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:3* [yellow-background]#[yellow-background]#[yellow-background]#And all the nations that fight against Zion and that distress her shall be as a dream of a night vision. Yea, it shall be unto them even as unto a hungry man which dreameth: and behold, he eateth, but he awaketh and his soul is empty; or like unto a thirsty man which dreameth: and behold, he drinketh, but he awaketh and behold, he is faint and his soul hath appetite. Yea, even so shall the multitude of all the nations be that fight against mount Zion.###
+*2 Nephi 27:3* [highlight]#[highlight]#[highlight]#And all the nations that fight against Zion and that distress her shall be as a dream of a night vision. Yea, it shall be unto them even as unto a hungry man which dreameth: and behold, he eateth, but he awaketh and his soul is empty; or like unto a thirsty man which dreameth: and behold, he drinketh, but he awaketh and behold, he is faint and his soul hath appetite. Yea, even so shall the multitude of all the nations be that fight against mount Zion.###
 
 {% marginal %}
 ____
@@ -76,7 +76,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:4* [yellow-background]#[yellow-background]#For behold, all ye that do iniquity, stay yourselves and wonder, for ye shall cry out and cry. Yea, ye shall be drunken but not with wine; ye shall stagger but not with strong drink.##
+*2 Nephi 27:4* [highlight]#[highlight]#For behold, all ye that do iniquity, stay yourselves and wonder, for ye shall cry out and cry. Yea, ye shall be drunken but not with wine; ye shall stagger but not with strong drink.##
 
 {% marginal %}
 ____
@@ -96,7 +96,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:5* [yellow-background]#[yellow-background]#For behold, the Lord hath poured out upon you the spirit of deep sleep. For behold, ye have closed your eyes; and ye have rejected the prophets, and your rulers and the seers hath he covered because of your iniquity.##
+*2 Nephi 27:5* [highlight]#[highlight]#For behold, the Lord hath poured out upon you the spirit of deep sleep. For behold, ye have closed your eyes; and ye have rejected the prophets, and your rulers and the seers hath he covered because of your iniquity.##
 
 {% marginal %}
 ____
@@ -107,7 +107,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:6* [yellow-background]#And it shall come to pass that the Lord God shall bring forth unto you the words of a book. And they shall be the words of them which have slumbered.#
+*2 Nephi 27:6* [highlight]#And it shall come to pass that the Lord God shall bring forth unto you the words of a book. And they shall be the words of them which have slumbered.#
 
 {% marginal %}
 ____
@@ -118,7 +118,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:7* [yellow-background]#And behold, the book shall be sealed. And in the book shall be a revelation from God from the beginning of the world to the ending thereof.#
+*2 Nephi 27:7* [highlight]#And behold, the book shall be sealed. And in the book shall be a revelation from God from the beginning of the world to the ending thereof.#
 
 {% marginal %}
 ____
@@ -129,7 +129,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:8* [yellow-background]#Wherefore because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people. Wherefore the book shall be kept from them.#
+*2 Nephi 27:8* [highlight]#Wherefore because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people. Wherefore the book shall be kept from them.#
 
 {% marginal %}
 ____
@@ -140,7 +140,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:9* [yellow-background]#But the book shall be delivered unto a man, and he shall deliver the words of the book, which are the words of they which have slumbered in the dust, and he shall deliver these words unto another.#
+*2 Nephi 27:9* [highlight]#But the book shall be delivered unto a man, and he shall deliver the words of the book, which are the words of they which have slumbered in the dust, and he shall deliver these words unto another.#
 
 {% marginal %}
 ____
@@ -151,7 +151,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:10* [yellow-background]#But the words which are sealed he shall not deliver, neither shall he deliver the book, for the book shall be sealed by the power of God; and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth. For behold, they reveal all things, from the foundation of the world unto the end thereof.#
+*2 Nephi 27:10* [highlight]#But the words which are sealed he shall not deliver, neither shall he deliver the book, for the book shall be sealed by the power of God; and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth. For behold, they reveal all things, from the foundation of the world unto the end thereof.#
 
 {% marginal %}
 ____
@@ -162,7 +162,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:11* [yellow-background]#And the day cometh that the words of the book which were sealed shall be read upon the housetops; and they shall be read by the power of Christ. And all things shall be revealed unto the children of men which ever hath been among the children of men and which ever will be, even unto the end of the earth.#
+*2 Nephi 27:11* [highlight]#And the day cometh that the words of the book which were sealed shall be read upon the housetops; and they shall be read by the power of Christ. And all things shall be revealed unto the children of men which ever hath been among the children of men and which ever will be, even unto the end of the earth.#
 
 {% marginal %}
 ____
@@ -173,7 +173,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:12* [yellow-background]#Wherefore at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it by the power of God, besides him to whom the book shall be delivered. And they shall testify to the truth of the book and the things therein.#
+*2 Nephi 27:12* [highlight]#Wherefore at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it by the power of God, besides him to whom the book shall be delivered. And they shall testify to the truth of the book and the things therein.#
 
 {% marginal %}
 ____
@@ -184,7 +184,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:13* [yellow-background]#And there is none other which shall view it, save it be a few according to the will of God, to bear testimony of his word unto the children of men. For the Lord God hath said that the words of the faithful should speak as if it were from the dead.#
+*2 Nephi 27:13* [highlight]#And there is none other which shall view it, save it be a few according to the will of God, to bear testimony of his word unto the children of men. For the Lord God hath said that the words of the faithful should speak as if it were from the dead.#
 
 {% marginal %}
 ____
@@ -195,7 +195,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:14* [yellow-background]#Wherefore the Lord God will proceed to bring forth the words of the book. And in the mouth of as many witnesses as seemeth him good will he establish his word. And woe be unto him that rejecteth the word of God.#
+*2 Nephi 27:14* [highlight]#Wherefore the Lord God will proceed to bring forth the words of the book. And in the mouth of as many witnesses as seemeth him good will he establish his word. And woe be unto him that rejecteth the word of God.#
 
 {% marginal %}
 ____
@@ -206,7 +206,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:15* [yellow-background]#But behold, it shall come to pass that the Lord God shall say unto him to whom he shall deliver the book: Take these words which are not sealed and deliver them to another, that he may shew them unto the learned, saying: Read this, I pray thee. And the learned shall say: Bring hither the book and I will read them.#
+*2 Nephi 27:15* [highlight]#But behold, it shall come to pass that the Lord God shall say unto him to whom he shall deliver the book: Take these words which are not sealed and deliver them to another, that he may shew them unto the learned, saying: Read this, I pray thee. And the learned shall say: Bring hither the book and I will read them.#
 
 {% marginal %}
 ____
@@ -217,7 +217,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:16* [yellow-background]#And now because of the glory of the world and to get gain will they say this, and not for the glory of God.#
+*2 Nephi 27:16* [highlight]#And now because of the glory of the world and to get gain will they say this, and not for the glory of God.#
 
 {% marginal %}
 ____
@@ -228,7 +228,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:17* [yellow-background]#And the man shall say: I cannot bring the book, for it is sealed.#
+*2 Nephi 27:17* [highlight]#And the man shall say: I cannot bring the book, for it is sealed.#
 
 {% marginal %}
 ____
@@ -239,7 +239,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:18* [yellow-background]#Then shall the learned say: I cannot read it.#
+*2 Nephi 27:18* [highlight]#Then shall the learned say: I cannot read it.#
 
 {% marginal %}
 ____
@@ -250,7 +250,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:19* [yellow-background]#Wherefore it shall come to pass that the Lord God will deliver again the book and the words thereof to him that is not learned. And the man that is not learned shall say: I am not learned.#
+*2 Nephi 27:19* [highlight]#Wherefore it shall come to pass that the Lord God will deliver again the book and the words thereof to him that is not learned. And the man that is not learned shall say: I am not learned.#
 
 {% marginal %}
 ____
@@ -261,7 +261,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:20* [yellow-background]#Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them. And I am able to do mine own work; wherefore thou shalt read the words which I shall give unto thee.#
+*2 Nephi 27:20* [highlight]#Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them. And I am able to do mine own work; wherefore thou shalt read the words which I shall give unto thee.#
 
 {% marginal %}
 ____
@@ -272,7 +272,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:21* [yellow-background]#Touch not the things which are sealed, for I will bring them forth in mine own due time. For I will shew unto the children of men that I am able to do mine own work.#
+*2 Nephi 27:21* [highlight]#Touch not the things which are sealed, for I will bring them forth in mine own due time. For I will shew unto the children of men that I am able to do mine own work.#
 
 {% marginal %}
 ____
@@ -283,7 +283,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:22* [yellow-background]#Wherefore when thou hast read the words which I have commanded thee and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again and hide it up unto me, that I may preserve the words which thou hast not read until I shall see fit in mine own wisdom to reveal all things unto the children of men.#
+*2 Nephi 27:22* [highlight]#Wherefore when thou hast read the words which I have commanded thee and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again and hide it up unto me, that I may preserve the words which thou hast not read until I shall see fit in mine own wisdom to reveal all things unto the children of men.#
 
 {% marginal %}
 ____
@@ -294,7 +294,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:23* [yellow-background]#For behold, I am God, and I am a God of miracles. And I will shew unto the world that I am the same yesterday, today, and forever, and I work not among the children of men save it be according to their faith.#
+*2 Nephi 27:23* [highlight]#For behold, I am God, and I am a God of miracles. And I will shew unto the world that I am the same yesterday, today, and forever, and I work not among the children of men save it be according to their faith.#
 
 {% marginal %}
 ____
@@ -305,7 +305,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 27:24* [yellow-background]#And again it shall come to pass that the Lord shall say unto him that shall read the words that shall be delivered him:#
+*2 Nephi 27:24* [highlight]#And again it shall come to pass that the Lord shall say unto him that shall read the words that shall be delivered him:#
 
 *2 Nephi 27:25* Forasmuch as this people draw near unto me with their mouth and with their lips do honor me but have removed their heart far from me and their fear towards me is taught by the precept of men,
 

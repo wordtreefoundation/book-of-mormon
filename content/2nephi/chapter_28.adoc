@@ -31,7 +31,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 28:7* [orange-background]#Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.#
+*2 Nephi 28:7* [highlight-orange]#Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.#
 
 {% marginal %}
 ____
@@ -42,7 +42,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 28:8* [yellow-background]#And there shall also be many which shall say: Eat, drink, and be merry, nevertheless fear God. He will justify in committing a little sin. Yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this. And do all these things, for tomorrow we die. And if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.#
+*2 Nephi 28:8* [highlight]#And there shall also be many which shall say: Eat, drink, and be merry, nevertheless fear God. He will justify in committing a little sin. Yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this. And do all these things, for tomorrow we die. And if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.#
 
 {% marginal %}
 ____
@@ -53,7 +53,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 28:9* [yellow-background]#Yea, and there shall be many which shall teach after this manner false and vain and foolish doctrines and shall be puffed up in their hearts and shall seek deep to hide their counsels from the Lord, and their works shall be in the dark.#
+*2 Nephi 28:9* [highlight]#Yea, and there shall be many which shall teach after this manner false and vain and foolish doctrines and shall be puffed up in their hearts and shall seek deep to hide their counsels from the Lord, and their works shall be in the dark.#
 
 *2 Nephi 28:10* And the blood of the saints shall cry from the ground against them.
 
@@ -113,7 +113,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 28:30* [yellow-background]#[yellow-background]#For behold, thus saith the Lord God: I will give unto the children of men line upon line and precept upon precept, here a little and there a little. And blessed are they that hearken unto my precepts and lend an ear unto my counsel, for they shall learn wisdom. For unto him that receiveth I will give more; and them that shall say we have enough, from them shall be taken away even that which they have.##
+*2 Nephi 28:30* [highlight]#[highlight]#For behold, thus saith the Lord God: I will give unto the children of men line upon line and precept upon precept, here a little and there a little. And blessed are they that hearken unto my precepts and lend an ear unto my counsel, for they shall learn wisdom. For unto him that receiveth I will give more; and them that shall say we have enough, from them shall be taken away even that which they have.##
 
 {% marginal %}
 ____
@@ -124,7 +124,7 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 28:31* [yellow-background]#Cursed is he that putteth his trust in man or maketh flesh his arm, or shall hearken unto the precepts of men, save their precepts shall be given by the power of the Holy Ghost.#
+*2 Nephi 28:31* [highlight]#Cursed is he that putteth his trust in man or maketh flesh his arm, or shall hearken unto the precepts of men, save their precepts shall be given by the power of the Holy Ghost.#
 
 {% marginal %}
 ____
@@ -135,5 +135,5 @@ ____
 {% endmarginal %}
 
 
-*2 Nephi 28:32* [yellow-background]#Woe be unto the Gentiles, saith the Lord God of Hosts; for notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me. Nevertheless I will be merciful unto them, saith the Lord God, if they will repent and come unto me. For mine arm is lengthened out all the day long, saith the Lord God of Hosts.#
+*2 Nephi 28:32* [highlight]#Woe be unto the Gentiles, saith the Lord God of Hosts; for notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me. Nevertheless I will be merciful unto them, saith the Lord God, if they will repent and come unto me. For mine arm is lengthened out all the day long, saith the Lord God of Hosts.#
 

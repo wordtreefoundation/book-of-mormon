@@ -79,7 +79,7 @@ ____
 {% endmarginal %}
 
 
-*1 Nephi 13:37* [yellow-background]#And blessed are they which shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost. And if they endure unto the end, they shall be lifted up at the last day and shall be saved in the everlasting kingdom of the Lamb. Yea, whoso shall publish peace--that shall publish tidings of great joy--how beautiful upon the mountains shall they be!#
+*1 Nephi 13:37* [highlight]#And blessed are they which shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost. And if they endure unto the end, they shall be lifted up at the last day and shall be saved in the everlasting kingdom of the Lamb. Yea, whoso shall publish peace--that shall publish tidings of great joy--how beautiful upon the mountains shall they be!#
 
 *1 Nephi 13:38* And it came to pass that I beheld the remnant of the seed of my brethren and also the book of the Lamb of God which had proceeded forth from the mouth of the Jew. And I beheld that it came forth from the Gentiles unto the remnant of the seed of my brethren.
 

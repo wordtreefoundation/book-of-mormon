@@ -7,7 +7,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 25:1* [yellow-background]#For behold, the day cometh that shall burn as an oven. And all the proud--yea, and all that do wickedly--shall be stubble. And the day that cometh shall burn them up, saith the Lord of Hosts, that it shall leave them neither root nor branch.#
+*3 Nephi 25:1* [highlight]#For behold, the day cometh that shall burn as an oven. And all the proud--yea, and all that do wickedly--shall be stubble. And the day that cometh shall burn them up, saith the Lord of Hosts, that it shall leave them neither root nor branch.#
 
 {% marginal %}
 ____
@@ -18,7 +18,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 25:2* [yellow-background]#But unto you that fear my name shall the Sun of righteousness arise with healing in his wings. And ye shall go forth and grow up as calves of the stall.#
+*3 Nephi 25:2* [highlight]#But unto you that fear my name shall the Sun of righteousness arise with healing in his wings. And ye shall go forth and grow up as calves of the stall.#
 
 {% marginal %}
 ____
@@ -29,7 +29,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 25:3* [yellow-background]#And ye shall tread down the wicked, for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of Hosts.#
+*3 Nephi 25:3* [highlight]#And ye shall tread down the wicked, for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of Hosts.#
 
 {% marginal %}
 ____
@@ -40,7 +40,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 25:4* [yellow-background]#Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel with the statutes and judgments.#
+*3 Nephi 25:4* [highlight]#Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel with the statutes and judgments.#
 
 {% marginal %}
 ____
@@ -51,7 +51,7 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 25:5* [yellow-background]#Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord.#
+*3 Nephi 25:5* [highlight]#Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord.#
 
 {% marginal %}
 ____
@@ -62,5 +62,5 @@ ____
 {% endmarginal %}
 
 
-*3 Nephi 25:6* [yellow-background]#And he shall turn the heart of the fathers to the children and the heart of the children to their fathers, lest I come and smite the earth with a curse.#
+*3 Nephi 25:6* [highlight]#And he shall turn the heart of the fathers to the children and the heart of the children to their fathers, lest I come and smite the earth with a curse.#
 
