@@ -1,6 +1,15 @@
-*1 Nephi 18:1* And it came to pass that they did worship the Lord and did go forth with me, and we did work timbers of curious workmanship. And the Lord did shew me from time to time after what manner I should work the timbers of the ship.
 
-*1 Nephi 18:2* Now I Nephi did not work the timbers after the manner which was learned by men, neither did I build the ship after the manner of men, but I did build it after the manner which the Lord had shewn unto me; wherefore it was not after the manner of men.
+{% margin 2 %}
+____
+Now these [highlight]#steam-boats# were cunningly contrived, and had abundance of [highlight]#curious workmanship# therein, such as surpassed the comprehension of all the wise men of the east, from the beginning to this day.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[12:12]
+____
+{% endmargin %}
+
+*1 Nephi 18:1* And it came to pass that they did worship the Lord and did go forth with me, and [highlight]#we did work timbers of curious workmanship#. And the Lord did shew me from time to time after what manner I should work the timbers of the ship.
+
+*1 Nephi 18:2* Now I Nephi did not work the timbers after the manner which was learned by men, neither did I build the [highlight]#ship# after the manner of men, but I did build it after the manner which the Lord had shewn unto me; wherefore it was not after the manner of men.
 
 *1 Nephi 18:3* And I Nephi did go into the mount oft, and I did pray oft unto the Lord; wherefore the Lord shewed unto me great things.
 
