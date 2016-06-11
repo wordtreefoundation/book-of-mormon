@@ -59,20 +59,20 @@
 *Moroni 10:30* And again I would exhort you that ye would come unto Christ and lay hold upon every good gift, and touch not the evil gift nor the unclean thing.
 
 {% marginal %}
-****
-*Quote* Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
+____
+Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:1]
-****
+____
 {% endmarginal %}
 
 
 {% marginal %}
-****
-*Quote* Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
+____
+Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:2]
-****
+____
 {% endmarginal %}
 
 

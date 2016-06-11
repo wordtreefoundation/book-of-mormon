@@ -1,240 +1,240 @@
 {% marginal %}
-****
-*Quote* The burden of Babylon, which Isaiah the son of Amoz did see.
+____
+The burden of Babylon, which Isaiah the son of Amoz did see.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:1]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:1* [yellow-background]#The burden of Babylon which Isaiah the son of Amoz did see.#
 
 {% marginal %}
-****
-*Quote* Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
+____
+Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:2]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:2* [yellow-background]#Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand that they may go into the gates of the nobles.#
 
 {% marginal %}
-****
-*Quote* I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
+____
+I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:3]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:3* [yellow-background]#I have commanded my sanctified ones; I have also called my mighty ones. For mine anger is not upon them that rejoice in my highness.#
 
 {% marginal %}
-****
-*Quote* The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle.
+____
+The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:4]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:4* [yellow-background]#The noise of the multitude in the mountains like as of a great people, a tumultuous noise of the kingdoms of nations gathered together--the Lord of Hosts mustereth the host of the battle.#
 
 {% marginal %}
-****
-*Quote* They come from a far country, from the end of heaven, even the LORD, and the weapons of his indignation, to destroy the whole land.
+____
+They come from a far country, from the end of heaven, even the LORD, and the weapons of his indignation, to destroy the whole land.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:5]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:5* [yellow-background]#They come from a far country, from the end of heaven, yea, the Lord and the weapons of his indignation, to destroy the whole land.#
 
 {% marginal %}
-****
-*Quote* Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty.
+____
+Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:6]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:6* [yellow-background]#Howl ye, for the day of the Lord is at hand. It shall come as a destruction from the Almighty.#
 
 {% marginal %}
-****
-*Quote* Therefore shall all hands be faint, and every man's heart shall melt:
+____
+Therefore shall all hands be faint, and every man's heart shall melt:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:7]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:7* [yellow-background]#Therefore shall all hands be faint. Every man's heart shall melt,#
 
 {% marginal %}
-****
-*Quote* And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.
+____
+And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:8]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:8* [yellow-background]#and they shall be afraid. Pangs and sorrows shall take hold of them. They shall be amazed one at another. Their faces shall be as flames.#
 
 {% marginal %}
-****
-*Quote* Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it.
+____
+Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:9]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:9* [yellow-background]#Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate. And he shall destroy the sinners thereof out of it.#
 
 {% marginal %}
-****
-*Quote* For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
+____
+For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:10]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:10* [yellow-background]#For the stars of heaven and the constellations thereof shall not give their light. The sun shall be darkened in his going forth, and the moon shall not cause her light to shine.#
 
 {% marginal %}
-****
-*Quote* And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
+____
+And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:11]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:11* [yellow-background]#And I will punish the world for evil and the wicked for their iniquity. I will cause the arrogancy of the proud to cease and will lay down the haughtiness of the terrible.#
 
 {% marginal %}
-****
-*Quote* I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
+____
+I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:12]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:12* [yellow-background]#I will make a man more precious than fine gold, even a man than the golden wedge of Ophir.#
 
 {% marginal %}
-****
-*Quote* Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the LORD of hosts, and in the day of his fierce anger.
+____
+Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the LORD of hosts, and in the day of his fierce anger.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:13]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:13* [yellow-background]#Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of Hosts and in the day of his fierce anger.#
 
 {% marginal %}
-****
-*Quote* And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
+____
+And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:14]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:14* [yellow-background]#And it shall be as the chased roe and as a sheep that no man taketh up. They shall every man turn to his own people and flee every one into his own land.#
 
 {% marginal %}
-****
-*Quote* Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
+____
+Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:15]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:15* [yellow-background]#Every one that is proud shall be thrust through. Yea, and every one that is joined to the wicked shall fall by the sword.#
 
 {% marginal %}
-****
-*Quote* Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
+____
+Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:16]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:16* [yellow-background]#Their children also shall be dashed to pieces before their eyes. Their houses shall be spoiled and their wives ravished.#
 
 {% marginal %}
-****
-*Quote* Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
+____
+Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:17]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:17* [yellow-background]#Behold, I will stir up the Medes against them, which shall not regard silver and gold, nor they shall not delight in it.#
 
 {% marginal %}
-****
-*Quote* Their bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eyes shall not spare children.
+____
+Their bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eyes shall not spare children.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:18]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:18* [yellow-background]#Their bows shall also dash the young men to pieces. And they shall have no pity on the fruit of the womb; their eyes shall not spare children.#
 
 {% marginal %}
-****
-*Quote* And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.
+____
+And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:19]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:19* [yellow-background]#And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.#
 
 {% marginal %}
-****
-*Quote* It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
+____
+It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:20]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:20* [yellow-background]#It shall never be inhabited, neither shall it be dwelt in, from generation to generation. Neither shall the Arabian pitch tent there, neither shall the shepherds make their fold there.#
 
 {% marginal %}
-****
-*Quote* But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
+____
+But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:21]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 23:21* [yellow-background]#But wild beasts of the desert shall lie there, and their houses shall be full of doleful creatures. And owls shall dwell there, and satyrs shall dance there.#
 
 {% marginal %}
-****
-*Quote* And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
+____
+And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-13/[Isaiah 13:22]
-****
+____
 {% endmarginal %}
 
 

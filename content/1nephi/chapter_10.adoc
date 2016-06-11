@@ -13,11 +13,11 @@
 *1 Nephi 10:7* And he spake also concerning a prophet which should come before the Messiah to prepare the way of the Lord,
 
 {% marginal %}
-****
-*Quote* The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
+____
+The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-40/[Isaiah 40:3]
-****
+____
 {% endmarginal %}
 
 

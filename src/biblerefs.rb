@@ -25,7 +25,7 @@ def kjv_margin_quote(book, chapter, verse)
   body = $bible.book(book).chapter(chapter).verse(verse).text
   pericope = "#{book} #{chapter}:#{verse}"
   link = "http://www.kingjamesbibleonline.org/#{book}-Chapter-#{chapter}/"
-  "{% marginal %}\n****\n*Quote* #{body}\n\nKJV Bible, 1769, #{link}[#{pericope}]\n****\n{% endmarginal %}\n\n"
+  "{% marginal %}\n____\n*Quote* #{body}\n\nKJV Bible, 1769, #{link}[#{pericope}]\n____\n{% endmarginal %}\n\n"
 end
 
 blank_verse_format = lambda{ |b,c,v| '' }

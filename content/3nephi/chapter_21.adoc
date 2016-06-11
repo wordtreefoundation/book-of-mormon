@@ -13,11 +13,11 @@
 *3 Nephi 21:7* And when these things come to pass, that thy seed shall begin to know these things, it shall be a sign unto them that they may know that the work of the Father hath already commenced unto the fulfilling of the covenant which he hath made unto the people which are of the house of Israel.
 
 {% marginal %}
-****
-*Quote* So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
+____
+So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:15]
-****
+____
 {% endmarginal %}
 
 
@@ -30,77 +30,77 @@ KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 5
 *3 Nephi 21:11* Therefore it shall come to pass that whosoever will not believe in my words--which am Jesus Christ--which the Father shall cause him to bring forth unto the Gentiles and shall give unto him power that he shall bring them forth unto the Gentiles, it shall be done, even as Moses said: They shall be cut off from among my people which are of the covenant.
 
 {% marginal %}
-****
-*Quote* And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
+____
+And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]
-****
+____
 {% endmarginal %}
 
 
 *3 Nephi 21:12* [yellow-background]#And my people which are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep who, if he go through, both treadeth down and teareth in pieces, and none can deliver.#
 
 {% marginal %}
-****
-*Quote* Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
+____
+Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]
-****
+____
 {% endmarginal %}
 
 
 *3 Nephi 21:13* [yellow-background]#Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.#
 
 {% marginal %}
-****
-*Quote* And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:
+____
+And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:10]
-****
+____
 {% endmarginal %}
 
 
 *3 Nephi 21:14* [yellow-background]#Yea, woe be unto the Gentiles except they repent. For it shall come to pass in that day, saith the Father, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots.#
 
 {% marginal %}
-****
-*Quote* And I will cut off the cities of thy land, and throw down all thy strong holds:
+____
+And I will cut off the cities of thy land, and throw down all thy strong holds:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:11]
-****
+____
 {% endmarginal %}
 
 
 *3 Nephi 21:15* [yellow-background]#And I will cut off the cities of thy land and throw down all thy strong holds.#
 
 {% marginal %}
-****
-*Quote* And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:
+____
+And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:12]
-****
+____
 {% endmarginal %}
 
 
 *3 Nephi 21:16* [yellow-background]#And I will cut off witchcrafts out of thy hand, and thou shalt have no more soothsayers.#
 
 {% marginal %}
-****
-*Quote* Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.
+____
+Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:13]
-****
+____
 {% endmarginal %}
 
 
 *3 Nephi 21:17* [yellow-background]#Thy graven images I will also cut off, and thy standing images out of the midst of thee. And thou shalt no more worship the works of thy hands.#
 
 {% marginal %}
-****
-*Quote* And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.
+____
+And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:14]
-****
+____
 {% endmarginal %}
 
 
@@ -127,11 +127,11 @@ KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:14
 *3 Nephi 21:28* Yea, and then shall the work commence with the Father among all nations in preparing the way whereby his people may be gathered home to the land of their inheritance.
 
 {% marginal %}
-****
-*Quote* For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.
+____
+For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:12]
-****
+____
 {% endmarginal %}
 
 

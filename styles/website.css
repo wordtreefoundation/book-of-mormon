@@ -9,3 +9,21 @@
   background-color: #FFDD55;
   padding: 2px 1px 2px 3px;
 }
+
+.markdown-section blockquote {
+	border-left: none !important;
+}
+
+.markdown-section blockquote::before {
+	content: "\f10d";
+	float: left;
+	height: 1000px;
+
+	font-family: FontAwesome;
+	font-weight: bold;
+	font-size: 20px;
+	color: #555;
+
+	margin-right: 5px;
+    margin-top: -4px;
+}

@@ -97,22 +97,22 @@
 *2 Nephi 9:49* Behold, my soul abhorreth sin, and my heart delighteth in righteousness. And I will praise the holy name of my God.
 
 {% marginal %}
-****
-*Quote* Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
+____
+Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:1]
-****
+____
 {% endmarginal %}
 
 
 *2 Nephi 9:50* [yellow-background]#Come, my brethren, every one that thirsteth, come ye to the waters. And he that hath no money, come, buy and eat, yea, come, buy wine and milk without money and without price.#
 
 {% marginal %}
-****
-*Quote* Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.
+____
+Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:2]
-****
+____
 {% endmarginal %}
 
 
