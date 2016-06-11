@@ -14,70 +14,70 @@
 
 *2 Nephi 30:8* And it shall come to pass that the Lord God shall commence his work among all nations, kindreds, tongues, and people to bring about the restoration of his people upon the earth.
 
-{% marginal %}
+{% margin %}
 ____
 But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth: with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:4]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 30:9* [highlight]#And with righteousness shall the Lord God judge the poor and reprove with equity for the meek of the earth. And he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.#
 
 *2 Nephi 30:10* For the time speedily cometh that the Lord God shall cause a great division among the people; and the wicked will he destroy and he will spare his people, yea, even if it so be that he must destroy the wicked by fire.
 
-{% marginal %}
+{% margin %}
 ____
 And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 30:11* [highlight]#And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.#
 
-{% marginal %}
+{% margin %}
 ____
 The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:6]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 30:12* [highlight]#And then shall the wolf dwell with the lamb, and the leopard shall lie down with the kid, and the calf and the young lion and the fatling together; and a little child shall lead them.#
 
-{% marginal %}
+{% margin %}
 ____
 And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 30:13* [highlight]#And the cow and the bear shall feed; their young ones shall lie down together. And the lion shall eat straw like the ox.#
 
-{% marginal %}
+{% margin %}
 ____
 And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 30:14* [highlight]#And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice's den.#
 
-{% marginal %}
+{% margin %}
 ____
 They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 30:15* [highlight]#They shall not hurt nor destroy in all my holy mountain, for the earth shall be full of the knowledge of the Lord as the waters cover the sea.#

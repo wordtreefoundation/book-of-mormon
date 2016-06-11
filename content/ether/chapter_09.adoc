@@ -30,13 +30,13 @@
 
 *Ether 9:16* And the Lord began again to take the curse from off the land. And the house of Emer did prosper exceedingly under the reign of Emer. And in the space of sixty and two years they had become exceeding strong, insomuch that they became exceeding rich,
 
-{% marginal %}
+{% margin %}
 ____
 Now the land of Columbia is a most plentiful land, yielding gold and silver, and brass and iron abundantly. Likewise, all manner of creatures which are used for food, and herbs and fruits of the earth: From the red cherry, and the rosy peach of the north, to the lemon, and the golden orange of the south. And from the small insect, that cheateth the microscopic eye, to the huge mammoth that once moved on the borders of the river Hudson; on the great river Ohio; and even down to the country of Patagonia in the south. Now the height of a mammoth is about seven cubits and a half, and the length thereof fourteen cubits; and the bones thereof being weighed were more than thirty thousand shekels; and the length of the tusks is more than six cubits. It is more wonderful than the elephant; and the history thereof, is it not recorded in the book of Jefferson, the scribe?
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#americas[20:11-16]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Ether 9:17* having all manner of fruit and of grain and of silks and of fine linen and of gold and of silver and of precious things
 

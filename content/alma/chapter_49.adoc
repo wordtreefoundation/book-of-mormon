@@ -36,25 +36,25 @@
 
 *Alma 49:19* And thus were the Nephites prepared to destroy all such as should attempt to climb up to enter the fort by any other way by casting over stones and arrows at them.
 
-{% marginal %}
+{% margin %}
 ____
 But the men of Croghan were prepared for them; and they let loose their weapons of war upon them, and set their destroying engine to work, and smote the men of Britain, hip and thigh, with great slaughter.
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:20]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 49:20* [highlight]#Thus they were prepared, yea, a body of their most strong men with their swords and their slings# to smite down all who should attempt to come into their place of security by the place of entrance. And thus were they prepared to defend themselves against the Lamanites.
 
 *Alma 49:21* And it came to pass that the captains of the Lamanites brought up their armies before the place of entrance and began to contend with the Nephites, to get into their place of security. But behold, they were driven back from time to time, insomuch that they were slain with an immense slaughter.
 
-{% marginal %}
+{% margin %}
 ____
 And the deep ditch that surrounded the fort was strewed with their slain and their wounded.
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:21]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 49:22* Now when they found that they could not obtain power over the Nephites by the pass, they began to dig down their banks of earth that they might obtain a pass to their armies, that they might have an equal chance to fight. But behold, in these attempts they were swept off by the stones and the arrows which were thrown at them. And instead of [highlight]#filling up their ditches by pulling down the banks of earth, they were filled up in a measure with their dead and wounded bodies#.
 
@@ -62,13 +62,13 @@ ____
 
 *Alma 49:24* There were about fifty which were wounded which had been exposed to the arrows of the Lamanites through the pass. But they were shielded by their shields and their breastplates and their headplates, insomuch that their wounds were upon their legs, many of which were very severe.
 
-{% marginal %}
+{% margin %}
 ____
 So the host of Britain were dismayed and overthrown, and fled in confusion from the fort into the forest; ... Now the loss of the men of Britain was about an hundred two score and ten;
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:21-23]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 49:25* And it came to pass that when the Lamanites saw that their chief captains were all slain, [highlight]#they fled into the wilderness#. And it came to pass that they returned to the land of Nephi to inform their king Amalickiah, who was a Nephite by birth, concerning their [highlight]#great loss#.
 

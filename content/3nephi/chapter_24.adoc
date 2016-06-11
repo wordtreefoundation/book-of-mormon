@@ -1,197 +1,197 @@
-{% marginal %}
+{% margin %}
 ____
 Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:1]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:1* [highlight]#And it came to pass that he commanded them that they should write the words which the Father had given unto Malachi which he should tell unto them. And it came to pass that after they were written, he expounded them. And these are the words which he did tell unto them, saying: Thus said the Father unto Malachi: Behold, I will send my messenger, and he shall prepare the way before me. And the Lord whom ye seek shall suddenly come to his temple, even the messenger of the covenant whom ye delight in. Behold, he shall come, saith the Lord of Hosts.#
 
-{% marginal %}
+{% margin %}
 ____
 But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:2]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:2* [highlight]#But who may abide the day of his coming? And who shall stand when he appeareth? For he is like a refiner's fire and like fullers' soap.#
 
-{% marginal %}
+{% margin %}
 ____
 And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:3]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:3* [highlight]#And he shall sit as a refiner and purifier of silver. And he shall purify the sons of Levi and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness.#
 
-{% marginal %}
+{% margin %}
 ____
 Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:4]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:4* [highlight]#Then shall the offering of Judah and Jerusalem be pleasant unto the Lord as in the days of old and as in former years.#
 
-{% marginal %}
+{% margin %}
 ____
 And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the LORD of hosts.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:5* [highlight]#And I will come near to you to judgment. And I will be a swift witness against the sorcerers and against the adulterers and against false swearers and against those that oppress the hireling in his wages, the widow and the fatherless, and that turn aside the stranger and fear not me, saith the Lord of Hosts.#
 
-{% marginal %}
+{% margin %}
 ____
 For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:6]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:6* [highlight]#For I am the Lord; I change not. Therefore ye sons of Jacob are not consumed.#
 
-{% marginal %}
+{% margin %}
 ____
 Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:7* [highlight]#Even from the days of your fathers, ye are gone away from mine ordinances and have not kept them. Return unto me, and I will return unto you, saith the Lord of Hosts. But ye said: Wherein shall we return?#
 
-{% marginal %}
+{% margin %}
 ____
 Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:8* [highlight]#Will a man rob God? Yet ye have robbed me! But ye say: Wherein have we robbed thee? In tithes and offerings!#
 
-{% marginal %}
+{% margin %}
 ____
 Ye are cursed with a curse: for ye have robbed me, even this whole nation.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:9* [highlight]#Ye are cursed with a curse, for ye have robbed me, even this whole nation.#
 
-{% marginal %}
+{% margin %}
 ____
 Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:10* [highlight]#Bring ye all the tithes into the storehouse, that there may be meat in my house. And prove me now herewith, saith the Lord of Hosts, if I will not open you the windows of heaven and pour you out a blessing that there shall not be room enough to receive it.#
 
-{% marginal %}
+{% margin %}
 ____
 And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:11]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:11* [highlight]#And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of Hosts.#
 
-{% marginal %}
+{% margin %}
 ____
 And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:12]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:12* [highlight]#And all nations shall call you blessed, for ye shall be a delightsome land, saith the Lord of Hosts.#
 
-{% marginal %}
+{% margin %}
 ____
 Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:13* [highlight]#Your words have been stout against me, saith the Lord. Yet ye say: What have we spoken against thee?#
 
-{% marginal %}
+{% margin %}
 ____
 Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:14]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:14* [highlight]#Ye have said: It is vain to serve God. And what doth it profit that we have kept his ordinance and that we have walked mournfully before the Lord of Hosts?#
 
-{% marginal %}
+{% margin %}
 ____
 And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:15]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:15* [highlight]#And now, we call the proud happy. Yea, they that work wickedness are set up; yea, them that tempt God are even delivered.#
 
-{% marginal %}
+{% margin %}
 ____
 Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:16]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:16* [highlight]#Then they that feared the Lord spake often one to another, and the Lord hearkened and heard. And a book of remembrance was written before him for them that feared the Lord and that thought upon his name.#
 
-{% marginal %}
+{% margin %}
 ____
 And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:17]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:17* [highlight]#And they shall be mine, saith the Lord of Hosts, in that day when I make up my jewels. And I will spare them as a man spareth his own son that serveth him.#
 
-{% marginal %}
+{% margin %}
 ____
 Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:18]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 24:18* [highlight]#Then shall ye return and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.#

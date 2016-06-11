@@ -2,178 +2,178 @@
 
 *3 Nephi 12:2* And again, more blessed are they which shall believe in your words because that ye shall testify that ye have seen me and that ye know that I am. Yea, blessed are they which shall believe in your words and come down into the depths of humility and be baptized, for they shall be visited with fire and with the Holy Ghost and shall receive a remission of their sins.
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:3]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:3* [highlight-orange]#Yea, blessed are the poor in spirit which cometh unto me, for theirs is the kingdom of heaven.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are they that mourn: for they shall be comforted.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:4]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:4* [highlight-orange]#And again, blessed are all they that mourn, for they shall be comforted.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are the meek: for they shall inherit the earth.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:5* [highlight-orange]#And blessed are the meek, for they shall inherit the earth.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:6]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:6* [highlight-orange]#And blessed are all they which do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are the merciful: for they shall obtain mercy.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:7* [highlight-orange]#And blessed are the merciful, for they shall obtain mercy.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are the pure in heart: for they shall see God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:8* [highlight-orange]#And blessed are all the pure in heart, for they shall see God.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are the peacemakers: for they shall be called the children of God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:9* [highlight-orange]#And blessed are all the peacemakers, for they shall be called the children of God.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:10* [highlight-orange]#And blessed are all they which are persecuted for my name's sake, for theirs is the kingdom of heaven.#
 
-{% marginal %}
+{% margin %}
 ____
 Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:11]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:11* [highlight-orange]#And blessed are ye when men shall revile you and persecute and shall say all manner of evil against you falsely, for my sake,#
 
-{% marginal %}
+{% margin %}
 ____
 Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:12]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:12* [highlight-orange]#for ye shall have great joy and be exceeding glad, for great shall be your reward in heaven; for so persecuted they the prophets which were before you.#
 
-{% marginal %}
+{% margin %}
 ____
 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:13* [highlight-orange]#Verily verily I say unto you: I give unto you to be the salt of the earth. But if the salt shall lose its savor, wherewith shall the earth be salted? The salt shall be thenceforth good for nothing but to be cast out and to be trodden under foot of men.#
 
-{% marginal %}
+{% margin %}
 ____
 Ye are the light of the world. A city that is set on an hill cannot be hid.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:14]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:14* [highlight-orange]#Verily verily I say unto you: I give unto you to be the light of this people. A city that is set on a hill cannot be hid.#
 
-{% marginal %}
+{% margin %}
 ____
 Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:15]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:15* [highlight-orange]#Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house.#
 
-{% marginal %}
+{% margin %}
 ____
 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:16]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:16* [highlight-orange]#Therefore let your light so shine before this people, that they may see your good works and glorify your Father which is in heaven.#
 
-{% marginal %}
+{% margin %}
 ____
 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:17]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:17* [highlight-orange]#Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfill.#
 
-{% marginal %}
+{% margin %}
 ____
 For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:18]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:18* [highlight-orange]#For verily I say unto you: One jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.#
@@ -182,90 +182,90 @@ ____
 
 *3 Nephi 12:20* Therefore come unto me and be ye saved, for verily I say unto you that except ye shall keep my commandments, which I have commanded you at this time, ye shall in no case enter into the kingdom of heaven.
 
-{% marginal %}
+{% margin %}
 ____
 Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:21]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:21* [highlight-orange]#Ye have heard that it hath been said by them of old time--and it is also written before you--that thou shalt not kill. And whosoever shall kill shall be in danger of the judgment of God.#
 
-{% marginal %}
+{% margin %}
 ____
 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:22]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:22* [highlight-orange]#But I say unto you that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, thou fool, shall be in danger of hell fire.#
 
-{% marginal %}
+{% margin %}
 ____
 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:23]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:23* [highlight-orange]#Therefore if ye shall come unto me or shall desire to come unto me and rememberest that thy brother hath aught against thee,#
 
-{% marginal %}
+{% margin %}
 ____
 Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:24]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:24* [highlight-orange]#go thy way unto thy brother and first be reconciled to thy brother and then come unto me with full purpose of heart and I will receive you.#
 
-{% marginal %}
+{% margin %}
 ____
 Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:25]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:25* [highlight-orange]#Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee and thou shalt be cast into prison.#
 
-{% marginal %}
+{% margin %}
 ____
 Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:26]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:26* [highlight-orange]#Verily I say unto thee: Thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison, can ye pay even one senine? Verily verily I say unto you: Nay.#
 
-{% marginal %}
+{% margin %}
 ____
 Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:27]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:27* [highlight-orange]#Behold, it is written by them of old time that thou shalt not commit adultery.#
 
-{% marginal %}
+{% margin %}
 ____
 But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:28]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:28* [highlight-orange]#But I say unto you that whosoever looketh on a woman to lust after her hath committed adultery already in his heart.#
@@ -274,167 +274,167 @@ ____
 
 *3 Nephi 12:30* For it is better that ye should deny yourselves of these things, wherein ye will take up your cross, than that ye should be cast into hell.
 
-{% marginal %}
+{% margin %}
 ____
 It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:31]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:31* [highlight-orange]#It hath been written that whosoever shall put away his wife, let him give her a writing of divorcement.#
 
-{% marginal %}
+{% margin %}
 ____
 But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:32]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:32* [highlight-orange]#Verily verily I say unto you that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.#
 
-{% marginal %}
+{% margin %}
 ____
 Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:33]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:33* [highlight-orange]#And again it is written: Thou shalt not forswear thyself but shalt perform unto the Lord thine oaths.#
 
-{% marginal %}
+{% margin %}
 ____
 But I say unto you, Swear not at all; neither by heaven; for it is God's throne:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:34]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:34* [highlight-orange]#But verily verily I say unto you: Swear not at all, neither by heaven--for it is God's throne--#
 
-{% marginal %}
+{% margin %}
 ____
 Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:35]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:35* [highlight-orange]#nor by the earth--for it is his footstool--#
 
-{% marginal %}
+{% margin %}
 ____
 Neither shalt thou swear by thy head, because thou canst not make one hair white or black.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:36]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:36* [highlight-orange]#neither shalt thou swear by thy head, because thou canst not make one hair black or white.#
 
-{% marginal %}
+{% margin %}
 ____
 But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:37]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:37* [highlight-orange]#But let your communication be, yea yea, nay nay; for whatsoever cometh of more than these are evil.#
 
-{% marginal %}
+{% margin %}
 ____
 Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:38]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:38* [highlight-orange]#And behold, it is written: An eye for an eye and a tooth for a tooth.#
 
-{% marginal %}
+{% margin %}
 ____
 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:39]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:39* [highlight-orange]#But I say unto you that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also.#
 
-{% marginal %}
+{% margin %}
 ____
 And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:40]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:40* [highlight-orange]#And if any man will sue thee at the law and take away thy coat, let him have thy cloak also.#
 
-{% marginal %}
+{% margin %}
 ____
 And whosoever shall compel thee to go a mile, go with him twain.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:41]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:41* [highlight-orange]#And whosoever shall compel thee to go a mile, go with him twain.#
 
-{% marginal %}
+{% margin %}
 ____
 Give to him that asketh thee, and from him that would borrow of thee turn not thou away.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:42]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:42* [highlight-orange]#Give to him that asketh thee, and from him that would borrow of thee turn thou not away.#
 
-{% marginal %}
+{% margin %}
 ____
 Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:43]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:43* [highlight-orange]#And behold, it is written also that thou shalt love thy neighbor and hate thine enemy.#
 
-{% marginal %}
+{% margin %}
 ____
 But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:44]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:44* [highlight-orange]#But behold, I say unto you: Love your enemies! Bless them that curse you! Do good to them that hate you, and pray for them which despitefully use you and persecute you,#
 
-{% marginal %}
+{% margin %}
 ____
 That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:45]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:45* [highlight-orange]#that ye may be the children of your Father which is in heaven, for he maketh his sun to rise on the evil and on the good.#
@@ -443,13 +443,13 @@ ____
 
 *3 Nephi 12:47* Old things are done away, and all things have become new.
 
-{% marginal %}
+{% margin %}
 ____
 Be ye therefore perfect, even as your Father which is in heaven is perfect.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:48]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 12:48* [highlight-orange]#Therefore I would that ye should be perfect, even as I or your Father which is in heaven is perfect.#

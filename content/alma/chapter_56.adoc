@@ -88,13 +88,13 @@
 
 *Alma 56:45* And now I say unto you, my beloved brother Moroni, that never had I seen so great courage, nay, not amongst all the Nephites.
 
-{% marginal %}
+{% margin %}
 ____
 The magic of his \[Zebulun, the chief captain of the host of Columbia's\] words gave joy to their hearts; for they loved him as they loved their own [highlight]#father#.
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:48]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 56:46* For as I had ever called them my sons--for they were all of them very young--even so they said unto me: [highlight]#Father#, behold, our God is with us, and he will not suffer that we shall fall; then let us go forth. We would not slay our brethren if they would let us alone. Therefore let us go lest they should overpower the army of Antipus.
 
@@ -118,7 +118,7 @@ ____
 
 *Alma 56:56* But behold, to my great joy there had not one soul of them fallen to the earth. Yea, and they had fought as if with the strength of God; yea, never was men known to have fought with such miraculous strength. And with such mighty power did they fall upon the Lamanites that they did frighten them; and for this cause did the Lamanites deliver themselves up as prisoners of war.
 
-{% marginal %}
+{% margin %}
 ____
 About this time, a [highlight]#stripling# from the south, with his weapon of war in his hand, ran up to Zebulon, and spake unto him...
 
@@ -136,7 +136,7 @@ And the king said, Enquire thou whose son the [highlight]#stripling# is.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Samuel-Chapter-17/[1 Sam. 17:56]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 56:57* And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men which were not slain of Antipus with them. And the remainder I took and joined them to my [highlight]#stripling# Ammonites and took our march back to the city of Judea.
 

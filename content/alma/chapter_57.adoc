@@ -34,7 +34,7 @@
 
 *Alma 57:18* And it came to pass that those men which we sent with the prisoners did arrive in season to check them as they were about to overpower us.
 
-{% marginal %}
+{% margin %}
 ____
 And the small band of Columbia fought desperately, and the slaughter was dreadful ; and the pure snow of heaven was sprinkled and stained with the blood of men!
 
@@ -47,7 +47,7 @@ And to a certain chief captain called William, whose sir-name was Hull, was give
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[6:2]
 ____
 
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 57:19* [highlight]#But behold, my little band of two thousand and sixty fought most desperately. Yea, they were firm before the Lamanites and did administer death unto all those who opposed them.#
 

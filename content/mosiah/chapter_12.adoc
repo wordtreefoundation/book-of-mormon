@@ -38,46 +38,46 @@
 
 *Mosiah 12:20* And it came to pass that one of them saith unto him: What meaneth the words which are written and which have been taught by our fathers, saying:
 
-{% marginal %}
+{% margin %}
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:21* [highlight]#How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!#
 
-{% marginal %}
+{% margin %}
 ____
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:22* [highlight]#Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
 
-{% marginal %}
+{% margin %}
 ____
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:23* [highlight]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
 
-{% marginal %}
+{% margin %}
 ____
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:24* [highlight]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.#
@@ -100,35 +100,35 @@ ____
 
 *Mosiah 12:33* But now Abinadi saith unto them: I know if ye keep the commandments of God, ye shall be saved--yea, if ye keep the commandments which the Lord delivered unto Moses in the mount of Sinai, saying:
 
-{% marginal %}
+{% margin %}
 ____
 I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:2]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:34* [highlight]#I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt have no other gods before me.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:3]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:35* [highlight]#Thou shalt have no other God before me.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:4]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 12:36* [highlight]#Thou shalt not make unto thee any graven image, or any likeness of any thing in the heaven above, or things which is in the earth beneath.#

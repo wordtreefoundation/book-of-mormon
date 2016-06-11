@@ -16,22 +16,22 @@
 
 *Mosiah 15:9* having ascended into heaven, having the bowels of mercy, being filled with compassion toward the children of men, standing betwixt them and justice, having broken the bands of death, having taken upon himself their iniquity and their transgressions, having redeemed them and satisfied the demands of justice.
 
-{% marginal %}
+{% margin %}
 ____
 He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
-{% marginal %}
+{% margin %}
 ____
 Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:10* [highlight]#[highlight]#And now I say unto you: Who shall declare his generation? Behold, I say unto you that when his soul has been made an offering for sin, he shall see his seed. And now, what say ye? And who shall be his seed?##
@@ -42,57 +42,57 @@ ____
 
 *Mosiah 15:13* Yea, and are not the prophets, every one that has opened his mouth to prophesy that has not fallen into transgression--I mean all the holy prophets ever since the world began--I say unto you that they are his seed.
 
-{% marginal %}
+{% margin %}
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:14* [highlight]#And these are they which hath published peace, that hath brought good tidings of good, that hath published salvation, that saith unto Zion: Thy God reigneth!#
 
-{% marginal %}
+{% margin %}
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:15* [highlight]#And O how beautiful upon the mountains were their feet!#
 
-{% marginal %}
+{% margin %}
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:16* [highlight]#And again, how beautiful upon the mountains are the feet of those that are still publishing peace!#
 
-{% marginal %}
+{% margin %}
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:17* [highlight]#And again, how beautiful upon the mountains are the feet of those who shall hereafter publish peace, yea, from this time henceforth and forever!#
 
-{% marginal %}
+{% margin %}
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:18* [highlight]#And behold, I say unto you: This is not all, for O how beautiful upon the mountains are the feet of him that bringeth good tidings, that is the founder of peace, yea, even the Lord who hath redeemed his people, yea, him who hath granted salvation unto his people.#
@@ -117,35 +117,35 @@ ____
 
 *Mosiah 15:28* And now I say unto you that the time shall come that the salvation of the Lord shall be declared to every nation, kindred, tongue, and people.
 
-{% marginal %}
+{% margin %}
 ____
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:29* [highlight]#Yea, Lord, thy watchmen shall lift up their voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
 
-{% marginal %}
+{% margin %}
 ____
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:30* [highlight]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
 
-{% marginal %}
+{% margin %}
 ____
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 15:31* [highlight]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.#

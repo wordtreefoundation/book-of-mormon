@@ -14,13 +14,13 @@
 
 *2 Nephi 10:8* And it shall come to pass that they shall be gathered in from their long dispersion from the isles of the sea and from the four parts of the earth. And the nations of the Gentiles shall be great in the eyes of me, saith God, in carrying them forth to the lands of their inheritance.
 
-{% marginal %}
+{% margin %}
 ____
 And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:23]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 10:9* [highlight]#Yea, the kings of the Gentiles shall be nursing fathers unto them, and their queens shall become nursing mothers. Wherefore the promises of the Lord is great unto the Gentiles, for he hath spoken it, and who can dispute?#

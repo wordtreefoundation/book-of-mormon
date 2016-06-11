@@ -20,154 +20,154 @@
 
 *Mosiah 13:11* And now I read unto you the remainder of the commandments of God, for I perceive that they are not written in your hearts. I perceive that ye have studied and taught iniquity the most part of your lives.
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:4]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:12* [highlight]#And now ye remember that I said unto you: Thou shalt not make unto thee any graven image, or any likeness of things which is in heaven above, or which is in the earth beneath, or which is in the water under the earth.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:13* [highlight]#And again, thou shalt not bow down thyself unto them nor serve them, for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children unto the third and fourth generation of them that hate me,#
 
-{% marginal %}
+{% margin %}
 ____
 And showing mercy unto thousands of them that love me, and keep my commandments.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:6]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:14* [highlight]#and shewing mercy unto thousands of them that love me and keep my commandments.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:15* [highlight]#Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh his name in vain.#
 
-{% marginal %}
+{% margin %}
 ____
 Remember the sabbath day, to keep it holy.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:16* [highlight]#Remember the sabbath day, to keep it holy.#
 
-{% marginal %}
+{% margin %}
 ____
 Six days shalt thou labor, and do all thy work:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:17* [highlight]#Six days shalt thou labor and do all thy work;#
 
-{% marginal %}
+{% margin %}
 ____
 But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:18* [highlight]#but the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou nor thy son nor thy daughter, thy manservant nor thy maidservant nor thy cattle nor thy stranger that is within thy gates.#
 
-{% marginal %}
+{% margin %}
 ____
 For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:11]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:19* [highlight]#For in six days the Lord made heaven and earth and the sea and all that in them is; wherefore the Lord blessed the sabbath day and hallowed it.#
 
-{% marginal %}
+{% margin %}
 ____
 Honor thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:12]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:20* [highlight]#Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not kill.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:21* [highlight]#Thou shalt not kill.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not commit adultery.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:14]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not steal.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:15]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:22* [highlight]#[highlight]#Thou shalt not commit adultery. Thou shalt not steal.##
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not bear false witness against thy neighbor.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:16]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:23* [highlight]#Thou shalt not bear false witness against thy neighbor.#
 
-{% marginal %}
+{% margin %}
 ____
 Thou shalt not covet thy neighbor's house, thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbor's.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:17]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *Mosiah 13:24* [highlight]#Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his manservant nor his maidservant nor his ox nor his ass, nor any thing that is thy neighbor's.#

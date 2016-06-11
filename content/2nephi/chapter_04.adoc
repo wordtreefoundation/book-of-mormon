@@ -6,13 +6,13 @@
 
 *2 Nephi 4:4* For the Lord God hath said that inasmuch as ye shall keep my commandments, ye shall prosper in the land. And inasmuch as ye will not keep my commandments, ye shall be cut off from my presence.
 
-{% marginal %}
+{% margin %}
 ____
 Train up a child in the way he should go: and when he is old, he will not depart from it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Proverbs-Chapter-22/[Proverbs 22:6]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 4:5* [highlight]#But behold, my sons and my daughters, I cannot go down to my grave save I should leave a blessing upon you. For behold, I know that if ye are brought up in the right way that ye should go, ye will not depart from it.#
@@ -31,13 +31,13 @@ ____
 
 *2 Nephi 4:12* And it came to pass that after Lehi had spake unto all his household according to the feelings of his heart and the Spirit of the Lord which was in him, he waxed old. And it came to pass that he died and was buried.
 
-{% marginal %}
+{% margin %}
 ____
 Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Jeremiah-Chapter-17/[Jeremiah 17:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 4:13* [highlight]#And it came to pass that not many days after his death, Laman and Lemuel and the sons of Ishmael were angry with me because of the admonitions of the Lord.#

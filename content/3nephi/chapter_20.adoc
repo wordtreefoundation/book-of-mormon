@@ -28,46 +28,46 @@
 
 *3 Nephi 20:15* And I say unto you that if the Gentiles do not repent after the blessings which they shall receive, after that they have scattered my people,
 
-{% marginal %}
+{% margin %}
 ____
 And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:16* [highlight]#then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.#
 
-{% marginal %}
+{% margin %}
 ____
 Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:17* [highlight]#Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.#
 
-{% marginal %}
+{% margin %}
 ____
 But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:12]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:18* [highlight]#And I will gather my people together as a man gathereth his sheaves into the floor,#
 
-{% marginal %}
+{% margin %}
 ____
 Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:19* [highlight]#for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.#
@@ -96,37 +96,37 @@ ____
 
 *3 Nephi 20:31* And they shall believe in me, that I am Jesus Christ the Son of God, and shall pray unto the Father in my name.
 
-{% marginal %}
+{% margin %}
 ____
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:32* [highlight]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
 
 *3 Nephi 20:33* Then will the Father gather them together again and give unto them Jerusalem for the land of their inheritance.
 
-{% marginal %}
+{% margin %}
 ____
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:34* [highlight]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
 
-{% marginal %}
+{% margin %}
 ____
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 20:35* [highlight]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#

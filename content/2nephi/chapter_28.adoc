@@ -10,7 +10,7 @@
 
 *2 Nephi 28:6* Behold, hearken ye unto my precept. If they shall say there is a miracle wrought by the hand of the Lord, believe it not! For this day he is not a God of miracles; he hath done his work.
 
-{% marginal %}
+{% margin %}
 ____
 And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
 
@@ -28,29 +28,29 @@ And I will say to my soul, Soul, thou hast much goods laid up for many years; ta
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-12/[Luke 12:19]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 28:7* [highlight-orange]#Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die and it shall be well with us.#
 
-{% marginal %}
+{% margin %}
 ____
 And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-22/[Isaiah 22:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 28:8* [highlight]#And there shall also be many which shall say: Eat, drink, and be merry, nevertheless fear God. He will justify in committing a little sin. Yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this. And do all these things, for tomorrow we die. And if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.#
 
-{% marginal %}
+{% margin %}
 ____
 Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:15]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 28:9* [highlight]#Yea, and there shall be many which shall teach after this manner false and vain and foolish doctrines and shall be puffed up in their hearts and shall seek deep to hide their counsels from the Lord, and their works shall be in the dark.#
@@ -95,44 +95,44 @@ ____
 
 *2 Nephi 28:29* Woe be unto him that shall say: We have received the word of God, and we need no more of the word of God, for we have enough.
 
-{% marginal %}
+{% margin %}
 ____
 For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-28/[Isaiah 28:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
-{% marginal %}
+{% margin %}
 ____
 But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-28/[Isaiah 28:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 28:30* [highlight]#[highlight]#For behold, thus saith the Lord God: I will give unto the children of men line upon line and precept upon precept, here a little and there a little. And blessed are they that hearken unto my precepts and lend an ear unto my counsel, for they shall learn wisdom. For unto him that receiveth I will give more; and them that shall say we have enough, from them shall be taken away even that which they have.##
 
-{% marginal %}
+{% margin %}
 ____
 Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Jeremiah-Chapter-17/[Jeremiah 17:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 28:31* [highlight]#Cursed is he that putteth his trust in man or maketh flesh his arm, or shall hearken unto the precepts of men, save their precepts shall be given by the power of the Holy Ghost.#
 
-{% marginal %}
+{% margin %}
 ____
 The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand is stretched out still.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-9/[Isaiah 9:12]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *2 Nephi 28:32* [highlight]#Woe be unto the Gentiles, saith the Lord God of Hosts; for notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me. Nevertheless I will be merciful unto them, saith the Lord God, if they will repent and come unto me. For mine arm is lengthened out all the day long, saith the Lord God of Hosts.#

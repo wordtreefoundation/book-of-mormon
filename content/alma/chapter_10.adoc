@@ -8,13 +8,13 @@
 
 *Alma 10:5* Nevertheless, after all this, I never have known much of the ways of the Lord and his mysteries and marvelous power. I said I never had known much of these things--but behold, I mistake, for I have seen much of his mysteries and his miraculous power, yea, even in the preservation of the lives of this people.
 
-{% marginal %}
+{% margin %}
 ____
 the fourth day of the seventh month, which is the birth day of Columbian Liberty and Independence
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#4thofjuly[26:1]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 *Alma 10:6* Nevertheless I did harden my heart, for I was called many times and I would not hear. Therefore I knew concerning these things, yet I would not know. Therefore I went on rebelling against God in the wickedness of my heart, even until [highlight]#the fourth day of this seventh month, which is in the tenth year of the reign of our judges#.
 

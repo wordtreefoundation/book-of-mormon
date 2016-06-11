@@ -32,35 +32,35 @@
 
 *3 Nephi 16:17* And when the words of the prophet Isaiah shall be fulfilled which saith:
 
-{% marginal %}
+{% margin %}
 ____
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 16:18* [highlight]#Thy watchmen shall lift up the voice; with the voice together shall they sing. For they shall see eye to eye when the Lord shall bring again Zion.#
 
-{% marginal %}
+{% margin %}
 ____
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 16:19* [highlight]#Break forth into joy! Sing together, ye waste places of Jerusalem! For the Lord hath comforted his people; he hath redeemed Jerusalem.#
 
-{% marginal %}
+{% margin %}
 ____
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 16:20* [highlight]#The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of God--#

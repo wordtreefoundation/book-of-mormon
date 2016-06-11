@@ -1,296 +1,296 @@
-{% marginal %}
+{% margin %}
 ____
 Judge not, that ye be not judged.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:1]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:1* [highlight-orange]#And now it came to pass that when Jesus had spoken these words, he turned again to the multitude and did open his mouth unto them again, saying: Verily verily I say unto you: Judge not that ye be not judged.#
 
-{% marginal %}
+{% margin %}
 ____
 For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:2]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:2* [highlight-orange]#For with what judgment ye judge, ye shall be judged. And with what measure ye mete, it shall be measured to you again.#
 
-{% marginal %}
+{% margin %}
 ____
 And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:3]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:3* [highlight-orange]#And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?#
 
-{% marginal %}
+{% margin %}
 ____
 Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:4]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:4* [highlight-orange]#Or how wilt thou say to thy brother: Let me pull out the mote out of thine eye--and behold, a beam is in thine own eye?#
 
-{% marginal %}
+{% margin %}
 ____
 Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:5]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:5* [highlight-orange]#Thou hypocrite, first cast out the beam out of thine own eye, and then shalt thou see clearly to cast out the mote out of thy brother's eye.#
 
-{% marginal %}
+{% margin %}
 ____
 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:6]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:6* [highlight-orange]#Give not that which is holy unto the dogs, neither cast ye your pearls before swine lest they trample them under their feet and turn again and rend you.#
 
-{% marginal %}
+{% margin %}
 ____
 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:7]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:7* [highlight-orange]#Ask and it shall be given unto you; seek and ye shall find; knock and it shall be opened unto you.#
 
-{% marginal %}
+{% margin %}
 ____
 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:8]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:8* [highlight-orange]#For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.#
 
-{% marginal %}
+{% margin %}
 ____
 Or what man is there of you, whom if his son ask bread, will he give him a stone?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:9]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:9* [highlight-orange]#Or what man is there of you whom if his son ask bread, will he give him a stone?#
 
-{% marginal %}
+{% margin %}
 ____
 Or if he ask a fish, will he give him a serpent?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:10]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:10* [highlight-orange]#Or if he ask a fish, will he give him a serpent?#
 
-{% marginal %}
+{% margin %}
 ____
 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:11]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:11* [highlight-orange]#If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?#
 
-{% marginal %}
+{% margin %}
 ____
 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:12]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:12* [highlight-orange]#Therefore all things whatsoever ye would that men should do to you, do ye even so to them, for this is the law and the prophets.#
 
-{% marginal %}
+{% margin %}
 ____
 Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:13* [highlight-orange]#Enter ye in at the strait gate, for wide is the gate and broad is the way that leadeth to destruction. And many there be which go in thereat,#
 
-{% marginal %}
+{% margin %}
 ____
 Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:14]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:14* [highlight-orange]#because strait is the gate and narrow is the way which leadeth unto life, and few there be that find it.#
 
-{% marginal %}
+{% margin %}
 ____
 Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:15]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:15* [highlight-orange]#Beware of false prophets which come to you in sheep's clothing, but inwardly they are ravening wolves.#
 
-{% marginal %}
+{% margin %}
 ____
 Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:16]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:16* [highlight-orange]#Ye shall know them by their fruits. Do men gather grapes of thorns or figs of thistles?#
 
-{% marginal %}
+{% margin %}
 ____
 Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:17]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:17* [highlight-orange]#Even so every good tree bringeth forth good fruit, but a corrupt tree bringeth forth evil fruit.#
 
-{% marginal %}
+{% margin %}
 ____
 A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:18]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:18* [highlight-orange]#A good tree cannot bring forth evil fruit neither a corrupt tree bring forth good fruit.#
 
-{% marginal %}
+{% margin %}
 ____
 Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:19]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:19* [highlight-orange]#Every tree that bringeth not forth good fruit is hewn down and cast into the fire.#
 
-{% marginal %}
+{% margin %}
 ____
 Wherefore by their fruits ye shall know them.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:20]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:20* [highlight-orange]#Wherefore by their fruits ye shall know them.#
 
-{% marginal %}
+{% margin %}
 ____
 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:21]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:21* [highlight-orange]#Not every one that saith unto me, Lord Lord, shall enter into the kingdom of heaven, but he that doeth the will of my Father which is in heaven.#
 
-{% marginal %}
+{% margin %}
 ____
 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:22]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:22* [highlight-orange]#Many will say to me in that day: Lord Lord, have we not prophesied in thy name and in thy name have cast out devils and in thy name done many wonderful works?#
 
-{% marginal %}
+{% margin %}
 ____
 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:23]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:23* [highlight-orange]#And then will I profess unto them: I never knew you. Depart from me, ye that work iniquity.#
 
-{% marginal %}
+{% margin %}
 ____
 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:24]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:24* [highlight-orange]#Therefore whoso heareth these sayings of mine and doeth them, I will liken him unto a wise man which built his house upon a rock.#
 
-{% marginal %}
+{% margin %}
 ____
 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:25]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:25* [highlight-orange]#And the rain descended and the floods came, and the winds blew and beat upon that house. And it fell not, for it was founded upon a rock.#
 
-{% marginal %}
+{% margin %}
 ____
 And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:26]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:26* [highlight-orange]#And every one that heareth these sayings of mine and doeth them not shall be likened unto a foolish man which built his house upon the sand.#
 
-{% marginal %}
+{% margin %}
 ____
 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:27]
 ____
-{% endmarginal %}
+{% endmargin %}
 
 
 *3 Nephi 14:27* [highlight-orange]#And the rain descended and the floods came, and the winds blew and beat upon that house. And it fell, and great was the fall of it.#
