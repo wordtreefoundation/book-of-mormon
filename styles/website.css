@@ -17,7 +17,6 @@
 .markdown-section blockquote::before {
 	content: "\f10d";
 	float: left;
-	height: 1000px;
 
 	font-family: FontAwesome;
 	font-weight: bold;
@@ -26,4 +25,8 @@
 
 	margin-right: 5px;
     margin-top: -4px;
+
+    /* keep left-aligned quote along a straight edge,
+       instead of wrapping around the left-quote icon */
+	margin-bottom: 1000px;
 }
