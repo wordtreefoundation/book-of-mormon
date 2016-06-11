@@ -70,7 +70,17 @@
 
 *Helaman 6:36* And thus we see that the Lord began to pour out his Spirit upon the Lamanites because of their easiness and willingness to believe in his word.
 
-*Helaman 6:37* And it came to pass that the Lamanites did hunt the band of robbers of Gaddianton. And they did preach the word of God among the more wicked part of them, insomuch that this band of robbers was utterly destroyed from among the Lamanites.
+{% marginal %}
+____
+About this time a band of sea-robbers and pirates, who had established themselves upon the island of Barrataria, were committing great wickedness and depredations and were ready to assist the men of Britain.
+
+But a valiant man, called Daniel, sir-named Patterson, went against them with his small fighting vessels, and scattered them abroad, and took their vessels, and destroyed their petty establishment of sea-robbery.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#robbers[49:37-38]
+____
+{% endmarginal %}
+
+*Helaman 6:37* And it came to pass that the Lamanites did hunt [highlight]#the band of robbers# of Gaddianton. And they did preach the word of God among the more wicked part of them, insomuch that this band of robbers was utterly destroyed from among the Lamanites.
 
 *Helaman 6:38* And it came to pass, on the other hand, that the Nephites did build them up and support them, beginning at the more wicked part of them, until they had overspread all the land of the Nephites and had seduced the more part of the righteous until they had come down to believe in their works and partake of their spoils and to join with them in their secret murders and combinations.
 
