@@ -28,15 +28,23 @@
 
 *Mormon 6:15* And it came to pass that there were ten more which did fall by the sword with their ten thousand each, yea, even all my people--save it were those twenty and four which were with me and also a few which had escaped into the south countries and a few which had dissented over unto the Lamanites--had fallen. And their flesh and bones and blood lay upon the face of the earth, being left by the hands of those who slew them to molder upon the land and to crumble and to return to their mother earth.
 
-*Mormon 6:16* And my soul was rent with anguish because of the slain of my people, and I cried:
+{% margin 5 %}
+____
+Oh! earth, how long shall thy inhabitants delight in warfare? when shall the old men cease to weep for their children? Behold you lonely widows; they weep for their husbands and their children; but they shall see their faces no more! The fair daughters of Columbia sigh for the return of their beloved. Seest thou those little ones? they fly to their disconsolate mother, they leap with joy at the name of the father! but he shall never return!
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#martyrs[14:39-41]
+____
+{% endmargin %}
+
+*Mormon 6:16* And [highlight]#my soul was rent with anguish because of the slain of my people, and I cried#:
 
 *Mormon 6:17* O ye fair ones, how could ye have departed from the ways of the Lord! O ye fair ones, how could ye have rejected that Jesus who stood with open arms to receive you!
 
 *Mormon 6:18* Behold, if ye had not done this, ye would not have fallen. But behold, ye are fallen, and I mourn your loss.
 
-*Mormon 6:19* O ye fair sons and daughters, ye fathers and mothers, ye husbands and wives, ye fair ones, how is it that ye could have fallen!
+*Mormon 6:19* [highlight]#O ye fair sons and daughters, ye fathers and mothers, ye husbands and wives, ye fair ones#, how is it that ye could have fallen!
 
-*Mormon 6:20* But behold, ye are gone, and my sorrows cannot bring your return.
+*Mormon 6:20* But behold, ye are gone, and [highlight]#my sorrows cannot bring your return#.
 
 *Mormon 6:21* And the day soon cometh that your mortal must put on immortality. And these bodies which are now moldering in corruption must soon become incorruptible bodies. And then ye must stand before the judgment seat of Christ to be judged according to your works. And if it so be that ye are righteous, then are ye blessed with your fathers which have gone before you.
 

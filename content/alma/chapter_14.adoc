@@ -16,9 +16,17 @@
 
 *Alma 14:9* And it came to pass that they took Alma and Amulek and carried them forth to the place of martyrdom, that they might witness the destruction of those which were consumed by fire.
 
-*Alma 14:10* And it came to pass that when Amulek saw the pains of the women and children which were consuming in the fire, he was also pained, and he saith unto Alma: How can we witness this awful scene? Therefore let us stretch forth our hands and exercise the power of God which is in us and save them from the flames.
+{% margin 2 %}
+____
+For the savages put the burning brand to the houses, from which they could not flee, and burnt them alive therein. And the flames and the smoke arose! and their cries and their groans reached the high chancery of heaven, Where they will stand recorded, until the coming of that Day for which all other days were made.
 
-*Alma 14:11* But Alma saith unto him: The Spirit constraineth me that I must not stretch forth mine hand. For behold, the Lord receiveth them up unto himself in glory. And he doth suffer that they may do this thing--or that the people may do this thing unto them--according to the hardness of their hearts, that the judgments which he shall exercise upon them in his wrath may be just. And the blood of the innocent shall stand as a witness against them, yea, and cry mightily against them at the last day.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#martyrs[14:39-41]
+____
+{% endmargin %}
+
+*Alma 14:10* And it came to pass that when Amulek saw the [highlight]#pains of the women and children which were consuming in the fire#, he was also pained, and he saith unto Alma: How can we witness this awful scene? Therefore let us stretch forth our hands and exercise the power of God which is in us and save them from the flames.
+
+*Alma 14:11* But Alma saith unto him: The Spirit constraineth me that I must not stretch forth mine hand. For behold, the Lord receiveth them up unto himself in glory. And he doth suffer that they may do this thing--or that the people may do this thing unto them--according to the hardness of their hearts, that the judgments which he shall exercise upon them in his wrath may be just. And [highlight]#the blood of the innocent shall stand as a witness against them, yea, and cry mightily against them at the last day#.
 
 *Alma 14:12* Now Amulek saith unto Alma: Behold, perhaps they will burn us also.
 
