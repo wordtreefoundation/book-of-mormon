@@ -78,7 +78,7 @@ The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#three-nephi
 ____
 {% endmargin %}
 
-*4 Nephi 1:37* Therefore the true believers in Christ and the true worshippers of Christ, among whom were the three disciples of Jesus which should tarry, were called Nephites and Jacobites and Josephites and Zoramites.
+*4 Nephi 1:37* Therefore the true believers in Christ and the true worshippers of Christ, among whom were [highlight]the three disciples of Jesus which should tarry#, were called Nephites and Jacobites and Josephites and Zoramites.
 
 *4 Nephi 1:38* And it came to pass that they which rejected the gospel were called Lamanites and Lemuelites and Ishmaelites. And they did not dwindle in unbelief, but they did willfully rebel against the gospel of Christ. And they did teach their children that they should not believe, even as their fathers from the beginning did dwindle.
 
