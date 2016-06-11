@@ -1,8 +1,8 @@
 {% margin %}
 ____
-pass:[<i class="fa fa-quote-left"></i>] I, the writer, was born of Presbyterian parents...
+I, the writer, was born of Presbyterian parents...
 
-The Rights of Christ, 1815, p. 1
+https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1
 ____
 {% endmargin %}
 
