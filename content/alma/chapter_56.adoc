@@ -90,7 +90,7 @@
 
 {% marginal %}
 ____
-The magic of his words gave joy to their hearts; for they loved him as they loved their own [highlight]#father#.
+The magic of his \[Zebulun, the chief captain of the host of Columbia's\] words gave joy to their hearts; for they loved him as they loved their own [highlight]#father#.
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:48]
 ____
