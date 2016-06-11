@@ -8,11 +8,21 @@
 
 *Alma 24:5* Now when Ammon and his brethren and all those which had come up with them saw the preparations of the Lamanites to destroy their brethren, they came forth to the land of Middoni. And there Ammon met all his brethren; and from thence they came to the land of Ishmael that they might hold a council with Lamoni, and also with his brother Anti-Nephi-Lehi, what they should do to defend themselves against the Lamanites.
 
-*Alma 24:6* Now there was not one soul among all the people which had been converted unto the Lord that would take up arms against their brethren. Nay, they would not even make any preparations for war; yea, and also their king commanded them that they should not.
+{% margin 8 %}
+____
+Now there were some amongst the tribes of the savages who had been instructed in the ways of God, and taught to walk in the path of righteousness; For the chief governor of the land of Columbia, and the great Sanhedrim of the people, had taken them under their care, And sent good men amongst them to preach the gospel, and instruct them in the sublime doctrine of the Saviour of the world. And they hearkened unto the preachers, and were convinced, and their natures were softened.
 
-*Alma 24:7* Now these are the words which he said unto the people concerning the matter: I thank my God, my beloved people, that our great God has in goodness sent these our brethren, the Nephites, unto us, to preach unto us and to convince us of the traditions of our wicked fathers.
+Amongst these tribes were those who were called, the Six nations of New-York Indians: And their eyes were opened, and they saw the evil and the wickedness of Britain... And when the red savages and the men of Britain fell into their hands, they raised neither the tomahawk nor the scalping knife. Nay, they treated them kindly; and those who were slain in battle they disturbed not; and their humanity exceeded the humanity of the white men of Britain.
 
-*Alma 24:8* And behold, I thank my great God that he has given us a portion of his Spirit to soften our hearts, that we have opened a correspondence with these brethren, the Nephites.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:19-21]
+____
+{% endmargin %}
+
+*Alma 24:6* Now there was not one soul among [highlight]#all the people which had been converted unto the Lord that would take up arms against their brethren#. Nay, they would not even make any preparations for war; yea, and also their king commanded them that they should not.
+
+*Alma 24:7* Now these are the words which he said unto the people concerning the matter: I thank my God, my beloved people, that our great God has in goodness sent these our brethren, the Nephites, unto us, [highlight]#to preach unto us and to convince us of the traditions of our wicked fathers#.
+
+*Alma 24:8* And behold, I thank my great God that he has given us a portion of his Spirit to [highlight]#soften our hearts#, that we have opened a correspondence with these brethren, the Nephites.
 
 *Alma 24:9* And behold, I also thank my God that by opening this correspondence we have been convinced of our sins and of the many murders which we have committed.
 
@@ -22,7 +32,7 @@
 
 *Alma 24:12* now my best beloved brethren, since God hath taken away our stains and our swords have become bright, then let us stain our swords no more with the blood of our brethren.
 
-*Alma 24:13* Behold, I say unto you: Nay, let us retain our swords that they be not stained with the blood of our brethren. For perhaps if we should stain our swords again, they can no more be washed bright through the blood of the Son of our great God, which shall be shed for the atonement of our sins.
+*Alma 24:13* Behold, I say unto you: Nay, [highlight]#let us retain our swords that they be not stained with the blood of our brethren#. For perhaps if we should stain our swords again, they can no more be washed bright through the blood of the Son of our great God, which shall be shed for the atonement of our sins.
 
 *Alma 24:14* And the great God has had mercy on us and made these things known unto us that we might not perish. Yea, and he hath made these things known unto us beforehand because he loveth our souls as well as he loveth our children. Therefore in his mercy he doth visit us by his angels, that the plan of salvation might be made known unto us as well as unto future generations.
 

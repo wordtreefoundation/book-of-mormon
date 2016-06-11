@@ -68,5 +68,13 @@
 
 *Alma 47:35* And it came to pass that Amalickiah sought the favor of the queen and took her unto him to wife. And thus by his fraud and by the assistance of his cunning servants, he obtained the kingdom. Yea, he was acknowledged king throughout all the land among all the people of the Lamanites, which was composed of the Lamanites and the Lemuelites and the Ishmaelites, and all the dissenters of the Nephites from the reign of Nephi down to the present time.
 
-*Alma 47:36* Now these dissenters, having the same instruction and the same information of the Nephites, yea, having been instructed in the same knowledge of the Lord, nevertheless it is strange to relate, not long after their dissensions, they became more hardened and impenitent and more wild, wicked, and ferocious than the Lamanites, drinking in with the traditions of the Lamanites, giving way to indolence and all manner of lasciviousness, yea, entirely forgetting the Lord their God.
+{% margin %}
+____
+Now there were some amongst the tribes of the [highlight]#savages who had been instructed in the ways of God#, and taught to walk in the path of righteousness;
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:18]
+____
+{% endmargin %}
+
+*Alma 47:36* Now these [highlight]#dissenters, having the same instruction and the same information of the Nephites, yea, having been instructed in the same knowledge of the Lord#, nevertheless it is strange to relate, not long after their dissensions, they became more hardened and impenitent and more wild, wicked, and ferocious than the Lamanites, drinking in with the traditions of the Lamanites, giving way to indolence and all manner of lasciviousness, yea, entirely forgetting the Lord their God.
 

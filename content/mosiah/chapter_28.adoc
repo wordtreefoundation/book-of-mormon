@@ -1,6 +1,14 @@
-*Mosiah 28:1* Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them and returned to their father the king and desired of him that he would grant unto them that they might with those whom they had selected go up to the land of Nephi, that they might preach the things which they had heard, and that they might impart the word of God to their brethren the Lamanites,
+{% margin 2 %}
+____
+For the chief governor of the land of Columbia, and the great Sanhedrim of the people, had taken them under their care, And sent good men amongst them to preach the gospel, and instruct them in the sublime doctrine of the Saviour of the world. And they hearkened unto the preachers, and were convinced, and their natures were softened.
 
-*Mosiah 28:2* that perhaps they might bring them to the knowledge of the Lord their God and convince them of the iniquity of their fathers, and that perhaps they might cure them of their hatred towards the Nephites, that they might also be brought to rejoice in the Lord their God, that they might become friendly to one another, and that there should be no more contentions in all the land which the Lord their God hath given them.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:19-21]
+____
+{% endmargin %}
+
+*Mosiah 28:1* Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them and returned to their father the king and desired of him that he would grant unto them that they might with those whom they had selected go up to the land of Nephi, [highlight]#that they might preach the things which they had heard, and that they might impart the word of God to their brethren the Lamanites#,
+
+*Mosiah 28:2* that perhaps they might bring them to the knowledge of the Lord their God and convince them of the iniquity of their fathers, and that perhaps they might cure them of their hatred towards the Nephites, that they might also be brought to rejoice in the Lord their God, [highlight]#that they might become friendly to one another, and that there should be no more contentions# in all the land which the Lord their God hath given them.
 
 *Mosiah 28:3* Now they were desirous that salvation should be declared to every creature, for they could not bear that any human soul should perish; yea, even the very thoughts that any soul should endure endless torment did cause them to quake and tremble.
 
