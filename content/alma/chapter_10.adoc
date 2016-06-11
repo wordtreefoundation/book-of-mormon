@@ -8,7 +8,15 @@
 
 *Alma 10:5* Nevertheless, after all this, I never have known much of the ways of the Lord and his mysteries and marvelous power. I said I never had known much of these things--but behold, I mistake, for I have seen much of his mysteries and his miraculous power, yea, even in the preservation of the lives of this people.
 
-*Alma 10:6* Nevertheless I did harden my heart, for I was called many times and I would not hear. Therefore I knew concerning these things, yet I would not know. Therefore I went on rebelling against God in the wickedness of my heart, even until the fourth day of this seventh month, which is in the tenth year of the reign of our judges.
+{% marginal %}
+____
+the fourth day of the seventh month, which is the birth day of Columbian Liberty and Independence
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#4thofjuly[26:1]
+____
+{% endmarginal %}
+
+*Alma 10:6* Nevertheless I did harden my heart, for I was called many times and I would not hear. Therefore I knew concerning these things, yet I would not know. Therefore I went on rebelling against God in the wickedness of my heart, even until [highlight]#the fourth day of this seventh month, which is in the tenth year of the reign of our judges#.
 
 *Alma 10:7* As I was a journeying to see a very near kindred, behold, an angel of the Lord appeared unto me and said: Amulek, return to thine own house, for thou shalt feed a prophet of the Lord, yea, a holy man which art a chosen man of God; for he hath fasted many days because of the sins of this people, and he is an hungered. And thou shall receive him into thy house and feed him. And he shall bless thee and thy house, and the blessing of the Lord shall rest upon thee and thy house.
 

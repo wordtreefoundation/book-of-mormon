@@ -62,9 +62,17 @@
 
 *Alma 2:32* And he also contended with the king of the Lamanites, but the king of the Lamanites fled back from before Alma and sent his guards to contend with Alma.
 
-*Alma 2:33* But Alma with his guards contended with the guards of the king of the Lamanites until he slew and drave them back.
+{% marginal %}
+____
+And the battle raged with great violence, and the men of Britain strove hard to pass over the river called Saranac; But the men of war of Columbia, who were upon the opposite side of the water, opposed them, and slew them with great slaughter. And the brave Grosvenor, and Hamilton, and Riley, and the gallant Cronk, drove them back from crossing the bridges. Likewise, many were slain in the river, so that the waters of the Saranac were dyed with the blood of the servants of the king.
 
-*Alma 2:34* And thus he cleared the ground, or rather the bank which was on the west of the river Sidon, throwing the bodies of the Lamanites which had been slain into the waters of Sidon, that thereby his people might have room to cross and contend with the Lamanites and the Amlicites on the west side of the river Sidon.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rivers[47:2-5]
+____
+{% endmarginal %}
+
+*Alma 2:33* But Alma with his guards contended with the guards of the king of the Lamanites until he slew and [highlight]#drave them back#.
+
+*Alma 2:34* And thus he cleared the ground, or rather the bank which was on the west of the river Sidon, throwing the bodies of the Lamanites which had been slain into [highlight]#the waters of Sidon#, that thereby his people might have room to cross and contend with the Lamanites and the Amlicites on the west side of the river Sidon.
 
 *Alma 2:35* And it came to pass that when they had all crossed the river Sidon that the Lamanites and the Amlicites began to flee before them, notwithstanding they were so numerous that they could not be numbered.
 
