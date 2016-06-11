@@ -32,11 +32,19 @@
 
 *Alma 53:17* And they entered into a covenant to fight for the liberty of the Nephites, yea, to protect the land, unto the laying down of their lives; yea, even they covenanted that they never would give up their liberty, but they would fight in all cases to protect the Nephites and themselves from bondage.
 
-*Alma 53:18* Now behold, there were two thousand of those young men which entered into this covenant and took their weapons of war to defend their country.
+{% marginal %}
+____
+Immediately Jackson took two thousand hardy men, who were called volunteers, because they fought freely for their country and led them against the savages. Now the men of war that followed after him were mostly from the state of Tennessee, and men of dauntless courage.
 
-*Alma 53:19* And now behold, as they never had hitherto been a disadvantage to the Nephites, they became now at this period of time also a great support; for they took their weapons of war, and they would that Helaman should be their leader.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[35:5-6]
+____
+{% endmarginal %}
 
-*Alma 53:20* And they were all young men, and they were exceeding valiant for courage and also for strength and activity. But behold, this was not all. They were men which were true at all times in whatsoever thing they were entrusted.
+*Alma 53:18* [yellow-background]#Now behold, there were two thousand of those young men which entered into this covenant and took their weapons of war to defend their country.#
+
+*Alma 53:19* [yellow-background]#And now behold, as they never had hitherto been a disadvantage to the Nephites, they became now at this period of time also a great support; for they took their weapons of war, and they would that Helaman should be their leader.#
+
+*Alma 53:20* [yellow-background]#And they were all young men, and they were exceeding valiant for courage# and also for strength and activity. But behold, this was not all. They were men which were true at all times in whatsoever thing they were entrusted.
 
 *Alma 53:21* Yea, they were men of truth and soberness, for they had been taught to keep the commandments of God and to walk uprightly before him.
 
