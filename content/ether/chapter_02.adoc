@@ -40,9 +40,19 @@
 
 *Ether 2:21* And it came to pass that the brother of Jared did so, according as the Lord had commanded.
 
-*Ether 2:22* And he cried again unto the Lord, saying: O Lord, behold, I have done even as thou hast commanded me, and I have prepared the vessels for my people. And behold, there is no light in them. Behold, O Lord, wilt thou suffer that we shall cross this great water in darkness?
+{% margin 2 %}
+____
+Howsoever, they cut down the tall trees of the forest, and hewed them, and [highlight]#built many more strong vessels#; although they had no gophar-wood amongst them in these days. And they made stories to them, even to the third story, and [highlight]#they put windows in them#, and they pitched them within and without with pitch; after the fashion of the ark.
 
-*Ether 2:23* And the Lord said unto the brother of Jared: What will ye that I should do that ye may have light in your vessels? For behold, ye cannot have windows, for they will be dashed in pieces. Neither shall ye take fire with you, for ye shall not go by the light of fire.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#barges[28:12]
+____
+
+See also chapter_06.adoc[Ether 6:7].
+{% endmargin %}
+
+*Ether 2:22* And he cried again unto the Lord, saying: O Lord, behold, I have done even as thou hast commanded me, and [highlight]#I have prepared the vessels# for my people. And behold, there is no light in them. Behold, O Lord, wilt thou suffer that we shall cross this great water in darkness?
+
+*Ether 2:23* And the Lord said unto the brother of Jared: What will ye that I should do that ye may have light in your vessels? For behold, [highlight]#ye cannot have windows#, for they will be dashed in pieces. Neither shall ye take fire with you, for ye shall not go by the light of fire.
 
 *Ether 2:24* For behold, ye shall be as a whale in the midst of the sea, for the mountain waves shall dash upon you. Nevertheless I will bring you up again out of the depths of the sea; for the winds have gone forth out of my mouth, and also the rains and the floods have I sent forth.
 
