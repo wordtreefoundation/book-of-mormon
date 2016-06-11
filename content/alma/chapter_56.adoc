@@ -88,7 +88,15 @@
 
 *Alma 56:45* And now I say unto you, my beloved brother Moroni, that never had I seen so great courage, nay, not amongst all the Nephites.
 
-*Alma 56:46* For as I had ever called them my sons--for they were all of them very young--even so they said unto me: Father, behold, our God is with us, and he will not suffer that we shall fall; then let us go forth. We would not slay our brethren if they would let us alone. Therefore let us go lest they should overpower the army of Antipus.
+{% marginal %}
+____
+The magic of his words gave joy to their hearts; for they loved him as they loved their own [highlight]#father#.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:48]
+____
+{% endmarginal %}
+
+*Alma 56:46* For as I had ever called them my sons--for they were all of them very young--even so they said unto me: [highlight]#Father#, behold, our God is with us, and he will not suffer that we shall fall; then let us go forth. We would not slay our brethren if they would let us alone. Therefore let us go lest they should overpower the army of Antipus.
 
 *Alma 56:47* Now they never had fought, yet they did not fear death. And they did think more upon the liberty of their fathers than they did upon their lives. Yea, they had been taught by their mothers that if they did not doubt that God would deliver them.
 
