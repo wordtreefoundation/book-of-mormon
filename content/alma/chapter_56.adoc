@@ -110,5 +110,25 @@
 
 *Alma 56:56* But behold, to my great joy there had not one soul of them fallen to the earth. Yea, and they had fought as if with the strength of God; yea, never was men known to have fought with such miraculous strength. And with such mighty power did they fall upon the Lamanites that they did frighten them; and for this cause did the Lamanites deliver themselves up as prisoners of war.
 
-*Alma 56:57* And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men which were not slain of Antipus with them. And the remainder I took and joined them to my stripling Ammonites and took our march back to the city of Judea.
+{% marginal %}
+____
+About this time, a [highlight]#stripling# from the south, with his weapon of war in his hand, ran up to Zebulon, and spake unto him...
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:32]
+____
+
+____
+...the name of the commander whereof was McDonough, (a [highlight]#stripling#).
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[28:2]
+____
+
+____
+And the king said, Enquire thou whose son the [highlight]#stripling# is.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Samuel-Chapter-17/[1 Sam. 17:56]
+____
+{% endmarginal %}
+
+*Alma 56:57* And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men which were not slain of Antipus with them. And the remainder I took and joined them to my [highlight]#stripling# Ammonites and took our march back to the city of Judea.
 
