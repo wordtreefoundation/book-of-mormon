@@ -14,6 +14,10 @@ If you’d like to contribute to this work, please register as a user and begin 
 
 You can add comments to this book using the "+" (plus) signs next to each paragraph or verse in the book. Once we've read your comment or discussion thread, an editor will try to incorporate the content in to the book. If you'd like to become an editor, please contact the WordTree Foundation.
 
+## Style Guide
+
+We use [asciidoc](http://powerman.name/doc/asciidoc) as the formatting language for this gitbook project.
+
 ## Annotation Requirements
 
 Each annotation must include the following:
@@ -24,34 +28,6 @@ Each annotation must include the following:
 * Link, if available
 * If you need storage for video/images hosting of content is available on this site
 
-## Style Guide
+## Geek Notes
 
-We use [asciidoc](http://powerman.name/doc/asciidoc) as the formatting language for this gitbook project.
-
-## Generating the Text
-
-If you'd like to create a similar project and have some knowledge of programming and the Linux command-line, you may be interested in the following.
-
-You can generate the source text of this book in its unannotated form (i.e. as a series of text files) using the `gen.sh` command included in this repository. Here is a basic outline of the steps necessary to generate the text files:
-
-* Install Ruby
-* Install [bomdb](https://github.com/wordtreefoundation/bomdb), a command-line tool for querying, diffing, and generating portions of text from the Book of Mormon
-* Run the `gen.sh` command in this repository
-
-## Plugins
-
-This gitbook uses the following plugins:
-
-* expandable-chapters
-* callouts
-* emphasize
-
-We're considering using these plugins as well:
-
-* injection / addcssjs
-* image-captions
-* forkmegithub / github
-* bibtex-citation-michael
-* richquotes
-* infinitescroll
-* toc
+See [NOTES](NOTES.md) for technical details around the creation of this book.
