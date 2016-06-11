@@ -20,7 +20,15 @@
 
 *Alma 2:11* Now the people of Amlici were distinguished by the name of Amlici, being called Amlicites; and the remainder were called Nephites, or the people of God.
 
-*Alma 2:12* Therefore the people of the Nephites was aware of the intent of the Amlicites. And therefore they did prepare for to meet them; yea, they did arm themselves with swords and with scimitars and with bows and with arrows and with stones and with slings and with all manner of weapons of war of every kind.
+{% margin %}
+____
+And they began to prepare their battering rams, their bombs and their rockets, and all kinds of instruments of destruction;
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[46:6]
+____
+{% endmargin %}
+
+*Alma 2:12* Therefore the people of the Nephites was aware of the intent of the Amlicites. And therefore [highlight]#they did prepare for to meet them; yea, they did arm themselves with swords and with scimitars and with bows and with arrows and with stones and with slings and with all manner of weapons of war# of every kind.
 
 *Alma 2:13* And thus they were prepared to meet the Amlicites at the time of their coming. And there was appointed captains and higher captains and chief captains according to their numbers.
 

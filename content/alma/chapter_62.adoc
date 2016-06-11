@@ -26,7 +26,15 @@
 
 *Alma 62:14* And it came to pass that Moroni and Parhoron, leaving a large body of men in the land of Zarahemla, took their march with a large body of men towards the land of Nephihah, being determined to overthrow the Lamanites in that city.
 
-*Alma 62:15* And it came to pass that as they were marching towards the land, they took a large body of men of the Lamanites and slew many of them and took their provisions and their weapons of war.
+{% margin %}
+____
+And their weapons of war were of curious workmanship [footnote: rifles]
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[19:13]
+____
+{% endmargin %}
+
+*Alma 62:15* And it came to pass that as they were marching towards the land, they took a large body of men of the Lamanites and slew many of them and took their provisions [highlight]#and their weapons of war#.
 
 *Alma 62:16* And it came to pass after they had took them, they caused them to enter into a covenant that they would no more take up their weapons of war against the Nephites.
 
