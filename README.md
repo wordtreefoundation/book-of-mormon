@@ -30,4 +30,4 @@ Each annotation must include the following:
 
 ## Geek Notes
 
-See [NOTES](NOTES.md) for technical details around the creation of this book.
+See [Technical Notes](content/notes.adoc) for technical details around the creation of this book.
