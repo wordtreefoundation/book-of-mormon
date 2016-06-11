@@ -62,7 +62,7 @@
 
 *Alma 2:32* And he also contended with the king of the Lamanites, but the king of the Lamanites fled back from before Alma and sent his guards to contend with Alma.
 
-{% marginal %}
+{% marginal 3 %}
 ____
 And the battle raged with great violence, and the men of Britain strove hard to pass over the river called Saranac; But the men of war of Columbia, who were upon the opposite side of the water, opposed them, and slew them with great slaughter. And the brave Grosvenor, and Hamilton, and Riley, and the gallant Cronk, drove them back from crossing the bridges. Likewise, many were slain in the river, so that the waters of the Saranac were dyed with the blood of the servants of the king.
 
