@@ -24,13 +24,13 @@
 
 {% margin %}
 ____
-Lo! we are stronger than the host of Columbia; therefore, let us go with all our might against their chief city, and make capture thereof
+Lo! we are stronger than the host of Columbia; therefore, let us go with all our might against their chief city, and make capture thereof.
 
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[44:21]
 ____
 {% endmargin %}
 
-*Alma 58:13* And thus we did go forth with all our might against the Lamanites which were in the city of Manti. And we did pitch our tents by the wilderness side, which was near to the city.
+*Alma 58:13* And thus [highlight]#we did go forth with all our might against the Lamanites which were in the city of Manti#. And we did pitch our tents by the wilderness side, which was near to the city.
 
 *Alma 58:14* And it came to pass on the morrow that when the Lamanites saw that we were in the borders by the wilderness which was near the city that they sent out their spies round about us that they might discover the number and the strength of our army.
 
