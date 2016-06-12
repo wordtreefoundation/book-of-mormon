@@ -28,7 +28,15 @@
 
 *Omni 1:15* Behold, it came to pass that Mosiah discovered that the people of Zarahemla came out from Jerusalem at the time that Zedekiah, king of Judah, was carried away captive into Babylon;
 
-*Omni 1:16* and they journeyed in the wilderness and was brought by the hand of the Lord across the great waters into the land where Mosiah discovered them; and they had dwelt there from that time forth.
+{% margin %}
+____
+For although the king, who calleth himself our father, across the great waters, did put the instruments of death into our hands, and give us the black dust in abundance; nevertheless he deceived us;
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[35:42]
+____
+{% endmargin %}
+
+*Omni 1:16* and they journeyed in the wilderness and was brought by the hand of the Lord [highlight]#across the great waters# into the land where Mosiah discovered them; and they had dwelt there from that time forth.
 
 *Omni 1:17* And at the time that Mosiah discovered them, they had became exceeding numerous. Nevertheless they had had many wars and serious contentions and had fallen by the sword from time to time. And their language had become corrupted; and they had brought no records with them. And they denied the being of their Creator. And Mosiah--nor the people of Mosiah--could not understand them.
 

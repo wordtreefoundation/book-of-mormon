@@ -66,7 +66,15 @@
 
 *Alma 52:34* Moroni being in their course of march, therefore Jacob was determined to slay them and cut his way through to the city of Mulek. But behold, Moroni and his men were more powerful; therefore they did not give way before the Lamanites.
 
-*Alma 52:35* And it came to pass that they fought on both hands with exceeding fury, and there were many slain on both sides; yea, and Moroni was wounded and Jacob was killed.
+{% margin %}
+____
+The officers and soldiers of Columbia fought bravely, and there were many slain and wounded on both sides;
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[23:24]
+____
+{% endmargin %}
+
+*Alma 52:35* And it came to pass that [highlight]#they fought on both hands with exceeding fury, and there were many slain on both sides#; yea, and Moroni was wounded and Jacob was killed.
 
 *Alma 52:36* And Lehi pressed upon their rear with such fury with his strong men that the Lamanites in the rear delivered up their weapons of war. And the remainder of them, being much confused, knew not whither to go or to strike.
 

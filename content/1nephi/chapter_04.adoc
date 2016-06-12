@@ -56,7 +56,15 @@
 
 *1 Nephi 4:29* And it came to pass that I called after them and they did hear me; wherefore they did cease to flee from my presence.
 
-*1 Nephi 4:30* And it came to pass that when the servant of Laban beheld my brethren, he began to tremble and was about to flee from before me and return to the city of Jerusalem.
+{% margin %}
+____
+Now when the men of Columbia heard that Ross, the chief captain of the king, was slain, and the host of Britain was compelled to flee from before the city, they were exceedingly rejoiced.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[48:34-35]
+____
+{% endmargin %}
+
+*1 Nephi 4:30* And it came to pass that when the servant of Laban beheld my brethren, he began to tremble and was [highlight]#about to flee from before me and return to the city# of Jerusalem.
 
 *1 Nephi 4:31* And now I Nephi being a man large in stature, and also having received much strength of the Lord, therefore I did seize upon the servant of Laban and held him that he should not flee.
 

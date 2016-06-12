@@ -52,7 +52,15 @@
 
 *1 Nephi 3:27* And it came to pass that we fled into the wilderness, and the servants of Laban did not overtake us, and we hid ourselves in the cavity of a rock.
 
-*1 Nephi 3:28* And it came to pass that Laman was angry with me and also with my father--and also was Lemuel, for he hearkened unto the words of Laman--wherefore Laman and Lemuel did speak many hard words unto us their younger brothers, and they did smite us, even with a rod.
+{% margin %}
+____
+Now the smooth words of Satan tickled Caleb mightily, and he hearkened unto the counsel of the wicked one.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[3:33]
+____
+{% endmargin %}
+
+*1 Nephi 3:28* And it came to pass that [highlight]#Laman was angry with me and also with my father--and also was Lemuel, for he hearkened unto the words of Laman#--wherefore Laman and Lemuel did speak many hard words unto us their younger brothers, and they did smite us, even with a rod.
 
 *1 Nephi 3:29* And it came to pass as they smote us with a rod, behold, an angel of the Lord came and stood before them, and he spake unto them, saying: Why do ye smite your younger brother with a rod? Know ye not that the Lord hath chosen him to be a ruler over you?--and this because of your iniquities. Behold, thou shalt go up to Jerusalem again, and the Lord will deliver Laban into your hands.
 

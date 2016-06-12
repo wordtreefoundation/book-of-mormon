@@ -70,7 +70,15 @@
 
 *Alma 50:36* And thus was the people of Morionton brought back. And upon their covenanting to keep the peace, they were restored to the land of Morionton. And a union took place between them and the people of Lehi, and they were also restored to their lands.
 
-*Alma 50:37* And it came to pass that in that same year that the people of Nephi had peace restored unto them that Nephihah the second chief judge died, having filled the judgment seat with perfect uprightness before God.
+{% margin %}
+____
+But it came to pass, in the same year, that the people of Columbia were revenged of the evil:
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[34:10]
+____
+{% endmargin %}
+
+*Alma 50:37* And [highlight]#it came to pass that in that same year that the people of Nephi# had peace restored unto them that Nephihah the second chief judge died, having filled the judgment seat with perfect uprightness before God.
 
 *Alma 50:38* Nevertheless he had refused Alma to take possession of those records and those things which were esteemed by Alma and his fathers to be most sacred. Therefore Alma had conferred them upon his son Helaman.
 

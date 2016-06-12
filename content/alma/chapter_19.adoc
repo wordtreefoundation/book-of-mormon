@@ -42,7 +42,15 @@
 
 *Alma 19:22* Now one of them whose brother had been slain with the sword of Ammon, being exceeding angry with Ammon, drew his sword and went forth that he might let it fall upon Ammon to slay him. And as he lifted the sword to smite him, behold, he fell dead.
 
-*Alma 19:23* Now we see that Ammon could not be slain, for the Lord had said unto Mosiah his father: I will spare him, and it shall be unto him according to thy faith. Therefore Mosiah trusted him unto the Lord.
+{% margin %}
+____
+Nevertheless, the lamb shall not be slain; for the Lord will be his deliverer.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[2:8]
+____
+{% endmargin %}
+
+*Alma 19:23* Now we see that [highlight]#Ammon could not be slain, for the Lord had said unto Mosiah his father: I will spare him#, and it shall be unto him according to thy faith. Therefore Mosiah trusted him unto the Lord.
 
 *Alma 19:24* And it came to pass that when the multitude beheld that the man had fell dead who lifted the sword to slay Ammon, fear came upon them all. And they durst not put forth their hands to touch him or any of those which had fallen. And they began to marvel again among themselves what could be the cause of this great power or what all these things could mean.
 

@@ -20,7 +20,15 @@ ____
 
 *Ether 6:7* And it came to pass that when they were buried in the deep, there was no water that could hurt them, their vessels being tight like unto a dish; and also they were tight [highlight]#like unto the ark of Noah#. Therefore when they were encompassed about by many waters, they did cry unto the Lord, and he did bring them forth again upon the top of the waters.
 
-*Ether 6:8* And it came to pass that the wind did never cease to blow towards the promised land while they were upon the waters; and thus they were driven forth before the wind.
+{% margin %}
+____
+And the vessels of war of Columbia that were upon the waters of the lake called Ontario, were commanded by a brave man, whose name was Chauncey. ... On the same day the sails of the vessels were spread to the winds of heaven, and they moved towards a place called Little York, in the province of Canada.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[19:3,7]
+____
+{% endmargin %}
+
+*Ether 6:8* And it came to pass that [highlight]#the wind did never cease to blow towards the promised land while they were upon the waters#; and thus they were driven forth before the wind.
 
 *Ether 6:9* And they did sing praises unto the Lord; yea, the brother of Jared did sing praises unto the Lord, and he did thank and praise the Lord all the day long. And when the night came, they did not cease to praise the Lord.
 

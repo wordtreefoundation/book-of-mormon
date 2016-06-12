@@ -62,7 +62,15 @@
 
 *Alma 12:32* Therefore God gave unto them commandments after having made known unto them the plan of redemption, that they should not do evil, the penalty thereof being a second death, which was an everlasting death as to things pertaining unto righteousness; for on such the plan of redemption could have no power, for the works of justice could not be destroyed, according to the supreme goodness of God.
 
-*Alma 12:33* But God did call on men in the name of his Son, this being the plan of redemption which was laid, saying: If ye will repent and harden not your hearts, then will I have mercy upon you through mine Only Begotten Son.
+{% margin %}
+____
+For, in the mean time, Hardy had sent a messenger to the inhabitants, saying, If ye will not prove wicked, and will refrain from sending your evil torpedoes amongst our vessels, then will we spare your town.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[43:11-12]
+____
+{% endmargin %}
+
+*Alma 12:33* But God did call on men in the name of his Son, this being the plan of redemption which was laid, [highlight]#saying: If ye will repent and harden not your hearts, then will I have mercy upon you# through mine Only Begotten Son.
 
 *Alma 12:34* Therefore whosoever repenteth and hardeneth not his heart, he shall have claim on mercy through mine Only Begotten Son unto a remission of their sins; and these shall enter into my rest.
 

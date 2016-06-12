@@ -24,7 +24,15 @@
 
 *Alma 27:13* And now it came to pass that Ammon went and told the king all the words which the Lord had said unto him.
 
-*Alma 27:14* And it came to pass that they gathered together all their people--yea, all the people of the Lord--and did gather together all their flocks and herds and departed out of the land and came into the wilderness which divided the land of Nephi from the land of Zarahemla and came over near the borders of the land.
+{% margin %}
+____
+So it came to pass , that they gathered together their army and their navy... And they essayed to go against the city of New-Orleans...
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[53:4-5]
+____
+{% endmargin %}
+
+*Alma 27:14* And [highlight]#it came to pass that they gathered together all their people--yea, all the people of the Lord--and did gather together all their flocks and herds and departed out of the land# and came into the wilderness which divided the land of Nephi from the land of Zarahemla and came over near the borders of the land.
 
 *Alma 27:15* And it came to pass that Ammon saith unto them: Behold, I and my brethren will go forth into the land of Zarahemla, and ye shall remain here until we return; and we will try the hearts of our brethren, whether they will that ye shall come into their land.
 

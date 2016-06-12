@@ -69,7 +69,15 @@ ____
 
 *Alma 57:28* And now it came to pass that after we had thus taken care of our wounded men and had buried our dead and also the dead of the Lamanites, which were many, behold, we did inquire of Gid concerning the prisoners which they had started to go down to the land of Zarahemla with.
 
-*Alma 57:29* Now Gid was the chief captain over the band which was appointed to guard them down to that land.
+{% margin %}
+____
+Now Lloyd, who commanded the Plantagenet, was the chief captain of the squadron of the king...
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[49:14]
+____
+{% endmargin %}
+
+*Alma 57:29* [highlight]#Now Gid was the chief captain over the band which was appointed to guard them# down to that land.
 
 *Alma 57:30* And now these are the words which Gid said unto me: Behold, we did start to go down to the land of Zarahemla with our prisoners. And it came to pass that we did meet the spies of our armies, which had been sent out to watch the camp of the Lamanites.
 
