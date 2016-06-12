@@ -21,17 +21,13 @@ ____
 He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]
-____
-{% endmargin %}
-
-{% margin %}
-____
 
 Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]
 ____
 {% endmargin %}
+
 *1 Nephi 1:6* And it came to pass as he prayed unto the Lord, there came a [highlight]#pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did [highlight]#quake and tremble# exceedingly.
 
 *1 Nephi 1:7* And it came to pass that he returned to his own house at Jerusalem. And he cast himself upon his bed, being overcome with the Spirit and the things which he had seen.
