@@ -36,9 +36,27 @@ ____
 
 *1 Nephi 1:9* And it came to pass that he saw one descending out of the midst of heaven, and he beheld that his luster was above that of the sun at noonday.
 
-*1 Nephi 1:10* And he also saw twelve others following him, and their brightness did exceed that of the stars in the firmament.
+{% margin %}
+____
+And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 
-*1 Nephi 1:11* And they came down and went forth upon the face of the earth. And the first came and stood before my father and gave unto him a book and bade him that he should read.
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Daniel-Chapter-12/[Daniel 12:3]
+____
+{% endmargin %}
+
+*1 Nephi 1:10* And he also saw twelve others following him, and their brightness did exceed that of the [highlight]#stars in the firmament#.
+
+{% margin %}
+____
+8 And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
+
+9 And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-10/[Revelation 10:8-9]
+____
+{% endmargin %}
+
+*1 Nephi 1:11* And they came down and went forth upon the face of the earth. And the first came and stood before my father and [highlight-orange]#gave unto him a book and bade him that he should read.#
 
 *1 Nephi 1:12* And it came to pass that as he read, he was filled with the Spirit of the Lord.
 
