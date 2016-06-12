@@ -72,6 +72,14 @@
 
 *Mormon 8:37* For behold, ye do love money and your substance and your fine apparel and the adorning of your churches more than ye love the poor and the needy, the sick and the afflicted.
 
+{% margin %}
+____
+Now, there was a certain hypocrite whose name was Elijah, and he was a false prophet in the east, and led astray those of little understanding: moreover, he was an hireling, and preached for the sake of filthy lucre. And he rose up and called himself a preacher of the gospel, and his words were smooth, and the people marvelled at him; But he profaned the temple of the Lord, and he strove to lead his disciples into the wrong way.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#false-prophets[4:11-13]
+____
+{% endmargin %}
+
 *Mormon 8:38* O ye pollutions, ye hypocrites, ye teachers which sell yourselves for that which will canker, why have ye polluted the holy church of God? Why are ye ashamed to take upon you the name of Christ? Why do ye not think that greater is the value of an endless happiness than that misery which never dies? Because of the praise of the world?
 
 *Mormon 8:39* Why do ye adorn yourselves with that which hath no life, and yet suffer the hungry and the needy and the naked and the sick and the afflicted to pass by you and notice them not?

@@ -28,7 +28,15 @@
 
 *Words of Mormon 1:15* And it came to pass that after there had been false Christs and their mouths had been shut--and they punished according to their crimes--
 
-*Words of Mormon 1:16* and after there had been false prophets and false preachers and teachers among the people--and all these having been punished according to their crimes--and after there having been much contentions and many dissensions away unto the Lamanites, behold, it came to pass that king Benjamin with the assistance of the holy prophets which were among his people
+{% margin %}
+____
+Now, there was a certain hypocrite whose name was Elijah, and he was a false prophet in the east, and led astray those of little understanding: moreover, he was an hireling, and preached for the sake of filthy lucre. And he rose up and called himself a preacher of the gospel, and his words were smooth, and the people marvelled at him; But he profaned the temple of the Lord, and he strove to lead his disciples into the wrong way.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#false-prophets[4:11-13]
+____
+{% endmargin %}
+
+*Words of Mormon 1:16* and after [highlight]#there had been false prophets and false preachers and teachers among the people#--and all these having been punished according to their crimes--and after there having been much contentions and many dissensions away unto the Lamanites, behold, it came to pass that king Benjamin with the assistance of the holy prophets which were among his people
 
 *Words of Mormon 1:17* --for behold, king Benjamin was a holy man, and he did reign over his people in righteousness; and there were many holy men in the land, and they did speak the word of God with power and with authority, and they did use much sharpness because of the stiffneckedness of the people--
 

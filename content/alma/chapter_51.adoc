@@ -1,16 +1,52 @@
 *Alma 51:1* And now it came to pass in the commencement of the twenty and fifth year of the reign of the judges over the people of Nephi, they having established peace between the people of Lehi and the people of Morionton concerning their lands, and having commenced the twenty and fifth year in peace,
 
-*Alma 51:2* nevertheless they did not long maintain an entire peace in the land. For there began to be a contention among the people concerning the chief judge Parhoron; for behold, there were a part of the people which desired that a few particular points of the law should be altered.
+{% margin %}
+____
+Lo! the lords and the princes of the Kingdom of Britain, in the fulness of their pride and power, have trampled upon the altar of Liberty, and violated the sanctuary thereof: Inasmuch as they hearkened not unto the voice of moderation, when the voice of the people of Columbia [America] was, Peace! peace!
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[1:8-9]
+____
+{% endmargin %}
+
+*Alma 51:2* nevertheless [highlight]#they did not long maintain an entire peace in the land. For there began to be a contention# among the people concerning the chief judge Parhoron; for behold, there were a part of the people which desired that a few particular points of the law should be altered.
 
 *Alma 51:3* But behold, Parhoron would not alter nor suffer the law to be altered. Therefore he did not hearken to those who had sent in their voices with their petitions concerning the altering of the law.
 
 *Alma 51:4* Therefore those which were desirous that the law should be altered were angry with him and desired that he should no longer be chief judge over the land. Therefore there arose a warm dispute concerning the matter, but not unto bloodshed.
 
-*Alma 51:5* And it came to pass that those who were desirous that Parhoron should be dethroned from the judgment seat were called kingmen, for they were desirous that the law should be altered in a manner to overthrow the free government and to establish a king over the land.
+{% margin 2 %}
+____
+Now it happened about this time that there were numbers of the inhabitants of the country of Columbia whose hearts yearned after the king of Britain. These men were called Tories, which signifieth, in the vernacular tongue, the blind followers of royalty.
 
-*Alma 51:6* And those who were desirous that Parhoron should remain chief judge over the land took upon them the name of freemen. And thus was the division among them, for the freemen had sworn or covenanted to maintain their rights and the privileges of their religion by a free government.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[3:15-18]
+____
 
-*Alma 51:7* And it came to pass that this matter of their contention was settled by the voice of the people. And it came to pass that the voice of the people came in the favor of the freemen; and Parhoron retained the judgment seat, which caused much rejoicing among the brethren of Parhoron and also among the people of liberty, which also put the kingmen to silence, that they durst not oppose but were obliged to maintain the cause of freedom.
+____
+For, when the gallant young men of Baltimore heard the rumor, that the slaves of Britain were coming upon them; With the spirit of freemen, they grasped their weapons of war in their hands, and went out to meet them without fear; resolved to conquer or to die.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[48:11-12]
+____
+
+____
+Nevertheless, David said unto the captains of the king, Come singly, and not like cowards, upon me; then shall ye receive the thunders of the freemen of Columbia abundantly; 
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[38:26]
+____
+{% endmargin %}
+
+*Alma 51:5* And it came to pass that [highlight]#those who were desirous that Parhoron should be dethroned from the judgment seat were called kingmen, for they were desirous that the law should be altered in a manner to overthrow the free government and to establish a king over the land#.
+
+*Alma 51:6* And those who were desirous that Parhoron should remain chief judge over the land [highlight]#took upon them the name of freemen. And thus was the division among them, for the freemen had sworn or covenanted to maintain their rights and the privileges of their religion by a free government#.
+
+{% margin %}
+____
+For the voice of the people of Columbia had spoken peace from the beginning ; they wished war might cease , and that the breach between the nations might be healed.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[55:7]
+____
+{% endmargin %}
+
+*Alma 51:7* And it came to pass that this matter of [highlight]#their contention was settled by the voice of the people. And it came to pass that the voice of the people came in the favor of the freemen#; and Parhoron retained the judgment seat, which caused much rejoicing among the brethren of Parhoron and also among the people of liberty, which also put the kingmen to silence, that they durst not oppose but were obliged to maintain the cause of freedom.
 
 *Alma 51:8* Now those which were in favor of kings were those of high birth; and they sought to be kings. And they were supported by those which sought power and authority over the people.
 

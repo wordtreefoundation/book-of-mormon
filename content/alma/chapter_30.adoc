@@ -96,7 +96,17 @@
 
 *Alma 30:49* Now Alma saith unto him: This will I give unto thee for a sign, that thou shalt be struck dumb according to my words. And I say that in the name of God that ye shall be struck dumb, that ye shall no more have utterance.
 
-*Alma 30:50* Now when Alma had said these words, Korihor was struck dumb, that he could not have utterance, according to the words of Alma.
+{% margin %}
+____
+Manahoee, their chief prophet, was smitten in the mouth, and slain, and two other false prophets were slain with him.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#false-prophets[35:29]
+____
+
+See also Mormon Parallels, p. 731
+{% endmargin %}
+
+*Alma 30:50* Now when Alma had said these words, [highlight]#Korihor was struck dumb, that he could not have utterance#, according to the words of Alma.
 
 *Alma 30:51* And now when the chief judge saw this, he put forth his hand and wrote unto Korihor, saying: Art thou convinced of the power of God? In whom did ye desire that Alma should shew forth his sign? Would ye that he should afflict others to shew unto thee a sign? Now behold, he hath shewed unto you a sign. And now will ye dispute more?
 
@@ -114,7 +124,15 @@
 
 *Alma 30:58* And it came to pass that they were all convinced of the wickedness of Korihor. Therefore they were all converted again unto the Lord. And this put an end to the iniquity after the manner of Korihor. And Korihor did go about from house to house a begging food for his support.
 
-*Alma 30:59* And it came to pass that as he went forth among the people--yea, among a people which had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram--and as he went forth amongst them, behold, he was ran upon and trodden down, even until he was dead.
+{% margin %}
+____
+Manahoee [the false prophet was] slain.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#false-prophets[35:29]
+____
+{% endmargin %}
+
+*Alma 30:59* And it came to pass that as he went forth among the people--yea, among a people which had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram--and as he went forth amongst them, behold, [highlight]#he was ran upon and trodden down, even until he was dead#.
 
 *Alma 30:60* And thus we see the end of him who perverteth the ways of the Lord. And thus we see that the devil will not support his children at the last day, but doth speedily drag them down to hell.
 

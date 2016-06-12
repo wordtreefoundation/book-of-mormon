@@ -16,7 +16,7 @@
 
 *1 Nephi 16:9* And it came to pass that the voice of the Lord spake unto my father by night and commanded him that on the morrow he should take his journey into the wilderness.
 
-{% margin %}
+{% margin 2 %}
 ____
 Now these wonderful torpedoes were made partly of brass and partly of iron, and were cunningly contrived with curious works, like unto a clock; and as it were a large ball.
 
