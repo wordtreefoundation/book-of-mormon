@@ -16,7 +16,15 @@ ____
 
 *1 Nephi 1:5* Wherefore it came to pass that my father Lehi, as he went forth, prayed unto the Lord, yea, even with all his heart, in behalf of his people.
 
-*1 Nephi 1:6* And it came to pass as he prayed unto the Lord, there came a pillar of fire and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did quake and tremble exceedingly.
+{% margin %}
+____
+He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]
+____
+{% endmargin %}
+
+*1 Nephi 1:6* And it came to pass as he prayed unto the Lord, there came a [highlight]#pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did quake and tremble exceedingly.
 
 *1 Nephi 1:7* And it came to pass that he returned to his own house at Jerusalem. And he cast himself upon his bed, being overcome with the Spirit and the things which he had seen.
 
@@ -49,7 +57,7 @@ KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-15/[Reve
 ____
 {% endmargin %}
 
-*1 Nephi 1:14* And it came to pass that when my father had read and saw many great and marvelous things, he did exclaim many things unto the Lord, such as: Great and marvelous are thy works, O Lord God Almighty. Thy throne is high in the heavens, and thy power and goodness and mercy is over all the inhabitants of the earth. And because thou art merciful, thou wilt not suffer those who come unto thee that they shall perish.
+*1 Nephi 1:14* And it came to pass that when my father had read and saw many great and marvelous things, he did exclaim many things unto the Lord, such as: [highlight]#Great and marvelous are thy works, O Lord God Almighty.# Thy throne is high in the heavens, and thy power and goodness and mercy is over all the inhabitants of the earth. And because thou art merciful, thou wilt not suffer those who come unto thee that they shall perish.
 
 *1 Nephi 1:15* And after this manner was the language of my father in the praising of his God, for his soul did rejoice and his whole heart was filled because of the things which he had seen, yea, which the Lord had shewn unto him.
 
