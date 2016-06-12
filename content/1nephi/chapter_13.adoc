@@ -20,11 +20,21 @@
 
 *1 Nephi 13:11* And it came to pass that the angel saith unto me: Behold, the wrath of God is upon the seed of thy brethren.
 
-*1 Nephi 13:12* And I looked and beheld a man among the Gentiles, which were separated from the seed of my brethren by the many waters. And I beheld the Spirit of God, that it came down and wrought upon the man, and he went forth upon the many waters, even unto the seed of my brethren, which were in the promised land.
+{% margin 3 %}
+____
+His name was Christopher, sir-named Columbus. As the righteous man struggleth against wickedness, so did he against ignorance and stupidity. Nevertheless, it came to pass, in the fourteen hundred and ninety-second year of the Christian era, that he crossed the waters of the mighty deep, a thing that had never been known among the sons of men... And the place was inhabited by wild savages , and they were naked.
 
-*1 Nephi 13:13* And it came to pass that I beheld the Spirit of God, that it wrought upon other Gentiles, and they went forth out of captivity upon the many waters.
+Now when the people heard that Columbus had found a new land, they were astonished beyond measure, for it was many thousand miles off... And the people of Columbia, who are independent of the tyrants of the earth, and who dwell between the great river which is called Mississippi, in the south, and the province of Canada, in the north, being numbered, are about a thousand times ten thousand souls.
 
-*1 Nephi 13:14* And it came to pass that I beheld many multitudes of the Gentiles upon the land of promise. And I beheld the wrath of God, that it was upon the seed of my brethren. And they were scattered before the Gentiles and they were smitten.
+The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#columbus[20:4-9,19]
+____
+{% endmargin %}
+
+*1 Nephi 13:12* And [highlight]#I looked and beheld a man among the Gentiles, which were separated from the seed of my brethren by the many waters. And I beheld the Spirit of God, that it came down and wrought upon the man, and he went forth upon the many waters, even unto the seed of my brethren, which were in the promised land#.
+
+*1 Nephi 13:13* [highlight]#And it came to pass that I beheld the Spirit of God, that it wrought upon other Gentiles, and they went forth out of captivity upon the many waters#.
+
+*1 Nephi 13:14* [highlight]#And it came to pass that I beheld many multitudes of the Gentiles upon the land of promise#. And I beheld the wrath of God, that it was upon the seed of my brethren. And they were scattered before the Gentiles and they were smitten.
 
 *1 Nephi 13:15* And I beheld the Spirit of the Lord, that it was upon the Gentiles, that they did prosper and obtain the land for their inheritance. And I beheld that they were white and exceeding fair and beautiful, like unto my people before that they were slain.
 
