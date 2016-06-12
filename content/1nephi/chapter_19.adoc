@@ -1,4 +1,12 @@
-*1 Nephi 19:1* And it came to pass that the Lord commanded me, wherefore I did make plates of ore that I might engraven upon them the record of my people. And upon the plates which I made I did engraven the record of my father and also our journeyings in the wilderness and the prophecies of my father. And also many of mine own prophecies have I engraven upon them.
+{% margin %}
+____
+Likewise, the people gave him [Oliver Perry] much silver plate, with gravings thereon, mentioning his deeds.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#brass-records[31:33]
+____
+{% endmargin %}
+
+*1 Nephi 19:1* And it came to pass that the Lord commanded me, wherefore [highlight]#I did make plates of ore that I might engraven upon them the record of my people#. And upon the plates which I made I did engraven the record of my father and also our journeyings in the wilderness and the prophecies of my father. And also many of mine own prophecies have I engraven upon them.
 
 *1 Nephi 19:2* And I knew not at that time which I made them that I should be commanded of the Lord to make these plates. Wherefore the record of my father and the genealogy of his forefathers and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken. Wherefore the things which transpired before that I made these plates are of a truth more particularly made mention upon the first plates.
 

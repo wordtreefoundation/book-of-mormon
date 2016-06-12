@@ -30,7 +30,15 @@
 
 *3 Nephi 10:16* --yea, the prophet Zenos did testify of these things, and also Zenoch spake concerning these things--because they testified particular concerning us, which is the remnant of their seed.
 
-*3 Nephi 10:17* Behold, our father Jacob also testified concerning a remnant of the seed of Joseph. And behold, are not we a remnant of the seed of Joseph? And these things which testifies of us, are they not written upon the plates of brass which our father Lehi brought out of Jerusalem?
+{% margin %}
+____
+But the imaginary evils which the children of men commit are oftentimes graven in brass, whilst their actual good deeds are written in sand.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#brass-records[36:26]
+____
+{% endmargin %}
+
+*3 Nephi 10:17* Behold, our father Jacob also testified concerning a remnant of the seed of Joseph. And behold, are not we a remnant of the seed of Joseph? And these things which testifies of us, [highlight]#are they not written upon the plates of brass# which our father Lehi brought out of Jerusalem?
 
 *3 Nephi 10:18* And it came to pass that in the ending of the thirty and fourth year, behold, I will shew unto you that the people of Nephi which were spared, and also they which had been called Lamanites which had been spared, did have great favors shewn unto them and great blessings poured out upon their heads, insomuch that soon after the ascension of Christ into heaven he did truly manifest himself unto them,
 

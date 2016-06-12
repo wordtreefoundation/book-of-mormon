@@ -30,6 +30,14 @@
 
 *1 Nephi 17:16* And it came to pass that I did make tools of the ore which I did molten out of the rock.
 
+{% margin 2 %}
+____
+Like other men of genius, in these days, he [Robert Fulton, the inventor of the steam boat] was spoken of but slightly at first; for the people said, Lo! the man is beside himself and they laughed at him; nevertheless, he exceeded their expectations.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#fulton[50:5]
+____
+{% endmargin %}
+
 *1 Nephi 17:17* And when my brethren saw that I was about to build a ship, they began to murmur against me, saying: Our brother is a fool, for he thinketh that he can build a ship. Yea, and he also thinketh that he can cross these great waters.
 
 *1 Nephi 17:18* And thus my brethren did complain against me and were desirous that they might not labor, for they did not believe that I could build a ship, neither would they believe that I were instructed of the Lord.

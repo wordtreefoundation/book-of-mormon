@@ -16,7 +16,15 @@
 
 *1 Nephi 16:9* And it came to pass that the voice of the Lord spake unto my father by night and commanded him that on the morrow he should take his journey into the wilderness.
 
-*1 Nephi 16:10* And it came to pass that as my father arose in the morning and went forth to the tent door, and to his great astonishment he beheld upon the ground a round ball of curious workmanship, and it was of fine brass. And within the ball was two spindles, and the one pointed the way whither we should go into the wilderness.
+{% margin %}
+____
+Now these wonderful torpedoes were made partly of brass and partly of iron, and were cunningly contrived with curious works, like unto a clock; and as it were a large ball.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#liahona[50:24]
+____
+{% endmargin %}
+
+*1 Nephi 16:10* And it came to pass that as my father arose in the morning and went forth to the tent door, and to his great astonishment he beheld upon the ground [highlight]#a round ball of curious workmanship, and it was of fine brass#. And within the ball was [highlight]#two spindles#, and the one pointed the way whither we should go into the wilderness.
 
 *1 Nephi 16:11* And it came to pass that we did gather together whatsoever things we should carry into the wilderness and all the remainder of our provisions which the Lord had given unto us. And we did take seed of every kind that we might carry into the wilderness.
 
