@@ -47,7 +47,7 @@ Howsoever, they cut down the tall trees of the forest, and hewed them, and [high
 The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#barges[28:12]
 ____
 
-See also chapter_06.adoc[Ether 6:7].
+See also link:chapter_06.adoc[Ether 6:7].
 {% endmargin %}
 
 *Ether 2:22* And he cried again unto the Lord, saying: O Lord, behold, I have done even as thou hast commanded me, and [highlight]#I have prepared the vessels# for my people. And behold, there is no light in them. Behold, O Lord, wilt thou suffer that we shall cross this great water in darkness?

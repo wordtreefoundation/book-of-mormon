@@ -4,7 +4,17 @@
 
 *Alma 63:3* And it came to pass that Moroni died also. And thus ended the thirty and sixth year of the reign of the judges.
 
-*Alma 63:4* And it came to pass that in the thirtieth and seventh year of the reign of the judges there was a large company of men--even to the amount of five thousand and four hundred men, with their wives and their children--departed out of the land of Zarahemla into the land which was northward.
+{% margin 5 %}
+____
+IN the twelfth month of the first [highlight]#year of the decree of the great Sanhedrim#, on the twenty and ninth day of the month, [highlight]#it came to pass, that one of the strong ships# of the king had approached the country of the south, which lieth many thousand miles off. And the ship ... carried about four hundred and fifty men, and a governor, and many officers and soldiers of the king ; and she was well prepared for battle.
+
+And Lambert commanded the ship of Britain, and he was a brave and valiant man. So as he passed along, nigh unto the coast of Brazil, where the sun casteth the shadow of a man to the south at noon day: (A place unknown to the children of Israel , in the days of Moses)
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#faraway[15:1-7]
+____
+{% endmargin %}
+
+*Alma 63:4* And it came to pass that in the thirtieth and seventh [highlight]#year of the reign of the judges# there was a large company of men--even to the amount of five thousand and four hundred men, with their wives and their children--departed out of the land of Zarahemla into the land which was northward.
 
 *Alma 63:5* And it came to pass that Hagoth, he being an exceeding curious man, therefore he went forth and built him an exceeding large ship on the borders of the land Bountiful by the land Desolation and launched it forth into the west sea by the narrow neck which led into the land northward.
 
@@ -12,7 +22,7 @@
 
 *Alma 63:7* And in the thirty and eighth year this man built other ships. And the first ship did also return; and many more people did enter into it, and they also took much provisions and set out again to the land northward.
 
-*Alma 63:8* And it came to pass that they never were heard of more. And we suppose that they are drowned up in the depths of the sea. And it came to pass that one other ship also did sail forth, and whither she did go we know not.
+*Alma 63:8* And it came to pass that they never were heard of more. And we suppose that they are drowned up in the depths of the sea. And [highlight]#it came to pass that one other ship also did sail forth, and whither she did go we know not#.
 
 *Alma 63:9* And it came to pass that in this year there were many people which went forth into the land northward. And thus ended the thirty and eighth year.
 

@@ -36,9 +36,17 @@
 
 *Helaman 14:19* Therefore repent ye, repent ye, lest by knowing these things and not doing them, ye shall suffer yourselves to come under condemnation and ye are brought down unto this second death.
 
-*Helaman 14:20* But behold, as I said unto you concerning another sign, a sign of his death, behold, in that day that he shall suffer death, the sun shall be darkened and refuse to give his light unto you, and also the moon and the stars; and there shall be no light upon the face of this land, even from the time that he shall suffer death, for the space of three days, to the time that he shall rise again from the dead.
+{% margin 3 %}
+____
+But as the young man returned to where the army stayed, behold! the black dust in the hold caught fire, and it rent the air with the noise of a thousand thunders: And the whole army fell down upon their faces to the earth; and the stones, and the fragments of rocks, were lifted high; and the falling thereof was terrible even unto deaths Yea, it was dreadful as the mighty earthquake, which overturneth cities. And the whole face of the earth round about, and the army of Zebulon, were overshadowed with black smoke; so that, for a time, one man saw not another: But when the heavy clouds of smoke passed away towards the west, behold the earth was covered with the killed and the wounded. Alas! the sight was shocking to behold; as the deed was ignoble. About two hundred men rose not: the stones had bruised them; the sharp rocks had fallen upon them: They were wedged into the earth: their weapons of war were bent down into the ground with them; their feet were turned towards heaven; their limbs were lopped off.
 
-*Helaman 14:21* Yea, at the time that he shall yield up the ghost, there shall be thunderings and lightnings for the space of many hours. And the earth shall shake and tremble. And the rocks which is upon the face of the earth, which is both above the earth and beneath, which ye know at this time is solid--or the more part of it is one solid mass--shall be broken up.
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#cataclysms[19:37-44]
+____
+{% endmargin %}
+
+*Helaman 14:20* But behold, as I said unto you concerning another sign, a sign of his death, behold, in that day that he shall suffer death, the sun shall be darkened and refuse to give his light unto you, and also the moon and the stars; and [highlight]#there shall be no light upon the face of this land#, even from the time that he shall suffer death, for the space of three days, to the time that he shall rise again from the dead.
+
+*Helaman 14:21* Yea, at the time that he shall yield up the ghost, there shall be [highlight]#thunderings and lightnings for the space of many hours. And the earth shall shake and tremble#. And the rocks which is upon the face of the earth, which is both above the earth and beneath, which ye know at this time is solid--or the more part of it is one solid mass--shall be broken up.
 
 *Helaman 14:22* Yea, they shall be rent in twain and shall ever after be found in seams and in cracks and in broken fragments upon the face of the whole earth, yea, both above the earth and beneath.
 
