@@ -16,7 +16,15 @@
 
 *Mosiah 26:9* and it came to pass that Alma did know concerning them, for there were many witnesses against them; yea, the people stood and testified of their iniquity in abundance.
 
-*Mosiah 26:10* Now there had not any such thing happened before in the church. Therefore Alma was troubled in his spirit, and he caused that they should be brought before the king.
+{% margin %}
+____
+And after they had eaten and drank, Carden opened his mouth, for he was troubled in his mind, and spake unto Decatur, saying: Lo! if this thing which hath happened be known unto the king, that one of the vessels of Britain hath struck her flag, and become captive to a vessel of the United States, what shall be done unto the captain thereof? for such a thing hath not been heard of among the nations of the earth.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#inception[13:17]
+____
+{% endmargin %}
+
+*Mosiah 26:10* Now [highlight]#there had not any such thing happened before in the church. Therefore Alma was troubled in his spirit#, and he caused that they should be brought before the king.
 
 *Mosiah 26:11* And he saith unto the king: Behold, here are many which we have brought before thee which are accused of their brethren. Yea, and they have been taken in divers iniquities, and they do not repent of their iniquities. Therefore we have brought them before thee, that thou may judge them according to their crimes.
 

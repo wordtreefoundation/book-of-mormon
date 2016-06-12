@@ -20,9 +20,17 @@
 
 *Alma 46:11* And now it came to pass that when Moroni, which was the chief commander of the armies of the Nephites, had heard of these dissensions, he was angry with Amalickiah.
 
+{% margin 6 %}
+____
+And the star-spangled banner in triumph doth wave. O'er the land of the free, and the home of the brave. O! thus be it ever when freemen shall stand, Between their lov'd home, and the war's desolation. Blest with vict'ry and peace, may the Heaven rescu'd land, praise the Power that hath made and preserv'd us a nation! Then conquer we must, when our cause it is just, and this be our motto—"In God is our trust;"
+
+The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[p. 184]
+____
+{% endmargin %}
+
 *Alma 46:12* And it came to pass that he rent his coat; and he took a piece thereof and wrote upon it: In memory of our God, our religion and freedom, and our peace, our wives and our children. And he fastened it upon the end of a pole thereof.
 
-*Alma 46:13* And he fastened on his headplate and his breastplate and his shields and girded on his armor about his loins. And he took the pole which had on the end thereof his rent coat, and he called it the title of liberty. And he bowed himself to the earth, and he prayed mightily unto his God for the blessings of liberty to rest upon his brethren so long as there should a band of Christians remain to possess the land.
+*Alma 46:13* And he fastened on his headplate and his breastplate and his shields and girded on his armor about his loins. And he took the pole which had on the end thereof his rent coat, and he called it the title of liberty. And he bowed himself to the earth, and he prayed mightily unto his God for [highlight]#the blessings of liberty to rest upon his brethren so long as there should a band of Christians remain to possess the land#.
 
 *Alma 46:14* For thus were all the true believers of Christ which belonged to the church of God called by those who did not belong to the church.
 
@@ -30,7 +38,7 @@
 
 *Alma 46:16* And therefore at this time Moroni prayed that the cause of the Christians and the freedom of the land might be favored.
 
-*Alma 46:17* And it came to pass that when he had poured out his soul to God, he gave all the land which was south of the land Desolation--yea, and in fine all the land, both on the north and on the south--a chosen land and the land of liberty.
+*Alma 46:17* And it came to pass that when he had poured out his soul to God, he gave all the land which was south of the land Desolation--yea, and in fine all the land, both on the north and on the south--[highlight]#a chosen land and the land of liberty#.
 
 *Alma 46:18* And he saith: Surely God shall not suffer that we who are despised because we take upon us the name of Christ shall be trodden down and destroyed until we bring it upon us by our own transgressions.
 

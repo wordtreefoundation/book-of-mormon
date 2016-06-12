@@ -6,7 +6,15 @@
 
 *Alma 62:4* And he did raise the standard of liberty in whatsoever place he did enter and gained whatsoever force he could in all his march towards the land of Gideon.
 
-*Alma 62:5* And it came to pass that thousands did flock unto his standard and did take up their swords in the defense of their freedom, that they might not come into bondage.
+{% margin %}
+____
+And it came to pass, that a great multitude flocked to the banners of the great Sanhedrim.
+
+The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#liberty[6:14]
+____
+{% endmargin %}
+
+*Alma 62:5* [highlight]#And it came to pass that thousands did flock unto his standard and did take up their swords in the defense of their freedom#, that they might not come into bondage.
 
 *Alma 62:6* And thus when Moroni had gathered together whatsoever men he could in all his march, he came to the land of Gideon. And uniting his forces with that of Parhoron's, they became exceeding strong, even stronger than the men of Pachus, which was the king of those dissenters which had driven out the freemen out of the land of Zarahemla and had taken possession of the land.
 

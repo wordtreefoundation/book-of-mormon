@@ -30,7 +30,15 @@
 
 *Alma 51:16* For it was his first care to put an end to such contentions and dissensions among the people. For behold, this had been hitherto a cause of all their destructions. And it came to pass that it was granted according to the voice of the people.
 
-*Alma 51:17* And it came to pass that Moroni commanded that his army should go against those kingmen, to pull down their pride and their nobility and level them with the earth, or they should take up arms and support the cause of liberty.
+{% margin %}
+____
+But if, peradventure, we should be overcome, even then shall not the sacred cause of LIBERTY perish, neither shall the people of Columbia be disheartened.
+
+The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[24:15]
+____
+{% endmargin %}
+
+*Alma 51:17* And it came to pass that Moroni commanded that his army should go against those kingmen, to pull down their pride and their nobility and level them with the earth, or [highlight]#they should take up arms and support the cause of liberty#.
 
 *Alma 51:18* And it came to pass that the armies did march forth against them, and they did pull down their pride and their nobility, insomuch that as they did lift their weapons of war to fight against the men of Moroni, they were hewn down and leveled to the earth.
 

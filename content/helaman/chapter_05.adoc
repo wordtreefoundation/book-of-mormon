@@ -86,7 +86,15 @@
 
 *Helaman 5:44* And Nephi and Lehi was in the midst of them. Yea, they were encircled about; yea, they were as if in the midst of a flaming fire. Yet it did harm them not, neither did it take hold upon the walls of the prison. And they were filled with that joy which is unspeakable and full of glory.
 
-*Helaman 5:45* And behold, the Holy Spirit of God did come down from heaven and did enter into their hearts. And they were filled as if with fire, and they could speak forth marvelous words.
+{% margin %}
+____
+Moreover, Satan entered into the heart of one of the governors of the east, and he was led astray by the wickedness thereof, even Caleb the Strong.
+
+The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#entering-hearts[3:17]
+____
+{% endmargin %}
+
+*Helaman 5:45* And behold, [highlight]#the Holy Spirit of God did come down from heaven and did enter into their hearts#. And they were filled as if with fire, and they could speak forth marvelous words.
 
 *Helaman 5:46* And it came to pass that there came a voice unto them, yea, a pleasant voice, as if it were a whisper, saying:
 

@@ -68,7 +68,15 @@
 
 *Mosiah 23:35* And Amulon and his brethren did join the Lamanites, and they were traveling in the wilderness in search of the land of Nephi when they discovered the land of Helam, which was possessed by Alma and his brethren.
 
-*Mosiah 23:36* And it came to pass that the Lamanites promised unto Alma and his brethren that if they would shew them the way which led to the land of Nephi that they would grant unto them their lives and their liberty.
+{% margin %}
+____
+And Jackson spake, and said unto his captains of fifties, and his captains of hundreds, Fear not; we defend our lives and our liberties, and in that thing the Lord will not forsake us.
+
+The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[54:13]
+____
+{% endmargin %}
+
+*Mosiah 23:36* And it came to pass that the Lamanites promised unto Alma and his brethren that if they would shew them the way which led to the land of Nephi that [highlight]#they would grant unto them their lives and their liberty#.
 
 *Mosiah 23:37* But it came to pass that after Alma had shewn them the way that led to the land of Nephi, the Lamanites would not keep their promise, but they set guards round about the land of Helam over Alma and his brethren.
 
