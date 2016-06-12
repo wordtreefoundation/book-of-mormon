@@ -38,7 +38,7 @@ KJV Bible, 1769, http://www.kingjamesbibleonline.org/Jeremiah-Chapter-13/[Isaiah
 ____
 {% endmargin %}
 
-*1 Nephi 1:13* And he read, saying: Woe woe unto Jerusalem, for I have seen thine abominations. Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
+*1 Nephi 1:13* And he read, saying: [highlight]#Woe woe unto Jerusalem, for I have seen thine abominations.# Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
 
 {% margin %}
 ____
