@@ -53,23 +53,42 @@ ____
 
 *1 Nephi 1:6* And it came to pass as he prayed unto the Lord, there came a [highlight]#pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did [highlight]#quake and tremble# exceedingly.
 
-*1 Nephi 1:7* And it came to pass that he returned to his own house at Jerusalem. And he cast himself upon his bed, being overcome with the Spirit and the things which he had seen.
+{% margin %}
+____
+
+And immediately I was in the spirit...
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-4/[Revelation 4:2]
+____
+{% endmargin %}
+
+*1 Nephi 1:7* And it came to pass that he returned to his own house at Jerusalem. And he cast himself upon his bed, [highlight]#being overcome with the Spirit# and the things which he had seen.
 
 {% margin %}
 ____
-But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-7/[Acts 7:55]
+behold, a throne was set in heaven, and one sat on the throne.
 
-And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 4:2]
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:11]
+And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-5/[Revelation 5:11]
 ____
 {% endmargin %}
 
 *1 Nephi 1:8* And being thus overcome with the Spirit, he was carried away in a vision, [highlight-orange]#even that he saw the heavens open and he thought he saw God sitting upon his throne, surrounded with numberless concourses of angels in the attitude of singing and praising their God.#
 
-*1 Nephi 1:9* And it came to pass that he saw one descending out of the midst of heaven, and he beheld that his luster was above that of the sun at noonday.
+{% margin %}
+____
+
+...and his countenance was as the sun shineth in his strength.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-1/[Revelation 1:16]
+____
+{% endmargin %}
+
+*1 Nephi 1:9* And it came to pass that he saw one descending out of the midst of heaven, and he beheld that his [highlight-orange]#luster was above that of the sun# at noonday.
 
 {% margin %}
 ____
@@ -83,9 +102,10 @@ ____
 
 {% margin %}
 ____
-8 And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
 
-9 And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
+8 ...Go and take the little book...
+
+9 ...Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter...
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-10/[Revelation 10:8-9]
 ____
