@@ -7,16 +7,35 @@ https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1
 ...many men call it Nephi.
 
 Credit: Chris Johnson - KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]
+
+"... those who have been highly favoured of the Lord, ..."
+
+Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine], 
+Chris Johnson
+"In the above Methodist context, being "highly favored of the Lord" seems to indicate that the person is the recipient of divine knowledge, revelations or visitations."
 ____
 {% endmargin %}
 
-*1 Nephi 1:1* [highlight]#I Nephi having been born of goodly parents,# therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having been highly favored of the Lord in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
+*1 Nephi 1:1* [highlight]#I Nephi having been born of goodly parents,# therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having [highlight]#been highly favored of the Lord# in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
 
 *1 Nephi 1:2* Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
 
 *1 Nephi 1:3* And I know that the record which I make to be true. And I make it with mine own hand, and I make it according to my knowledge.
 
-*1 Nephi 1:4* For it came to pass in the commencement of the first year of the reign of Zedekiah, king of Judah--my father Lehi having dwelt at Jerusalem in all his days--and in that same year there came many prophets prophesying unto the people that they must repent or the great city Jerusalem must be destroyed.
+{% margin %}
+____
+
+And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.
+
+KJV Bible, 1769,http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]
+
+...and spread themselves in Lehi.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]
+____
+{% endmargin %}
+
+*1 Nephi 1:4* For it came to pass in the commencement of the [highlight]#first year of the reign of Zedekiah#, king of Judah--my father [highlight]#Lehi# having dwelt at Jerusalem in all his days--and in that same year there came many prophets prophesying unto the people that they must repent or the great city Jerusalem must be destroyed.
 
 *1 Nephi 1:5* Wherefore it came to pass that my father Lehi, as he went forth, prayed unto the Lord, yea, even with all his heart, in behalf of his people.
 
