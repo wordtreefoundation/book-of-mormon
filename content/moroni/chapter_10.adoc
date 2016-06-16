@@ -12,13 +12,50 @@
 
 *Moroni 10:7* And ye may know that he is by the power of the Holy Ghost. Wherefore I would exhort you that ye deny not the power of God, for he worketh by power according to the faith of the children of men, the same today and tomorrow and forever.
 
-*Moroni 10:8* And again I exhort you, my brethren, that ye deny not the gifts of God, for they are many and they come from the same God. And there are different ways that these gifts are administered, but it is the same God which worketh all in all. And they are given by the manifestations of the Spirit of God unto men to profit them.
+{% margin %}
+____
 
-*Moroni 10:9* For behold, to one is given by the Spirit of God that he may teach the word of wisdom,
+5 And there are differences of administrations, but the same Lord.
 
-*Moroni 10:10* and to another that he may teach the word of knowledge by the same Spirit,
+6 And there are diversities of operations, but it is the same God which worketh all in all.
 
-*Moroni 10:11* and to another exceeding great faith, and to another the gifts of healing by the same Spirit,
+7 But the manifestation of the Spirit is given to every man to profit withal.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:5-7]#
+____
+{% endmargin %}
+
+*Moroni 10:8* And again I exhort you, my brethren, that ye deny not the gifts of God, for they are many and they come from the same God. [highlight-orange]#And there are different ways that these gifts are administered, but it is the same God which worketh all in all. And they are given by the manifestations of the Spirit of God unto men to profit them.#
+
+{% margin %}
+____
+For to one is given by the Spirit the word of wisdom...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:8]#
+____
+{% endmargin %}
+
+*Moroni 10:9* For behold, [highlight-orange]#to one is given by the Spirit of God that he may teach the word of wisdom,#
+
+{% margin %}
+____
+...to another the word of knowledge by the same Spirit;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:8]#
+____
+{% endmargin %}
+
+*Moroni 10:10* and [highlight-orange]#to another that he may teach the word of knowledge by the same Spirit,#
+
+{% margin %}
+____
+To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:9]#
+____
+{% endmargin %}
+
+*Moroni 10:11* and [highlight-orange]#to another exceeding great faith, and to another the gifts of healing by the same Spirit,#
 
 {% margin %}
 ____
