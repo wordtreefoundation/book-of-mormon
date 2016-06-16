@@ -54,7 +54,16 @@
 
 *Mormon 9:28* Be wise in the days of your probation. Strip yourselves of all uncleanness. Ask not that ye may consume it on your lusts, but ask with a firmness unshaken, that ye will yield to no temptation, but that ye will serve the true and living God.
 
-*Mormon 9:29* See that ye are not baptized unworthily. See that ye partake not of the sacrament of Christ unworthily. But see that ye do all things in worthiness and do it in the name of Jesus Christ, the Son of the living God. And if ye do this and endure to the end, ye will in no wise be cast out.
+{% margin %}
+____
+
+But he that shall endure unto the end, the same shall be saved.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+____
+{% endmargin %}
+
+*Mormon 9:29* See that ye are not baptized unworthily. See that ye partake not of the sacrament of Christ unworthily. But see that ye do all things in worthiness and do it in the name of Jesus Christ, the Son of the living God. [highlight-orange]#And if ye do this and endure to the end, ye will in no wise be cast out.#
 
 *Mormon 9:30* Behold, I speak unto you as though I spake from the dead, for I know that ye shall have my words.
 
