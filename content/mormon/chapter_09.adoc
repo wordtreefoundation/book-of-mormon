@@ -42,7 +42,16 @@
 
 *Mormon 9:22* For behold, thus saith Jesus Christ the Son of God unto his disciples which should tarry, yea, and also to all his disciples, in the hearing of the multitude: Go ye into all the world and preach the gospel to every creature.
 
-*Mormon 9:23* And he that believeth and is baptized shall be saved, but he that believeth not shall be damned.
+{% margin %}
+____
+
+He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:16]#
+____
+{% endmargin %}
+
+*Mormon 9:23* [highlight-orange]#And he that believeth and is baptized shall be saved, but he that believeth not shall be damned.#
 
 {% margin %}
 ____
