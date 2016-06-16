@@ -44,7 +44,18 @@
 
 *Mormon 9:23* And he that believeth and is baptized shall be saved, but he that believeth not shall be damned.
 
-*Mormon 9:24* And these signs shall follow them that believe: in my name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick and they shall recover.
+{% margin %}
+____
+
+17 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+
+18 They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:17-18]#
+____
+{% endmargin %}
+
+*Mormon 9:24* [highlight-orange]#And these signs shall follow them that believe: in my name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick and they shall recover.#
 
 *Mormon 9:25* And whosoever shall believe in my name, doubting nothing, unto him will I confirm all my words, even unto the ends of the earth.
 
