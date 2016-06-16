@@ -79,7 +79,16 @@ ____
 
 *Mormon 9:26* And now behold, who can stand against the works of the Lord? Who can deny his sayings? Who will rise up against the almighty power of the Lord? Who will despise the works of the Lord? Who will despise the children of Christ? Behold, all ye that are despisers of the works of the Lord--for ye shall wonder and perish.
 
-*Mormon 9:27* O then despise not and wonder not, but hearken unto the words of the Lord and ask the Father in the name of Jesus for what things soever ye shall stand in need. Doubt not, but be believing. And begin as in times of old and come unto the Lord with all your heart and work out your own salvation with fear and trembling before him.
+{% margin %}
+____
+
+...work out your own salvation with fear and trembling.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Philippians-Chapter-2/[Philippians 2:12]#
+____
+{% endmargin %}
+
+*Mormon 9:27* O then despise not and wonder not, but hearken unto the words of the Lord and ask the Father in the name of Jesus for what things soever ye shall stand in need. Doubt not, but be believing. And begin as in times of old and come unto the Lord with all your heart and [highlight-orange]#work out your own salvation with fear and trembling before him.#
 
 *Mormon 9:28* Be wise in the days of your probation. Strip yourselves of all uncleanness. Ask not that ye may consume it on your lusts, but ask with a firmness unshaken, that ye will yield to no temptation, but that ye will serve the true and living God.
 
