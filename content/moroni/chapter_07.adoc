@@ -86,9 +86,33 @@
 
 *Moroni 7:44* If so, his faith and hope is vain, for none is acceptable before God save the meek and lowly of heart. And if a man be meek and lowly in heart and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity. For if he have not charity, he is nothing; wherefore he must needs have charity.
 
-*Moroni 7:45* And charity suffereth long and is kind and envieth not and is not puffed up, seeketh not her own, is not easily provoked, thinketh no evil, and rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things.
+{% margin %}
+____
 
-*Moroni 7:46* Wherefore, my beloved brethren, if ye have not charity, ye are nothing; for charity never faileth. Wherefore cleave unto charity, which is the greatest of all. For all things must fail;
+4 Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
+
+5 Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+
+6 Rejoiceth not in iniquity, but rejoiceth in the truth;
+
+7 Beareth all things, believeth all things, hopeth all things, endureth all things.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:4-7]#
+____
+{% endmargin %}
+
+*Moroni 7:45* [highlight-orange]#And charity suffereth long and is kind and envieth not and is not puffed up, seeketh not her own, is not easily provoked, thinketh no evil, and rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things.#
+
+{% margin %}
+____
+
+8 Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:8]#
+____
+{% endmargin %}
+
+*Moroni 7:46* Wherefore, my beloved brethren, if ye have not charity, ye are nothing; [highlight-orange]#for charity never faileth. Wherefore cleave unto charity, which is the greatest of all. For all things must fail;#
 
 *Moroni 7:47* but charity is the pure love of Christ, and it endureth forever. And whoso is found possessed of it at the last day, it shall be well with them.
 
