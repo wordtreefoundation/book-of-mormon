@@ -26,3 +26,7 @@
 	margin-right: 5px;
     margin-top: -4px;
 }
+
+.small {
+    font-size: 75%;
+}
