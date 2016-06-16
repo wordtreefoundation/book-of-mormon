@@ -1,14 +1,14 @@
 {% margin %}
 ____
-"[highlight]#I, the writer, was born of Presbyterian parents# ..."
+[highlight]#I, the writer, was born of Presbyterian parents# ...
 
 [small]#https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1#
 
-"... many men call it [highlight]#Nephi#."
+... many men call it [highlight]#Nephi#.
 
 [small]#KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]#
 
-"... those who have [highlight]#been highly favoured of the Lord#, ..."
+... those who have [highlight]#been highly favoured of the Lord#, ...
 
 [small]#Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine]#
 
@@ -29,7 +29,7 @@ And the king of Babylon made Mattaniah his father's brother king in his stead, a
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]#
 
-...and spread themselves in Lehi.
+... and spread themselves in [highlight]#Lehi#.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]#
 ____
@@ -41,11 +41,11 @@ ____
 
 {% margin %}
 ____
-He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
+... the [highlight]#pillar of fire# by night, ...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]#
 
-Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;
+... with [highlight]#quaking#, and drink thy water with [highlight]#trembling# ...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]#
 ____
