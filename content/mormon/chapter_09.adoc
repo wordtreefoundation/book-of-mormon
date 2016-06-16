@@ -49,7 +49,16 @@ ____
 
 *Mormon 9:21* Behold, I say unto you that whoso believeth in Christ, doubting nothing, whatsoever he shall ask the Father in the name of Christ, it shall be granted them. And this promise is unto all, even unto the ends of the earth.
 
-*Mormon 9:22* For behold, thus saith Jesus Christ the Son of God unto his disciples which should tarry, yea, and also to all his disciples, in the hearing of the multitude: Go ye into all the world and preach the gospel to every creature.
+{% margin %}
+____
+
+And he said unto them, Go ye into all the world, and preach the gospel to every creature.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:15]#
+____
+{% endmargin %}
+
+*Mormon 9:22* For behold, thus saith Jesus Christ the Son of God unto his disciples which should tarry, yea, and also to all his disciples, in the hearing of the multitude: [highlight-orange]#Go ye into all the world and preach the gospel to every creature.#
 
 {% margin %}
 ____
