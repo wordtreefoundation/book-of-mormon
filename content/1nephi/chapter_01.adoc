@@ -1,14 +1,19 @@
 {% margin %}
 ____
 [highlight]#I, the writer, was born of Presbyterian parents# ...
+___
 
 [small]#https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1#
 
+___
 ... many men call it [highlight]#Nephi#.
+___
 
 [small]#KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]#
 
+___
 ... those who have [highlight]#been highly favoured of the Lord#, ...
+___
 
 [small]#Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine]#
 
