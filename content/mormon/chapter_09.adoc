@@ -14,7 +14,20 @@
 
 *Mormon 9:8* behold, I say unto you: He that denieth these things knoweth not the gospel of Christ. Yea, they have not read the scriptures; if so, they do not understand them.
 
-*Mormon 9:9* For do we not read that God is the same yesterday, today, and forever, and in him there is no variableness, neither shadow of changing?
+{% margin %}
+____
+
+Jesus Christ the same yesterday, and to day, and for ever.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-13/[Hebrews 13:8]#
+
+...with whom is no variableness, neither shadow of turning.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/James-Chapter-1/[James 1:17]#
+____
+{% endmargin %}
+
+*Mormon 9:9* For do we not read that [highlight-orange]#God is the same yesterday, today, and forever#, and in [highlight-orange]#him there is no variableness, neither shadow of changing?#
 
 *Mormon 9:10* And now if ye have imagined up unto yourselves a god which doth vary and in him there is shadow of changing, then have ye imagined up unto yourselves a god which is not a God of miracles.
 
