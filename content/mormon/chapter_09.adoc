@@ -24,7 +24,16 @@
 
 *Mormon 9:13* and because of the redemption of man which came by Jesus Christ they are brought back into the presence of the Lord. Yea, this is wherein all men are redeemed, because the death of Christ bringeth to pass the resurrection, which bringeth to pass a redemption from an endless sleep, from which sleep all men shall be awoke by the power of God when the trump shall sound. And they shall come forth, both small and great, and all shall stand before his bar, being redeemed and loosed from this eternal band of death, which death is a temporal death.
 
-*Mormon 9:14* And then cometh the judgment of the Holy One upon them. And then cometh the time that he that is filthy shall be filthy still, and he that is righteous shall be righteous still; he that is happy shall be happy still, and he that is unhappy shall be unhappy still.
+{% margin %}
+____
+
+He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:11]#
+____
+{% endmargin %}
+
+*Mormon 9:14* And then cometh the judgment of the Holy One upon them. [highlight-orange]#And then cometh the time that he that is filthy shall be filthy still, and he that is righteous shall be righteous still; he that is happy shall be happy still, and he that is unhappy shall be unhappy still.#
 
 *Mormon 9:15* And now, O all ye that have imagined up unto yourselves a god which can do no miracles, I would ask of you: Have all these things passed of which I have spoken? Has the end come yet? Behold, I say unto you: Nay. And God has not ceased to be a God of miracles.
 
