@@ -20,15 +20,54 @@
 
 *Moroni 10:11* and to another exceeding great faith, and to another the gifts of healing by the same Spirit,
 
-*Moroni 10:12* and again, to another that he may work mighty miracles,
+{% margin %}
+____
+To another the working of miracles...
 
-*Moroni 10:13* and again, to another that he may prophesy concerning all things,
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:10]#
+____
+{% endmargin %}
 
-*Moroni 10:14* and again, to another the beholding of angels and ministering spirits,
+*Moroni 10:12* and again, to another that he may [highlight-orange]#work mighty miracles#,
 
-*Moroni 10:15* and again, to another all kinds of tongues,
+{% margin %}
+____
+...to another prophecy;...
 
-*Moroni 10:16* and again, to another the interpretation of languages and of divers kinds of tongues.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:10]#
+____
+{% endmargin %}
+
+*Moroni 10:13* and again, [highlight-orange]#to another that he may prophesy# concerning all things,
+
+{% margin %}
+____
+...to another discerning of spirits;...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:10]#
+____
+{% endmargin %}
+
+*Moroni 10:14* and again, to another the [highlight-orange]#beholding of angels and ministering spirits,#
+
+{% margin %}
+____
+...to another divers kinds of tongues...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:10]#
+____
+{% endmargin %}
+*Moroni 10:15* and again, to [highlight-orange]#another all kinds of tongues#,
+
+{% margin %}
+____
+...to another the interpretation of tongues:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:10]#
+____
+{% endmargin %}
+
+*Moroni 10:16* and again, to another the [highlight-orange]#interpretation of languages and of divers kinds of tongues.#
 
 *Moroni 10:17* And all these gifts comes by the Spirit of Christ, and they come unto every man severally according as he will.
 
