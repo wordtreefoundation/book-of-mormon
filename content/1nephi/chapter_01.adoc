@@ -23,6 +23,10 @@ ____
 
 *1 Nephi 1:1* [highlight]#I Nephi having been born of goodly parents,# therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having [highlight]#been highly favored of the Lord# in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
 
+{% margin %}
+Joseph Smith had a Talisman of Jupiter on him when he died, given to him as a child, that had both Egyptian and Hebrew on it (see http://www.webcitation.org/6AyeWVg7V[Sandra Tanner, _Joseph Smith--The Early Years_, The Smith Family and Magic])
+{% endmargin %}
+
 *1 Nephi 1:2* Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
 
 *1 Nephi 1:3* And I know that the record which I make to be true. And I make it with mine own hand, and I make it according to my knowledge.
