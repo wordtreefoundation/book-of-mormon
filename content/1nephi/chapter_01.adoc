@@ -2,17 +2,17 @@
 ____
 "[highlight]#I, the writer, was born of Presbyterian parents# ..."
 
-https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1
+[small]#https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1#
 
 "... many men call it [highlight]#Nephi#."
 
-KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]
+[small]#KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]#
 
 "... those who have [highlight]#been highly favoured of the Lord#, ..."
 
-Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine]
+[small]#Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine]#
 
-"In the above Methodist context, being "highly favored of the Lord" seems to indicate that the person is a special recipient of divine revelation." (Comment: Chris Johnson)
+[small]#"In the above Methodist context, being "highly favored of the Lord" seems to indicate that the person is a special recipient of divine revelation." (Comment: Chris Johnson)#
 ____
 {% endmargin %}
 
@@ -27,11 +27,11 @@ ____
 
 And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]#
 
 ...and spread themselves in Lehi.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]#
 ____
 {% endmargin %}
 
@@ -43,11 +43,11 @@ ____
 ____
 He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]#
 
 Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]#
 ____
 {% endmargin %}
 
@@ -58,7 +58,7 @@ ____
 
 And immediately I was in the spirit...
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-4/[Revelation 4:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-4/[Revelation 4:2]#
 ____
 {% endmargin %}
 
@@ -69,11 +69,11 @@ ____
 
 ...behold, a throne was set in heaven, and one sat on the throne...
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 4:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 4:2]#
 
 And I beheld, and I heard the voice of many angels round about the throne...
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-5/[Revelation 5:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-5/[Revelation 5:11]#
 ____
 {% endmargin %}
 
@@ -84,7 +84,7 @@ ____
 
 ...and his countenance was as the sun shineth in his strength.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-1/[Revelation 1:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-1/[Revelation 1:16]#
 ____
 {% endmargin %}
 
@@ -94,7 +94,7 @@ ____
 ____
 And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Daniel-Chapter-12/[Daniel 12:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Daniel-Chapter-12/[Daniel 12:3]#
 ____
 {% endmargin %}
 
@@ -107,7 +107,7 @@ ____
 
 9 ...Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter...
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-10/[Revelation 10:8-9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-10/[Revelation 10:8-9]#
 ____
 {% endmargin %}
 
@@ -119,7 +119,7 @@ ____
 ____
 I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, and thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when shall it once be?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Jeremiah-Chapter-13/[Jeremiah 13:27]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Jeremiah-Chapter-13/[Jeremiah 13:27]#
 ____
 {% endmargin %}
 
@@ -130,7 +130,7 @@ ____
 
 And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-15/[Revelation 15:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-15/[Revelation 15:3]#
 ____
 {% endmargin %}
 
