@@ -4,7 +4,16 @@
 
 *Ether 12:3* For he did cry from the morning even until the going down of the sun, exhorting the people to believe in God unto repentance lest they should be destroyed, saying unto them that by faith all things are fulfilled.
 
-*Ether 12:4* Wherefore whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith and maketh an anchor to the souls of men, which would make them sure and steadfast, always abounding in good works, being led to glorify God.
+{% margin %}
+____
+
+Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:19]#
+____
+{% endmargin %}
+
+*Ether 12:4* Wherefore whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith and [highlight-orange]#maketh an anchor to the souls of men, which would make them sure and steadfast,# always abounding in good works, being led to glorify God.
 
 *Ether 12:5* And it came to pass that Ether did prophesy great and marvelous things unto the people, which they did not believe because they saw them not.
 
@@ -62,11 +71,31 @@
 
 *Ether 12:32* And I also remember that thou hast said that thou hast prepared a house for man, yea, even among the mansions of thy Father, in the which man might have a more excellent hope. Wherefore man must hope or he cannot receive an inheritance in the place which thou hast prepared.
 
-*Ether 12:33* And again I remember that thou hast said that thou hast loved the world, even unto the laying down of thy life for the world, that thou mightest take it again, to prepare a place for the children of men.
+{% margin %}
+____
+
+For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-3/[John 3:16]#
+____
+{% endmargin %}
+
+*Ether 12:33* And again I remember that thou hast said that [highlight-orange]#thou hast loved the world, even unto the laying down of thy life for the world,# that thou mightest take it again, to prepare a place for the children of men.
 
 *Ether 12:34* And now I know that this love which thou hast had for the children of men is charity. Wherefore except men shall have charity, they cannot inherit that place which thou hast prepared in the mansions of thy Father.
 
-*Ether 12:35* Wherefore I know by this thing which thou hast said that if the Gentiles have not charity because of our weakness that thou wilt prove them and take away their talent, yea, even that which they have received, and give unto them which shall have more abundantly.
+{% margin %}
+____
+
+28 Take therefore the talent from him, and give it unto him which hath ten talents.
+
+29 For unto every one that hath shall be given, and he shall have abundance:...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:28-29]#
+____
+{% endmargin %}
+
+*Ether 12:35* Wherefore I know by this thing which thou hast said that if the Gentiles have not charity because of our weakness that thou wilt prove them and [highlight-orange]#take away their talent, yea, even that which they have received, and give unto them which shall have more abundantly.#
 
 *Ether 12:36* And it came to pass that I prayed unto the Lord that he would give unto the Gentiles grace, that they might have charity.
 
