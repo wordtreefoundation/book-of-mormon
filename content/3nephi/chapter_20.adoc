@@ -99,7 +99,16 @@ ____
 
 *3 Nephi 20:24* Verily I say unto you: Yea, [highlight-orange]#and all the prophets from Samuel and those that follow after, as many as have spoken, have testified of me.#
 
-*3 Nephi 20:25* And behold, ye are the children of the prophets, and ye are of the house of Israel, and ye are of the covenant which the Father made with your fathers, saying unto Abraham: And in thy seed shall all the kindreds of the earth be blessed.
+{% margin %}
+____
+
+Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:25]
+____
+{% endmargin %}
+
+*3 Nephi 20:25* And behold, [highlight-orange]#ye are the children of the prophets, and ye are of the house of Israel, and ye are of the covenant which the Father made with your fathers, saying unto Abraham: And in thy seed shall all the kindreds of the earth be blessed.#
 
 *3 Nephi 20:26* The Father having raised me up unto you first and sent me to bless you in turning away every one of you from his iniquities--and this because ye are the children of the covenant.
 
