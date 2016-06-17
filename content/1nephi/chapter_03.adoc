@@ -36,7 +36,16 @@
 
 *1 Nephi 3:19* And behold, it is wisdom in God that we should obtain these records that we might preserve unto our children the language of our fathers,
 
-*1 Nephi 3:20* and also that we may preserve unto them the words which have been spoken by the mouth of all the holy prophets, which have been delivered unto them by the Spirit and power of God since the world began, even down unto this present time.
+{% margin %}
+____
+
+...which God hath spoken by the mouth of all his holy prophets since the world began.
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[3:21]#
+____
+{% endmargin %}
+
+*1 Nephi 3:20* and also that we may preserve unto them [highlight-orange]#the words which have been spoken by the mouth of all the holy prophets, which have been delivered unto them by the Spirit and power of God since the world began#, even down unto this present time.
 
 *1 Nephi 3:21* And it came to pass that after this manner of language did I persuade my brethren that they might be faithful in keeping the commandments of God.
 
