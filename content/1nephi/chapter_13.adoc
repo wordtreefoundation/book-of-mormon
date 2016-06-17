@@ -60,7 +60,17 @@ ____
 
 *1 Nephi 13:26* And after that they go forth by the hand of the twelve apostles of the Lamb from the Jews unto the Gentiles, behold, after this thou seest the formation of that great and abominable church, which is the most abominable of all other churches. For behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away.
 
-*1 Nephi 13:27* And all this have they done that they might pervert the right ways of the Lord, that they might blind the eyes and harden the hearts of the children of men.
+{% margin %}
+____
+
+...pervert the right ways of the Lord?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-13/[Acts 13:10]#
+
+____
+{% endmargin %}
+
+*1 Nephi 13:27* And all this have they done that they might [highlight-orange]#pervert the right ways of the Lord#, that they might blind the eyes and harden the hearts of the children of men.
 
 *1 Nephi 13:28* Wherefore thou seest that after the book hath gone forth through the hands of the great and abominable church that there are many plain and most precious things taken away from the book, which is the book of the Lamb of God.
 
@@ -118,5 +128,6 @@ ____
 
 ____
 {% endmargin %}
+
 *1 Nephi 13:42* And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles. And after that he hath manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews. [highlight-orange]#And the last shall be first and the first shall be last.#
 
