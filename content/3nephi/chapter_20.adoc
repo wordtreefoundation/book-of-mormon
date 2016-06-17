@@ -86,7 +86,7 @@ KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:22-2
 ____
 {% endmargin %}
 
-*3 Nephi 20:23* Behold, I am he of whom Moses spake, saying: A prophet shall the Lord your God raise up unto you, of your brethren, like unto me. Him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that every soul which will not hear that prophet shall be cut off from among the people.
+*3 Nephi 20:23* Behold, I am he of whom Moses spake, saying: [highlight-orange]#A prophet shall the Lord your God raise up unto you, of your brethren, like unto me. Him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that every soul which will not hear that prophet shall be cut off from among the people.#
 
 *3 Nephi 20:24* Verily I say unto you: Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have testified of me.
 
