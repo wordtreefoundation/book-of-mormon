@@ -4,7 +4,16 @@
 
 *2 Nephi 26:3* And after that the Messiah shall come, there shall be signs given unto my people of his birth and also of his death and resurrection. And great and terrible shall that day be unto the wicked, for they shall perish; and they perish because they cast out the prophets and the saints and stone them and slay them. Wherefore the cry of the blood of the saints shall ascend up to God from the ground against them.
 
-*2 Nephi 26:4* Wherefore all they that are proud and that do wickedly, the day that cometh shall burn them up, saith the Lord of Hosts, for they shall be as stubble.
+{% margin %}
+____
+
+...yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts...
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:1]#
+____
+{% endmargin %}
+
+*2 Nephi 26:4* Wherefore [highlight-orange]#all they that are proud and that do wickedly, the day that cometh shall burn them up, saith the Lord of Hosts, for they shall be as stubble.#
 
 *2 Nephi 26:5* And they that kill the prophets and the saints, the depths of the earth shall swallow them up, saith the Lord of Hosts, and mountains shall cover them, and whirlwinds shall carry them away, and buildings shall fall upon them and crush them to pieces and grind them to powder.
 
