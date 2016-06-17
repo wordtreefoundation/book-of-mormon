@@ -41,7 +41,7 @@ ____
 
 ...which God hath spoken by the mouth of all his holy prophets since the world began.
 
-[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[3:21]#
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:21]#
 ____
 {% endmargin %}
 
