@@ -54,7 +54,16 @@ ____
 
 *2 Nephi 25:19* For according to the words of the prophets, the Messiah cometh in six hundred years from the time that my father left Jerusalem. And according to the words of the prophets and also the word of the angel of God, his name should be Jesus Christ the Son of God.
 
-*2 Nephi 25:20* And now my brethren, I have spoken plain that ye cannot err. And as the Lord God liveth that brought Israel up out of the land of Egypt and gave unto Moses power that he should heal the nations after that they had been bitten by the poisonous serpents, if they would cast their eyes unto the serpent which he did raise up before them, and also gave him power that he should smite the rock and the water should come forth, yea, behold I say unto you that as these things are true and as the Lord God liveth, there is none other name given under heaven save it be this Jesus Christ of which I have spoken whereby man can be saved.
+{% margin %}
+____
+
+...for there is none other name under heaven given among men, whereby we must be saved.
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-4/[Acts 4:12]#
+____
+{% endmargin %}
+
+*2 Nephi 25:20* And now my brethren, I have spoken plain that ye cannot err. And as the Lord God liveth that brought Israel up out of the land of Egypt and gave unto Moses power that he should heal the nations after that they had been bitten by the poisonous serpents, if they would cast their eyes unto the serpent which he did raise up before them, and also gave him power that he should smite the rock and the water should come forth, yea, behold I say unto you that as these things are true and as the Lord God liveth, [highlight-orange]#there is none other name given under heaven save it be this Jesus Christ of which I have spoken whereby man can be saved.#
 
 *2 Nephi 25:21* Wherefore for this cause hath the Lord God promised unto me that these things which I write shall be kept and preserved and handed down unto my seed from generation to generation, that the promise may be fulfilled unto Joseph that his seed should never perish as long as the earth should stand.
 
