@@ -1,4 +1,13 @@
-*1 Nephi 2:1* For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and saith unto him: Blessed art thou Lehi because of the things which thou hast done. And because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.
+{% margin %}
+____
+Blessed art thou, Simon Barjona...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-16/[Matthew 16:17]#
+
+____
+{% endmargin %}
+
+*1 Nephi 2:1* For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and saith unto him: [highlight-orange]#Blessed art thou Lehi# because of the things which thou hast done. And because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.
 
 *1 Nephi 2:2* And it came to pass that the Lord commanded my father, even in a dream, that he should take his family and depart into the wilderness.
 
