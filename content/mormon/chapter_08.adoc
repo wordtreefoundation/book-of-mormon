@@ -56,7 +56,17 @@
 
 *Mormon 8:29* Yea, it shall come in a day when there shall be heard of fires and tempests and vapors of smoke in foreign lands.
 
-*Mormon 8:30* And there shall also be heard of wars and rumors of wars and earthquakes in divers places.
+{% margin %}
+____
+6 And ye shall hear of wars and rumours of wars...
+
+7 ...and earthquakes, in divers places.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:6-7]#
+____
+{% endmargin %}
+
+*Mormon 8:30* [highlight-orange]#And there shall also be heard of wars and rumors of wars and earthquakes in divers places.#
 
 {% margin %}
 ____
