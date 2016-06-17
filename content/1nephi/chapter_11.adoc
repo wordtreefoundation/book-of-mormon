@@ -40,7 +40,15 @@
 
 *1 Nephi 11:21* And the angel said unto me: Behold the Lamb of God, yea, even the Eternal Father. Knowest thou the meaning of the tree which thy father saw?
 
-*1 Nephi 11:22* And I answered him, saying: Yea, it is the love of God, which sheddeth itself abroad in the hearts of the children of men; wherefore it is the most desirable above all things.
+{% margin %}
+____
+...because the love of God is shed abroad in our hearts...
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-5/[Romans 5:5]#
+____
+{% endmargin %}
+
+*1 Nephi 11:22* And I answered him, saying: Yea, it [highlight-orange]#is the love of God, which sheddeth itself abroad in the hearts of the children of men;# wherefore it is the most desirable above all things.
 
 *1 Nephi 11:23* And he spake unto me, saying: Yea, and the most joyous to the soul.
 
