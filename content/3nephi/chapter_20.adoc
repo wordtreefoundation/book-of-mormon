@@ -110,7 +110,16 @@ ____
 
 *3 Nephi 20:25* And behold, [highlight-orange]#ye are the children of the prophets, and ye are of the house of Israel, and ye are of the covenant which the Father made with your fathers, saying unto Abraham: And in thy seed shall all the kindreds of the earth be blessed.#
 
-*3 Nephi 20:26* The Father having raised me up unto you first and sent me to bless you in turning away every one of you from his iniquities--and this because ye are the children of the covenant.
+{% margin %}
+____
+
+Unto you first God, [highlight]#having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.#
+
+KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:26]
+____
+{% endmargin %}
+
+*3 Nephi 20:26* The Father [highlight-orange]#having raised me up unto you first and sent me to bless you in turning away every one of you from his iniquities#--and this because ye are the children of the covenant.
 
 *3 Nephi 20:27* And after that ye were blessed, then fulfilleth the Father the covenant which he made with Abraham, saying: In thy seed shall all the kindreds of the earth be blessed--unto the pouring out of the Holy Ghost through me upon the Gentiles, which blessing upon the Gentiles shall make them mighty above all, unto the scattering of my people, O house of Israel.
 
