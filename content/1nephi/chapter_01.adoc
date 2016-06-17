@@ -1,30 +1,27 @@
 {% margin %}
 ____
-[highlight]#I, the writer, was born of Presbyterian parents# ...
-___
+[highlight]#I, the writer, was born of Presbyterian parents#...
+____
 
 [small]#https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1#
 
-___
-... many men call it [highlight]#Nephi#.
-___
+____
+...many men call it [highlight]#Nephi#.
+____
 
 [small]#KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]#
 
-___
-... those who have [highlight]#been highly favoured of the Lord#, ...
-___
-
-[small]#Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine]#
-
-[small]#"In the above Methodist context, being "highly favored of the Lord" seems to indicate that the person is a special recipient of divine revelation." (Comment: Chris Johnson)#
 ____
+...those who have [highlight]#been highly favoured of the Lord#...
+____
+
+[small]#Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine] *Note:* In the above Methodist context, being "highly favored of the Lord" seems to indicate that the person is a special recipient of divine revelation.#
 {% endmargin %}
 
 *1 Nephi 1:1* [highlight]#I Nephi having been born of goodly parents,# therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having [highlight]#been highly favored of the Lord# in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
 
 {% margin %}
-Joseph Smith had a Talisman of Jupiter on him when he died, given to him as a child, that had both Egyptian and Hebrew on it (see http://www.webcitation.org/6AyeWVg7V[Sandra Tanner, _Joseph Smith--The Early Years_, The Smith Family and Magic])
+Joseph Smith had a Talisman of Jupiter on him when he died, given to him as a child, that had both Egyptian and Hebrew on it. [small]#http://www.webcitation.org/6AyeWVg7V[Sandra Tanner, _Joseph Smith--The Early Years_, The Smith Family and Magic]#
 {% endmargin %}
 
 *1 Nephi 1:2* Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
@@ -33,15 +30,15 @@ Joseph Smith had a Talisman of Jupiter on him when he died, given to him as a ch
 
 {% margin %}
 ____
-
 And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.
+____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]#
 
-... and spread themselves in [highlight]#Lehi#.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]#
 ____
+...and spread themselves in [highlight]#Lehi#.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]#
 {% endmargin %}
 
 *1 Nephi 1:4* For it came to pass in the commencement of the [highlight]#first year of the reign of Zedekiah#, king of Judah--my father [highlight]#Lehi# having dwelt at Jerusalem in all his days--and in that same year there came many prophets prophesying unto the people that they must repent or the great city Jerusalem must be destroyed.
@@ -50,11 +47,11 @@ ____
 
 {% margin %}
 ____
-... the [highlight]#pillar of fire# by night, ...
+...the [highlight]#pillar of fire# by night...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]#
 
-... with [highlight]#quaking#, and drink thy water with [highlight]#trembling# ...
+...with [highlight]#quaking#, and drink thy water with [highlight]#trembling#...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]#
 ____
