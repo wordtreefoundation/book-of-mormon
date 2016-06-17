@@ -22,7 +22,16 @@
 
 *1 Nephi 4:12* And it came to pass that the Spirit said unto me again: Slay him, for the Lord hath delivered him into thy hands.
 
-*1 Nephi 4:13* Behold, the Lord slayeth the wicked to bring forth his righteous purposes. It is better that one man should perish than that a nation should dwindle and perish in unbelief.
+{% margin %}
+____
+
+...that one man should die for the people, and that the whole nation perish not.
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Jonh-Chapter-11/[John 11:50]#
+____
+{% endmargin %}
+
+*1 Nephi 4:13* Behold, the Lord slayeth the wicked to bring forth his righteous purposes. It is better [highlight-orange]#that one man should perish than that a nation should dwindle and perish in unbelief.#
 
 *1 Nephi 4:14* And now when I Nephi had heard these words, I remembered the words of the Lord which he spake unto me in the wilderness, saying that inasmuch as thy seed shall keep my commandments, they shall prosper in the land of promise.
 
