@@ -97,7 +97,17 @@ ____
 
 *1 Nephi 13:40* And the angel spake unto me, saying: These last records which thou hast seen among the Gentiles shall establish the truth of the first, which is of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them and shall make known to all kindreds, tongues, and people that the Lamb of God is the Eternal Father and the Savior of the world and that all men must come unto him or they cannot be saved.
 
-*1 Nephi 13:41* And they must come according to the words which shall be established by the mouth of the Lamb. And the words of the Lamb shall be made known in the records of thy seed as well as in the records of the twelve apostles of the Lamb. Wherefore they both shall be established in one, for there is one God and one Shepherd over all the earth.
+{% margin %}
+____
+
+...and in them the names of the twelve apostles of the Lamb.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+
+____
+{% endmargin %}
+
+*1 Nephi 13:41* And they must come according to the words which shall be established by the mouth of the Lamb. And the words of the Lamb shall be made known in the records of thy seed as well as in the records of the [highlight-orange]#twelve apostles of the Lamb#. Wherefore they both shall be established in one, for there is one God and one Shepherd over all the earth.
 
 *1 Nephi 13:42* And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles. And after that he hath manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews. And the last shall be first and the first shall be last.
 
