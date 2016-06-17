@@ -38,9 +38,9 @@ The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#fulton[50:5
 ____
 {% endmargin %}
 
-*1 Nephi 17:17* And when my brethren saw that I was about to build a ship, they began to murmur against me, saying: Our brother is a fool, for he thinketh that he can build a ship. Yea, and he also thinketh that he can cross these great waters.
+*1 Nephi 17:17* And when my brethren saw that I was about to build a ship, they began to murmur against me, saying: [highlight]#Our brother is a fool, for he thinketh that he can build a ship.# Yea, and he also thinketh that he can cross these great waters.
 
-*1 Nephi 17:18* And thus my brethren did complain against me and were desirous that they might not labor, for they did not believe that I could build a ship, neither would they believe that I were instructed of the Lord.
+*1 Nephi 17:18* And thus my brethren did complain against me and were desirous that they might not labor, [highlight]#for they did not believe that I could build a ship#, neither would they believe that I were instructed of the Lord.
 
 *1 Nephi 17:19* And now it came to pass that I Nephi was exceeding sorrowful because of the hardness of their hearts. And now when they saw that I began to be sorrowful, they were glad in their hearts, insomuch that they did rejoice over me, saying: We knew that ye could not construct a ship, for we knew that ye were lacking in judgment; wherefore thou canst not accomplish so great a work.
 
