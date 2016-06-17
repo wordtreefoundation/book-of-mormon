@@ -54,7 +54,16 @@ ____
 
 *1 Nephi 2:17* And I spake unto Sam, making known unto him the things which the Lord had manifested unto me by his Holy Spirit. And it came to pass that he believed in my words.
 
-*1 Nephi 2:18* But behold, Laman and Lemuel would not hearken unto my words. And being grieved because of the hardness of their hearts, I cried unto the Lord for them.
+{% margin %}
+____
+
+...being grieved for the hardness of their hearts...
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-3/[Mark 3:5]#
+____
+{% endmargin %}
+
+*1 Nephi 2:18* But behold, Laman and Lemuel would not hearken unto my words. [highlight-orange]#And being grieved because of the hardness of their hearts,# I cried unto the Lord for them.
 
 *1 Nephi 2:19* And it came to pass that the Lord spake unto me, saying: Blessed art thou Nephi because of thy faith, for thou hast sought me diligently with lowliness of heart.
 
