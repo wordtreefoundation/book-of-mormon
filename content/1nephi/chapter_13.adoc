@@ -109,5 +109,14 @@ ____
 
 *1 Nephi 13:41* And they must come according to the words which shall be established by the mouth of the Lamb. And the words of the Lamb shall be made known in the records of thy seed as well as in the records of the [highlight-orange]#twelve apostles of the Lamb#. Wherefore they both shall be established in one, for there is one God and one Shepherd over all the earth.
 
-*1 Nephi 13:42* And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles. And after that he hath manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews. And the last shall be first and the first shall be last.
+{% margin %}
+____
+
+...that are first shall be last; and the last shall be first.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-19/[Matthew 19:30]#
+
+____
+{% endmargin %}
+*1 Nephi 13:42* And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles. And after that he hath manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews. [highlight-orange]#And the last shall be first and the first shall be last.#
 
