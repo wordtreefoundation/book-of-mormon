@@ -54,7 +54,16 @@
 
 *Mormon 8:28* Yea, it shall come in a day when the power of God shall be denied and churches become defiled and shall be lifted up in the pride of their hearts, yea, even in a day when leaders of churches and teachers shall be lifted up in the pride of their hearts, even to the envying of them who belong to their churches.
 
-*Mormon 8:29* Yea, it shall come in a day when there shall be heard of fires and tempests and vapors of smoke in foreign lands.
+{% margin %}
+____
+
+And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:19]#
+____
+{% endmargin %}
+
+*Mormon 8:29* Yea, it shall come in a day when there [highlight-orange]#shall be heard of fires and tempests and vapors of smoke in foreign lands.#
 
 {% margin %}
 ____
