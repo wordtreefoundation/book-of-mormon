@@ -26,7 +26,17 @@
 
 *Mormon 3:14* And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ that they would go up unto their enemies to battle and avenge themselves of the blood of their brethren, behold, the voice of the Lord came unto me, saying:
 
-*Mormon 3:15* Vengeance is mine, and I will repay. And because this people repented not after that I had delivered them, behold, they shall be cut off from the face of the earth.
+{% margin %}
+____
+
+...Vengeance is mine; I will repay, saith the Lord.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-12/[Romans 12:19]#
+
+____
+{% endmargin %}
+
+*Mormon 3:15* [highlight-orange]Vengeance is mine, and I will repay#. And because this people repented not after that I had delivered them, behold, they shall be cut off from the face of the earth.
 
 *Mormon 3:16* And it came to pass that I utterly refused to go up against mine enemies. And I did even as the Lord had commanded me, and I did stand as an idle witness to manifest unto the world the things which I saw and heard, according to the manifestations of the Spirit, which had testified of things to come.
 
