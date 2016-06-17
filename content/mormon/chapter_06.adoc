@@ -46,7 +46,20 @@ ____
 
 *Mormon 6:20* But behold, ye are gone, and [highlight]#my sorrows cannot bring your return#.
 
-*Mormon 6:21* And the day soon cometh that your mortal must put on immortality. And these bodies which are now moldering in corruption must soon become incorruptible bodies. And then ye must stand before the judgment seat of Christ to be judged according to your works. And if it so be that ye are righteous, then are ye blessed with your fathers which have gone before you.
+{% margin %}
+____
+
+For this corruptible must put on incorruption, and this mortal must put on immortality.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:53]#
+
+For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:10]#
+____
+{% endmargin %}
+
+*Mormon 6:21* And the day soon cometh that your mortal must put on immortality. And these bodies which are now moldering in [highlight-orange]#corruption must soon become incorruptible# bodies. And then ye [highlight-orange]#must stand before the judgment seat of Christ to be judged according to your works.# And if it so be that ye are righteous, then are ye blessed with your fathers which have gone before you.
 
 *Mormon 6:22* O that ye had repented before that this great destruction had come upon you! But behold, ye are gone. And the Father--yea, the Eternal Father of heaven--knoweth your state, and he doeth with you according to his justice and mercy.
 
