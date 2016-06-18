@@ -22,7 +22,7 @@ ____
 {% endmargin %}
 
 
-*2 Nephi 27:2* [highlight]#[highlight]#And when that day shall come, they shall be visited of the Lord of Hosts with thunder and with earthquake and with a great noise and with storm and tempest and with the flame of devouring fire.##
+*2 Nephi 27:2* [highlight]#And when that day shall come, they shall be visited of the Lord of Hosts with thunder and with earthquake and with a great noise and with storm and tempest and with the flame of devouring fire.#
 
 {% margin %}
 ____
@@ -42,7 +42,7 @@ ____
 {% endmargin %}
 
 
-*2 Nephi 27:3* [highlight]#[highlight]#[highlight]#And all the nations that fight against Zion and that distress her shall be as a dream of a night vision. Yea, it shall be unto them even as unto a hungry man which dreameth: and behold, he eateth, but he awaketh and his soul is empty; or like unto a thirsty man which dreameth: and behold, he drinketh, but he awaketh and behold, he is faint and his soul hath appetite. Yea, even so shall the multitude of all the nations be that fight against mount Zion.###
+*2 Nephi 27:3* [highlight]#And all the nations that fight against Zion and that distress her shall be as a dream of a night vision. Yea, it shall be unto them even as unto a hungry man which dreameth: and behold, he eateth, but he awaketh and his soul is empty; or like unto a thirsty man which dreameth: and behold, he drinketh, but he awaketh and behold, he is faint and his soul hath appetite. Yea, even so shall the multitude of all the nations be that fight against mount Zion.#
 
 {% margin %}
 ____
@@ -57,7 +57,7 @@ ____
 {% endmargin %}
 
 
-*2 Nephi 27:4* [highlight]#[highlight]#For behold, all ye that do iniquity, stay yourselves and wonder, for ye shall cry out and cry. Yea, ye shall be drunken but not with wine; ye shall stagger but not with strong drink.##
+*2 Nephi 27:4* [highlight]#For behold, all ye that do iniquity, stay yourselves and wonder, for ye shall cry out and cry. Yea, ye shall be drunken but not with wine; ye shall stagger but not with strong drink.#
 
 {% margin %}
 ____
@@ -72,7 +72,7 @@ ____
 {% endmargin %}
 
 
-*2 Nephi 27:5* [highlight]#[highlight]#For behold, the Lord hath poured out upon you the spirit of deep sleep. For behold, ye have closed your eyes; and ye have rejected the prophets, and your rulers and the seers hath he covered because of your iniquity.##
+*2 Nephi 27:5* [highlight]#For behold, the Lord hath poured out upon you the spirit of deep sleep. For behold, ye have closed your eyes; and ye have rejected the prophets, and your rulers and the seers hath he covered because of your iniquity.#
 
 {% margin %}
 ____
