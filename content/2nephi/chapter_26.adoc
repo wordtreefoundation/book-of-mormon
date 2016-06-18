@@ -27,7 +27,16 @@ ____
 
 *2 Nephi 26:10* And when these things shall have passed away, a speedy destruction cometh unto my people. For notwithstanding the pains of my soul, I have seen it; wherefore I know that it shall come to pass. And they sell themselves for naught, for for the reward of their pride and their foolishness they shall reap destruction; for because they yieldeth unto the devil and choose works of darkness rather than light, therefore they must go down to hell.
 
-*2 Nephi 26:11* For the Spirit of the Lord will not always strive with man. And when the Spirit ceaseth to strive with man, then cometh speedy destruction, and this grieveth my soul.
+{% margin %}
+____
+
+My spirit shall not always strive with man
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Genesis-Chapter-6/[Genesis 6:3]#
+____
+{% endmargin %}
+
+*2 Nephi 26:11* [highlight]#For the Spirit of the Lord will not always strive with man.# And when the Spirit ceaseth to strive with man, then cometh speedy destruction, and this grieveth my soul.
 
 *2 Nephi 26:12* And as I spake concerning the convincing of the Jews that Jesus is the very Christ, it must needs be that the Gentiles be convinced also that Jesus is the Christ, the Eternal God,
 
