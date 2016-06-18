@@ -31,7 +31,16 @@ ____
 
 *Alma 12:7* Now when Alma had spoken these words, Zeezrom began to tremble more exceedingly; for he was convinced more and more of the power of God. And he was also convinced that Alma and Amulek had a knowledge of him; for he was convinced that they knew the thoughts and intents of his heart, for power was given unto them that they might know of these things according to the [highlight-orange]#spirit of prophecy.#
 
-*Alma 12:8* And Zeezrom began to inquire of them diligently, that he might know more concerning the kingdom of God. And he saith unto Alma: What does this mean which Amulek hath spoken concerning the resurrection of the dead, that all shall rise from the dead, both the just and the unjust, and are brought to stand before God to be judged according to their works?
+{% margin %}
+____
+
+And have hope toward God, which they themselves also allow, [highlight]#that there shall be a resurrection of the dead, both of the just and unjust.#
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-24/[Acts 24:15]#
+____
+{% endmargin %}
+
+*Alma 12:8* And Zeezrom began to inquire of them diligently, that he might know more concerning the kingdom of God. And he saith unto Alma: What does this mean which Amulek hath spoken concerning the [highlight-orange]#resurrection of the dead, that all shall rise from the dead, both the just and the unjust,# and are brought to stand before God to be judged according to their works?
 
 *Alma 12:9* And now Alma began to expound these things unto him, saying: It is given unto many to know the mysteries of God; nevertheless they are laid under a strict command that they shall not impart, only according to the portion of his word which he doth grant unto the children of men, according to the heed and diligence which they give unto him.
 
