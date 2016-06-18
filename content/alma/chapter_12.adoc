@@ -20,7 +20,16 @@ ____
 
 *Alma 12:6* And behold, I say unto you all that this was a snare of the adversary which he hath laid to catch this people, that he might bring you into subjection unto him, that he might encircle you about with his chains, that he might chain you down to everlasting destruction according to the power of his captivity.
 
-*Alma 12:7* Now when Alma had spoken these words, Zeezrom began to tremble more exceedingly; for he was convinced more and more of the power of God. And he was also convinced that Alma and Amulek had a knowledge of him; for he was convinced that they knew the thoughts and intents of his heart, for power was given unto them that they might know of these things according to the spirit of prophecy.
+{% margin %}
+____
+
+...spirit of prophecy.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-19/[Revelation 19:10]#
+____
+{% endmargin %}
+
+*Alma 12:7* Now when Alma had spoken these words, Zeezrom began to tremble more exceedingly; for he was convinced more and more of the power of God. And he was also convinced that Alma and Amulek had a knowledge of him; for he was convinced that they knew the thoughts and intents of his heart, for power was given unto them that they might know of these things according to the [highlight-orange]#spirit of prophecy.#
 
 *Alma 12:8* And Zeezrom began to inquire of them diligently, that he might know more concerning the kingdom of God. And he saith unto Alma: What does this mean which Amulek hath spoken concerning the resurrection of the dead, that all shall rise from the dead, both the just and the unjust, and are brought to stand before God to be judged according to their works?
 
