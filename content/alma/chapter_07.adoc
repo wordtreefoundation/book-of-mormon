@@ -24,7 +24,16 @@
 
 *Alma 7:13* Now the Spirit knoweth all things; nevertheless the Son of God suffereth according to the flesh, that he might take upon him the sins of his people, that he might blot out their transgressions according to the power of his deliverance. And now behold, this is the testimony which is in me.
 
-*Alma 7:14* Now I say unto you that ye must repent and be born again, for the Spirit saith: If ye are not born again, ye cannot inherit the kingdom of heaven. Therefore come and be baptized unto repentance, that ye may be washed from your sins, that ye may have faith on the Lamb of God, which taketh away the sins of the world, which is mighty to save and to cleanse from all unrighteousness.
+{% margin %}
+____
+
+Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]#
+____
+{% endmargin %}
+
+*Alma 7:14* Now I say unto you that ye must repent and be born again, for the Spirit saith: [highlight-orange]#If ye are not born again, ye cannot inherit the kingdom of heaven.# Therefore come and be baptized unto repentance, that ye may be washed from your sins, that ye may have faith on the Lamb of God, which taketh away the sins of the world, which is mighty to save and to cleanse from all unrighteousness.
 
 *Alma 7:15* Yea, I say unto you: Come and fear not, and lay aside every sin which easily doth beset you, which doth bind you down to destruction. Yea, come and go forth, and show unto your God that ye are willing to repent of your sins and enter into a covenant with him to keep his commandments, and witness it unto him this day by going into the waters of baptism.
 
