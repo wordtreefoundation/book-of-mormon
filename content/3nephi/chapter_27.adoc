@@ -67,7 +67,7 @@ ____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Philippians-Chapter-4/[Philippians 4:9]#
 {% endmargin %}
 
-*3 Nephi 27:21* Verily verily I say unto you: This is my gospel. And ye know the things that ye must do in my church. [highlight]#For the works which ye have seen me do, that shall ye also do; for that which ye have seen me do, even that shall ye do#.
+*3 Nephi 27:21* Verily verily I say unto you: This is my gospel. And ye know the things that ye must do in my church. [highlight-orange]#For the works which ye have seen me do, that shall ye also do; for that which ye have seen me do, even that shall ye do#.
 
 *3 Nephi 27:22* Therefore if ye do these things, blessed are ye, for ye shall be lifted up at the last day.
 
