@@ -80,7 +80,16 @@ ____
 
 *3 Nephi 27:26* And behold, all things are written by the Father. Therefore out of the books which shall be written shall the world be judged.
 
-*3 Nephi 27:27* And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore what manner of men had ye ought to be? Verily I say unto you: Even as I am.
+{% margin %}
+____
+
+Be ye therefore perfect, even as your Father which is in heaven is perfect.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:48]#
+____
+{% endmargin %}
+
+*3 Nephi 27:27* And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore what manner of men had ye ought to be? [highlight-orange]#Verily I say unto you: Even as I am.#
 
 *3 Nephi 27:28* And now I go unto the Father. And verily I say unto you: Whatsoever things ye shall ask the Father in my name, it shall be given unto you.
 
