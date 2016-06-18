@@ -100,7 +100,15 @@
 
 *Alma 5:51* And also the Spirit saith unto me, yea, crieth unto me with a mighty voice, saying: Go forth and say unto this people: Repent! For except ye repent, ye can in no wise inherit the kingdom of heaven.
 
-*Alma 5:52* And again I say unto you: The Spirit saith: Behold, the ax is laid at the root of the tree. Therefore every tree that bringeth not forth good fruit shall be hewn down and cast into the fire, yea, a fire which cannot be consumed, even an unquenchable fire. Behold and remember, the Holy One hath spoken it!
+{% margin %}
+____
+And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+____
+{% endmargin %}
+
+*Alma 5:52* And again I say unto you: The Spirit saith: [highlight-orange]#Behold, the ax is laid at the root of the tree. Therefore every tree that bringeth not forth good fruit shall be hewn down and cast into the fire,# yea, a fire which cannot be consumed, even an unquenchable fire. Behold and remember, the Holy One hath spoken it!
 
 *Alma 5:53* And now my beloved brethren, I say unto you: Can ye withstand these sayings? Yea, can ye lay aside these things and trample the Holy One under your feet? Yea, can ye be puffed up in the pride of your hearts? Yea, will ye still persist in the wearing of costly apparel and setting your hearts upon the vain things of the world, upon your riches?
 
