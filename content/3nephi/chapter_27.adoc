@@ -36,7 +36,28 @@
 
 *3 Nephi 27:19* And no unclean thing can enter into his kingdom. Therefore nothing entereth into his rest save it be those who have washed their garments in my blood because of their faith and the repentance of all their sins and their faithfulness unto the end.
 
-*3 Nephi 27:20* Now this is the commandment: repent, all ye ends of the earth, and come unto me and be baptized in my name, that ye may be sanctified by the reception of the Holy Ghost, that ye may stand spotless before me at the last day.
+{% margin %}
+____
+...[highlight-orange]#Repent ye#...
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
+
+____
+[highlight]#And be ye saved, all the ends of the earth#...
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
+
+____
+...[highlight-orange]#he shall baptize you with the Holy Ghost#...
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
+
+{% endmargin %}
+
+*3 Nephi 27:20* Now this is the commandment: [highlight-orange]#repent#, [highlight]#all ye ends of the earth#, and come unto me and be [higlight-orange]#baptized in my name, that ye may be sanctified by the reception of the Holy Ghost#, that ye may stand spotless before me at the last day.
 
 {% margin %}
 ____
