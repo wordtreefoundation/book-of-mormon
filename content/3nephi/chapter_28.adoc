@@ -12,7 +12,19 @@
 
 *3 Nephi 28:7* Therefore more blessed are ye; for ye shall never taste of death, but ye shall live to behold all the doings of the Father unto the children of men, even until all things shall be fulfilled according to the will of the Father when I shall come in my glory with the powers of heaven.
 
-*3 Nephi 28:8* And ye shall never endure the pains of death. But when I shall come in my glory, ye shall be changed in the twinkling of an eye from mortality to immortality. And then shall ye be blessed in the kingdom of my Father.
+{% margin %}
+____
+
+57 ...in the twinkling of an eye...
+
+58 ...and this mortal must put on immortality.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:57-58]#
+
+____
+{% endmargin %}
+
+*3 Nephi 28:8* And ye shall never endure the pains of death. But when I shall come in my glory, ye shall be changed [highlight-orange]#in the twinkling of an eye from mortality to immortality.# And then shall ye be blessed in the kingdom of my Father.
 
 *3 Nephi 28:9* And again, ye shall not have pain while ye shall dwell in the flesh, neither sorrow, save it be for the sins of the world. And all this will I do because of the thing which ye have desired of me, for ye have desired that ye might bring the souls of men unto me while the world shall stand.
 
