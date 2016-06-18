@@ -47,7 +47,15 @@ ____
 
 *3 Nephi 28:14* And it was forbidden them that they should utter, neither was it given unto them power that they could utter the things which they saw and heard.
 
-*3 Nephi 28:15* And whether they were in the body or out of the body, they could not tell. For it did seem unto them like a transfiguration of them, that they were changed from this body of flesh into an immortal state, that they could behold the things of God.
+{% margin %}
+____
+I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;)...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:2]#
+____
+{% endmargin %}
+
+*3 Nephi 28:15* [highlight-orange]#And whether they were in the body or out of the body, they could not tell.# For it did seem unto them like a transfiguration of them, that they were changed from this body of flesh into an immortal state, that they could behold the things of God.
 
 *3 Nephi 28:16* But it came to pass that they did again minister upon the face of the earth. Nevertheless they did not minister of the things which they had heard and seen because of the commandment which was given them in heaven.
 
