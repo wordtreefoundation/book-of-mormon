@@ -106,13 +106,37 @@ ____
 
 *Moroni 10:16* and again, to another the [highlight-orange]#interpretation of languages and of divers kinds of tongues.#
 
-*Moroni 10:17* And all these gifts comes by the Spirit of Christ, and they come unto every man severally according as he will.
+____
+...dividing to every man severally as he will.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:11]#
+____
+{% endmargin %}
+
+*Moroni 10:17* And all these gifts comes by the Spirit of Christ, and they [highlight-orange]#come unto every man severally according as he will.#
 
 *Moroni 10:18* And I would exhort you, my beloved brethren, that ye remember that every good gift cometh of Christ.
 
-*Moroni 10:19* And I would exhort you, my beloved brethren, that ye remember that he is the same yesterday, today, and forever, and that all these gifts of which I have spoken, which are spiritual, never will be done away even as long as the world shall stand, only according to the unbelief of the children of men.
+{% margin %}
+____
+Jesus Christ the same yesterday, and to day, and for ever.
 
-*Moroni 10:20* Wherefore there must be faith; and if there must be faith, there must also be hope; and if there must be hope, there must also be charity.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-13/[Hebrews 13:8]#
+____
+{% endmargin %}
+
+*Moroni 10:19* And I would exhort you, my beloved brethren, that ye remember that [highlight-orange]#he is the same yesterday, today, and forever#, and that all these gifts of which I have spoken, which are spiritual, never will be done away even as long as the world shall stand, only according to the unbelief of the children of men.
+
+{% margin %}
+____
+
+And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[I Corinthians 13:13]#
+____
+{% endmargin %}
+
+*Moroni 10:20* [highlight-orange]#Wherefore there must be faith; and if there must be faith, there must also be hope; and if there must be hope, there must also be charity.#
 
 *Moroni 10:21* And except ye have charity, ye can in no wise be saved in the kingdom of God; neither can ye be saved in the kingdom of God if ye have not faith; neither can ye if ye have no hope.
 
@@ -122,7 +146,16 @@ ____
 
 *Moroni 10:24* And now I speak unto all the ends of the earth that if the day cometh that the power and gifts of God shall be done away among you, it shall be because of unbelief.
 
-*Moroni 10:25* And woe be unto the children of men if this be the case, for there shall be none that doeth good among you--no, not one--for if there be one among you that doeth good, he shall work by the power and gifts of God.
+{% margin %}
+____
+
+...there is none that doeth good, no, not one.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-3/[Romans 3:12]#
+____
+{% endmargin %}
+
+*Moroni 10:25* And woe be unto the children of men if this be the case, [highlight-orange]#for there shall be none that doeth good among you--no, not one--#for if there be one among you that doeth good, he shall work by the power and gifts of God.
 
 *Moroni 10:26* And woe unto them which shall do these things away and die, for they die in their sins and they cannot be saved in the kingdom of God. And I speak it according to the words of Christ, and I lie not.
 
@@ -146,12 +179,28 @@ Enlarge the place of thy tent, and let them stretch forth the curtains of thine 
 ____
 {% endmargin %}
 
-
 *Moroni 10:31* [highlight]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.#
 
-*Moroni 10:32* Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ. And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
+{% margin %}
+____
+
+And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:9]#
+____
+{% endmargin %}
+
+*Moroni 10:32* Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, [highlight-orange]#then is his grace sufficient for you, that by his grace ye may be perfect in Christ.# And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
 
 *Moroni 10:33* And again, if ye by the grace of God are perfect in Christ and deny not his power, then are ye sanctified in Christ by the grace of God through the shedding of the blood of Christ, which is in the covenant of the Father, unto the remission of your sins, that ye become holy, without spot.
 
-*Moroni 10:34* And now I bid unto all farewell. I soon go to rest in the paradise of God until my spirit and body shall again reunite and I am brought forth triumphant through the air to meet you before the pleading bar of the great Jehovah, the Eternal Judge of both quick and dead. Amen.
+{% margin %}
+____
+... ordained of God to be the Judge of quick and dead.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-10/[Acts 10:42]#
+____
+{% endmargin %}
+
+*Moroni 10:34* And now I bid unto all farewell. I soon go to rest in the paradise of God until my spirit and body shall again reunite and I am brought forth triumphant through the air to meet you before the pleading bar of the great Jehovah, the [highlight-orange]#Eternal Judge of both quick and dead. Amen.#
 
