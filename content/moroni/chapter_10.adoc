@@ -14,7 +14,6 @@
 
 {% margin %}
 ____
-
 5 And there are differences of administrations, but the same Lord.
 
 6 And there are diversities of operations, but it is the same God which worketh all in all.
@@ -94,6 +93,7 @@ ____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:10]#
 ____
 {% endmargin %}
+
 *Moroni 10:15* and again, to [highlight-orange]#another all kinds of tongues#,
 
 {% margin %}
@@ -130,7 +130,6 @@ ____
 
 {% margin %}
 ____
-
 And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[I Corinthians 13:13]#
@@ -149,7 +148,6 @@ ____
 
 {% margin %}
 ____
-
 ...there is none that doeth good, no, not one.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-3/[Romans 3:12]#
@@ -184,7 +182,6 @@ ____
 
 {% margin %}
 ____
-
 And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:9]#
