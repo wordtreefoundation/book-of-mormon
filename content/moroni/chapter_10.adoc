@@ -156,7 +156,7 @@ ____
 ____
 {% endmargin %}
 
-*Moroni 10:25* And woe be unto the children of men if this be the case, [highlight-orange]#for there shall be none that doeth good among you--no, not one--#for if there be one among you that doeth good, he shall work by the power and gifts of God.
+*Moroni 10:25* And woe be unto the children of men if this be the case, [highlight-orange]#for there shall be none that doeth good among you--no, not one--#for if there be one among you that doeth good, he shall work by the power and gifts of God. 
 
 *Moroni 10:26* And woe unto them which shall do these things away and die, for they die in their sins and they cannot be saved in the kingdom of God. And I speak it according to the words of Christ, and I lie not.
 
