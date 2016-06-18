@@ -93,6 +93,11 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:7-8]#
 ____
+
+And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:13]#
+____
 {% endmargin %}
 
 *3 Nephi 27:29* [highlight-orange]#Therefore ask and ye shall receive; knock and it shall be opened unto you. For he that asketh receiveth; and unto him that knocketh it shall be opened.#
