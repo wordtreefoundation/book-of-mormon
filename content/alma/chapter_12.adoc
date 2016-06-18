@@ -2,7 +2,17 @@
 
 *Alma 12:2* Now the words that Alma spake unto Zeezrom was heard by the people round about--for the multitude was great--and he spake on this wise:
 
-*Alma 12:3* Now Zeezrom seeing that thou hast been taken in thy lyings and craftiness--for thou hast not lied unto men only, but thou hast lied unto God, for behold, he knows all thy thoughts--and thou seest that thy thoughts are made known unto us by his Spirit.
+{% margin %}
+____
+
+Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-5/[Acts 5:4]#
+
+____
+{% endmargin %}
+
+*Alma 12:3* Now Zeezrom seeing that thou hast been taken in thy lyings and craftiness--[highlight-orange]#for thou hast not lied unto men only, but thou hast lied unto God, for behold, he knows all thy thoughts--and thou seest that thy thoughts are made known unto us by his Spirit.#
 
 *Alma 12:4* And thou seest that we know that thy plan was a very subtle plan, as to the subtlety of the devil, for to lie and to deceive this people, that thou mightest set them against us, to revile us and to cast us out.
 
