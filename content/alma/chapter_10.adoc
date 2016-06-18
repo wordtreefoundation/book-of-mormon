@@ -44,7 +44,17 @@ ____
 
 *Alma 10:19* Yea, well did Mosiah say, who was our last king, when he was about to deliver up the kingdom--having no one to confer it upon, causing that this people should be governed by their own voices--yea, well did he say that if the time should come that the voice of this people should choose iniquity--that is, if the time should come that this people should fall into transgression--they would be ripe for destruction.
 
-*Alma 10:20* And now I say unto you that well doth the Lord judge of your iniquities; well doth he cry unto this people by the voice of his angels: Repent ye, repent, for the kingdom of heaven is at hand.
+{% margin %}
+____
+
+And saying, Repent ye: for the kingdom of heaven is at hand.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
+
+____
+{% endmargin %}
+
+*Alma 10:20* And now I say unto you that well doth the Lord judge of your iniquities; well doth he cry unto this people by the voice of his angels: [highlight-orange]#Repent ye, repent, for the kingdom of heaven is at hand.#
 
 *Alma 10:21* Yea, well doth he cry by the voice of his angels that I will come down among my people with equity and justice in my hands.
 
