@@ -24,7 +24,7 @@ Thank you for your help! Your contributions will help move this work forward.
 
 ### Want to become an editor?
 
-If you'd like to become an editor, please contact the WordTree Foundation.
+If you'd like to become an editor, please contact the WordTree Foundation. See the [Editing Guide](editing.adoc) to learn how to contribute as an editor using AsciiDoc.
 
 #### Editors should adhere to these quality standards:
 

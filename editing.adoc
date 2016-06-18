@@ -1,0 +1,163 @@
+= Editing Guide
+
+For this book's formatting, we use https://powerman.name/doc/asciidoc[AsciiDoc]. AsciiDoc is a standard way of turning text files into nicely formatted documents that can be made available in several formats (html, pdf, epub, etc.)
+
+== Quickstart
+
+For the Book of Mormon Origins project, we only use small portion of the range of possibilities AsciiDoc gives us. Here are the things we use most.
+
+=== Margins
+
+Since we're annotating the Book of Mormon, we need margin/endmargin markers around things that go in the margin, and the markers need to go BEFORE the verse you're trying to annotate. So the basic pattern is:
+
+----
+{% raw %}
+{% margin %}
+stuff that goes in the margin
+{% endmargin %}
+
+*1 Nephi 1:1* I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless...
+{% endraw %}
+----
+
+This is how it looks:
+
+---
+
+{% margin %}
+stuff that goes in the margin
+{% endmargin %}
+
+*1 Nephi 1:1* I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless...
+
+---
+
+=== Quotations
+
+Next, the quotation block. This could go anywhere, but for our book we pretty much always want it in the margin, so it will go in between the margin/endmargin markers mentioned above. The quotation block starts with 4 underscores, "+++____+++" and ends with 4 underscores, "+++____+++". So if I want to a quote from another book to go in the margin, it would look like this:
+
+----
+{% raw %}
+{% margin %}
+____
+I, the writer, was born of Presbyterian parents...
+____
+
+-- The Rights of Christ
+{% endmargin %}
+
+*1 Nephi 1:1* I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless...
+{% endraw %}
+----
+
+This is how it looks:
+
+---
+
+{% margin %}
+____
+I, the writer, was born of Presbyterian parents...
+____
+
+-- The Rights of Christ
+{% endmargin %}
+
+*1 Nephi 1:1* I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless...
+
+---
+
+You can have multiple quotations in the same margin (i.e. if you want to annotate a single verse with multiple quotations):
+
+----
+{% raw %}
+{% margin %}
+____
+I, the writer, was born of Presbyterian parents...
+____
+
+-- The Rights of Christ
+
+____
+...many men call it Nephi...
+____
+
+-- KJV Apocrypha, 2 Maccabees 1:36
+
+{% endmargin %}
+
+*1 Nephi 1:1* I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless...
+{% endraw %}
+----
+
+This is how it looks:
+
+---
+
+{% margin %}
+____
+I, the writer, was born of Presbyterian parents...
+____
+
+-- The Rights of Christ
+
+____
+...many men call it Nephi...
+____
+
+-- KJV Apocrypha, 2 Maccabees 1:36
+
+{% endmargin %}
+
+*1 Nephi 1:1* I Nephi having been born of goodly parents, therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless...
+
+---
+
+(You may need to click the down-arrow expander button in the margin to see both quotations.)
+
+=== Highlighting
+
+You can also highlight any text. The default color is yellow, but we also use orange, and will probably use other colors in the future. Here's how to highlight:
+
+----
+Some [highlight]#words to higlight# go in between the hash symbols.
+----
+
+It looks like this:
+
+---
+
+Some [highlight]#words to higlight# go in between the hash symbols.
+
+---
+
+You can also highlight in orange:
+
+----
+Some [highlight-orange]#orange words to higlight# go in between the hash symbols, too.
+----
+
+Which looks like this:
+
+---
+
+Some [highlight-orange]#orange words to higlight# go in between the hash symbols, too.
+
+---
+
+=== Links
+
+Most (if not all) of our quotations have to link to the original source, and when possible, an online source. In AsciiDoc, a link is simply the URL, followed by a description in square brackets (without any spaces between the URL and the square brackets). So for instance:
+
+----
+https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1
+----
+
+Looks like this:
+
+---
+
+https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1
+
+---
+
+
