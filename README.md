@@ -38,4 +38,4 @@ If you'd like to become an editor, please contact the WordTree Foundation.
 
 ### Geek Notes
 
-See [Technical Notes](content/notes.adoc) for technical details around the creation of this book.
+See [Technical Notes](/content/notes.adoc) for technical details around the creation of this book.
