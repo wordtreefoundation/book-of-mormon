@@ -70,7 +70,17 @@ ____
 
 *3 Nephi 28:30* And they are as the angels of God. And if they shall pray unto the Father in the name of Jesus, they can shew themselves unto whatsoever man it seemeth them good.
 
-*3 Nephi 28:31* Therefore great and marvelous works shall be wrought by them before the great and coming day when all people must surely stand before the judgment seat of Christ.
+{% margin %}
+____
+
+For we must all appear before the judgment seat of Christ;...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:10]#
+
+____
+{% endmargin %}
+
+*3 Nephi 28:31* Therefore great and marvelous works shall be wrought by them before the great and coming day when all people must surely [highlight-orange]#stand before the judgment seat of Christ.#
 
 *3 Nephi 28:32* Yea, even among the Gentiles shall there be a great and marvelous work wrought by them before that judgment day.
 
