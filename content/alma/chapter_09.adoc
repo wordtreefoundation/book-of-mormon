@@ -48,7 +48,17 @@
 
 *Alma 9:25* And now for this cause that ye may not be destroyed, the Lord hath sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: Repent ye, repent ye, for the kingdom of heaven is nigh at hand.
 
-*Alma 9:26* And not many days hence the Son of God shall come in his glory, and his glory shall be the glory of the Only Begotten of the Father, full of grace, equity, and truth, full of patience, mercy, and long-suffering, quick to hear the cries of his people and to answer their prayers.
+{% margin %}
+____
+
+And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:14]#
+
+____
+{% endmargin %}
+
+*Alma 9:26* And not many days hence the Son of God shall come [highlight-orange]#in his glory, and his glory shall be the glory of the Only Begotten of the Father, full of grace, equity, and truth,# full of patience, mercy, and long-suffering, quick to hear the cries of his people and to answer their prayers.
 
 *Alma 9:27* And behold, he cometh to redeem those who will be baptized unto repentance through faith on his name.
 
