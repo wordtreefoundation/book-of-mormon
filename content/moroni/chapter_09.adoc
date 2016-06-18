@@ -8,7 +8,16 @@
 
 *Moroni 9:5* For so exceedingly do they anger that it seemeth me that they have no fear of death. And they have lost their love one towards another; and they thirst after blood and revenge continually.
 
-*Moroni 9:6* And now my beloved son, notwithstanding their hardness, let us labor diligently. For if we should cease to labor, we should be brought under condemnation. For we have a labor to perform whilst in this tabernacle of clay, that we may conquer the enemy of all righteousness and rest our souls in the kingdom of God.
+{% margin %}
+____
+
+...thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-13/[Acts 13:10]#
+____
+{% endmargin %}
+
+*Moroni 9:6* And now my beloved son, notwithstanding their hardness, let us labor diligently. For if we should cease to labor, we should be brought under condemnation. For we have a labor to perform whilst in this tabernacle of clay, [highlight-orange]#that we may conquer the enemy of all righteousness# and rest our souls in the kingdom of God.
 
 *Moroni 9:7* And now I write somewhat concerning the sufferings of this people. For according to the knowledge which I have received from Amoron, behold, the Lamanites have many prisoners which they took from the tower of Sherrizah, and there were men, women, and children.
 
@@ -40,7 +49,16 @@
 
 *Moroni 9:21* Behold, my son, I cannot recommend them unto God lest he should smite me.
 
-*Moroni 9:22* But behold, my son, I recommend thee unto God. And I trust in Christ that thou wilt be saved. And I pray unto God that he would spare thy life to witness the return of his people unto him or their utter destruction; for I know that they must perish except they repent and return unto him.
+{% margin %}
+____
+
+I tell you, Nay: but, except ye repent, ye shall all likewise perish.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:3]#
+____
+{% endmargin %}
+
+*Moroni 9:22* But behold, my son, I recommend thee unto God. And I trust in Christ that thou wilt be saved. And I pray unto God that he would spare thy life to witness the return of his people unto him or their utter destruction; [highlight-orange]#for I know that they must perish except they repent and return unto him.#
 
 *Moroni 9:23* And if they perish, it will be like unto the Jaredites, because of the willfulness of their hearts, seeking for blood and revenge.
 
