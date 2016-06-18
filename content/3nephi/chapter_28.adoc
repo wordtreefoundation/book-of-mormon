@@ -28,7 +28,25 @@ ____
 
 *3 Nephi 28:9* And again, ye shall not have pain while ye shall dwell in the flesh, neither sorrow, save it be for the sins of the world. And all this will I do because of the thing which ye have desired of me, for ye have desired that ye might bring the souls of men unto me while the world shall stand.
 
-*3 Nephi 28:10* And for this cause ye shall have fullness of joy; and ye shall sit down in the kingdom of my Father. Yea, your joy shall be full, even as the Father hath given me fullness of joy. And ye shall be even as I am, and I am even as the Father; and the Father and I are one.
+{% margin %}
+____
+
+...shall sit down in the kingdom of God.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:29]#
+____
+
+...that your joy may be full.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 16:24]#
+____
+21 That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:21-23]#
+____
+{% endmargin %}
+
+*3 Nephi 28:10* And for this cause ye shall have fullness of joy; and ye shall [highlight-orange]#sit down in the kingdom of my Father#. Yea, [highlight-orange]#your joy shall be full#, even as the Father hath given me fullness of joy. [highlight-orange]#And ye shall be even as I am, and I am even as the Father; and the Father and I are one.#
 
 *3 Nephi 28:11* And the Holy Ghost beareth record of the Father and me. And the Father giveth the Holy Ghost unto the children of men because of me.
 
@@ -45,6 +63,7 @@ ____
 
 *3 Nephi 28:13* And behold, the heavens were opened, [highlight-orange]#and they were caught up into heaven and saw and heard unspeakable things.#
 
+{% margin %}
 ____
 
 How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter
