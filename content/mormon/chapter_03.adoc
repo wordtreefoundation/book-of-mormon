@@ -36,7 +36,7 @@ ____
 ____
 {% endmargin %}
 
-*Mormon 3:15* [highlight-orange]Vengeance is mine, and I will repay#. And because this people repented not after that I had delivered them, behold, they shall be cut off from the face of the earth.
+*Mormon 3:15* [highlight-orange]#Vengeance is mine, and I will repay#. And because this people repented not after that I had delivered them, behold, they shall be cut off from the face of the earth.
 
 *Mormon 3:16* And it came to pass that I utterly refused to go up against mine enemies. And I did even as the Lord had commanded me, and I did stand as an idle witness to manifest unto the world the things which I saw and heard, according to the manifestations of the Spirit, which had testified of things to come.
 
@@ -55,7 +55,7 @@ For we must all appear before the judgment seat of Christ; that every one may re
 ____
 {% endmargin %}
 
-*Mormon 3:20* And these things do the Spirit manifest unto me. Therefore I write unto you all; and for this cause I write unto you, that ye may know that [highlight-orange[#ye must all stand before the judgment seat of Christ, yea, every soul which belongeth to the whole human family of Adam--and ye must stand to be judged of your works, whether they be good or evil--#
+*Mormon 3:20* And these things do the Spirit manifest unto me. Therefore I write unto you all; and for this cause I write unto you, that ye may know that [highlight-orange]#ye must all stand before the judgment seat of Christ, yea, every soul which belongeth to the whole human family of Adam--and ye must stand to be judged of your works, whether they be good or evil--#
 
 *Mormon 3:21* and also that ye may believe the gospel of Jesus Christ, which ye shall have among you, and also that the Jews, the covenant people of the Lord, shall have other witness besides that which they saw and heard, that Jesus, whom they slew, was the very Christ and the very God.
 
