@@ -62,9 +62,10 @@ ____
 {% margin %}
 ____
 Those things, which ye have both learned, and received, and heard, and seen in me, do...
-____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Philippians-Chapter-4/[Philippians 4:9]#
+
+____
 {% endmargin %}
 
 *3 Nephi 27:21* Verily verily I say unto you: This is my gospel. And ye know the things that ye must do in my church. [highlight-orange]#For the works which ye have seen me do, that shall ye also do; for that which ye have seen me do, even that shall ye do#.
@@ -83,7 +84,15 @@ ____
 
 *3 Nephi 27:28* And now I go unto the Father. And verily I say unto you: Whatsoever things ye shall ask the Father in my name, it shall be given unto you.
 
-*3 Nephi 27:29* Therefore ask and ye shall receive; knock and it shall be opened unto you. For he that asketh receiveth; and unto him that knocketh it shall be opened.
+{% margin %}
+____
+Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:7]#
+____
+{% endmargin %}
+
+*3 Nephi 27:29* [highlight-orange]#Therefore ask and ye shall receive; knock and it shall be opened unto you. For he that asketh receiveth; and unto him that knocketh it shall be opened.#
 
 *3 Nephi 27:30* And now behold, my joy is great, even unto fullness, because of you and also this generation. Yea, and even the Father rejoiceth, and also all the holy angels, because of you and this generation, for none of them are lost.
 
