@@ -112,7 +112,17 @@ ____
 
 *Alma 5:53* And now my beloved brethren, I say unto you: Can ye withstand these sayings? Yea, can ye lay aside these things and trample the Holy One under your feet? Yea, can ye be puffed up in the pride of your hearts? Yea, will ye still persist in the wearing of costly apparel and setting your hearts upon the vain things of the world, upon your riches?
 
-*Alma 5:54* Yea, will ye persist in supposing that ye are better one than another? Yea, will ye persist in the persecutions of your brethren who humble themselves and do walk after the holy order of God wherewith they have been brought into this church, having been sanctified by the Holy Spirit?--and they do bring forth works which is meet for repentance.
+{% margin %}
+____
+
+Bring forth therefore fruits meet for repentance:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:8]#
+____
+{% endmargin %}
+
+
+*Alma 5:54* Yea, will ye persist in supposing that ye are better one than another? Yea, will ye persist in the persecutions of your brethren who humble themselves and do walk after the holy order of God wherewith they have been brought into this church, having been sanctified by the Holy Spirit?--and they do [highlight-orange]#bring forth works which is meet for repentance.#
 
 *Alma 5:55* Yea, and will you persist in turning your backs upon the poor and the needy and in withholding your substance from them?
 
