@@ -120,7 +120,15 @@ ____
 
 *Alma 5:57* And now I say unto you, all you that are desirous to follow the voice of the good shepherd: Come ye out from the wicked and be ye separate and touch not their unclean things. And behold, their names shall be blotted out, that the names of the wicked shall not be numbered among the names of the righteous, that the word of God may be fulfilled which saith: The names of the wicked shall not be mingled with the names of my people;
 
-*Alma 5:58* for the names of the righteous shall be written in the book of life, and unto them will I grant an inheritance at my right hand. And now my brethren, what have ye to say against this? I say unto you: If ye speak against it, it matters not, for the word of God must be fulfilled.
+{% margin %}
+____
+...written in the book of life,...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:15]#
+____
+{% endmargin %}
+
+*Alma 5:58* for the names of the righteous shall be [highlight-orange]#written in the book of life#, and unto them will I grant an inheritance at my right hand. And now my brethren, what have ye to say against this? I say unto you: If ye speak against it, it matters not, for the word of God must be fulfilled.
 
 *Alma 5:59* For what shepherd is there among you, having many sheep, doth not watch over them that the wolves enter not and devour his flock? And behold, if a wolf enter his flock, doth he not drive him out? Yea, and at the last, if he can, he will destroy him.
 
