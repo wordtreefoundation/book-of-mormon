@@ -255,5 +255,6 @@
   * [Chapter 8](content/moroni/chapter_08.adoc)
   * [Chapter 9](content/moroni/chapter_09.adoc)
   * [Chapter 10](content/moroni/chapter_10.adoc)
+* [Visions of Joseph Smith Sr.](content/external/joseph_sr_visions.adoc)
 * [Editing](editing.adoc)
 * [Technical Notes](content/notes.adoc)

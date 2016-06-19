@@ -1,12 +1,40 @@
 *1 Nephi 8:1* And it came to pass that we had gathered together all manner of seeds of every kind, both of grain of every kind and also of the seeds of fruits of every kind.
 
-*1 Nephi 8:2* And it came to pass that while my father tarried in the wilderness, he spake unto us, saying: Behold, I have dreamed a dream, or in other words, I have seen a vision.
+{% margin %}
+Joseph Smith's father, Joseph Smith Sr., had a vision that had similar elements, outlined below. See http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building].
+{% endmargin %}
+
+*1 Nephi 8:2* And it came to pass that while [highlight]#my father tarried in the wilderness, he spake unto us, saying: Behold, I have dreamed a dream#, or in other words, I have seen a vision.
 
 *1 Nephi 8:3* And behold, because of the thing which I have seen, I have reason to rejoice in the Lord because of Nephi and also of Sam. For I have reason to suppose that they and also many of their seed will be saved.
 
-*1 Nephi 8:4* But behold, Laman and Lemuel, I fear exceedingly because of you. For behold, methought I saw a dark and dreary wilderness.
+{% margin %}
+____
+I was traveling in an open, desolate field, which appeared to be very barren...
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
 
-*1 Nephi 8:5* And it came to pass that I saw a man and he was dressed in a white robe. And he came and stood before me.
+____
+to render the scene still more dreary, the most deathlike silence prevailed
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's First Vision]#
+{% endmargin %}
+
+*1 Nephi 8:4* But behold, Laman and Lemuel, I fear exceedingly because of you. [highlight]#For behold, methought I saw a dark and dreary wilderness#.
+
+{% margin %}
+____
+...an attendant spirit, who kept constantly by my side...
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's First Vision]#
+
+____
+My guide, who was by my side, as before...
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
+*1 Nephi 8:5* And it came to pass that [highlight]#I saw a man and he was dressed in a white robe. And he came and stood before me.#
 
 *1 Nephi 8:6* And it came to pass that he spake unto me and bade me follow him.
 
@@ -16,27 +44,81 @@
 
 *1 Nephi 8:9* And it came to pass that after I had prayed unto the Lord, I beheld a large and spacious field.
 
-*1 Nephi 8:10* And it came to pass that I beheld a tree whose fruit was desirable to make one happy.
+{% margin 2 %}
+____
+...in which stood a tree ... and it bore a kind of fruit ... as white as snow, or, if possible whiter ... I found it delicious beyond description.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
-*1 Nephi 8:11* And it came to pass that I did go forth and partook of the fruit thereof and beheld that it was most sweet, above all that I ever had before tasted. Yea, and I beheld that the fruit thereof was white to exceed all the whiteness that I had ever seen.
+*1 Nephi 8:10* And it came to pass that I beheld [highlight]#a tree whose fruit was desirable to make one happy#.
 
-*1 Nephi 8:12* And as I partook of the fruit thereof, it filled my soul with exceeding great joy. Wherefore I began to be desirous that my family should partake of it also, for I knew that it was desirous above all other fruit.
+*1 Nephi 8:11* And it came to pass that I did go forth and [highlight]#partook of the fruit thereof and beheld that it was most sweet#, above all that I ever had before tasted. Yea, and I beheld that [highlight]#the fruit thereof was white to exceed all the whiteness that I had ever seen#.
 
-*1 Nephi 8:13* And as I cast my eyes around about that perhaps I might discover my family also, and I beheld a river of water and it ran along, and it was near the tree of which I was partaking the fruit.
+{% margin %}
+____
+As I was eating, I said in my heart, 'I can not eat this alone, I must bring my wife and children, that they may partake with me.' Accordingly, I went and brought my family, which consisted of a wife and seven children, and we all commenced eating, and praising God for this blessing. We were exceedingly happy, insomuch that our joy could not easily be expressed.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
-*1 Nephi 8:14* And I looked to behold from whence it came, and I saw the head thereof a little way off. And at the head thereof I beheld your mother Sariah and Sam and Nephi, and they stood as if they knew not whither they should go.
+*1 Nephi 8:12* And as I partook of the fruit thereof, [highlihgt]#it filled my soul with exceeding great joy#. Wherefore [highlight]#I began to be desirous that my family should partake of it also#, for I knew that it was desirous above all other fruit.
 
-*1 Nephi 8:15* And it came to pass that I beckoned unto them. And I also did say unto them with a loud voice that they should come unto me and partake of the fruit, which was desirable above all other fruit.
+{% margin 2 %}
+____
+I beheld a beautiful stream of water, which ran from the east to the west. Of this stream I could see neither the source nor yet the termination; ... and beyond me was a low, but very pleasant valley, in which stood a tree...
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
-*1 Nephi 8:16* And it came to pass that they did come unto me and partake of the fruit also.
+*1 Nephi 8:13* And as I cast my eyes around about that perhaps I might discover my family also, and [highlight]#I beheld a river of water and it ran along, and it was near the tree of which I was partaking the fruit#.
 
-*1 Nephi 8:17* And it came to pass that I was desirous that Laman and Lemuel should come and partake of the fruit also. Wherefore I cast mine eyes toward the head of the river that perhaps I might see them.
+*1 Nephi 8:14* And I looked to behold from whence it came, and [highlight]#I saw the head thereof a little way off#. And at the head thereof I beheld your mother Sariah and Sam and Nephi, and they stood as if they knew not whither they should go.
+
+{% margin 2 %}
+____
+Accordingly, I went and brought my family, which consisted of a wife and seven children, and we all commenced eating, and praising God for this blessing. We were exceedingly happy, insomuch that our joy could not easily be expressed.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
+*1 Nephi 8:15* And it came to pass that [highlight]#I beckoned unto them#. And I also did say unto them with a loud voice that [highlight]#they should come unto me and partake of the fruit, which was desirable above all other fruit#.
+
+*1 Nephi 8:16* And it came to pass that [highlight]#they did come unto me and partake of the fruit also#.
+
+{% margin %}
+____
+He then commanded me to go and bring the rest of my children. I told him that we were all there. 'No,' he replied, 'look yonder, you have two more, and you must bring them also.'
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
+*1 Nephi 8:17* And it came to pass that I was desirous that [highlight]#Laman and Lemuel should come and partake of the fruit also#. Wherefore I cast mine eyes toward the head of the river that perhaps I might see them.
 
 *1 Nephi 8:18* And it came to pass that I saw them, but they would not come unto me and partake of the fruit.
 
-*1 Nephi 8:19* And I beheld a rod of iron, and it extended along the bank of the river and led to the tree by which I stood.
+{% margin %}
+____
+...as far as my eyes could extend I could see a rope running along the bank of it, about as high as a man could reach...
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
-*1 Nephi 8:20* And I also beheld a straight and narrow path which came along by the rod of iron, even to the tree by which I stood. And it also led by the head of the fountain unto a large and spacious field, as if it had been a world.
+*1 Nephi 8:19* And I beheld [highlight]#a rod of iron, and it extended along the bank of the river# and led to the tree by which I stood.
+
+{% margin %}
+____
+The road was so broad and barren that I wondered why I should travel in it; for, said I to myself, 'Broad is the road, and wide is the gate that leads to death, and many there be that walk therein; but narrow is the way, and straight is the gate that leads to everlasting' life, and few there be that go in thereat.' Traveling a short distance farther, I came to a narrow path.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+
+____
+This field is the world, which now lieth inanimate and dumb, in regard to the true religion, or plan of salvation...
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's First Vision]#
+{% endmargin %}
+
+*1 Nephi 8:20* And I also beheld [highlight]#a straight and narrow path which came along by the rod of iron, even to the tree by which I stood#. And it also led by the head of the fountain unto [highlight]#a large and spacious field, as if it had been a world#.
 
 *1 Nephi 8:21* And I saw numberless concourses of people, many of whom were pressing forward that they might obtain the path which led unto the tree by which I stood.
 
@@ -48,9 +130,23 @@
 
 *1 Nephi 8:25* And after that they had partook of the fruit of the tree, they did cast their eyes about as if they were ashamed.
 
-*1 Nephi 8:26* And I also cast my eyes around about and beheld on the other side of the river of water a great and spacious building. And it stood as it were in the air, high above the earth.
+{% margin %}
+____
+I beheld a spacious building standing opposite the valley which we were in, and it appeared to reach to the very heavens.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
-*1 Nephi 8:27* And it was filled with people, both old and young, both male and female, and their manner of dress was exceeding fine. And they were in the attitude of mocking and pointing their fingers towards those which had came up and were partaking of the fruit.
+*1 Nephi 8:26* And I also cast my eyes around about and beheld [highlight]#on the other side of the river of water a great and spacious building. And it stood as it were in the air, high above the earth#.
+
+{% margin %}
+____
+It was full of doors and windows, and they were filled with people, who were very finely dressed. When these people observed us in the low valley, under the tree, they pointed the finger of scorn at us, and treated us with all manner of disrespect and contempt.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
+*1 Nephi 8:27* And [highlight]#it was filled with people#, both old and young, both male and female, and [highlight]#their manner of dress was exceeding fine#. And they were in the attitude of [highlight]#mocking and pointing their fingers towards those which had came up and were partaking of the fruit#.
 
 *1 Nephi 8:28* And after that they had tasted of the fruit, they were ashamed because of those that were a scoffing at them, and they fell away into forbidden paths and were lost.
 
@@ -62,7 +158,14 @@
 
 *1 Nephi 8:32* And it came to pass that many were drowned in the depths of the fountain, and many were lost from his view, wandering in strange roads.
 
-*1 Nephi 8:33* And great was the multitude that did enter into that strange building. And after that they did enter into that building, they did point the finger of scorn at me and those that were partaking of the fruit also, but we heeded them not.
+{% margin %}
+____
+When these people observed us in the low valley, under the tree, they pointed the finger of scorn at us, and treated us with all manner of disrespect and contempt. But their contumely we utterly disregarded. 
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
+*1 Nephi 8:33* And great was the multitude that did enter into that strange building. And after that they did enter into that building, [highlight]#they did point the finger of scorn at me and those that were partaking of the fruit also, but we heeded them not#.
 
 *1 Nephi 8:34* Thus is the words of my father, for as many as heeded them had fallen away.
 

@@ -40,12 +40,17 @@
 
 *1 Nephi 11:21* And the angel said unto me: Behold the Lamb of God, yea, even the Eternal Father. Knowest thou the meaning of the tree which thy father saw?
 
-{% margin %}
+{% margin 2 %}
 ____
 ...because the love of God is shed abroad in our hearts...
 
 [small]#KJV, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-5/[Romans 5:5]#
 ____
+
+____
+I presently turned to my guide, and inquired of him the meaning of the fruit that was so delicious. He told me it was the pure love of God, shed abroad in the hearts of all those who love him, and keep his commandments.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
 {% endmargin %}
 
 *1 Nephi 11:22* And I answered him, saying: Yea, it [highlight-orange]#is the love of God, which sheddeth itself abroad in the hearts of the children of men;# wherefore it is the most desirable above all things.
@@ -54,7 +59,14 @@ ____
 
 *1 Nephi 11:24* And after that he had said these words, he said unto me: Look! And I looked and I beheld the Son of God a going forth among the children of men. And I saw many fall down at his feet and worship him.
 
-*1 Nephi 11:25* And it came to pass that I beheld that the rod of iron which my father had seen was the word of God, which led to the fountain of living waters or to the tree of life, which waters are a representation of the love of God. And I also beheld that the tree of life was a representation of the love of God.
+{% margin %}
+____
+I beheld a beautiful stream of water, which ran from the east to the west. Of this stream I could see neither the source nor yet the termination; but as far as my eyes could extend I could see a rope running along the bank of it, about as high as a man could reach, and beyond me was a low, but very pleasant valley, in which stood a tree such as I had never seen before
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
+*1 Nephi 11:25* And it came to pass that I beheld that the rod of iron which my father had seen was the word of God, which led to [highlight]#the fountain of living waters# or to the tree of life, which waters are a representation of the love of God. And I also beheld that the tree of life was a representation of the love of God.
 
 *1 Nephi 11:26* And the angel said unto me again: Look and behold the condescension of God!
 
@@ -74,7 +86,14 @@ ____
 
 *1 Nephi 11:34* And after that he was slain, I saw the multitudes of the earth, that they were gathered together to fight against the apostles of the Lamb, for thus were the twelve called by the angel of the Lord.
 
-*1 Nephi 11:35* And the multitude of the earth was gathered together, and I beheld that they were in a large and spacious building, like unto the building which my father saw. And the angel of the Lord spake unto me, saying: Behold the world and the wisdom thereof; yea, behold, the house of Israel hath gathered together to fight against the twelve apostles of the Lamb.
+{% margin 2 %}
+____
+After feasting in this manner a short time, I asked my guide what was the meaning of the spacious building which I saw. He replied, 'It is Babylon, it is Babylon, and it must fall. The people in the doors and windows are the inhabitants thereof, who scorn and despise the Saints of God because of their humility.'
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
-*1 Nephi 11:36* And it came to pass that I saw and bare record that the great and spacious building was the pride of the world; and the fall thereof was exceeding great. And the angel of the Lord spake unto me, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people that shall fight against the twelve apostles of the Lamb.
+*1 Nephi 11:35* And the multitude of the earth was gathered together, and I beheld that [highlight]#they were in a large and spacious building, like unto the building which my father saw#. And the angel of the Lord spake unto me, saying: Behold the world and the wisdom thereof; yea, behold, the house of Israel hath gathered together to fight against the twelve apostles of the Lamb.
+
+*1 Nephi 11:36* And it came to pass that I saw and bare record that [highlight]#the great and spacious building was the pride of the world; and the fall thereof was exceeding great#. And the angel of the Lord spake unto me, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people that shall fight against the twelve apostles of the Lamb.
 
