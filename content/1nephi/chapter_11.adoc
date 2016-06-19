@@ -2,6 +2,10 @@
 
 *1 Nephi 11:2* And the Spirit saith unto me: Behold, what desirest thou?
 
+{% margin 3 %}
+Joseph Smith's father, Joseph Smith Sr., had a vision with elements very similar to Lehi's Tree of Life vision. See http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building].
+{% endmargin %}
+
 *1 Nephi 11:3* And I saith: I desire to behold the things which my father saw.
 
 *1 Nephi 11:4* And the Spirit saith unto me: Believest thou that thy father saw the tree of which he hath spoken?
@@ -10,7 +14,21 @@
 
 *1 Nephi 11:6* And when I had spake these words, the Spirit cried with a loud voice, saying: Hosanna to the Lord, the Most High God, for he is God over all the earth, yea, even above all. And blessed art thou Nephi because thou believest in the Son of the Most High; wherefore thou shalt behold the things which thou hast desired.
 
+{% margin %}
+____
+I drew near and began to eat of it [the fruit of the tree], and I found it delicious beyond description.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
 *1 Nephi 11:7* And behold, this thing shall be given unto thee for a sign, that after thou hast beheld the tree which bare the fruit of which thy father tasted, thou shalt also behold a man descending out of heaven and him shall ye witness. And after that ye shall have witnessed him, ye shall bear record that it is the Son of God.
+
+{% margin %}
+____
+[The tree] was exceedingly handsome, insomuch that I looked upon it with wonder and admiration. Its beautiful branches spread themselves somewhat like an umbrella, and it bore a kind of fruit, in shape much like a chestnut bur, and as white as snow, or, if possible whiter ... the fruit which they contained, which was of dazzling whiteness
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
 
 *1 Nephi 11:8* And it came to pass that the Spirit saith unto me: Look! And I looked and beheld a tree, and it was like unto the tree which my father had seen. And the beauty thereof was far beyond, yea, exceeding of all beauty, and the whiteness thereof did exceed the whiteness of the driven snow.
 
@@ -28,6 +46,13 @@
 
 *1 Nephi 11:15* And I saith unto him: A virgin most beautiful and fair above all other virgins.
 
+{% margin 2 %}
+____
+[I was with] an attendant spirit, who kept constantly by my side. Of him I inquired the meaning of what I saw...
+____
+[small]#http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+{% endmargin %}
+
 *1 Nephi 11:16* And he saith unto me: Knowest thou the condescension of God?
 
 *1 Nephi 11:17* And I said unto him: I know that he loveth his children; nevertheless I do not know the meaning of all things.
@@ -42,22 +67,30 @@
 
 {% margin 2 %}
 ____
+I presently turned to my guide, and inquired of him the meaning of the fruit that was so delicious. He told me it was the pure love of God, shed abroad in the hearts of all those who love him, and keep his commandments.
+____
+[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+
+____
 ...because the love of God is shed abroad in our hearts...
 
 [small]#KJV, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-5/[Romans 5:5]#
 ____
-
-____
-I presently turned to my guide, and inquired of him the meaning of the fruit that was so delicious. He told me it was the pure love of God, shed abroad in the hearts of all those who love him, and keep his commandments.
-____
-[small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
 {% endmargin %}
 
-*1 Nephi 11:22* And I answered him, saying: Yea, it [highlight-orange]#is the love of God, which sheddeth itself abroad in the hearts of the children of men;# wherefore it is the most desirable above all things.
+*1 Nephi 11:22* And I answered him, saying: Yea, it [highlight-orange]#is the love of God, which sheddeth itself abroad in the hearts of the children of men#; wherefore it is the most desirable above all things.
 
 *1 Nephi 11:23* And he spake unto me, saying: Yea, and the most joyous to the soul.
 
-*1 Nephi 11:24* And after that he had said these words, he said unto me: Look! And I looked and I beheld the Son of God a going forth among the children of men. And I saw many fall down at his feet and worship him.
+{% margin %}
+The phrase "a going" is relatively uncommon in print from this period, but is also present in a letter written by Joseph Smith:
+____
+Mr. Stowell has a prospect of getting five or six hundred dollars he does not know certain that he can get it but he is a going to try and if he can get the money...
+____
+http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-october-1829[Letter to Oliver Cowdery, 22 October 1829]
+{% endmargin %}
+
+*1 Nephi 11:24* And after that he had said these words, he said unto me: Look! And I looked and I beheld the Son of God [highlight]#a going# forth among the children of men. And I saw many fall down at his feet and worship him.
 
 {% margin %}
 ____
