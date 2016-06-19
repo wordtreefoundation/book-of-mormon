@@ -21,16 +21,16 @@ ____
 [small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
 {% endmargin %}
 
-*1 Nephi 11:7* And behold, this thing shall be given unto thee for a sign, that after thou hast beheld the tree which bare the fruit of which thy father tasted, thou shalt also behold a man descending out of heaven and him shall ye witness. And after that ye shall have witnessed him, ye shall bear record that it is the Son of God.
+*1 Nephi 11:7* And behold, this thing shall be given unto thee for a sign, that [highlight]#after thou hast beheld the tree which bare the fruit of which thy father tasted#, thou shalt also behold a man descending out of heaven and him shall ye witness. And after that ye shall have witnessed him, ye shall bear record that it is the Son of God.
 
-{% margin %}
+{% margin 2 %}
 ____
 [The tree] was exceedingly handsome, insomuch that I looked upon it with wonder and admiration. Its beautiful branches spread themselves somewhat like an umbrella, and it bore a kind of fruit, in shape much like a chestnut bur, and as white as snow, or, if possible whiter ... the fruit which they contained, which was of dazzling whiteness
 ____
 [small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
 {% endmargin %}
 
-*1 Nephi 11:8* And it came to pass that the Spirit saith unto me: Look! And I looked and beheld a tree, and it was like unto the tree which my father had seen. And the beauty thereof was far beyond, yea, exceeding of all beauty, and the whiteness thereof did exceed the whiteness of the driven snow.
+*1 Nephi 11:8* And it came to pass that the Spirit saith unto me: Look! And I looked and beheld a [highlight]#tree, and it was like unto the tree which my father had seen. And the beauty thereof was far beyond, yea, exceeding of all beauty, and the whiteness thereof did exceed the whiteness of the driven snow#.
 
 *1 Nephi 11:9* And it came to pass that after that I had seen the tree, I said unto the Spirit: I behold thou hast shewn unto me the tree which is most precious above all.
 
@@ -55,7 +55,7 @@ ____
 
 *1 Nephi 11:16* And he saith unto me: Knowest thou the condescension of God?
 
-*1 Nephi 11:17* And I said unto him: I know that he loveth his children; nevertheless I do not know the meaning of all things.
+*1 Nephi 11:17* And I said unto him: I know that he loveth his children; nevertheless I do not know [highlight]#the meaning of all things#.
 
 *1 Nephi 11:18* And he said unto me: Behold, the virgin which thou seest is the mother of God after the manner of the flesh.
 
