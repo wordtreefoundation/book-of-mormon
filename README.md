@@ -8,7 +8,7 @@ The objective is not to find the “most correct” meaning for each passage of 
 
 ### The Remix Hypothesis
 
-According to modern research, The Book of Mormon was probably not copied directly from hundreds of sources. The book required creativity to produce, and as with any other creative work, The Book of Mormon appears to be heavily influenced by its time and place in history. Without certain foundational texts preceding the 1830 publication of The Book of Mormon, it simply could not have existed in its current form. Feel free to browse the sources, and add your comments. 
+According to modern research, The Book of Mormon was probably not plagiarized directly from hundreds of sources. The book required creativity (a form of remixing) to produce, and as with any other creative work, The Book of Mormon appears to be heavily influenced by its time and place in history. The Remix Hypothesis holds that without certain foundational texts and cultural influences preceding the 1830 publication of The Book of Mormon, it simply would not exist in its current form. Feel free to browse the sources, and add your comments. 
 
 ### Which version of The Book of Mormon do we use?
 
