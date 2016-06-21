@@ -116,5 +116,18 @@ ____
 
 *Moroni 7:47* but charity is the pure love of Christ, and it endureth forever. And whoso is found possessed of it at the last day, it shall be well with them.
 
-*Moroni 7:48* Wherefore, my beloved brethren, pray unto the Father with all the energy of heart that ye may be filled with this love which he hath bestowed upon all who are true followers of his Son Jesus Christ, that ye may become the sons of God, that when he shall appear, we shall be like him--for we shall see him as he is--that we may have this hope, that we may be purified even as he is pure. Amen.
+{% margin %}
+____
+
+1 Behold, [highlight]#what manner of love the Father hath bestowed upon us#, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
+
+2 Beloved, now are we the [highlight]#sons of God#, and it doth not yet appear what we shall be: but we know that, [highlight]#when he shall appear, we shall be like him; for we shall see him as he is.#
+
+3 And every man that hath this hope [highlight]#in him purifieth himself, even as he is pure.#
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-3/[I John 3:1-3]#
+____
+{% endmargin %}
+
+*Moroni 7:48* Wherefore, my beloved brethren, pray unto the Father with all the energy of heart that ye may be [highlight-orange]#filled with this love which he hath bestowed upon all# who are true followers of his Son Jesus Christ, that ye may [highlight-orange]#become the sons of God, that when he shall appear, we shall be like him--for we shall see him as he is#--that we may have this hope, [highlight-orange]#that we may be purified even as he is pure.# Amen.
 
