@@ -1,3 +1,12 @@
+{% margin %}
+____
+
+...faith, hope, charity...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[I Corinthians 13:13]#
+____
+{% endmargin %}
+
 *Moroni 7:1* And now I Moroni write a few of the words of my father Mormon which he spake concerning faith, hope, and charity, for after this manner did he speak unto the people as he taught them in the synagogue which they had built for the place of worship.
 
 *Moroni 7:2* And now I Mormon speak unto you, my beloved brethren. And it is by the grace of God the Father and our Lord Jesus Christ and his holy will, because of the gift of his calling unto me, that I am permitted to speak unto you at this time.
@@ -8,9 +17,27 @@
 
 *Moroni 7:5* For I remember the word of God which saith: By their works ye shall know them. For if their works be good, then they are good also.
 
-*Moroni 7:6* For behold, God hath said: A man being evil cannot do that which is good. For if he offereth a gift or prayeth unto God, except he shall do it with real intent, it profiteth him nothing;
+{% margin %}
+____
 
-*Moroni 7:7* for behold, it is not counted unto him for righteousness.
+...it profiteth me nothing.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[I Corinthians 13:3]#
+____
+{% endmargin %}
+
+*Moroni 7:6* For behold, God hath said: A man being evil cannot do that which is good. For if he offereth a gift or prayeth unto God, except he shall do it with real intent, [highlight-orange]#it profiteth him nothing;#
+
+{% margin %}
+____
+
+...it was counted unto him for righteousness.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-4/[Romans 4:3]#
+____
+{% endmargin %}
+
+*Moroni 7:7* for behold, [highlight-orange]#it is not counted unto him for righteousness.#
 
 *Moroni 7:8* For behold, if a man being evil giveth a gift, he doeth it grudgingly; wherefore it is counted unto him the same as if he had retained the gift. Wherefore he is counted evil before God.
 
@@ -28,11 +55,38 @@
 
 *Moroni 7:15* For behold, my brethren, it is given unto you to judge, that ye may know good from evil. And the way to judge is as plain, that ye may know with a perfect knowledge, as the daylight is from the dark night.
 
-*Moroni 7:16* For behold, the Spirit of Christ is given to every man that they may know good from evil. Wherefore I shew unto you the way to judge. For every thing which inviteth to do good and persuadeth to believe in Christ is sent forth by the power and gift of Christ. Wherefore ye may know with a perfect knowledge it is of God.
+{% margin %}
+____
 
-*Moroni 7:17* But whatsoever thing persuadeth men to do evil and believe not in Christ and deny him and serve not God, then ye may know with a perfect knowledge it is of the devil. For after this manner doth the devil work, for he persuadeth no man to do good--no, not one--neither doth his angels, neither doth they which subject themselves unto him.
+...the Spirit is given to every man to profit withal.
 
-*Moroni 7:18* And now my brethren, seeing that ye know the light by which ye may judge, which light is the light of Christ, see that ye do not judge wrongfully; for with that same judgment which ye judge, ye shall also be judged.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:7]#
+____
+{% endmargin %}
+
+*Moroni 7:16* For behold, [highlight-orange]#the Spirit of Christ is given to every man that they may know good from evil.# Wherefore I shew unto you the way to judge. For every thing which inviteth to do good and persuadeth to believe in Christ is sent forth by the power and gift of Christ. Wherefore ye may know with a perfect knowledge it is of God.
+
+{% margin %}
+____
+
+...none that doeth good, no, not one.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-3/[Romans 3:12]#
+____
+{% endmargin %}
+
+*Moroni 7:17* But whatsoever thing persuadeth men to do evil and believe not in Christ and deny him and serve not God, then ye may know with a perfect knowledge it is of the devil. For after this manner doth the devil work, for he persuadeth [highlight-orange]#no man to do good--no, not one#--neither doth his angels, neither doth they which subject themselves unto him.
+
+{% margin %}
+____
+
+For with what judgment ye judge, ye shall be judged...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:2]#
+____
+{% endmargin %}
+
+*Moroni 7:18* And now my brethren, seeing that ye know the light by which ye may judge, which light is the light of Christ, see that ye do not judge wrongfully; [highlight-orange]#for with that same judgment which ye judge, ye shall also be judged.#
 
 *Moroni 7:19* Wherefore I beseech of you, brethren, that ye should search diligently in the light of Christ that ye may know good from evil. And if ye will lay hold upon every good thing and condemn it not, ye certainly will be a child of Christ.
 
@@ -48,7 +102,20 @@
 
 *Moroni 7:25* Wherefore by the ministering of angels and by every word which proceeded forth out of the mouth of God, men began to exercise faith in Christ. And thus by faith they did lay hold upon every good thing; and thus it was until the coming of Christ.
 
-*Moroni 7:26* And after that he came, men also were saved by faith in his name, and by faith they became the sons of God. And assuredly as Christ liveth, he spake these words unto our fathers, saying: Whatsoever thing ye shall ask the Father in my name which is good, in faith believing that ye shall receive, behold, it shall be done unto you.
+{% margin %}
+____
+
+...Whatsoever ye shall ask the Father in my name, he will give it you.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:23]#
+
+...all things, whatsoever ye shall ask in prayer, believing, ye shall receive.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-21/[Matthew 21:22]#
+____
+{% endmargin %}
+
+*Moroni 7:26* And after that he came, men also were saved by faith in his name, and by faith they became the sons of God. And assuredly as Christ liveth, he spake these words unto our fathers, saying: [highlight-orange]#Whatsoever thing ye shall ask the Father in my name which is good, in faith believing that ye shall receive,# behold, it shall be done unto you.
 
 *Moroni 7:27* Wherefore, my beloved brethren, hath miracles ceased because that Christ hath ascended into heaven and hath sit down on the right hand of God, to claim of the Father his rights of mercy which he hath upon the children of men?
 
@@ -67,13 +134,13 @@
 {% margin %}
 ____
 
-...we are persuaded better things of you...
+...Repent, and be baptized every one of you in the name of Jesus Christ...
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:9]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
 ____
 {% endmargin %}
 
-*Moroni 7:34* And he hath said: Repent, all ye ends of the earth, and come unto me and be baptized in my name and have faith in me, that ye may be saved.
+*Moroni 7:34* And he hath said: [highlight-orange]#Repent,# all ye ends of the earth, and come unto me [highlight-orange]#and be baptized in my name# and have faith in me, that ye may be saved.
 
 *Moroni 7:35* And now my beloved brethren, if this be the case that these things are true which I have spoken unto you--and God will shew unto you with power and great glory at the last day that they are true--and if they are true, hath the day of miracles ceased?
 
