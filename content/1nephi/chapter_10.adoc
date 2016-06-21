@@ -14,18 +14,49 @@
 
 {% margin %}
 ____
-The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-40/[Isaiah 40:3]
+The voice of him that [highlight]#crieth in the wilderness, Prepare ye the way of the LORD, make straight# in the desert a highway for our God.
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-40/[Isaiah 40:3]#
+
+____
+He said, I am the voice of [highlight]#one crying in the wilderness, Make straight the way of the Lord#, as said the prophet Esaias.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:23]#
+
+____
+He it is, who coming after me is preferred before me, [highlight]#whose shoe's latchet I am not worthy to unloose#.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:27]#
+
 {% endmargin %}
 
 
-*1 Nephi 10:8* [highlight]#yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord and make his paths straight, for there standeth one among you whom ye know not--and he is mightier than I--whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.#
+*1 Nephi 10:8* yea, even he should go forth and [highlight]#cry in the wilderness: Prepare ye the way of the Lord and make his paths straight#, for there standeth one among you whom ye know not--and he is mightier than I--[highlight]#whose shoe's latchet I am not worthy to unloose#. And much spake my father concerning this thing.
 
-*1 Nephi 10:9* And my father saith that he should baptize in Bethabara beyond Jordan. And he also spake that he should baptize with water, yea, even that he should baptize the Messiah with water.
 
-*1 Nephi 10:10* And after that he had baptized the Messiah with water, he should behold and bear record that he had baptized the Lamb of God, which should take away the sin of the world.
+{% margin %}
+____
+These things were done in [highlight]#Bethabara beyond Jordan#, where John was baptizing.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:28]#
+{% endmargin %}
+
+*1 Nephi 10:9* And my father saith that he should baptize in [highlight]#Bethabara beyond Jordan#. And he also spake that he should baptize with water, yea, even that he should baptize the Messiah with water.
+
+{% margin %}
+____
+The next day John seeth Jesus coming unto him, and saith, [highlight]#Behold the Lamb of God, which taketh away the sin of the world#.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:29]#
+
+{% endmargin %}
+
+*1 Nephi 10:10* And after that he had baptized the Messiah with water, he should [highlight]#behold# and bear record that he had baptized the [highlight]#Lamb of God#, which should [highlight]#take away the sin of the world#.
 
 *1 Nephi 10:11* And it came to pass that after my father had spoken these words, he spake unto my brethren concerning the gospel which should be preached among the Jews, and also concerning the dwindling of the Jews in unbelief. And after that they had slain the Messiah which should come--and after that he had been slain, he should rise from the dead and should make himself manifest by the Holy Ghost unto the Gentiles.
 
@@ -41,7 +72,21 @@ ____
 
 *1 Nephi 10:17* And it came to pass that after I Nephi having heard all the words of my father concerning the things which he saw in a vision and also the things which he spake by the power of the Holy Ghost, which power he received by faith on the Son of God--and the Son of God was the Messiah which should come--and it came to pass that I Nephi was desirous also that I might see and hear and know of these things by the power of the Holy Ghost, which is the gift of God unto all those who diligently seek him as well in times of old as in the time that he should manifest himself unto the children of men,
 
-*1 Nephi 10:18* for he is the same yesterday and today and forever. And the way is prepared for all men from the foundation of the world if it so be that they repent and come unto him.
+{% margin %}
+____
+Jesus Christ the [highlight]#same yesterday, and to day, and for ever#.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-13/[Hebrews 13:8]#
+
+____
+...inherit the kingdom [highlight]#prepared for you from the foundation of the world#:
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
+{% endmargin %}
+
+*1 Nephi 10:18* for he is the [highlight]#same yesterday and today and forever#. And the way is [highlight]#prepared for all men from the foundation of the world# if it so be that they repent and come unto him.
 
 *1 Nephi 10:19* For he that diligently seeketh shall find, and the mysteries of God shall be unfolded to them by the power of the Holy Ghost as well in this time as in times of old and as well in times of old as in times to come; wherefore the course of the Lord is one eternal round.
 
