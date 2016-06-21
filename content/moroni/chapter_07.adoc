@@ -64,6 +64,15 @@
 
 *Moroni 7:33* And Christ hath said: If ye will have faith in me, ye shall have power to do whatsoever thing is expedient in me.
 
+{% margin %}
+____
+
+...we are persuaded better things of you...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:9]#
+____
+{% endmargin %}
+
 *Moroni 7:34* And he hath said: Repent, all ye ends of the earth, and come unto me and be baptized in my name and have faith in me, that ye may be saved.
 
 *Moroni 7:35* And now my beloved brethren, if this be the case that these things are true which I have spoken unto you--and God will shew unto you with power and great glory at the last day that they are true--and if they are true, hath the day of miracles ceased?
@@ -74,7 +83,16 @@
 
 *Moroni 7:38* for no man can be saved, according to the words of Christ, save they shall have faith in his name. Wherefore if these things have ceased, then has faith ceased also; and awful is the state of man, for they are as though there had been no redemption made.
 
-*Moroni 7:39* But behold, my beloved brethren, I judge better things of you. For I judge that ye have faith in Christ because of your meekness; for if ye have not faith in him, then ye are not fit to be numbered among the people of his church.
+{% margin %}
+____
+
+...we are persuaded better things of you...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:9]#
+____
+{% endmargin %}
+
+*Moroni 7:39* But behold, my beloved brethren, [highlight-orange]#I judge better things of you.# For I judge that ye have faith in Christ because of your meekness; for if ye have not faith in him, then ye are not fit to be numbered among the people of his church.
 
 *Moroni 7:40* And again, my beloved brethren, I would speak unto you concerning hope. How is it that ye can attain unto faith save ye shall have hope?
 
@@ -82,9 +100,27 @@
 
 *Moroni 7:42* Wherefore if a man have faith, he must needs have hope; for without faith there cannot be any hope.
 
-*Moroni 7:43* And again, behold, I say unto you that he cannot have faith and hope save he shall be meek and lowly of heart.
+{% margin %}
+____
 
-*Moroni 7:44* If so, his faith and hope is vain, for none is acceptable before God save the meek and lowly of heart. And if a man be meek and lowly in heart and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity. For if he have not charity, he is nothing; wherefore he must needs have charity.
+...I am meek and lowly in heart...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-11/[Matthew 11:29]#
+____
+{% endmargin %}
+
+*Moroni 7:43* And again, behold, I say unto you that he cannot have faith and hope save he shall be [highglight-orange]#meek and lowly of heart.#
+
+{% margin %}
+____
+
+...and have not charity, I am nothing.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:2]#
+____
+{% endmargin %}
+
+*Moroni 7:44* If so, his faith and hope is vain, for none is acceptable before God save the meek and lowly of heart. And if a man be meek and lowly in heart and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity. [highlight-orange]#For if he have not charity, he is nothing;# wherefore he must needs have charity.
 
 {% margin %}
 ____
@@ -106,13 +142,22 @@ ____
 {% margin %}
 ____
 
-8 Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+...and have not charity, I am nothing.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:2]#
+____
+
+Charity never faileth:...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:8]#
+
+...but the greatest of these is charity.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:13]#
 ____
 {% endmargin %}
 
-*Moroni 7:46* Wherefore, my beloved brethren, if ye have not charity, ye are nothing; [highlight-orange]#for charity never faileth. Wherefore cleave unto charity, which is the greatest of all. For all things must fail;#
+*Moroni 7:46* Wherefore, my beloved brethren, [highlight-orange]#if ye have not charity, ye are nothing;# [highlight-orange]#for charity never faileth.# Wherefore cleave unto charity, [highlight-orange]#which is the greatest of all.# For all things must fail;#
 
 *Moroni 7:47* but charity is the pure love of Christ, and it endureth forever. And whoso is found possessed of it at the last day, it shall be well with them.
 
