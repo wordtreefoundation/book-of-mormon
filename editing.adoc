@@ -144,6 +144,8 @@ Some [highlight-orange]#orange words to higlight# go in between the hash symbols
 
 ---
 
+We [highlight]#highlght in yellow for most references#, but [highlight-orange]#highlght in orange for New Testament references# and other anachronisms.
+
 === Links
 
 Most (if not all) of our quotations have to link to the original source, and when possible, an online source. In AsciiDoc, a link is simply the URL, followed by a description in square brackets (without any spaces between the URL and the square brackets). So for instance:
