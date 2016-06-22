@@ -16,9 +16,26 @@
 
 *1 Nephi 14:9* And it came to pass that he saith unto me: Look and behold that great and abominable church, which is the mother of abominations, whose founder is the devil.
 
-*1 Nephi 14:10* And he saith unto me: Behold, there is save it be two churches; the one is the church of the Lamb of God and the other is the church of the devil. Wherefore whoso belongeth not to the church of the Lamb of God belongeth to that great church which is the mother of abominations, and she is the whore of all the earth.
+{% margin %}
+____
+And upon her forehead was a name written, MYSTERY, BABYLON THE [highlight-orange]#GREAT, THE MOTHER OF HARLOTS# AND [highlight-orange]#ABOMINATIONS OF THE EARTH#.
+____
 
-*1 Nephi 14:11* And it came to pass that I looked and beheld the whore of all the earth. And she sat upon many waters, and she had dominion over all the earth among all nations, kindreds, tongues, and people.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-17/[Revelation 17:5]#
+
+{% endmargin %}
+
+*1 Nephi 14:10* And he saith unto me: Behold, there is save it be two churches; the one is the church of the Lamb of God and the other is the church of the devil. Wherefore whoso belongeth not to the church of the Lamb of God belongeth to that [highlight-orange]#great# church which is the [highlight-orange]#mother of abominations#, and she is the [highlight-orange]#whore of all the earth#.
+
+{% margin %}
+____
+I will shew unto thee the judgment of the great [highlight-orange]#whore# that [highlight-orange]#sitteth upon many waters#:
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-17/[Revelation 17:1]#
+{% endmargin %}
+
+*1 Nephi 14:11* And it came to pass that I looked and beheld the [highlight-orange]#whore of all the earth#. And she [highlight-orange]#sat upon many waters#, and she had dominion over all the earth among all nations, kindreds, tongues, and people.
 
 *1 Nephi 14:12* And it came to pass that I beheld the church of the Lamb of God; and its numbers were few because of the wickedness and abominations of the whore which sat upon many waters. Nevertheless I beheld that the church of the Lamb, which were the saints of God, were also upon all the face of the earth; and their dominions upon the face of the earth were small because of the wickedness of the great whore which I saw.
 
