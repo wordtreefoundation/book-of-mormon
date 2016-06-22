@@ -10,51 +10,51 @@
 
 {% margin %}
 ____
-Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]
+Thus saith the Lord GOD, Behold, I will [highlight-orange]#lift up mine hand to the Gentiles, and set up my standard to the people#: and [highlight-orange]#they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders#.
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]#
 {% endmargin %}
 
 
-*1 Nephi 22:6* [highlight]#Nevertheless, after that they have been nursed by the Gentiles, and the Lord hath lifted up his hand upon the Gentiles and set them up for a standard, and their children shall be carried in their arms and their daughters shall be carried upon their shoulders--behold, these things of which are spoken are temporal, for thus is the covenants of the Lord with our fathers. And it meaneth us in the days to come and also all our brethren which are of the house of Israel.#
+*1 Nephi 22:6* Nevertheless, after that they have been nursed by the Gentiles, and the Lord hath [highlight-orange]#lifted up his hand upon the Gentiles and set them up for a standard#, and their [highlight-orange]#children shall be carried in their arms and their daughters shall be carried upon their shoulders#--behold, these things of which are spoken are temporal, for thus is the covenants of the Lord with our fathers. And it meaneth us in the days to come and also all our brethren which are of the house of Israel.
 
 *1 Nephi 22:7* And it meaneth that the time cometh that after all the house of Israel have been scattered and confounded that the Lord God will raise up a mighty nation among the Gentiles, yea, even upon the face of this land, and by them shall our seed be scattered.
 
 {% margin %}
 ____
-Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]
+[highlight-orange]#and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.#
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]#
 {% endmargin %}
 
 
-*1 Nephi 22:8* [highlight]#And after that our seed is scattered, the Lord God will proceed to do a marvelous work among the Gentiles which shall be of great worth unto our seed. Wherefore it is likened unto the being nursed by the Gentiles and being carried in their arms and upon their shoulders.#
+*1 Nephi 22:8* And after that our seed is scattered, the Lord God will proceed to do a marvelous work among the Gentiles which shall be of great worth unto our seed. Wherefore it is likened unto the being nursed by the Gentiles and being [highlight-orange]#carried in their arms and upon their shoulders.#
 
 *1 Nephi 22:9* And it shall also be of worth unto the Gentiles--and not only unto the Gentiles but unto all the house of Israel--unto the making known of the covenants of the Father of heaven unto Abraham, saying: In thy seed shall all the kindreds of the earth be blessed.
 
 {% margin %}
 ____
-The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
+The LORD hath [highlight-orange]#made bare his holy arm in the eyes of all the nations#; and all the ends of the earth shall see the salvation of our God.
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]#
 {% endmargin %}
 
 
-*1 Nephi 22:10* [highlight]#And I would, my brethren, that ye should know that all the kindreds of the earth cannot be blessed unless he shall make bare his arm in the eyes of the nations.#
+*1 Nephi 22:10* And I would, my brethren, that ye should know that all the kindreds of the earth cannot be blessed unless he shall [highlight-orange]#make bare his arm in the eyes of the nations.#
 
 {% margin %}
 ____
-The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
+The LORD hath [highlight-orange]#made bare his holy arm in the eyes of all the nations#; and all the ends of the earth shall see the salvation of our God.
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]#
 {% endmargin %}
 
 
-*1 Nephi 22:11* [highlight]#Wherefore the Lord God will proceed to make bare his arm in the eyes of all the nations, in bringing about his covenants and his gospel unto they which are of the house of Israel.#
+*1 Nephi 22:11* Wherefore the Lord God will proceed to [highlight-orange]#make bare his arm in the eyes of all the nations#, in bringing about his covenants and his gospel unto they which are of the house of Israel.
 
 *1 Nephi 22:12* Wherefore he will bring them again out of captivity, and they shall be gathered together to the lands of their first inheritance. And they shall be brought out of obscurity and out of darkness, and they shall know that the Lord is their Savior and their Redeemer, the Mighty One of Israel.
 
@@ -62,17 +62,56 @@ ____
 
 *1 Nephi 22:14* And every nation which shall war against thee, O house of Israel, shall be turned one against another. And they shall fall into the pit which they digged to ensnare the people of the Lord. And all they which fight against Zion shall be destroyed. And that great whore which hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust, and great shall be the fall of it.
 
-*1 Nephi 22:15* For behold, saith the prophet, that the time cometh speedily that Satan shall have no more power over the hearts of the children of men. For the day soon cometh that all the proud and they which do wickedly shall be as stubble. And the day cometh that they must be burned.
+{% margin %}
+____
+[highlight-orange]#For, behold, the day cometh, that# shall burn as an oven; and [highlight-orange]#all the proud#, yea, and all that [highlight-orange]#do wickedly, shall be stubble: and the day that cometh shall burn them# up, saith the LORD of hosts, that it shall leave them neither root nor branch.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:1]#
+{% endmargin %}
+
+
+*1 Nephi 22:15* [highlight-orange]#For behold#, saith the prophet, that the time cometh speedily that Satan shall have no more power over the hearts of the children of men. [highlight-orange]#For the day soon cometh that all the proud and they which do wickedly shall be as stubble#. And the [highlight-orange]#day cometh that they must be burned#.
 
 *1 Nephi 22:16* For the time soon cometh that the fullness of the wrath of God shall be poured out upon all the children of men, for he will not suffer that the wicked shall destroy the righteous.
 
-*1 Nephi 22:17* Wherefore he will preserve the righteous by his power, even if it so be that the fullness of his wrath must come and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore the righteous need not fear, for thus, saith the prophet, they shall be saved, even if it so be as by fire.
+{% margin %}
+____
+[highlight-orange]#but he himself shall be saved; yet so as by fire#.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-3/[1 Corinthians 3:15]#
+{% endmargin %}
 
-*1 Nephi 22:18* Behold, my brethren, I say unto you that these things must shortly come; yea, even blood and fire and vapor of smoke must come, and it must needs be upon the face of this earth. And it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.
+*1 Nephi 22:17* Wherefore he will preserve the righteous by his power, even if it so be that the fullness of his wrath must come and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore the righteous need not fear, for thus, saith the prophet, [highlight-orange]#they shall be saved, even if it so be as by fire#.
+
+{% margin %}
+____
+[highlight-orange]#blood, and fire, and vapour of smoke#:
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:19]#
+
+{% endmargin %}
+
+*1 Nephi 22:18* Behold, my brethren, I say unto you that these things must shortly come; yea, even [highlight-orange]#blood and fire and vapor of smoke# must come, and it must needs be upon the face of this earth. And it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.
 
 *1 Nephi 22:19* For behold, the righteous shall not perish, for the time surely must come that all they which fight against Zion shall be cut off.
 
-*1 Nephi 22:20* And the Lord will surely prepare a way for his people unto the fulfilling of the words of Moses, which he spake, saying: A prophet shall the Lord your God raise up unto you like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all they which will not hear that prophet shall be cut off from among the people.
+{% margin %}
+____
+For [highlight-orange]#Moses# truly said unto the fathers, [highlight-orange]#A prophet shall the Lord your God raise up unto you# of your brethren, [highlight-orange]#like unto me; him shall ye hear in all things whatsoever he shall say unto you.#
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:22]#
+
+____
+[highlight-orange]#And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people#.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:23]#
+{% endmargin %}
+
+
+*1 Nephi 22:20* And the Lord will surely prepare a way for his people unto the fulfilling of the words of [highlight-orange]#Moses#, which he spake, saying: [highlight-orange]#A prophet shall the Lord your God raise up unto you like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all they which will not hear that prophet shall be cut off from among the people#.
 
 *1 Nephi 22:21* And now I Nephi declare unto you that this prophet of whom Moses spake was the Holy One of Israel. Wherefore he shall execute judgment in righteousness.
 
@@ -80,9 +119,23 @@ ____
 
 *1 Nephi 22:23* For the time speedily shall come that all churches which are built up to get gain and all they which are built up to get power over the flesh and they which are built up to become popular in the eyes of the world and they which seek the lusts of the flesh and the things of the world and to do all manner of iniquity, yea, in fine, all they which belong to the kingdom of the devil, it is they which need fear and tremble and quake; it is they which must be brought low in the dust; it is they which must be consumed as stubble. And this is according to the words of the prophet.
 
-*1 Nephi 22:24* And the time cometh speedily that the righteous must be led up as calves of the stall, and the Holy One of Israel must reign in dominion and might and power and great glory.
+{% margin %}
+____
+and ye shall go forth, and grow up [highlight-orange]#as calves of the stall#.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:2]#
+{% endmargin %}
 
-*1 Nephi 22:25* And he gathereth his children from the four quarters of the earth, and he numbereth his sheep and they know him. And there shall be one fold and one shepherd; and he shall feed his sheep and in him they shall find pasture.
+*1 Nephi 22:24* And the time cometh speedily that the righteous must be led up [highlight-orange]#as calves of the stall#, and the Holy One of Israel must reign in dominion and might and power and great glory.
+
+{% margin %}
+____
+[highlight-orange]#and there shall be one fold, and one shepherd#
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:16]#
+{% endmargin %}
+
+*1 Nephi 22:25* And he gathereth his children from the four quarters of the earth, and he numbereth his sheep and they know him. And [highlight-orange]#there shall be one fold and one shepherd#; and he shall feed his sheep and in him they shall find pasture.
 
 *1 Nephi 22:26* And because of the righteousness of his people, Satan hath no power; wherefore he cannot be loosed for the space of many years, for he hath no power over the hearts of the people, for they dwell in righteousness and the Holy One of Israel reigneth.
 
@@ -94,5 +147,12 @@ ____
 
 *1 Nephi 22:30* Wherefore, my brethren, I would that ye should consider that the things which have been written upon the plates of brass are true, and they testify that a man must be obedient to the commandments of God.
 
-*1 Nephi 22:31* Wherefore ye need not suppose that I and my father are the only ones which have testified and also taught them. Wherefore if ye shall be obedient to the commandments and endure to the end, ye shall be saved at the last day. And thus it is. Amen.
+{% margin %}
+____
+But he that shall [highlight-orange]#endure unto the end, the same shall be saved#.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+{% endmargin %}
+
+*1 Nephi 22:31* Wherefore ye need not suppose that I and my father are the only ones which have testified and also taught them. Wherefore if ye shall be obedient to the commandments and [highlight-orange]#endure to the end, ye shall be saved# at the last day. And thus it is. Amen.
 
