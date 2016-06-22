@@ -38,5 +38,12 @@
 
 *2 Nephi 31:20* Wherefore ye must press forward with a steadfastness in Christ, having a perfect brightness of hope and a love of God and of all men; wherefore if ye shall press forward, feasting upon the word of Christ and endure to the end, behold, thus saith the Father, ye shall have eternal life.
 
-*2 Nephi 31:21* And now behold, my beloved brethren, this is the way. And there is none other way nor name given under heaven whereby man can be saved in the kingdom of God. And now behold, this is the doctrine of Christ, and the only and true doctrine of the Father and of the Son and of the Holy Ghost, which is one God without end. Amen.
+{% margin %}
+____
+Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-4/[Acts 4:12]#
+{% endmargin %}
+
+*2 Nephi 31:21* And now behold, my beloved brethren, this is the way. And [highlight-orange]#there is none other way nor name given under heaven whereby man can be saved# in the kingdom of God. And now behold, this is the doctrine of Christ, and the only and true doctrine of the Father and of the Son and of the Holy Ghost, which is one God without end. Amen.
 

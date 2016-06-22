@@ -6,7 +6,14 @@
 
 *3 Nephi 26:4* and even unto the great and last day when all people and all kindreds and all nations and tongues shall stand before God to be judged of their works, whether they be good or whether they be evil--
 
-*3 Nephi 26:5* if they be good, to the resurrection of everlasting life; and if they be evil, to the resurrection of damnation--being on a parallel, the one on the one hand and the other on the other hand--according to the mercy and the justice and the holiness which is in Christ, which was before the world began.
+{% margin %}
+____
+And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-5/[John 5:29]#
+{% endmargin %}
+
+*3 Nephi 26:5* [highlight-orange]#if they be good, to the resurrection of everlasting life; and if they be evil, to the resurrection of damnation#--being on a parallel, the one on the one hand and the other on the other hand--according to the mercy and the justice and the holiness which is in Christ, which was before the world began.
 
 *3 Nephi 26:6* And now there cannot be written in this book even an hundredth part of the things which Jesus did truly teach unto the people.
 
