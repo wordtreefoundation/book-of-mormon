@@ -1,12 +1,39 @@
-*Helaman 15:1* And now my beloved brethren, behold, I declare unto you that except ye shall repent, your houses shall be left unto you desolate.
+{% margin %}
+____
 
-*Helaman 15:2* Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck. For ye shall attempt to flee and there shall be no place for refuge. Yea, and woe unto them which are with child, for they shall be heavy and cannot flee. Therefore they shall be trodden down and shall be left to perish.
+...your house is left unto you desolate.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-23/[Matthew 23:38]#
+____
+{% endmargin %}
+
+*Helaman 15:1* And now my beloved brethren, behold, I declare unto you that except ye shall repent, [highlight-orange]#your houses shall be left unto you desolate.#
+
+{% margin %}
+____
+
+...woe unto them that are with child...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:19]#
+____
+{% endmargin %}
+
+*Helaman 15:2* Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck. For ye shall attempt to flee and there shall be no place for refuge. Yea, and [highlight-orange]#woe unto them which are with child#, for they shall be heavy and cannot flee. Therefore they shall be trodden down and shall be left to perish.
 
 *Helaman 15:3* Yea, woe unto this people which are called the people of Nephi except they shall repent when they shall see all those signs and wonders which shall be shewed unto them. For behold, they have been a chosen people of the Lord. Yea, the people of Nephi hath he loved. And also hath he chastened them; yea, in the days of their iniquities hath he chastened them because he loveth them.
 
 *Helaman 15:4* But behold, my brethren, the Lamanites hath he hated because their deeds have been evil continually--and this because of the iniquity of the tradition of their fathers. But behold, salvation hath come unto them through the preaching of the Nephites; and for this intent hath the Lord prolonged their days.
 
-*Helaman 15:5* And I would that ye should behold that the more part of them are in the path of their duty, and they do walk circumspectly before God, and they do observe to keep his commandments and his statutes and his judgments according to the law of Moses.
+{% margin %}
+____
+
+See then that ye walk circumspectly...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-5/[Ephesians 5:15]#
+____
+{% endmargin %}
+
+*Helaman 15:5* And I would that ye should behold that the more part of them are in the path of their duty, and they [highlight-orange]#do walk circumspectly before God#, and they do observe to keep his commandments and his statutes and his judgments according to the law of Moses.
 
 *Helaman 15:6* Yea, I say unto you that the more part of them are doing this. And they are striving with unwearied diligence that they may bring the remainder of their brethren to the knowledge of the truth. Therefore there are many which do add to their numbers daily.
 
