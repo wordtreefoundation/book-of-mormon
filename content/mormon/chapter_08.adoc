@@ -36,6 +36,16 @@
 
 *Mormon 8:19* For behold, the same that judgeth rashly shall be judged rashly again, for according to his works shall his wages be. Therefore he that smiteth shall be smitten again of the Lord.
 
+{% margin %}
+____
+
+...Vengeance is mine; I will repay, saith the Lord.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-12/[Romans 12:19]#
+
+____
+{% endmargin %}
+
 *Mormon 8:20* Behold what the scripture saith: Man shall not smite, neither shall he judge; for judgment is mine, saith the Lord, and vengeance is mine also, and I will repay.
 
 *Mormon 8:21* And he that shall breathe out wrath and strifes against the work of the Lord and against the covenant people of the Lord, which is the house of Israel, and shall say: We will destroy the work of the Lord, and the Lord will not remember his covenant which he hath made unto the house of Israel--the same is in danger to be hewn down and cast into the fire.
