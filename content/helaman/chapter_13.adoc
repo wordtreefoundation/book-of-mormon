@@ -46,7 +46,16 @@
 
 *Helaman 13:24* Yea, woe unto this people because of this time which has arriven that ye do cast out the prophets and do mock them and cast stones at them and do slay them and do do all manner of iniquity unto them, even as they did of old time.
 
-*Helaman 13:25* And now when ye talk, ye say: If our days had been in the days of our fathers of old, we would not have slain the prophets; we would not have stoned them and cast them out.
+{% margin %}
+____
+
+...If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-23/[Matthew 23:30]#
+____
+{% endmargin %}
+
+*Helaman 13:25* And now when ye talk, ye say: [highlight-orange]#If our days had been in the days of our fathers of old, we would not have slain the prophets;# we would not have stoned them and cast them out.
 
 *Helaman 13:26* Behold, ye are worse than they. For as the Lord liveth, if a prophet come among you and declareth unto you the word of the Lord, which testifieth of your sins and iniquities, ye are angry with him and cast him out and seek all manner of ways to destroy him. Yea, you will say that he is a false prophet and that he is a sinner and of the devil because he testifieth that your deeds are evil.
 
@@ -54,7 +63,26 @@
 
 *Helaman 13:28* yea, ye will lift him up. And ye will give unto him of your substance; ye will give unto him of your gold and of your silver; and ye will clothe him with costly apparel. And because he speaketh flattering words unto you and he saith that all is well, and then ye will not find no fault with him.
 
-*Helaman 13:29* O ye wicked and ye perverse generation, ye hardened and ye stiffnecked people, how long will ye suppose that the Lord will suffer you? Yea, how long will ye suffer yourselves to be led by foolish and blind guides? Yea, how long will ye choose darkness rather than light?
+{% margin %}
+____
+
+...O faithless and perverse generation...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-17/[Matthew 17:17]#
+____
+
+...ye blind guides...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-23/[Matthew 23:16]#
+____
+
+...men loved darkness rather than light...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-3/[John 3:19]#
+____
+{% endmargin %}
+
+*Helaman 13:29* O ye [highlight-orange]#wicked and ye perverse generation#, ye hardened and ye stiffnecked people, how long will ye suppose that the Lord will suffer you? Yea, how long will ye suffer yourselves to be led by foolish and [highlight-orange]#blind guides#? Yea, how long will ye [highlight-orange]#choose darkness rather than light?#
 
 *Helaman 13:30* Yea, behold, the anger of the Lord is already kindled against you. Behold, he hath cursed the land because of your iniquity.
 
