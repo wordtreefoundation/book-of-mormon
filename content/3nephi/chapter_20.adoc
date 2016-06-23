@@ -32,7 +32,7 @@
 ____
 And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]#
 ____
 {% endmargin %}
 
@@ -43,7 +43,7 @@ ____
 ____
 Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]#
 ____
 {% endmargin %}
 
@@ -54,7 +54,7 @@ ____
 ____
 But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:12]#
 ____
 {% endmargin %}
 
@@ -65,7 +65,7 @@ ____
 ____
 Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-4/[Micah 4:13]#
 ____
 {% endmargin %}
 
@@ -82,7 +82,7 @@ ____
 ____
 For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:22-23]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:22-23]#
 ____
 {% endmargin %}
 
@@ -93,7 +93,7 @@ ____
 
 ..and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:24]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:24]#
 ____
 {% endmargin %}
 
@@ -104,7 +104,7 @@ ____
 
 Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:25]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:25]#
 ____
 {% endmargin %}
 
@@ -115,7 +115,7 @@ ____
 
 Unto you first God, [highlight]#having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.#
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:26]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:26]#
 ____
 {% endmargin %}
 
@@ -126,7 +126,7 @@ ____
 
 ...Abraham, And in thy seed shall all the kindreds of the earth be blessed.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:25]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:25]#
 ____
 {% endmargin %}
 
@@ -144,7 +144,7 @@ ____
 ____
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]#
 ____
 {% endmargin %}
 
@@ -157,7 +157,7 @@ ____
 ____
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]#
 ____
 {% endmargin %}
 
@@ -168,7 +168,7 @@ ____
 ____
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]#
 ____
 {% endmargin %}
 
