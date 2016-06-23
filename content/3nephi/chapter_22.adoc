@@ -2,7 +2,7 @@
 ____
 Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 For a small moment have I forsaken thee; but with great mercies will I gather thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 And all thy children shall be taught of the LORD; and great shall be the peace of thy children.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +145,7 @@ ____
 ____
 In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +156,7 @@ ____
 ____
 Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +167,7 @@ ____
 ____
 Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +178,7 @@ ____
 ____
 No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:17]#
 ____
 {% endmargin %}
 
