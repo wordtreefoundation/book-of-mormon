@@ -22,9 +22,18 @@
 
 *3 Nephi 1:12* And it came to pass that he cried mightily unto the Lord all that day. And behold, the voice of the Lord came unto him, saying:
 
-*3 Nephi 1:13* Lift up your head and be of good cheer. For behold, the time is at hand, and on this night shall the sign be given. And on the morrow come I into the world, to shew unto the world that I will fulfill all that which I have caused to be spoken by the mouth of my holy prophets.
+{% margin 2 %}
+____
 
-*3 Nephi 1:14* Behold, I come unto my own to fulfill all things which I have made known unto the children of men from the foundation of the world, and to do the will both of the Father and of the Son--of the Father because of me, and of the Son because of my flesh. And behold, the time is at hand, and this night shall the sign be given.
+...the time is at hand.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:10]#
+____
+{% endmargin %}
+
+*3 Nephi 1:13* Lift up your head and be of good cheer. For behold, [highlight-orange]#the time is at hand#, and on this night shall the sign be given. And on the morrow come I into the world, to shew unto the world that I will fulfill all that which I have caused to be spoken by the mouth of my holy prophets.
+
+*3 Nephi 1:14* Behold, I come unto my own to fulfill all things which I have made known unto the children of men from the foundation of the world, and to do the will both of the Father and of the Son--of the Father because of me, and of the Son because of my flesh. And behold, [highlight-orange]#the time is at hand#, and this night shall the sign be given.
 
 *3 Nephi 1:15* And it came to pass that the words which came unto Nephi was fulfilled, according as they had been spoken. For behold, at the going down of the sun there was no darkness. And the people began to be astonished because there was no darkness when the night came.
 
@@ -46,7 +55,16 @@
 
 *3 Nephi 1:24* And there were no contentions save it were a few that began to preach--endeavoring to prove by the scriptures--that it was no more expedient to observe the law of Moses. Now in this thing they did err, having not understood the scriptures.
 
-*3 Nephi 1:25* But it came to pass that they soon became converted and were convinced of the error which they were in, for it was made known unto them that the law was not yet fulfilled and that it must be fulfilled in every whit. Yea, the word came unto them that it must be fulfilled--yea, that one jot nor tittle should not pass away till it should all be fulfilled. Therefore in this same year were they brought to a knowledge of their error and did confess their faults.
+{% margin %}
+____
+
+...one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:18]#
+____
+{% endmargin %}
+
+*3 Nephi 1:25* But it came to pass that they soon became converted and were convinced of the error which they were in, for it was made known unto them that the law was not yet fulfilled and that it must be fulfilled in every whit. Yea, the word came unto them that it must be fulfilled--yea, that [highlight-orange]#one jot nor tittle should not pass away till it should all be fulfilled.# Therefore in this same year were they brought to a knowledge of their error and did confess their faults.
 
 *3 Nephi 1:26* And thus the ninety and second year did pass away, bringing glad tidings unto the people because of the signs which did come to pass according to the words of the prophecy of all the holy prophets.
 
