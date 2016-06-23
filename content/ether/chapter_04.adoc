@@ -18,7 +18,17 @@
 
 *Ether 4:10* And he that believeth not my words believeth not my disciples. And if it so be that I do not speak, judge ye; for ye shall know that it is I that speaketh, at the last day.
 
-*Ether 4:11* But he that believeth these things which I have spoken, him will I visit with the manifestations of my Spirit. And he shall know and bear record; for because of my Spirit he shall know that these things are true, for it persuadeth men to do good.
+{% margin %}
+____
+
+...the manifestation of the Spirit...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:7]#
+
+____
+{% endmargin %}
+
+*Ether 4:11* But he that believeth these things which I have spoken, him will I visit with [highlight-orange]#the manifestations of my Spirit.# And he shall know and bear record; for because of my Spirit he shall know that these things are true, for it persuadeth men to do good.
 
 *Ether 4:12* And whatsoever thing persuadeth men to do good is of me, for good cometh of none save it be of me. I am the same that leadeth men to all good. He that will not believe my words will not believe me, that I am. And he that will not believe me will not believe the Father, which sent me. For behold, I am the Father. I am the light and the life and the truth of the world.
 
@@ -32,7 +42,33 @@
 
 *Ether 4:17* Therefore when ye shall receive this record, ye may know that the work of the Father has commenced upon all the face of the land.
 
-*Ether 4:18* Therefore repent, all ye ends of the earth, and come unto me and believe in my gospel and be baptized in my name. For he that believeth and is baptized shall be saved, but he that believeth not shall be damned. And signs shall follow them that believe in my name.
+{% margin %}
+____
 
-*Ether 4:19* And blessed is he that is found faithful unto my name at the last day, for they shall be lifted up to dwell in the kingdom prepared for them from the foundation of the world. And behold, it is I that hath spoken it. Amen.
+He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:16]#
+
+____
+
+And these signs shall follow them that believe; In my name...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:17]#
+
+____
+{% endmargin %}
+
+*Ether 4:18* Therefore repent, all ye ends of the earth, and come unto me and believe in my gospel and be baptized in my name. For [highlight-orange]#he that believeth and is baptized shall be saved, but he that believeth not shall be damned#. [highlight-orange]#And signs shall follow them that believe in my name.#
+
+{% margin %}
+____
+
+...the kingdom prepared for you from the foundation of the world...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
+
+____
+{% endmargin %}
+
+*Ether 4:19* And blessed is he that is found faithful unto my name at the last day, for they shall be lifted up to dwell in the [highlight-orange]#kingdom prepared for them from the foundation of the world.# And behold, it is I that hath spoken it. Amen.
 
