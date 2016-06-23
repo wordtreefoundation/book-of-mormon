@@ -16,14 +16,22 @@
 ____
 So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:15]#
 ____
 {% endmargin %}
 
 
 *3 Nephi 21:8* [highlight]#And when that day shall come, it shall come to pass that kings shall shut their mouths; for that which had not been told them shall they see, and that which they had not heard shall they consider.#
 
-*3 Nephi 21:9* For in that day, for my sake, shall the Father work a work which shall be a great and a marvelous work among them. And there shall be many among them which will not believe it, although a man shall declare it unto them.
+{% margin %}
+____
+...I will proceed to do a marvellous work among this people, even a marvellous work and a wonder...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:14]#
+____
+{% endmargin %}
+
+*3 Nephi 21:9* For in that day, for my sake, shall the Father work a work [highlight-orange]#which shall be a great and a marvelous work among them.# And there shall be many among them which will not believe it, although a man shall declare it unto them.
 
 *3 Nephi 21:10* But behold, the life of my servant shall be in my hand; therefore they shall not hurt him, although he shall be marred because of them. Yet I will heal him, for I will shew unto them that my wisdom is greater than the cunning of the devil.
 
@@ -33,7 +41,7 @@ ____
 ____
 And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:8]#
 ____
 {% endmargin %}
 
@@ -44,7 +52,7 @@ ____
 ____
 Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:9]#
 ____
 {% endmargin %}
 
@@ -55,7 +63,7 @@ ____
 ____
 And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:10]#
 ____
 {% endmargin %}
 
@@ -66,7 +74,7 @@ ____
 ____
 And I will cut off the cities of thy land, and throw down all thy strong holds:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:11]#
 ____
 {% endmargin %}
 
@@ -77,7 +85,7 @@ ____
 ____
 And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:12]#
 ____
 {% endmargin %}
 
@@ -88,7 +96,7 @@ ____
 ____
 Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:13]#
 ____
 {% endmargin %}
 
@@ -99,7 +107,7 @@ ____
 ____
 And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:14]#
 ____
 {% endmargin %}
 
@@ -130,7 +138,7 @@ ____
 ____
 For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:12]#
 ____
 {% endmargin %}
 
