@@ -59,5 +59,14 @@ ____
 
 *Mormon 3:21* and also that ye may believe the gospel of Jesus Christ, which ye shall have among you, and also that the Jews, the covenant people of the Lord, shall have other witness besides that which they saw and heard, that Jesus, whom they slew, was the very Christ and the very God.
 
-*Mormon 3:22* And I would that I could persuade all ye ends of the earth to repent and prepare to stand before the judgment seat of Christ.
+{% margin %}
+____
+
+For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:10]#
+____
+{% endmargin %}
+
+*Mormon 3:22* And I would that I could persuade all ye ends of the earth to repent and prepare to stand before the [highlight-orange]#judgment seat of Christ.#
 
