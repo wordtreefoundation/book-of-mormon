@@ -2,7 +2,7 @@
 ____
 For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the LORD of hosts.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:6]#
 ____
 {% endmargin %}
 
