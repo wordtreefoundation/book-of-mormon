@@ -54,7 +54,16 @@ ____
 
 *Helaman 14:24* And many highways shall be broken up; and many cities shall become desolate.
 
-*Helaman 14:25* And many graves shall be opened and shall yield up many of their dead; and many saints shall appear unto many.
+{% margin %}
+____
+
+And the graves were opened; and many bodies of the saints which slept arose, And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52-53]#
+____
+{% endmargin %}
+
+*Helaman 14:25* [highlight-orange]#And many graves shall be opened and shall yield up many of their dead; and many saints shall appear unto many.#
 
 *Helaman 14:26* And behold, thus hath the angel spoken unto me. For he said unto me that there should be thunderings and lightnings for the space of many hours.
 
