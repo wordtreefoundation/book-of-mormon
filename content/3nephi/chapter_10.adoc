@@ -4,7 +4,7 @@
 
 *3 Nephi 10:3* And it came to pass that there came a voice again unto the people--and all the people did hear and did witness of it--saying:
 
-{% margin %}
+{% margin 3 %}
 ____
 
 ...how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings...
