@@ -4,7 +4,16 @@
 
 *Helaman 11:3* And it came to pass that in this year Nephi did cry unto the Lord, saying:
 
-*Helaman 11:4* O Lord, do not suffer that this people shall be destroyed by the sword. But O Lord, rather let there be a famine in the land to stir them up in remembrance of the Lord their God; and perhaps they will repent and turn unto thee.
+{% margin %}
+____
+
+...to stir you up by putting you in remembrance;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-1/[II Peter 1:13]#
+____
+{% endmargin %}
+
+*Helaman 11:4* O Lord, do not suffer that this people shall be destroyed by the sword. But O Lord, rather let there be a famine in the land [highlight-orange]#to stir them up in remembrance# of the Lord their God; and perhaps they will repent and turn unto thee.
 
 *Helaman 11:5* And so it was done according to the words of Nephi, and there was a great famine upon the land among all the people of Nephi. And thus in the seventy and fourth year the famine did continue; and the work of destruction did cease by the sword but became sore by famine.
 
@@ -64,7 +73,16 @@
 
 *Helaman 11:33* Yea, for they did visit many parts of the land and did do great destruction unto them, yea, did kill many and did carry away others captive into the wilderness, yea, and more especially their women and their children.
 
-*Helaman 11:34* Now this great evil which came unto the people because of their iniquity did stir them up again in remembrance of the Lord their God.
+{% margin %}
+____
+
+...to stir you up by putting you in remembrance;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-1/[II Peter 1:13]#
+____
+{% endmargin %}
+
+*Helaman 11:34* Now this great evil which came unto the people because of their iniquity [highlight-orange]#did stir them up again in remembrance# of the Lord their God.
 
 *Helaman 11:35* And thus ended the eighty and first year of the reign of the judges.
 
