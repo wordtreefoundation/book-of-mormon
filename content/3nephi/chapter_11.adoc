@@ -10,7 +10,16 @@
 
 *3 Nephi 11:6* And behold, the third time they did understand the voice which they heard, and it saith unto them:
 
-*3 Nephi 11:7* Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my name. Hear ye him!
+{% margin %}
+____
+
+...This is my beloved Son, in whom I am well pleased; hear ye him.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-17/[Matthew 17:5]#
+____
+{% endmargin %}
+
+*3 Nephi 11:7* Behold [highlight-orange]#my Beloved Son, in whom I am well pleased, in whom I have glorified my name. Hear ye him!#
 
 *3 Nephi 11:8* And it came to pass as they understood, they cast their eyes up again towards heaven. And behold, they saw a man descending out of heaven, and he was clothed in a white robe. And he came down and stood in the midst of them, and the eyes of the whole multitude was turned upon him. And they durst not open their mouths, even one to another, and wist not what it meant, for they thought it was an angel that had appeared unto them.
 
@@ -18,7 +27,16 @@
 
 *3 Nephi 11:10* Behold, I am Jesus Christ--of which the prophets testified--that should come into the world.
 
-*3 Nephi 11:11* And behold, I am the light and the life of the world. And I have drank out of that bitter cup which the Father hath given me and have glorified the Father in taking upon me the sins of the world, in the which I have suffered the will of the Father in all things from the beginning.
+{% margin %}
+____
+
+...I am the light of the world...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
+____
+{% endmargin %}
+
+*3 Nephi 11:11* And behold, [highlight-orange]#I am the light and the life of the world.# And I have drank out of that bitter cup which the Father hath given me and have glorified the Father in taking upon me the sins of the world, in the which I have suffered the will of the Father in all things from the beginning.
 
 *3 Nephi 11:12* And it came to pass that when Jesus had spake these words, the whole multitude fell to the earth, for they remembered that it had been prophesied among them that Christ should shew himself unto them after his ascension into heaven.
 
@@ -46,11 +64,38 @@
 
 *3 Nephi 11:24* And now behold, these are the words which ye shall say, calling them by name, saying:
 
-*3 Nephi 11:25* Having authority given me of Jesus Christ, I baptize you in the name of the Father and of the Son and of the Holy Ghost. Amen.
+{% margin %}
+____
+
+...baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-28/[Matthew 28:19]#
+____
+{% endmargin %}
+
+*3 Nephi 11:25* Having authority given me of Jesus Christ, [highlight-orange]#I baptize you in the name of the Father and of the Son and of the Holy Ghost.# Amen.
 
 *3 Nephi 11:26* And then shall ye immerse them in the water and come forth again out of the water.
 
-*3 Nephi 11:27* And after this manner shall ye baptize in my name. For behold, verily I say unto you that the Father and the Son and the Holy Ghost are one; and I am in the Father and the Father in me, and the Father and I are one.
+{% margin %}
+____
+...the Father, the Word, and the Holy Ghost: and these three are one.:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-5/[I John 5:7]#
+____
+
+...I am in the Father, and the Father in me...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:11]#
+____
+
+I and my Father are one.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:30]#
+____
+{% endmargin %}
+
+*3 Nephi 11:27* And after this manner shall ye baptize in my name. For behold, verily I say unto you that the [highlight-orange]#Father and the Son and the Holy Ghost are one#; and [highlight-orange]#I am in the Father and the Father in me#, and the [highlight-orange]#Father and I are one.#
 
 *3 Nephi 11:28* And according as I have commanded you, thus shall ye baptize. And there shall be no disputations among you as there hath hitherto been, neither shall there be disputations among you concerning the points of my doctrine as there hath hitherto been.
 
@@ -60,21 +105,66 @@
 
 *3 Nephi 11:31* Behold, verily verily I say unto you: I will declare unto you my doctrine.
 
-*3 Nephi 11:32* And this is my doctrine, and it is the doctrine which the Father hath given unto me. And I bear record of the Father, and the Father beareth record of me, and the Holy Ghost beareth record of the Father and me. And I bear record that the Father commandeth all men everywhere to repent and believe in me.
+{% margin %}
+____
 
-*3 Nephi 11:33* And whoso believeth in me and is baptized, the same shall be saved. And they are they which shall inherit the kingdom of God.
+...God...commandeth all men every where to repent.
 
-*3 Nephi 11:34* And whoso believeth not in me and is not baptized shall be damned.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-17/[Acts 17:30]#
+____
+{% endmargin %}
+
+*3 Nephi 11:32* And this is my doctrine, and it is the doctrine which the Father hath given unto me. And I bear record of the Father, and the Father beareth record of me, and the Holy Ghost beareth record of the Father and me. And I bear record that the [highlight-orange]#Father commandeth all men everywhere to repent# and believe in me.
+
+{% margin %}
+____
+
+He that believeth and is baptized shall be saved...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:16]#
+____
+{% endmargin %}
+
+*3 Nephi 11:33* And whoso [highlight-orange]#believeth in me and is baptized, the same shall be saved.# And they are they which shall inherit the kingdom of God.
+
+{% margin %}
+____
+
+...but he that believeth not shall be damned.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:16]#
+____
+{% endmargin %}
+
+*3 Nephi 11:34* And whoso [highlight-orange]#believeth not in me and is not baptized shall be damned.#
 
 *3 Nephi 11:35* Verily verily I say unto you that this is my doctrine, and I bear record of it from the Father. And whoso believeth in me believeth in the Father also. And unto him will the Father bear record of me, for he will visit him with fire and with the Holy Ghost.
 
-*3 Nephi 11:36* And thus will the Father bear record of me. And the Holy Ghost will bear record unto him of the Father and me, for the Father and I and the Holy Ghost are one.
+{% margin %}
+____
+
+...the Father, the Word, and the Holy Ghost: and these three are one.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-5/[I John 5:7]#
+____
+{% endmargin %}
+
+*3 Nephi 11:36* And thus will the Father bear record of me. And the Holy Ghost will bear record unto him of the Father and me, for [highlight-orange]#the Father and I and the Holy Ghost are one.#
 
 *3 Nephi 11:37* And again I say unto you: Ye must repent and become as a little child and be baptized in my name, or ye can in no wise receive these things.
 
 *3 Nephi 11:38* And again I say unto you: Ye must repent and be baptized in my name and become as a little child, or ye can in no wise inherit the kingdom of God.
 
-*3 Nephi 11:39* Verily verily I say unto you that this is my doctrine. And whoso buildeth upon this buildeth upon my rock; and the gates of hell shall not prevail against them.
+{% margin %}
+____
+
+...upon this rock I will build my church; and the gates of hell shall not prevail against it.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-16/[Matthew 16:18]#
+____
+{% endmargin %}
+
+*3 Nephi 11:39* Verily verily I say unto you that this is my doctrine. And whoso buildeth [highlight-orange]#upon this buildeth upon my rock; and the gates of hell shall not prevail against them.#
 
 *3 Nephi 11:40* And whoso shall declare more or less than this and establisheth it for my doctrine, the same cometh of evil and is not built upon my rock, but he buildeth upon a sandy foundation; and the gates of hell standeth open to receive such when the floods come and the winds beat upon them.
 
