@@ -24,7 +24,16 @@
 
 *3 Nephi 6:13* Some were lifted up in pride; and others were exceeding humble. Some did return railing for railing, while others would receive railing and persecution and all manner of afflictions and would not turn and revile again, but were humble and penitent before God.
 
-*3 Nephi 6:14* And thus there became a great unequality in all the land, insomuch that the church began to be broken up, yea, insomuch that in the thirtieth year the church was broken up in all the land save it were among a few of the Lamanites which were converted unto the true faith; and they would not depart from it, for they were firm and steadfast and immovable, willing with all diligence to keep the commandments of the Lord.
+{% margin %}
+____
+
+...be ye stedfast, unmoveable...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:58]#
+____
+{% endmargin %}
+
+*3 Nephi 6:14* And thus there became a great unequality in all the land, insomuch that the church began to be broken up, yea, insomuch that in the thirtieth year the church was broken up in all the land save it were among a few of the Lamanites which were converted unto the true faith; and they would not depart from it, for they were firm [highlight-orange]#and steadfast and immovable#, willing with all diligence to keep the commandments of the Lord.
 
 *3 Nephi 6:15* Now the cause of this iniquity of the people was this: Satan had great power unto the stirring up of the people to do all manner of iniquity and to the puffing them up with pride, tempting them to seek for power and authority and riches and the vain things of the world.
 
