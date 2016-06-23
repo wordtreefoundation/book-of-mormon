@@ -2,7 +2,7 @@
 ____
 Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:1]#
 ____
 {% endmargin %}
 
@@ -13,10 +13,9 @@ ____
 ____
 But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:2]#
 ____
 {% endmargin %}
-
 
 *3 Nephi 24:2* [highlight]#But who may abide the day of his coming? And who shall stand when he appeareth? For he is like a refiner's fire and like fullers' soap.#
 
@@ -24,7 +23,7 @@ ____
 ____
 And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +34,7 @@ ____
 ____
 Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +45,7 @@ ____
 ____
 And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the LORD of hosts.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +56,7 @@ ____
 ____
 For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +67,7 @@ ____
 ____
 Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +78,7 @@ ____
 ____
 Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +89,7 @@ ____
 ____
 Ye are cursed with a curse: for ye have robbed me, even this whole nation.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +100,7 @@ ____
 ____
 Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +111,7 @@ ____
 ____
 And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +122,7 @@ ____
 ____
 And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +133,7 @@ ____
 ____
 Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +144,7 @@ ____
 ____
 Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +155,7 @@ ____
 ____
 And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +166,7 @@ ____
 ____
 Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +177,7 @@ ____
 ____
 And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:17]#
 ____
 {% endmargin %}
 
@@ -189,7 +188,7 @@ ____
 ____
 Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:18]
+[small]#JV Bible, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-3/[Malachi 3:18]#
 ____
 {% endmargin %}
 
