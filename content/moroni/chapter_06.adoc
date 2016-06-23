@@ -1,16 +1,55 @@
-*Moroni 6:1* And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save they brought forth fruit meet that they were worthy of it.
+{% margin %}
+____
 
-*Moroni 6:2* Neither did they receive any unto baptism save they came forth with a broken heart and a contrite spirit and witnessed unto the church that they truly repented of all their sins.
+Bring forth therefore fruits meet for repentance...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:8]#
+
+____
+{% endmargin %}
+
+*Moroni 6:1* And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save [highlight-orange]#they brought forth fruit meet that they were worthy of it.#
+
+{% margin %}
+____
+...a broken spirit: a broken and a contrite heart...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:17]#
+
+____
+{% endmargin %}
+
+*Moroni 6:2* Neither did they receive any unto baptism save they came forth with [highlight]#a broken heart and a contrite spirit# and witnessed unto the church that they truly repented of all their sins.
 
 *Moroni 6:3* And none were received unto baptism save they took upon them the name of Christ, having a determination to serve him unto the end.
 
-*Moroni 6:4* And after that they had been received unto baptism and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ and their names were taken, that they might be remembered and nourished by the good word of God, to keep them in the right way, to keep them continually watchful unto prayer, relying alone upon the merits of Christ, who was the author and the finisher of their faith.
+{% margin %}
+____
+
+...Jesus the author and finisher of our faith...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-12/[Hebrews 12:2]#
+
+____
+{% endmargin %}
+
+*Moroni 6:4* And after that they had been received unto baptism and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ and their names were taken, that they might be remembered and nourished by the good word of God, to keep them in the right way, to keep them continually watchful unto prayer, relying alone upon the merits of [highlight-orange]#Christ, who was the author and the finisher of their faith.#
 
 *Moroni 6:5* And the church did meet together oft to fast and to pray and to speak one with another concerning the welfare of their souls.
 
 *Moroni 6:6* And they did meet together oft to partake of bread and wine in remembrance of the Lord Jesus.
 
-*Moroni 6:7* And they were strict to observe that there should be no iniquity among them. And whoso was found to commit iniquity--and three witnesses of the church did condemn them before the elders--and if they repented not and confessed not, their names were blotted out and they were not numbered among the people of Christ.
+{% margin %}
+____
+
+...I will not blot out his name...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-3/[Revelation 3:5]#
+
+____
+{% endmargin %}
+
+*Moroni 6:7* And they were strict to observe that there should be no iniquity among them. And whoso was found to commit iniquity--and three witnesses of the church did condemn them before the elders--and if they repented not and confessed not, [highlight-orange]#their names were blotted out# and they were not numbered among the people of Christ.
 
 *Moroni 6:8* But as oft as they repented and sought forgiveness, with real intent, they were forgiven.
 
