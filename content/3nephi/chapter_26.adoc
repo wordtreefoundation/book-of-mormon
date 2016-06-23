@@ -4,7 +4,15 @@
 
 *3 Nephi 26:3* And he did expound all things, even from the beginning until the time that he should come in his glory--yea, even all things which should come upon the face of the earth--even until the elements should melt with fervent heat and the earth should be wrapped together as a scroll and the heavens and the earth should pass away,
 
-*3 Nephi 26:4* and even unto the great and last day when all people and all kindreds and all nations and tongues shall stand before God to be judged of their works, whether they be good or whether they be evil--
+
+{% margin %}
+____
+...stand before God...judged...according to their works.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:12]#
+{% endmargin %}
+
+*3 Nephi 26:4* and even unto the great and last day when all people and all kindreds and all nations and tongues shall [highlight-orange]#stand before God to be judged of their works#, whether they be good or whether they be evil--
 
 {% margin %}
 ____
@@ -39,9 +47,24 @@ ____
 
 *3 Nephi 26:17* And it came to pass that the disciples whom Jesus had chosen began from that time forth to baptize and to teach as many as did come unto them. And as many as were baptized in the name of Jesus were filled with the Holy Ghost.
 
-*3 Nephi 26:18* And many of them saw and heard unspeakable things which are not lawful to be written.
 
-*3 Nephi 26:19* And they taught and did minister one to another; and they had all things common among them, every man dealing justly one with another.
+{% margin %}
+____
+...and heard unspeakable words, which it is not lawful for a man to utter.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:4]#
+{% endmargin %}
+
+*3 Nephi 26:18* And many of them saw and [highlight-orange]#heard unspeakable things which are not lawful to be written.#
+
+{% margin %}
+____
+...they had all things common
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-4/[Acts 4:32]#
+{% endmargin %}
+
+*3 Nephi 26:19* And they taught and did minister one to another; and [highlight-orange]#they had all things common# among them, every man dealing justly one with another.
 
 *3 Nephi 26:20* And it came to pass that they did do all things even as Jesus had commanded them.
 
