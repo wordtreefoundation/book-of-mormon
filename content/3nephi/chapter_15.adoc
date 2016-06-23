@@ -1,6 +1,24 @@
-*3 Nephi 15:1* And now it came to pass that when Jesus had ended these sayings, he cast his eyes round about on the multitude and saith unto them: Behold, ye have heard the things which I have taught before I ascended to my Father. Therefore whoso remembereth these sayings of mine and doeth them, him will I raise up at the last day.
+{% margin %}
+____
 
-*3 Nephi 15:2* And it came to pass that when Jesus had said these words, he perceived that there were some among them which marveled and wondered what he would concerning the law of Moses, for they understood not the saying that old things had passed away and that all things had become new.
+...I will raise him up at the last day.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-6/[John 6:44]#
+____
+{% endmargin %}
+
+*3 Nephi 15:1* And now it came to pass that when Jesus had ended these sayings, he cast his eyes round about on the multitude and saith unto them: Behold, ye have heard the things which I have taught before I ascended to my Father. Therefore whoso remembereth these sayings of mine and doeth them, [highlight-orange]#him will I raise up at the last day.#
+
+{% margin %}
+____
+
+...old things are passed away; behold, all things are become new.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:17]#
+____
+{% endmargin %}
+
+*3 Nephi 15:2* And it came to pass that when Jesus had said these words, he perceived that there were some among them which marveled and wondered what he would concerning the law of Moses, for they understood not the saying that [highlight-orange]#old things had passed away and that all things had become new.#
 
 *3 Nephi 15:3* And he saith unto them: Marvel not that I said unto you that old things had passed away and that all things had become new.
 
@@ -14,7 +32,16 @@
 
 *3 Nephi 15:8* For behold, the covenant which I have made with my people is not all fulfilled, but the law which was given unto Moses hath an end in me.
 
-*3 Nephi 15:9* Behold, I am the law and the light. Look unto me and endure to the end, and ye shall live; for unto him that endureth to the end will I give eternal life.
+{% margin %}
+____
+
+...endure unto the end, the same shall be saved.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+____
+{% endmargin %}
+
+*3 Nephi 15:9* Behold, I am the law and the light. Look unto me and [highlight-orange]#endure to the end, and ye shall live;# for unto him that endureth to the end will I give eternal life.
 
 *3 Nephi 15:10* Behold, I have given unto you the commandments. Therefore keep my commandments; and this is the law and the prophets, for they truly testified of me.
 
@@ -30,7 +57,16 @@
 
 *3 Nephi 15:16* This much did the Father command me that I should tell unto them,
 
-*3 Nephi 15:17* that other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold and one shepherd.
+{% margin %}
+____
+
+And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:16]#
+____
+{% endmargin %}
+
+*3 Nephi 15:17* that [highlight-orange]#other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold and one shepherd.#
 
 *3 Nephi 15:18* And now because of stiffneckedness and unbelief they understood not my word. Therefore I was commanded to say no more of the Father concerning this thing unto them.
 
