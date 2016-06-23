@@ -48,5 +48,14 @@
 
 *Helaman 12:25* And I would that all men might be saved. But we read that in that great and last day there are some which shall be cast out, yea, which shall be cast off from the presence of the Lord,
 
-*Helaman 12:26* yea, which shall be consigned to a state of endless misery, fulfilling the words which saith: They that have done good shall have everlasting life; and they that have done evil shall have everlasting damnation. And thus it is. Amen. The prophecy of Samuel the Lamanite to the Nephites.
+{% margin %}
+____
+
+...they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-5/[John 5:29]#
+____
+{% endmargin %}
+
+*Helaman 12:26* yea, which shall be consigned to a state of endless misery, fulfilling the words which saith: [highlight-orange]#They that have done good shall have everlasting life; and they that have done evil shall have everlasting damnation.# And thus it is. Amen. The prophecy of Samuel the Lamanite to the Nephites.
 
