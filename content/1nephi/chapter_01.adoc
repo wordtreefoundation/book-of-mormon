@@ -169,5 +169,14 @@ ____
 
 *1 Nephi 1:19* And it came to pass that the Jews did mock him because of the things which he testified of them, for he truly testified of their wickedness and their abominations. And he testified that the things which he saw and heard, and also the things which he read in the book, manifested plainly of the coming of a Messiah and also the redemption of the world.
 
-*1 Nephi 1:20* And when the Jews heard these things, they were angry with him, yea, even as with the prophets of old, whom they had cast out and stoned and slain. And they also sought his life that they might take it away. But behold, I Nephi will shew unto you that the tender mercies of the Lord is over all them whom he hath chosen because of their faith to make them mighty, even unto the power of deliverance.
+{% margin %}
+____
+
+When they heard these things...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-7/[Acts 7:54]#
+____
+{% endmargin %}
+
+*1 Nephi 1:20* And [highlight-orange]#when the Jews heard these things#, they were angry with him, yea, even as with the prophets of old, whom they had cast out and stoned and slain. And they also sought his life that they might take it away. But behold, I Nephi will shew unto you that the tender mercies of the Lord is over all them whom he hath chosen because of their faith to make them mighty, even unto the power of deliverance.
 
