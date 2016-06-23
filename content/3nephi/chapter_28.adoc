@@ -40,9 +40,14 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 16:24]#
 ____
-21 That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:21-23]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:21]#
+____
+
+I and my Father are one
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:30]#
 ____
 {% endmargin %}
 
@@ -110,7 +115,17 @@ ____
 
 *3 Nephi 28:28* They will also be among the Jews, and the Jews shall know them not.
 
-*3 Nephi 28:29* And it shall come to pass, when the Lord seeth fit in his wisdom, that they shall minister unto all the scattered tribes of Israel and unto all nations, kindreds, tongues, and people and shall bring out of them unto Jesus many souls, that their desire may be fulfilled, and also because of the convincing power of God which is in them.
+{% margin %}
+____
+
+...every nation, and kindred, and tongue, and people
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+
+____
+{% endmargin %}
+
+*3 Nephi 28:29* And it shall come to pass, when the Lord seeth fit in his wisdom, that they shall minister unto all the scattered tribes of Israel and [highlight-orange]#unto all nations, kindreds, tongues, and people# and shall bring out of them unto Jesus many souls, that their desire may be fulfilled, and also because of the convincing power of God which is in them.
 
 *3 Nephi 28:30* And they are as the angels of God. And if they shall pray unto the Father in the name of Jesus, they can shew themselves unto whatsoever man it seemeth them good.
 
