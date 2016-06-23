@@ -54,10 +54,17 @@ ____
 ...with [highlight]#quaking#, and drink thy water with [highlight]#trembling#...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]#
+
+____
+
+And as when Moses [highlight]#prayed unto the Lord, the fire came down# from heaven..
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Maccabees-Chapter-2/[II Maccabees 2:10]#
+
 ____
 {% endmargin %}
 
-*1 Nephi 1:6* And it came to pass as he prayed unto the Lord, there came a [highlight]#pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did [highlight]#quake and tremble# exceedingly.
+*1 Nephi 1:6* And it came to pass [highlight]#as he prayed unto the Lord, there came a pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did [highlight]#quake and tremble# exceedingly.
 
 {% margin %}
 ____
