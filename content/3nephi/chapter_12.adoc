@@ -1,4 +1,12 @@
-*3 Nephi 12:1* And it came to pass that when Jesus had spake these words unto Nephi and to those which had been called--now the number of them which had been called and received power and authority to baptize were twelve--and behold, he stretched forth his hand unto the multitude and cried unto them, saying: Blessed are ye if ye shall give heed unto the words of these twelve which I have chosen from among you to minister unto you and to be your servants. And unto them I have given power that they may baptize you with water. And after that ye are baptized with water, behold, I will baptize you with fire and with the Holy Ghost. Therefore blessed are ye if ye shall believe in me and be baptized after that ye have seen me and know that I am.
+{% margin %}
+____
+...baptize you with water...baptize you with the Holy Ghost, and with fire:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
+____
+{% endmargin %}
+
+*3 Nephi 12:1* And it came to pass that when Jesus had spake these words unto Nephi and to those which had been called--now the number of them which had been called and received power and authority to baptize were twelve--and behold, he stretched forth his hand unto the multitude and cried unto them, saying: Blessed are ye if ye shall give heed unto the words of these twelve which I have chosen from among you to minister unto you and to be your servants. And unto them I have given power that they may [highlight-orange]#baptize you with water#. And after that ye are baptized with water, behold, [highlight-orange]#I will baptize you with fire and with the Holy Ghost.# Therefore blessed are ye if ye shall believe in me and be baptized after that ye have seen me and know that I am.
 
 *3 Nephi 12:2* And again, more blessed are they which shall believe in your words because that ye shall testify that ye have seen me and that ye know that I am. Yea, blessed are they which shall believe in your words and come down into the depths of humility and be baptized, for they shall be visited with fire and with the Holy Ghost and shall receive a remission of their sins.
 
