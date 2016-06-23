@@ -8,7 +8,16 @@
 
 *3 Nephi 27:5* Have they not read the scriptures which saith: Ye must take upon you the name of Christ, which is my name. For by this name shall ye be called at the last day.
 
-*3 Nephi 27:6* And whoso taketh upon him my name and endureth to the end, the same shall be saved at the last day.
+{% margin %}
+____
+
+...he that shall endure unto the end, the same shall be saved.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+____
+{% endmargin%}
+
+*3 Nephi 27:6* And [highlight-orange]#whoso# taketh upon him my name [highlight-orange]#and endureth to the end, the same shall be saved# at the last day.
 
 *3 Nephi 27:7* Therefore whatsoever ye shall do, ye shall do it in my name. Therefore ye shall call the church in my name. And ye shall call upon the Father in my name, that he will bless the church for my sake.
 
@@ -24,7 +33,16 @@
 
 *3 Nephi 27:13* Behold, I have given unto you my gospel. And this is the gospel which I have given unto you, that I came into the world to do the will of my Father, because my Father sent me.
 
-*3 Nephi 27:14* And my Father sent me that I might be lifted up upon the cross--and after that I had been lifted up upon the cross, I might draw all men unto me--that as I have been lifted up by men, even so should men be lifted up by the Father to stand before me to be judged of their works, whether they be good or whether they be evil.
+{% margin %}
+____
+
+...I, if I be lifted up from the earth, will draw all men unto me
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:32]#
+____
+{% endmargin%}
+
+*3 Nephi 27:14* And my Father sent me that I might be lifted up upon the cross--and after that [highlight-orange]#I had been lifted up upon the cross, I might draw all men unto me#--that as I have been lifted up by men, even so should men be lifted up by the Father to stand before me to be judged of their works, whether they be good or whether they be evil.
 
 *3 Nephi 27:15* And for this cause have I been lifted up. Therefore, according to the power of the Father, I will draw all men unto me that they may be judged according to their works.
 
@@ -39,22 +57,17 @@
 {% margin %}
 ____
 ...[highlight-orange]#Repent ye#...
-____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
-
 ____
 [highlight]#And be ye saved, all the ends of the earth#...
-____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
-
 ____
 ...[highlight-orange]#he shall baptize you with the Holy Ghost#...
-____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
-
+____
 {% endmargin %}
 
 *3 Nephi 27:20* Now this is the commandment: [highlight-orange]#repent#, [highlight]#all ye ends of the earth#, and come unto me and be [higlight-orange]#baptized in my name, that ye may be sanctified by the reception of the Holy Ghost#, that ye may stand spotless before me at the last day.
@@ -120,11 +133,18 @@ ____
 {% margin %}
 ____
 
-Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
+Enter ye in at the strait gate: for [highlight]#wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat#:
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13]#
+Because [highlight]#strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it#
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13-14]#
+____
+
+...the night cometh, when no man can work.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-9/[John 9:4]#
 ____
 {% endmargin %}
 
-*3 Nephi 27:33* And it came to pass that when Jesus had ended these sayings, he saith unto his disciples: [highlight-orange]#Enter ye in at the strait gate. For strait is the gate and narrow is the way that leads to life, and few there be that find it. But wide is the gate and broad the way which leads to death,# and many there be that traveleth therein until the night cometh wherein no man can work.
+*3 Nephi 27:33* And it came to pass that when Jesus had ended these sayings, he saith unto his disciples: [highlight-orange]#Enter ye in at the strait gate. For strait is the gate and narrow is the way that leads to life, and few there be that find it. But wide is the gate and broad the way which leads to death,# and many there be that traveleth therein [highlight-orange]#until the night cometh wherein no man can work.#
 
