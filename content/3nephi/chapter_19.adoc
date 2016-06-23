@@ -42,7 +42,16 @@
 
 *3 Nephi 19:22* Father, thou hast given them the Holy Ghost because they believe in me. And thou seest that they believe in me because thou hearest them, and they pray unto me; and they pray unto me because I am with them.
 
-*3 Nephi 19:23* And now Father, I pray unto thee for them, and also for all they which shall believe on their words, that they may believe in me, that I may be in them as thou Father art in me, that we may be one.
+{% margin %}
+____
+
+Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:20-21]#
+____
+{% endmargin %}
+
+*3 Nephi 19:23* And now Father, [highlight-orange]#I pray unto thee for them, and also for all they which shall believe on their words, that they may believe in me, that I may be in them as thou Father art in me, that we may be one.#
 
 *3 Nephi 19:24* And it came to pass that when Jesus had thus prayed unto the Father, he came unto his disciples, and behold, they did still continue without ceasing to pray unto him. And they did not multiply many words, for it was given unto them what they should pray; and they were filled with desire.
 
@@ -56,13 +65,13 @@
 
 {% margin %}
 ____
-...I pray not for the world, but for them which thou hast given me…and I am glorified in them
+...I pray not for the world, but for them which thou hast given me...and I am glorified in them
 
-
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:9-10]#
 ____
 {% endmargin %}
 
-*3 Nephi 19:29* Father, I pray not for the world but for them which thou hast given unto me out of the world because of their faith, that they may be purified in me, that I may be in them as thou Father art in me, that we may be one, that I may be glorified in them.
+*3 Nephi 19:29* Father, [highlight-orange]#I pray not for the world but for them which thou hast given unto me# out of the world because of their faith, that they may be purified in me, that I may be in them as thou Father art in me, that we may be one, [highlight-orange]#that I may be glorified in them.#
 
 *3 Nephi 19:30* And it came to pass that when Jesus had spake these words, he came again unto his disciples, and behold, they did pray steadfastly without ceasing unto him. And he did smile upon them again. And behold, they were white, even as Jesus.
 
