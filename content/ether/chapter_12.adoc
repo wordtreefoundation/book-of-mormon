@@ -45,9 +45,27 @@ ____
 
 *Ether 12:9* Wherefore ye may also have hope and be partakers of the gift if ye will but have faith.
 
-*Ether 12:10* Behold, it was by faith that they of old were called after the holy order of God.
+{% margin %}
+____
+
+For by it [faith] the elders obtained a good report.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:2]#
+
+Ether 12 follows a similar rhythm to Hebrews 11. While the stories quoted are not the same, the intent clearly is.
+
+____
+{% endmargin %}
+
+*Ether 12:10* Behold, it was [highlight-orange]#by faith that they of old were called# after the holy order of God.
 
 {% margin %}
+____
+
+By faith Moses...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:2]#
+
 ____
 
 ...yet show I unto you a more excellent way.
@@ -57,27 +75,122 @@ ____
 ____
 {% endmargin %}
 
-*Ether 12:11* Wherefore by faith was the law of Moses given. But in the gift of his Son hath God [highlight-orange]#prepared a more excellent way#; and it is by faith that it hath been fulfilled.
+*Ether 12:11* Wherefore [highlight-orange]#by faith# was the law of [highlight-orange]#Moses# given. But in the gift of his Son hath God [highlight-orange]#prepared a more excellent way#; and it is by faith that it hath been fulfilled.
 
-*Ether 12:12* For if there be no faith among the children of men, God can do no miracle among them; wherefore he shewed not himself until after their faith.
+{% margin %}
+____
 
-*Ether 12:13* Behold, it was the faith of Alma and Amulek that caused the prison to tumble to the earth.
+Through faith we understand that the worlds were framed by the word of [highlight]#God, so that things which are seen were not made of things which do appear.#
 
-*Ether 12:14* Behold, it was the faith of Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:3]#
 
-*Ether 12:15* Behold, it was the faith of Ammon and his brethren which wrought so great a miracle among the Lamanites.
+____
+{% endmargin %}
 
-*Ether 12:16* Yea, and even all they which wrought miracles wrought them by faith, even those which were before Christ, and also them which were after.
 
-*Ether 12:17* And it was by faith that the three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith.
+*Ether 12:12* For if there be no faith among the children of men, [highlight-orange]#God can do no miracle among them; wherefore he shewed not himself until after their faith.#
+
+{% margin %}
+____
+
+By faith...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+
+And it came to pass that so great was their fear that they fell to the earth and did not obtain the outer door of the prison. And the earth shook mightily and the walls of the prison were rent in twain, so that they fell to the earth; and the chief judge and the lawyers and priests and teachers which smote upon Alma and Amulek were slain by the fall thereof.
+
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/alma/chapter_14.html[Alma 14:27]#
+____
+{% endmargin %}
+
+*Ether 12:13* Behold, [highlight-orange]#it was the faith# of [highlight]#Alma and Amulek that caused the prison to tumble to the earth.#
+
+{% margin %}
+____
+
+By faith...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+
+Therefore they did speak unto the great astonishment of the Lamanites, to the convincing them, insomuch that there were eight thousand of the Lamanites which were in the land of Zarahemla and round about baptized unto repentance and were convinced of the wickedness of the traditions of their fathers.
+
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/helaman/chapter_05.html[Helaman 5:19]#
+____
+{% endmargin %}
+
+*Ether 12:14* Behold, [highlight-orange]#it was the faith# of [highlight]#Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost.#
+
+{% margin %}
+____
+
+By faith...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+
+And this is the account of Ammon and his brethren, their journeyings into the land of Nephi, their sufferings in the land, their sorrows and their afflictions, and their incomprehensible joy, and the reception and safety of the brethren in the land of Jershon. And now may the Lord, the Redeemer of all men, bless their souls forever
+
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/alma/chapter_28.html[Alma 28:8]#
+____
+{% endmargin %}
+
+*Ether 12:15* Behold, [highlight-orange]#it was the faith# of [highlight]#Ammon and his brethren which wrought so great a miracle among the Lamanites.#
+
+{% margin %}
+____
+
+Who through [highlight]#faith# subdued kingdoms, [highlight]#wrought# righteousness, obtained promises, stopped the mouths of lions,
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:33]#
+
+____
+{% endmargin %}
+
+*Ether 12:16* Yea, and even all they which wrought miracles [highlight-orange]#wrought them by faith#, even those which were before Christ, and also them which were after.
+
+{% margin %}
+____
+
+By faith...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+
+Therefore more blessed are ye; for ye shall never taste of death, but ye shall live to behold all the doings of the Father unto the children of men, even until all things shall be fulfilled according to the will of the Father when I shall come in my glory with the powers of heaven.
+
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/3nephi/chapter_28.html[3 Nephi 28:7]#
+____
+{% endmargin %}
+
+*Ether 12:17* And it was [highlight-orange]#by faith# that the [highlight]#three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith.#
 
 *Ether 12:18* And neither at any time hath any wrought miracles until after their faith; wherefore they first believed in the Son of God.
 
 *Ether 12:19* And there were many whose faith was so exceeding strong, even before Christ came, which could not be kept from within the veil but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad.
 
-*Ether 12:20* And behold, we have seen in this record that one of these was the brother of Jared; for so great was his faith in God that when God put forth his finger, he could not hide it from the sight of the brother of Jared because of his word which he had spoken unto him, which word he had obtained by faith.
+{% margin %}
+____
 
-*Ether 12:21* And after that the brother of Jared had beheld the finger of the Lord because of the promise which the brother of Jared had obtained by faith, the Lord could not withhold any thing from his sight; wherefore he shewed him all things, for he could no longer be kept without the veil.
+By faith...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+
+And it came to pass that when the brother of Jared had said these words, behold, the Lord stretched forth his hand and touched the stones one by one with his finger. And the veil was taken from off the eyes of the brother of Jared, and he saw the finger of the Lord. And it was as the finger of a man, like unto flesh and blood; and the brother of Jared fell down before the Lord, for he was struck with fear.
+
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/ether/chapter_3.html[Ether 3:6]#
+____
+{% endmargin %}
+
+*Ether 12:20* And behold, we have seen in this record that one of these was the brother of Jared; for so great [highlight-orange]was his faith# in God that when [highlight]#God put forth his finger, he could not hide it from the sight of the brother of Jared because of his word which he had spoken unto him, which word he had obtained by faith.#
+
+{% margin %}
+____
+
+For the Lord had said unto him in times before that if he would believe in him that he could shew unto him all things, it should be shewn unto him. Therefore the Lord could not withhold any thing from him, for he knew that the Lord could shew him all things.
+
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/ether/chapter_3.html[Ether 3:26]#
+____
+{% endmargin %}
+
+*Ether 12:21* And after that the brother of Jared had beheld the finger of the Lord because of the promise which the brother of Jared had obtained by faith, [highlight]#the Lord could not withhold any thing from his sight; wherefore he shewed him all things, for he could no longer be kept without the veil.#
 
 *Ether 12:22* And it is by faith that my fathers have obtained the promise that these things should come unto their brethren through the Gentiles. Therefore the Lord hath commanded me, yea, even Jesus Christ.
 
