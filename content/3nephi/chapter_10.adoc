@@ -4,11 +4,20 @@
 
 *3 Nephi 10:3* And it came to pass that there came a voice again unto the people--and all the people did hear and did witness of it--saying:
 
-*3 Nephi 10:4* O ye people of these great cities which have fallen, which are a descendant of Jacob--yea, which are of the house of Israel--O ye people of the house of Israel, how oft have I gathered you as a hen gathereth her chickens under her wings and have nourished you!
+{% margin %}
+____
 
-*3 Nephi 10:5* And again, how oft would I have gathered you as a hen gathereth her chickens under her wings! Yea, O ye people of the house of Israel which have fallen--yea, O ye people of the house of Israel, ye that dwell at Jerusalem as ye that have fallen--yea, how oft would I have gathered you as a hen gathereth her chickens and ye would not!
+...how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings...
 
-*3 Nephi 10:6* O ye house of Israel whom I have spared, how oft will I gather you as a hen gathereth her chickens under her wings if ye will repent and return unto me with full purpose of heart!
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-23/[Matthew 23:37]#
+____
+{% endmargin %}
+
+*3 Nephi 10:4* O ye people of these great cities which have fallen, which are a descendant of Jacob--yea, which are of the house of Israel--O ye people of the house of Israel, [highlight-orange]#how oft have I gathered you as a hen gathereth her chickens under her wings# and have nourished you!
+
+*3 Nephi 10:5* And again, [highlight-orange]#how oft would I have gathered you as a hen gathereth her chickens under her wings!# Yea, O ye people of the house of Israel which have fallen--yea, O ye people of the house of Israel, ye that dwell at Jerusalem as ye that have fallen--yea, [highlight-orange]#how oft would I have gathered you as a hen gathereth her chickens and ye would not!#
+
+*3 Nephi 10:6* O ye house of Israel whom I have spared, [highlight-orange]#how oft will I gather you as a hen gathereth her chickens under her wings# if ye will repent and return unto me with full purpose of heart!
 
 *3 Nephi 10:7* But if not, O house of Israel, the places of your dwellings shall become desolate until the time of the fulfilling of the covenant to your fathers.
 
