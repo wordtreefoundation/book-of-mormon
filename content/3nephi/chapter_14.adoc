@@ -2,7 +2,7 @@
 ____
 Judge not, that ye be not judged.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:2]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 Or what man is there of you, whom if his son ask bread, will he give him a stone?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 Or if he ask a fish, will he give him a serpent?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +145,7 @@ ____
 ____
 Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +156,7 @@ ____
 ____
 Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +167,7 @@ ____
 ____
 Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +178,7 @@ ____
 ____
 Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:17]#
 ____
 {% endmargin %}
 
@@ -189,7 +189,7 @@ ____
 ____
 A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:18]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:18]#
 ____
 {% endmargin %}
 
@@ -200,7 +200,7 @@ ____
 ____
 Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:19]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:19]#
 ____
 {% endmargin %}
 
@@ -211,7 +211,7 @@ ____
 ____
 Wherefore by their fruits ye shall know them.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:20]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:20]#
 ____
 {% endmargin %}
 
@@ -222,7 +222,7 @@ ____
 ____
 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:21]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:21]#
 ____
 {% endmargin %}
 
@@ -233,7 +233,7 @@ ____
 ____
 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:22]#
 ____
 {% endmargin %}
 
@@ -244,7 +244,7 @@ ____
 ____
 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:23]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:23]#
 ____
 {% endmargin %}
 
@@ -255,7 +255,7 @@ ____
 ____
 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:24]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:24]#
 ____
 {% endmargin %}
 
@@ -266,7 +266,7 @@ ____
 ____
 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:25]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:25]#
 ____
 {% endmargin %}
 
@@ -277,7 +277,7 @@ ____
 ____
 And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:26]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:26]#
 ____
 {% endmargin %}
 
@@ -288,7 +288,7 @@ ____
 ____
 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:27]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:27]#
 ____
 {% endmargin %}
 
