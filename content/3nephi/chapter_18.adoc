@@ -22,17 +22,48 @@
 
 *3 Nephi 18:12* And I give unto you a commandment that ye shall do these things. And if ye shall always do these things, blessed are ye, for ye are built upon my rock.
 
-*3 Nephi 18:13* But whoso among you shall do more or less than these are not built upon my rock but are built upon a sandy foundation. And when the rain descends and the floods come and the winds blow and beat upon them, they shall fall; and the gates of hell is already open to receive them.
+{% margin %}
+____
+
+...built his house upon the sand: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:27]#
+____
+{% endmargin %}
+
+*3 Nephi 18:13* But whoso among you shall do more or less than these are not [highlight-orange]#built upon my rock but are built upon a sandy foundation. And when the rain descends and the floods come and the winds blow and beat upon them, they shall fall#; and the gates of hell is already open to receive them.
 
 *3 Nephi 18:14* Therefore blessed are ye if ye shall keep my commandments, which the Father hath commanded me that I should give unto you.
 
-*3 Nephi 18:15* Verily verily I say unto you: Ye must watch and pray always lest ye be tempted by the devil and ye are led away captive by him.
+{% margin %}
+____
+
+Watch and pray, that ye enter not into temptation...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-26/[Matthew 26:41]#
+____
+{% endmargin %}
+
+*3 Nephi 18:15* Verily verily I say unto you: Ye [highlight-orange]#must watch and pray always lest ye be tempted# by the devil and ye are led away captive by him.
 
 *3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which do repent and are baptized in my name. Behold, I am the light; I have set an example before you.
 
 *3 Nephi 18:17* And it came to pass that when Jesus had spake these words unto his disciples, he turned again unto the multitude and saith unto them:
 
-*3 Nephi 18:18* Behold, verily verily I say unto you: Ye must watch and pray always lest ye enter into temptation, for Satan desireth to have you, that he may sift you as wheat.
+{% margin %}
+____
+
+Watch and pray, that ye enter not into temptation...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-26/[Matthew 26:41]#
+____
+...Satan hath desired to have you, that he may sift you as wheat:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-22/[Luke 22:31]#
+____
+{% endmargin %}
+
+*3 Nephi 18:18* Behold, verily verily I say unto you: [highlight-orange]#Ye must watch and pray always lest ye enter into temptation#, for [highlight-orange]#Satan desireth to have you, that he may sift you as wheat.#
 
 *3 Nephi 18:19* Therefore ye must always pray unto the Father in my name.
 
@@ -54,7 +85,16 @@
 
 *3 Nephi 18:28* And now behold, this is the commandment which I give unto you, that ye shall not suffer any one knowingly to partake of my flesh and blood unworthily when ye shall minister it.
 
-*3 Nephi 18:29* For whoso eateth and drinketh my flesh and blood unworthily eateth and drinketh damnation to his soul. Therefore if ye know that a man is unworthy to eat and drink of my flesh and blood, ye shall forbid him.
+{% margin %}
+____
+
+...he that eateth and drinketh unworthily, eateth and drinketh damnation to himself...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-11/[I Corinthians 11:29]#
+____
+{% endmargin %}
+
+*3 Nephi 18:29* For [highlight-orange]#whoso eateth and drinketh my flesh and blood unworthily eateth and drinketh damnation to his soul.# Therefore if ye know that a man is unworthy to eat and drink of my flesh and blood, ye shall forbid him.
 
 *3 Nephi 18:30* Nevertheless ye shall not cast him out from among you, but ye shall minister unto him and shall pray for him unto the Father in my name. And if it so be that he repenteth and is baptized in my name, then shall ye receive him and shall minister unto him of my flesh and blood.
 
@@ -66,7 +106,16 @@
 
 *3 Nephi 18:34* And I give you these commandments because of the disputations which hath been among you beforetimes. And blessed are ye if ye have no disputations among you.
 
-*3 Nephi 18:35* And now I go unto the Father because it is expedient that I should go unto the Father for your sakes.
+{% margin %}
+____
+
+...It is expedient for you that I go...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 16:7]#
+____
+{% endmargin %}
+
+*3 Nephi 18:35* And now I go unto the Father because [highlight-orange]#it is expedient that I should go# unto the Father for your sakes.
 
 *3 Nephi 18:36* And it came to pass that when Jesus had made an end of these sayings, he touched with his hand the disciples whom he had chosen, one by one, even until he had touched them all and spake unto them as he touched them.
 
