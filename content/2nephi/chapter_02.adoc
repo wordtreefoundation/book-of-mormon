@@ -6,7 +6,16 @@
 
 *2 Nephi 2:4* And thou hast beheld in thy youth his glory, wherefore thou art blessed even as they unto whom he shall minister in the flesh. For the Spirit is the same yesterday, today, and forever, and the way is prepared from the fall of man, and salvation is free.
 
-*2 Nephi 2:5* And men are instructed sufficiently that they know good from evil, and the law is given unto men. And by the law no flesh is justified; or by the law men are cut off, yea, by the temporal law they were cut off. And also by the spiritual law they perish from that which is good and become miserable forever.
+{% margin %}
+____
+for by the works of the law shall no flesh be justified.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Galatians-Chapter-2/[Galatians 2:16]#
+
+{% endmargin %}
+
+*2 Nephi 2:5* And men are instructed sufficiently that they know good from evil, and the law is given unto men. And [highlight-orange]#by the law no flesh is justified#; or by the law men are cut off, yea, by the temporal law they were cut off. And also by the spiritual law they perish from that which is good and become miserable forever.
 
 *2 Nephi 2:6* Wherefore redemption cometh in and through the Holy Messiah, for he is full of grace and truth.
 
