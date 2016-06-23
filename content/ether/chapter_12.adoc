@@ -17,17 +17,47 @@ ____
 
 *Ether 12:5* And it came to pass that Ether did prophesy great and marvelous things unto the people, which they did not believe because they saw them not.
 
-*Ether 12:6* And now I Moroni would speak somewhat concerning these things. I would shew unto the world that faith is things which are hoped for and not seen. Wherefore dispute not because ye see not, for ye receive no witness not until after the trial of your faith.
+{% margin %}
+____
+
+...faith is the substance of things hoped for, the evidence of things not seen.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 11:1]#
+
+____
+{% endmargin %}
+
+*Ether 12:6* And now I Moroni would speak somewhat concerning these things. I would shew unto the world that [highlight-orange]#faith is things which are hoped for and not seen.# Wherefore dispute not because ye see not, for ye receive no witness not until after the trial of your faith.
 
 *Ether 12:7* For it was by faith that Christ shewed himself unto our fathers after that he had risen from the dead. And he shewed not himself unto them until after they had faith in him. Wherefore it must needs be that some had faith in him, for he shewed himself not unto the world but because of the faith of men:
 
-*Ether 12:8* he has shewn himself unto the world and glorified the name of the Father and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen.
+{% margin %}
+____
+
+...tasted of the heavenly gift, and were made partakers...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:4]#
+
+____
+{% endmargin %}
+
+*Ether 12:8* he has shewn himself unto the world and glorified the name of the Father and prepared a way that thereby others might be [highlight-orange]#partakers of the heavenly gift,# that they might hope for those things which they have not seen.
 
 *Ether 12:9* Wherefore ye may also have hope and be partakers of the gift if ye will but have faith.
 
 *Ether 12:10* Behold, it was by faith that they of old were called after the holy order of God.
 
-*Ether 12:11* Wherefore by faith was the law of Moses given. But in the gift of his Son hath God prepared a more excellent way; and it is by faith that it hath been fulfilled.
+{% margin %}
+____
+
+...yet show I unto you a more excellent way.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:31]#
+
+____
+{% endmargin %}
+
+*Ether 12:11* Wherefore by faith was the law of Moses given. But in the gift of his Son hath God [highlight-orange]#prepared a more excellent way#; and it is by faith that it hath been fulfilled.
 
 *Ether 12:12* For if there be no faith among the children of men, God can do no miracle among them; wherefore he shewed not himself until after their faith.
 
