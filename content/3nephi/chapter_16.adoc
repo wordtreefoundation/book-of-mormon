@@ -26,7 +26,16 @@
 
 *3 Nephi 16:14* And I will not suffer my people, which are of the house of Israel, to go through among them and tread them down, saith the Father.
 
-*3 Nephi 16:15* But if they will not return unto me and hearken unto my voice, I will suffer them--yea, I will suffer my people, O house of Israel--that they shall go through among them and shall tread them down. And they shall be as salt that hath lost his savor, which is thenceforth good for nothing but to be cast out and to be trodden under foot of my people, O house of Israel.
+{% margin %}
+____
+
+...the salt have lost his savour...it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:13]#
+____
+{% endmargin %}
+
+*3 Nephi 16:15* But if they will not return unto me and hearken unto my voice, I will suffer them--yea, I will suffer my people, O house of Israel--that they shall go through among them and shall tread them down. [highlight-orange]#And they shall be as salt that hath lost his savor, which is thenceforth good for nothing but to be cast out and to be trodden under foot of my people#, O house of Israel.
 
 *3 Nephi 16:16* Verily verily I say unto you: Thus hath the Father commanded me that I should give unto this people this land for their inheritance.
 
@@ -36,7 +45,7 @@
 ____
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:8]#
 ____
 {% endmargin %}
 
@@ -47,7 +56,7 @@ ____
 ____
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:9]#
 ____
 {% endmargin %}
 
@@ -58,7 +67,7 @@ ____
 ____
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:10]#
 ____
 {% endmargin %}
 
