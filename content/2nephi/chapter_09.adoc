@@ -158,9 +158,10 @@ ____
 {% margin %}
 ____
 Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:1]
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:1]#
+
 {% endmargin %}
 
 
@@ -169,9 +170,10 @@ ____
 {% margin %}
 ____
 Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.
-
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:2]
 ____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-55/[Isaiah 55:2]#
+
 {% endmargin %}
 
 
