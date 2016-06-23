@@ -2,7 +2,7 @@
 ____
 Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 But when thou doest alms, let not thy left hand know what thy right hand doeth:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:9]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 And forgive us our debts, as we forgive our debtors.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:12]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:13]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +145,7 @@ ____
 ____
 For if ye forgive men their trespasses, your heavenly Father will also forgive you:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +156,7 @@ ____
 ____
 But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +167,7 @@ ____
 ____
 Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +178,7 @@ ____
 ____
 But thou, when thou fastest, anoint thine head, and wash thy face;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:17]#
 ____
 {% endmargin %}
 
@@ -189,7 +189,7 @@ ____
 ____
 That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:18]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:18]#
 ____
 {% endmargin %}
 
@@ -200,7 +200,7 @@ ____
 ____
 Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:19]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:19]#
 ____
 {% endmargin %}
 
@@ -211,7 +211,7 @@ ____
 ____
 But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:20]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:20]#
 ____
 {% endmargin %}
 
@@ -222,7 +222,7 @@ ____
 ____
 For where your treasure is, there will your heart be also.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:21]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:21]#
 ____
 {% endmargin %}
 
@@ -233,7 +233,7 @@ ____
 ____
 The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:22]#
 ____
 {% endmargin %}
 
@@ -244,7 +244,7 @@ ____
 ____
 But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:23]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:23]#
 ____
 {% endmargin %}
 
@@ -255,7 +255,7 @@ ____
 ____
 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:24]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:24]#
 ____
 {% endmargin %}
 
@@ -266,7 +266,7 @@ ____
 ____
 Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:25]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:25]#
 ____
 {% endmargin %}
 
@@ -277,7 +277,7 @@ ____
 ____
 Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:26]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:26]#
 ____
 {% endmargin %}
 
@@ -288,7 +288,7 @@ ____
 ____
 Which of you by taking thought can add one cubit unto his stature?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:27]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:27]#
 ____
 {% endmargin %}
 
@@ -299,7 +299,7 @@ ____
 ____
 And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:28]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:28]#
 ____
 {% endmargin %}
 
@@ -310,7 +310,7 @@ ____
 ____
 And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:29]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:29]#
 ____
 {% endmargin %}
 
@@ -321,7 +321,7 @@ ____
 ____
 Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:30]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:30]#
 ____
 {% endmargin %}
 
@@ -332,7 +332,7 @@ ____
 ____
 Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:31]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:31]#
 ____
 {% endmargin %}
 
@@ -343,7 +343,7 @@ ____
 ____
 (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:32]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:32]#
 ____
 {% endmargin %}
 
@@ -354,7 +354,7 @@ ____
 ____
 But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:33]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:33]#
 ____
 {% endmargin %}
 
@@ -365,7 +365,7 @@ ____
 ____
 Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:34]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:34]#
 ____
 {% endmargin %}
 
