@@ -24,7 +24,16 @@
 
 *Helaman 8:13* But behold, ye not only deny my words, but ye also deny all the words which hath been spoken by our fathers, and also the words which was spoken by this man Moses, which had such great power given unto him--yea, the words which he hath spoken concerning the coming of the Messiah.
 
-*Helaman 8:14* Yea, did he not bear record that the Son of God should come? And as he lifted up the brazen serpent in the wilderness, even so should he be lifted up which should come.
+{% margin %}
+____
+
+...as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-3/[John 3:14]#
+____
+{% endmargin %}
+
+*Helaman 8:14* Yea, did he not bear record that the Son of God should come? And [highlight-orange]#as he lifted up the brazen serpent in the wilderness, even so should he be lifted up which should come.#
 
 *Helaman 8:15* And as many as should look upon that serpent should live, even so as many as should look upon the Son of God with faith, having a contrite spirit, might live, even unto that life which is eternal.
 
@@ -46,7 +55,16 @@
 
 *Helaman 8:24* And now seeing ye know these things and cannot deny them except ye shall lie, therefore in this ye have sinned, for ye have rejected all these things, notwithstanding so many evidences which ye have received. Yea, even ye have received all things--both things in heaven and all things which are in earth--as a witness that they are true.
 
-*Helaman 8:25* But behold, ye have rejected the truth and rebelled against your holy God. And even at this time, instead of laying up for yourselves treasures in heaven--where nothing doth corrupt and where nothing can come which is unclean--ye are heaping up for yourselves wrath against the day of judgment.
+{% margin %}
+____
+
+...lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:20]#
+____
+{% endmargin %}
+
+*Helaman 8:25* But behold, ye have rejected the truth and rebelled against your holy God. And even at this time, instead of [highlight-orange]#laying up for yourselves treasures in heaven--where nothing doth corrupt# and where nothing can come which is unclean--ye are heaping up for yourselves wrath against the day of judgment.
 
 *Helaman 8:26* Yea, even at this time ye are ripening because of your murders and your fornication and wickedness for everlasting destruction. Yea, and except ye repent, it will come unto you soon.
 
