@@ -46,7 +46,16 @@ ____
 
 *3 Nephi 18:15* Verily verily I say unto you: Ye [highlight-orange]#must watch and pray always lest ye be tempted# by the devil and ye are led away captive by him.
 
-*3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which do repent and are baptized in my name. Behold, I am the light; I have set an example before you.
+{% margin %}
+____
+
+...I am the light of the world:...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
+____
+{% endmargin %}
+
+*3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which do repent and are baptized in my name. Behold, [highlight-orange]#I am the light#; I have set an example before you.
 
 *3 Nephi 18:17* And it came to pass that when Jesus had spake these words unto his disciples, he turned again unto the multitude and saith unto them:
 
