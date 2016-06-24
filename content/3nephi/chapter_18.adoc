@@ -25,6 +25,10 @@
 {% margin %}
 ____
 
+Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:24]#
+
 ...built his house upon the sand: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:27]#
@@ -57,7 +61,16 @@ ____
 
 *3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which do repent and are baptized in my name. Behold, [highlight-orange]#I am the light#; I have set an example before you.
 
-*3 Nephi 18:17* And it came to pass that when Jesus had spake these words unto his disciples, he turned again unto the multitude and saith unto them:
+{% margin %}
+____
+
+And there went great multitudes with him: and he turned, and said unto them
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-14/[Luke 14:25]#
+____
+{% endmargin %}
+
+*3 Nephi 18:17* And it came to pass that when Jesus had spake these words unto his disciples, [highlight-orange]#he turned again unto the multitude and saith unto them:#
 
 {% margin %}
 ____
@@ -76,7 +89,20 @@ ____
 
 *3 Nephi 18:19* Therefore ye must always pray unto the Father in my name.
 
-*3 Nephi 18:20* And whatsoever ye shall ask the Father in my name which is right, believing that ye shall receive, and behold, it shall be given unto you.
+{% margin %}
+____
+
+...Whatsoever ye shall ask the Father in my name, he will give it you.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:23]#
+
+...ask, [highlight]#and ye shall receive#, that your joy may be full.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:24]#
+____
+{% endmargin %}
+
+*3 Nephi 18:20* And [highlight-orange]#whatsoever ye shall ask the Father in my name# which is right, believing that [highlight-orange]#ye shall receive#, and behold, [highlight-orange]#it shall be given unto you.#
 
 *3 Nephi 18:21* Pray in your families unto the Father always in my name, that your wives and your children may be blessed.
 
