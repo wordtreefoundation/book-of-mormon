@@ -1,6 +1,15 @@
 *Alma 40:1* Now my son, here is somewhat more I would say unto thee, for I perceive that thy mind is worried concerning the resurrection of the dead.
 
-*Alma 40:2* Behold, I say unto you that there is no resurrection--or I would say in other words that this mortal does not put on immortality, this corruption does not put on incorruption--until after the coming of Christ.
+{% margin %}
+____
+
+...this corruptible must put on incorruption, and this mortal must put on immortality.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:53]#
+____
+{% endmargin %}
+
+*Alma 40:2* Behold, I say unto you that there is no resurrection--or I would say in other words that [highlight-orange]#this mortal does not put on immortality, this corruption does not put on incorruption#--until after the coming of Christ.
 
 *Alma 40:3* Behold, he bringeth to pass the resurrection of the dead. But behold, my son, the resurrection is not yet. Now I unfold unto you a mystery. Nevertheless there are many mysteries which are kept, that no one knoweth them save God himself. But I shew unto you one thing which I have inquired diligently of God that I might know--that is concerning the resurrection.
 
@@ -22,9 +31,27 @@
 
 *Alma 40:12* And then shall it come to pass that the spirits of those which are righteous are received into a state of happiness, which is called paradise, a state of rest, a state of peace, where they shall rest from all their troubles and from all care and sorrow etc.
 
-*Alma 40:13* And then shall it come to pass that the spirits of the wicked, yea, which are evil--for behold, they have no part nor portion of the Spirit of the Lord, for behold, they chose evil works rather than good; therefore the spirit of the devil did enter into them and take possession of their house--and these shall be cast out into outer darkness. There shall be weeping and wailing and gnashing of teeth--and this because of their own iniquity, being led captive by the will of the devil.
+{% margin %}
+____
 
-*Alma 40:14* Now this is the state of the souls of the wicked--yea, in darkness and a state of awful fearful looking for of the fiery indignation of the wrath of God upon them. Thus they remain in this state, as well as the righteous in paradise, until the time of their resurrection.
+...cast him into outer darkness, there shall be weeping and gnashing of teeth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-22/[Matthew 22:13]#
+____
+{% endmargin %}
+
+*Alma 40:13* And then shall it come to pass that the spirits of the wicked, yea, which are evil--for behold, they have no part nor portion of the Spirit of the Lord, for behold, they chose evil works rather than good; therefore the spirit of the devil did enter into them and take possession of their house--and these shall be [highlight-orange]#cast out into outer darkness. There shall be weeping and wailing and gnashing of teeth#--and this because of their own iniquity, being led captive by the will of the devil.
+
+{% margin %}
+____
+
+...fearful looking for of judgment and fiery indignation...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-10/[Hebrews 10:27]#
+____
+{% endmargin %}
+
+*Alma 40:14* Now this is the state of the souls of the wicked--yea, in darkness and a state of awful [highlight-orange]#fearful looking for of the fiery indignation# of the wrath of God upon them. Thus they remain in this state, as well as the righteous in paradise, until the time of their resurrection.
 
 *Alma 40:15* Now there are some that have understood that this state of happiness and this state of misery of the soul before the resurrection was a first resurrection. Yea, I admit it may be termed a resurrection, the raising the spirit or the soul and their consignation to happiness or misery, according to the words which have been spoken.
 
