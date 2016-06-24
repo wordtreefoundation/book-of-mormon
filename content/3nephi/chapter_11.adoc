@@ -33,6 +33,10 @@ ____
 ...I am the light of the world...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
+
+In him was life; and the life was the light of men.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:4]#
 ____
 {% endmargin %}
 
