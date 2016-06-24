@@ -14,7 +14,16 @@
 
 *Alma 39:8* But behold, ye cannot hide your crimes from God. And except ye repent, they will stand as a testimony against you at the last day.
 
-*Alma 39:9* Now my son, I would that ye should repent and forsake your sins and go no more after the lusts of your eyes, but cross yourself in all these things. For except ye do this, ye can in no wise inherit the kingdom of God. O remember, and take it upon you and cross yourself in these things.
+{% margin %}
+____
+
+...the lust of the eyes...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-2/[I John 2:16]#
+____
+{% endmargin %}
+
+*Alma 39:9* Now my son, I would that ye should repent and forsake your sins and go no more after the [highlight-orange]#lusts of your eyes#, but cross yourself in all these things. For except ye do this, ye can in no wise inherit the kingdom of God. O remember, and take it upon you and cross yourself in these things.
 
 *Alma 39:10* And I command you to take it upon you to counsel your elder brothers in your undertakings--for behold, thou art in thy youth and ye stand in need to be nourished by your brothers--and give heed to their counsel.
 
