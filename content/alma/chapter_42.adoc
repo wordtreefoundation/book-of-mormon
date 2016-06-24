@@ -1,6 +1,17 @@
 *Alma 42:1* And now my son, I perceive there is somewhat more which doth worry your mind, which ye cannot understand, which is concerning the justice of God in the punishment of the sinner. For ye do try to suppose that it is injustice that the sinner should be consigned to a state of misery.
 
-*Alma 42:2* Now behold, my son, I will explain this thing unto thee. For behold, after the Lord God sent our first parents forth from the garden of Eden to till the ground from whence he was taken--yea, he drove out the man--and he placed at the east end of the garden of Eden cherubims and a flaming sword which turned every way to keep the tree of life--
+{% margin %}
+____
+
+23 Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
+
+24 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Genesis-Chapter-3/[Genesis 3:23-24]#
+____
+{% endmargin %}
+
+*Alma 42:2* Now behold, my son, I will explain this thing unto thee. [highlight]#For behold, after the Lord God sent our first parents forth from the garden of Eden to till the ground from whence he was taken--yea, he drove out the man--and he placed at the east end of the garden of Eden cherubims and a flaming sword which turned every way to keep the tree of life#--
 
 *Alma 42:3* now we see that the man had became as God, knowing good and evil, and lest he should put forth his hand and take also of the tree of life and eat and live forever, that the Lord God placed cherubims and the flaming sword that he should not partake of the fruit.
 
@@ -50,7 +61,16 @@
 
 *Alma 42:26* And thus God bringeth about his great and eternal purposes, which was prepared from the foundation of the world. And thus cometh about the salvation and the redemption of men, and also their destruction and misery.
 
-*Alma 42:27* Therefore, O my son, whosoever will come may come and partake of the waters of life freely. And whosoever will not come, the same is not compelled to come. But in the last day it shall be restored unto him according to his deeds.
+{% margin %}
+____
+
+...whosoever will, let him take the water of life freely.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:17]#
+____
+{% endmargin %}
+
+*Alma 42:27* Therefore, O my son, [highlight-orange]#whosoever will come may come and partake of the waters of life freely.# And whosoever will not come, the same is not compelled to come. But in the last day it shall be restored unto him according to his deeds.
 
 *Alma 42:28* If he hath desired to do evil and hath not repented in his days, behold, evil shall be done unto him according to the restoration of God.
 
