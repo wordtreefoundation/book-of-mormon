@@ -26,7 +26,16 @@
 
 *Alma 37:14* And now remember, my son, that God hath entrusted you with these things which are sacred, which he hath kept sacred, and also which he will keep and preserve for a wise purpose in him, that he may shew forth his power unto future generations.
 
-*Alma 37:15* And now behold, I tell you by the spirit of prophecy that if ye transgress the commandments of God, behold, these things which are sacred shall be taken away from you by the power of God; and ye shall be delivered up unto Satan, that he may sift you as chaff before the wind.
+{% margin %}
+____
+
+Satan hath desired to have you, that he may sift you as wheat:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-22/[Luke 22:31]#
+____
+{% endmargin %}
+
+*Alma 37:15* And now behold, I tell you by the spirit of prophecy that if ye transgress the commandments of God, behold, these things which are sacred shall be taken away from you by the power of God; and ye shall be delivered up unto [highlight-orange]#Satan, that he may sift you as chaff before the wind.#
 
 *Alma 37:16* But if ye keep the commandments of God and do with these things which are sacred according to that which the Lord doth command you--for you must appeal unto the Lord for all things whatsoever ye must do with them--behold, no power of earth or hell can take them from you, for God is powerful to the fulfilling of all his words.
 
@@ -64,7 +73,16 @@
 
 *Alma 37:33* Preach unto them repentance and faith on the Lord Jesus Christ. Teach them to humble themselves and to be meek and lowly in heart. Teach them to withstand every temptation of the devil, with their faith on the Lord Jesus Christ.
 
-*Alma 37:34* Teach them to never be weary of good works, but to be meek and lowly in heart, for such shall find rest to their souls.
+{% margin %}
+____
+
+I am meek and lowly in heart: and ye shall find rest unto your souls.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-11/[Matthew 11:29]#
+____
+{% endmargin %}
+
+*Alma 37:34* Teach them to never be weary of good works, but [highglight-orange]#to be meek and lowly in heart, for such shall find rest to their souls.#
 
 *Alma 37:35* O remember, my son, and learn wisdom in thy youth; yea, learn in thy youth to keep the commandments of God.
 
