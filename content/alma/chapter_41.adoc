@@ -4,7 +4,16 @@
 
 *Alma 41:3* And it is also requisite with the justice of God that men should be judged according to their works. And if their works were good in this life and the desires of their hearts were good, that they should also at the last day be restored unto that which is good.
 
-*Alma 41:4* And if his works are evil, they shall be restored unto him for evil. Therefore all things shall be restored to its proper order, every thing to its natural frame--mortality raised to immortality, corruption to incorruption--raised to endless happiness to inherit the kingdom of God, or to endless misery to inherit the kingdom of the devil, the one on one hand, the other on the other,
+{% margin %}
+____
+
+...this corruptible must put on incorruption, and this mortal must put on immortality.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:53]#
+____
+{% endmargin %}
+
+*Alma 41:4* And if his works are evil, they shall be restored unto him for evil. Therefore all things shall be restored to its proper order, every thing to its natural frame--[highlight-orange]#mortality raised to immortality, corruption to incorruption#--raised to endless happiness to inherit the kingdom of God, or to endless misery to inherit the kingdom of the devil, the one on one hand, the other on the other,
 
 *Alma 41:5* the one restored to happiness according to his desires of happiness--or to good according to his desires of good--and the other to evil according to his desires of evil. For as he has desired to do evil all the day long, even so shall he have his reward of evil when the night cometh.
 
