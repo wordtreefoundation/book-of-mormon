@@ -18,7 +18,22 @@
 
 *Alma 41:10* Do not suppose because that it hath been spoken concerning restoration that ye shall be restored from sin to happiness. Behold, I say unto you: Wickedness never was happiness.
 
-*Alma 41:11* And now my son, all men that are in a state of nature--or I would say, in a carnal state--are in the gall of bitterness and in the bonds of iniquity. They are without God in the world, and they have gone contrary to the nature of God. Therefore they are in a state contrary to the nature of happiness.
+{% margin %}
+____
+
+...art in the gall of bitterness, and in the bond of iniquity...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-8/[Acts 8:23]#
+
+____
+
+...without God in the world
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-2/[Ephesians 2:12]#
+____
+{% endmargin %}
+
+*Alma 41:11* And now my son, all men that are in a state of nature--or I would say, in a carnal state--[highlight-orange]#are in the gall of bitterness and in the bonds of iniquity#. They are [highlight-orange]#without God in the world#, and they have gone contrary to the nature of God. Therefore they are in a state contrary to the nature of happiness.
 
 *Alma 41:12* And now behold, is the meaning of the word restoration to take a thing of a natural state and place it in an unnatural state, or to place it in a state opposite to its nature?
 
