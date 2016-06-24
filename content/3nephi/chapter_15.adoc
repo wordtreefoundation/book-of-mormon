@@ -62,7 +62,16 @@ ____
 
 *3 Nephi 15:11* And now it came to pass that when Jesus had spoken these words, he said unto those twelve whom he had chosen:
 
-*3 Nephi 15:12* Ye are my disciples, and ye are a light unto this people, which are a remnant of the house of Joseph.
+{% margin %}
+____
+
+Ye are the light of the world. A city that is set on an hill cannot be hid.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:14]#
+____
+{% endmargin %}
+
+*3 Nephi 15:12* Ye are my disciples, [highlight-orange]#and ye are a light unto this people#, which are a remnant of the house of Joseph.
 
 *3 Nephi 15:13* And behold, this is the land of your inheritance, and the Father hath given it unto you.
 
@@ -83,13 +92,31 @@ ____
 
 *3 Nephi 15:17* that [highlight-orange]#other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold and one shepherd.#
 
-*3 Nephi 15:18* And now because of stiffneckedness and unbelief they understood not my word. Therefore I was commanded to say no more of the Father concerning this thing unto them.
+{% margin %}
+____
+
+...but they understood not what things they were which he spake unto them.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:6]#
+____
+{% endmargin %}
+
+*3 Nephi 15:18* And now because of stiffneckedness and unbelief [highlight-orange]#they understood not my word#. Therefore I was commanded to say no more of the Father concerning this thing unto them.
 
 *3 Nephi 15:19* But verily I say unto you that the Father hath commanded me--and I tell it unto you--that ye were separated from among them because of their iniquity. Therefore it is because of their iniquity that they know not of you.
 
 *3 Nephi 15:20* And verily I say unto you again that the other tribes hath the Father separated from them. And it is because of their iniquity that they know not of them.
 
-*3 Nephi 15:21* And verily I say unto you that ye are they of which I said: Other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold and one shepherd.
+{% margin %}
+____
+
+And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:16]#
+____
+{% endmargin %}
+
+*3 Nephi 15:21* And verily I say unto you that ye are they of which I said: [highlight-orange]#Other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold and one shepherd.#
 
 *3 Nephi 15:22* And they understood me not, for they supposed it had been the Gentiles. For they understood not that the Gentiles should be converted through their preaching.
 
