@@ -18,7 +18,27 @@
 
 *Alma 7:10* And behold, he shall be born of Mary at Jerusalem, which is the land of our forefathers, she being a virgin, a precious and chosen vessel, who shall be overshadowed and conceive by the power of the Holy Ghost and bring forth a son, yea, even the Son of God.
 
-*Alma 7:11* And he shall go forth, suffering pains and afflictions and temptations of every kind--and this that the word might be fulfilled which saith: He will take upon him the pains and the sicknesses of his people.
+{% margin %}
+____
+
+He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
+
+Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:3-4]#
+____
+{% endmargin %}
+
+*Alma 7:11* And he shall go forth, suffering pains and afflictions and temptations of every kind--and this that the word might be fulfilled which saith: [highlight]#He will take upon him the pains and the sicknesses of his people.#
+
+{% margin %}
+____
+
+But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:5]#
+____
+{% endmargin %}
 
 *Alma 7:12* And he will take upon him death, that he may loose the bands of death which binds his people. And he will take upon him their infirmities, that his bowels may be filled with mercy according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities.
 
