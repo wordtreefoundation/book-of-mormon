@@ -84,7 +84,16 @@ ____
 
 *Alma 58:39* And those sons of the people of Ammon, of which I have so highly spoken, are with me in the city of Manti. And the Lord hath supported them, yea, and kept them from falling by the sword, insomuch that even one soul hath not been slain.
 
-*Alma 58:40* But behold, they have received many wounds. Nevertheless they stand fast in that liberty wherewith God hath made them free. And they are strict to remember the Lord their God from day to day. Yea, they do observe to keep his statutes and his judgments and his commandments continually. And their faith is strong in the prophecies concerning that which is to come.
+{% margin %}
+____
+
+Stand fast therefore in the liberty wherewith Christ hath made us free...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Galatians-Chapter-5/[Galatians 5:1]#
+____
+{% endmargin %}
+
+*Alma 58:40* But behold, they have received many wounds. Nevertheless they [highlight-orange]#stand fast in that liberty wherewith God hath made them free#. And they are strict to remember the Lord their God from day to day. Yea, they do observe to keep his statutes and his judgments and his commandments continually. And their faith is strong in the prophecies concerning that which is to come.
 
 *Alma 58:41* And now my beloved brother Moroni, that the Lord our God, who hath redeemed us and made us free, may keep you continually in his presence, yea, and that he may favor this people, even that ye may have success in obtaining the possession of all that which the Lamanites hath taken from us, which was for our support. And now behold, I close mine epistle. I am Helaman the son of Alma.
 
