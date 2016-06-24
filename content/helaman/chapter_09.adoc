@@ -38,7 +38,16 @@
 
 *Helaman 9:20* saying unto him: Thou art confederate! Who is this man that hath done this murder? Now tell us and acknowledge thy fault!--saying--Behold, here is money! And also we will grant unto thee thy life if thou wilt tell us and acknowledge the agreement which thou hast made with him.
 
-*Helaman 9:21* But Nephi saith unto them: O ye fools, ye uncircumcised of heart, ye blind and ye stiffnecked people, do ye know how long the Lord your God will suffer you that ye shall go on in this your ways of sin?
+{% margin %}
+____
+
+Ye stiffnecked and uncircumcised in heart and ears...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-7/[Acts 7:51]#
+____
+{% endmargin %}
+
+*Helaman 9:21* But Nephi saith unto them: O ye fools, [highlight-orange]#ye uncircumcised of heart, ye blind and ye stiffnecked people,# do ye know how long the Lord your God will suffer you that ye shall go on in this your ways of sin?
 
 *Helaman 9:22* O ye had ought to begin to howl and mourn because of the great destruction at this time which doth await you except ye shall repent.
 
