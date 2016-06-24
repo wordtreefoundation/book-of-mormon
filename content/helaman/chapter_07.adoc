@@ -52,7 +52,16 @@
 
 *Helaman 7:27* Yea, woe be unto you because of your wickedness and abominations.
 
-*Helaman 7:28* And except ye repent, ye shall perish; yea, even your lands shall be taken from you, and ye shall be destroyed from off the face of the earth.
+{% margin %}
+____
+
+...except ye repent, ye shall all likewise perish.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:3]#
+____
+{% endmargin %}
+
+*Helaman 7:28* And [highlight-orange]#except ye repent, ye shall perish;# yea, even your lands shall be taken from you, and ye shall be destroyed from off the face of the earth.
 
 *Helaman 7:29* Behold, now I do not say that these things shall be, of myself, because it is not of myself that I know these things. But behold, I know that these things are true because the Lord God hath made them known unto me; therefore I testify that they shall be.
 
