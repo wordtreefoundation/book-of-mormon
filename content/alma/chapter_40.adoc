@@ -46,7 +46,16 @@
 
 *Alma 40:24* And now my son, this is the restoration of which has been spoken by the mouths of the prophets.
 
-*Alma 40:25* And then shall the righteous shine forth in the kingdom of God.
+{% margin %}
+____
+
+Then shall the righteous shine forth...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-13/[Matthew 13:43]#
+____
+{% endmargin %}
+
+*Alma 40:25* And [highlight-orange]#then shall the righteous shine forth# in the kingdom of God.
 
 *Alma 40:26* But behold, an awful death cometh upon the wicked, for they die as to things pertaining to things of righteousness; for they are unclean, and no unclean thing can inherit the kingdom of God. But they are cast out and consigned to partake of the fruits of their labors--or their works which have been evil--and they drink the dregs of a bitter cup.
 
