@@ -54,9 +54,27 @@
 
 *Helaman 3:28* Yea, thus we see that the gate of heaven is open unto all, even to those who will believe on the name of Jesus Christ, which is the Son of God.
 
-*Helaman 3:29* Yea, we see that whosoever will lay hold upon the word of God, which is quick and powerful, which shall divide asunder all the cunning and the snares and the wiles of the devil and lead the man of Christ in a straight and narrow course across that everlasting gulf of misery, which is prepared to engulf the wicked,
+{% margin %}
+____
 
-*Helaman 3:30* and land their souls--yea, their immortal souls--at the right hand of God in the kingdom of heaven, to sit down with Abraham and Isaac and with Jacob and with all our holy fathers, to go no more out.
+...the word of God is quick, and powerful...even to the dividing asunder of soul and spirit...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-4/[Hebrews 4:12]#
+____
+{% endmargin %}
+
+*Helaman 3:29* Yea, we see that whosoever will lay hold upon the [highlight-orange]#word of God, which is quick and powerful, which shall divide asunder# all the cunning and the snares and the wiles of the devil and lead the man of Christ in a straight and narrow course across that everlasting gulf of misery, which is prepared to engulf the wicked,
+
+{% margin %}
+____
+
+...shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-8/[Matthew 8:11]#
+____
+{% endmargin %}
+
+*Helaman 3:30* and land their souls--yea, their immortal souls--[highlight-orange]#at the right hand of God in the kingdom of heaven, to sit down with Abraham and Isaac and with Jacob# and with all our holy fathers, to go no more out.
 
 *Helaman 3:31* And in this year there were continual rejoicing in the land of Zarahemla and in all the regions round about, even in all the land which was possessed by the Nephites.
 
