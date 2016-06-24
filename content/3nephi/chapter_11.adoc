@@ -166,7 +166,17 @@ ____
 
 *3 Nephi 11:37* And again I say unto you: Ye must repent and become as a little child and be baptized in my name, or ye can in no wise receive these things.
 
-*3 Nephi 11:38* And again I say unto you: Ye must repent and be baptized in my name and become as a little child, or ye can in no wise inherit the kingdom of God.
+{% margin %}
+____
+
+Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-18/[Matthew 18:3]#
+
+____
+{% endmargin %}
+
+*3 Nephi 11:38* And again I say unto you: [highlight-orange]#Ye must repent and be baptized in my name and become as a little child, or ye can in no wise inherit the kingdom of God.#
 
 {% margin %}
 ____
