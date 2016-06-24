@@ -1,13 +1,17 @@
 {% margin %}
 ____
 
+And seeing the multitudes...and taught them, saying,
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:1-2]#
+
 ...I will raise him up at the last day.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-6/[John 6:44]#
 ____
 {% endmargin %}
 
-*3 Nephi 15:1* And now it came to pass that when Jesus had ended these sayings, he cast his eyes round about on the multitude and saith unto them: Behold, ye have heard the things which I have taught before I ascended to my Father. Therefore whoso remembereth these sayings of mine and doeth them, [highlight-orange]#him will I raise up at the last day.#
+*3 Nephi 15:1* And now it came to pass that when Jesus had ended these sayings, [highlight-orange]#he cast his eyes round about on the multitude and saith unto them:# Behold, ye have heard the things which I have taught before I ascended to my Father. Therefore whoso remembereth these sayings of mine and doeth them, [highlight-orange]#him will I raise up at the last day.#
 
 {% margin %}
 ____
@@ -26,11 +30,22 @@ ____
 
 *3 Nephi 15:5* Behold, I am he that gave the law, and I am he which covenanted with my people Israel. Therefore the law in me is fulfilled, for I have come to fulfill the law. Therefore it hath an end.
 
-*3 Nephi 15:6* Behold, I do not destroy the prophets, for as many as have not been fulfilled in me--verily I say unto you--shall all be fulfilled.
+{% margin 3 %}
+____
 
-*3 Nephi 15:7* And because I said unto you that old things hath passed away, I do not destroy that which hath been spoken concerning things which is to come.
+17 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 
-*3 Nephi 15:8* For behold, the covenant which I have made with my people is not all fulfilled, but the law which was given unto Moses hath an end in me.
+18 ...Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:17-18]#
+____
+{% endmargin %}
+
+*3 Nephi 15:6* Behold, [highlight-orange]#I do not destroy the prophets, for as many as have not been fulfilled in me--verily I say unto you--shall all be fulfilled.#
+
+*3 Nephi 15:7* And because I said unto you that old things hath passed away, [highlight-orange]#I do not destroy that which hath been spoken concerning things which is to come.#
+
+*3 Nephi 15:8* For behold, [highlight-orange]#the covenant which I have made with my people is not all fulfilled, but the law which was given unto Moses hath an end in me.#
 
 {% margin %}
 ____
