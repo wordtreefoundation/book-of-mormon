@@ -12,7 +12,16 @@
 
 *Helaman 5:7* Therefore my sons, I would that ye should do that which is good, that it may be said of you, and also written, even as it has been said and written of them.
 
-*Helaman 5:8* And now my sons, behold, I have somewhat more to desire of you, which desire is that ye may not do these things that ye may boast, but that ye may do these things to lay up for yourselves a treasure in heaven--yea, which is eternal and which fadeth not away--yea, that ye may have that precious gift of eternal life which we have reason to suppose hath been given to our fathers.
+{% margin %}
+____
+
+...lay up for yourselves treasures in heaven...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:20]#
+____
+{% endmargin %}
+
+*Helaman 5:8* And now my sons, behold, I have somewhat more to desire of you, which desire is that ye may not do these things that ye may boast, but that ye may do these things to [highlight-orange]#lay up for yourselves a treasure in heaven#--yea, which is eternal and which fadeth not away--yea, that ye may have that precious gift of eternal life which we have reason to suppose hath been given to our fathers.
 
 *Helaman 5:9* O remember, remember, my sons, the words which king Benjamin spake unto his people. Yea, remember that there is no other way nor means whereby man can be saved, only through the atoning blood of Jesus Christ, which shall come. Yea, remember that he cometh to redeem the world.
 
@@ -60,7 +69,16 @@
 
 *Helaman 5:31* and notwithstanding the mildness of the voice, behold, the earth shook exceedingly. And the walls of the prison trembled again as if it were about to tumble to the earth. And behold, the cloud of darkness which had overshadowed them did not disperse.
 
-*Helaman 5:32* And behold, the voice came again, saying: Repent ye, repent ye, for the kingdom of heaven is at hand; and seek no more to destroy my servants. And it came to pass that the earth shook again and the walls trembled.
+{% margin %}
+____
+
+...Repent ye: for the kingdom of heaven is at hand.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
+____
+{% endmargin %}
+
+*Helaman 5:32* And behold, the voice came again, saying: [highlight-orange]#Repent ye, repent ye, for the kingdom of heaven is at hand;# and seek no more to destroy my servants. And it came to pass that the earth shook again and the walls trembled.
 
 *Helaman 5:33* And also again the third time the voice came and did speak unto them marvelous words which cannot be uttered by man. And the walls did tremble again; and the earth shook as if it were about to divide asunder.
 
@@ -84,7 +102,16 @@
 
 *Helaman 5:43* And it came to pass that when they cast their eyes about and saw that the cloud of darkness was dispersed from overshadowing them, and behold, they saw that they were encircled about--yea, every soul--by a pillar of fire.
 
-*Helaman 5:44* And Nephi and Lehi was in the midst of them. Yea, they were encircled about; yea, they were as if in the midst of a flaming fire. Yet it did harm them not, neither did it take hold upon the walls of the prison. And they were filled with that joy which is unspeakable and full of glory.
+{% margin %}
+____
+
+...with joy unspeakable and full of glory:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Peter-Chapter-1/[I Peter 1:8]#
+____
+{% endmargin %}
+
+*Helaman 5:44* And Nephi and Lehi was in the midst of them. Yea, they were encircled about; yea, they were as if in the midst of a flaming fire. Yet it did harm them not, neither did it take hold upon the walls of the prison. And they were filled [highlight-orange]#with that joy which is unspeakable and full of glory.#
 
 {% margin %}
 ____
