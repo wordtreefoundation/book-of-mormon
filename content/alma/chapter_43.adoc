@@ -16,7 +16,16 @@
 
 *Alma 43:9* And now the design of the Nephites were to support their lands and their houses and their wives and their children, that they might preserve them from the hands of their enemies, and also that they might preserve their rights and their privileges, yea, and also their liberty, that they might worship God according to their desires.
 
-*Alma 43:10* For they knew that if they should fall into the hands of the Lamanites that whosoever should worship God in spirit and in truth, the true and the living God, the Lamanites would destroy.
+{% margin %}
+____
+
+...worship him in spirit and in truth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-4/[John 4:24]#
+____
+{% endmargin %}
+
+*Alma 43:10* For they knew that if they should fall into the hands of the Lamanites that whosoever should [highlight-orange]#worship God in spirit and in truth#, the true and the living God, the Lamanites would destroy.
 
 *Alma 43:11* Yea, and they also knew the extreme hatred of the Lamanites towards their brethren which were the people of Anti-Nephi-Lehi, which were called the people of Ammon. And they would not take up arms; yea, they had entered into a covenant and they would not break it. Therefore if they should fall into the hands of the Lamanites, they would be destroyed.
 
