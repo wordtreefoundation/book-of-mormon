@@ -14,7 +14,20 @@
 
 *Alma 38:8* And it came to pass that I was three days and three nights in the most bitter pain and anguish of soul. And never until I did cry out unto the Lord Jesus Christ for mercy did I receive a remission of my sins. But behold, I did cry unto him and I did find peace to my soul.
 
-*Alma 38:9* And now my son, I have told you this that ye might learn wisdom, that ye may learn of me, that there is no other way nor means whereby man can be saved, only in and through Christ. Behold, he is the life and the light of the world. Behold, he is the word of truth and righteousness.
+{% margin %}
+____
+
+In him was life; and the life was the light of men.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-1/[I John 1:4]#
+
+...I am the light of the world...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
+____
+{% endmargin %}
+
+*Alma 38:9* And now my son, I have told you this that ye might learn wisdom, that ye may learn of me, that there is no other way nor means whereby man can be saved, only in and through Christ. Behold, [highlight-orange]#he is the life and the light of the world#. Behold, he is the word of truth and righteousness.
 
 *Alma 38:10* And now as ye have begun to teach the word, even so I would that ye should continue to teach. And I would that ye should be diligent and temperate in all things.
 
