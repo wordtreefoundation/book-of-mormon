@@ -202,5 +202,13 @@ ____
 
 *3 Nephi 11:40* And whoso shall declare more or less than this and establisheth it for my doctrine, the same cometh of evil and is [highlight-orange]#not built upon my rock, but he buildeth upon a sandy foundation; and the gates of hell standeth open to receive such when the floods come and the winds beat upon them.#
 
-*3 Nephi 11:41* Therefore go forth unto this people and declare the words which I have spoken unto the ends of the earth.
+{% margin %}
+____
+Go ye into all the world, and preach the gospel to every creature.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:15]#
+____
+{% endmargin %}
+
+*3 Nephi 11:41* Therefore [highlight-orange]#go forth unto this people and declare the words which I have spoken unto the ends of the earth.#
 
