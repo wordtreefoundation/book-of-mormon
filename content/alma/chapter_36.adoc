@@ -62,7 +62,17 @@ ____
 
 *Alma 36:27* And I have been supported under trials and troubles of every kind, yea, and in all manner of afflictions. Yea, God hath delivered me from prisons and from bonds and from death. Yea, and I do put my trust in him and he will still deliver me.
 
-*Alma 36:28* And I know that he will raise me up at the last day to dwell with him in glory. Yea, and I will praise him forever. For he hath brought our fathers out of Egypt, and he hath swallowed up the Egyptians in the Red Sea, and he led them by his power into the promised land; yea, and he hath delivered them out of bondage and captivity from time to time.
+{% margin %}
+____
+
+...I will raise him up at the last day.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-6/[John 6:40]#
+
+____
+{% endmargin %}
+
+*Alma 36:28* And I know that [highlight-orange]#he will raise me up at the last day# to dwell with him in glory. Yea, and I will praise him forever. For he hath brought our fathers out of Egypt, and he hath swallowed up the Egyptians in the Red Sea, and he led them by his power into the promised land; yea, and he hath delivered them out of bondage and captivity from time to time.
 
 *Alma 36:29* Yea, and he hath also brought our fathers out of the land of Jerusalem, and he hath also by his everlasting power delivered them out of bondage and captivity from time to time, even down to the present day. And I have always retained in remembrance their captivity; yea, and ye also had ought to retain in remembrance, as I have done, their captivity.
 
