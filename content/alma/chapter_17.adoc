@@ -20,7 +20,16 @@
 
 *Alma 17:11* And the Lord said unto them also: Go forth among the Lamanites thy brethren and establish my word. Yet ye shall be patient in long-suffering and afflictions, that ye may shew forth good examples unto them in me. And I will make an instrument of thee in my hands unto the salvation of many souls.
 
-*Alma 17:12* And it came to pass that the hearts of the sons of Mosiah, and also those which were with them, took courage to go forth unto the Lamanites to declare unto them the word of God.
+{% margin %}
+____
+Not many days after those things, [highlight]#it came to pass, that the hearts of# the lords and the counsellors of Britain were rejoiced.
+____
+
+[small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 13:28]#
+
+{% endmargin %}
+
+*Alma 17:12* [highlight]#And it came to pass that the hearts of# the sons of Mosiah, and also those which were with them, took courage to go forth unto the Lamanites to declare unto them the word of God.
 
 *Alma 17:13* And it came to pass when they had arriven in the borders of the land of the Lamanites that they separated themselves and departed one from another, trusting in the Lord that they should meet again at the close of their harvest, for they supposed that great was the work which they had undertaken.
 
@@ -60,15 +69,43 @@ http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-octobe
 
 *Alma 17:27* therefore as Ammon and the servants of the king were driving forth their flocks to this place of water, behold, a certain number of the Lamanites, who had been with their flocks to water, stood and scattered the flocks of Ammon and the servants of the king. And they scattered them insomuch that they fled many ways.
 
-*Alma 17:28* Now the servants of the king began to murmur, saying: Now the king will slay us as he has our brethren because their flocks were scattered by the wickedness of these men. And they began to weep exceedingly, saying: Behold, our flocks are scattered already.
+{% margin %}
+____
+the battering-rams of the king began to utter their noises
+____
 
-*Alma 17:29* Now they wept because of the fear of being slain. Now when Ammon saw this, his heart was swollen within him with joy, for, said he, I will shew forth my power unto these my fellow servants, or the power which is in me, in restoring these flocks unto the king, that I may win the hearts of these my fellow servants, that I may lead them to believe in my words.
+[small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 54:10]#
+
+{% endmargin %}
+
+*Alma 17:28* Now the servants [highlight]#of the king began to murmur#, saying: Now the king will slay us as he has our brethren because their flocks were scattered by the wickedness of these men. And they began to weep exceedingly, saying: Behold, our flocks are scattered already.
+
+{% margin %}
+____
+Now when Carden heard these words, his heart leaped with joy
+____
+
+[small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 13:20]#
+
+{% endmargin %}
+
+
+*Alma 17:29* Now they wept because of the fear of being slain. [highlight]#Now when Ammon saw this, his heart was swollen within him with joy#, for, said he, I will shew forth my power unto these my fellow servants, or the power which is in me, in restoring these flocks unto the king, that I may win the hearts of these my fellow servants, that I may lead them to believe in my words.
 
 *Alma 17:30* Now these were the thoughts of Ammon when he saw the affliction of those which he termed to be his brethren.
 
 *Alma 17:31* And it came to pass that he flattered them by his words, saying: My brethren, be of good cheer, and let us go in search of the flocks; and we will gather them together and bring them back unto the place of water. And thus we will restore the flocks unto the king and he will not slay us.
 
-*Alma 17:32* And it came to pass that they went in search of the flocks; and they did follow Ammon, and they rushed forth with much swiftness and did head the flocks of the king and did gather them together again to the place of water.
+{% margin %}
+____
+And on the fifteenth day of the month, after they had prepared themselves, [highlight]#they rushed forth with all their might# against the strong hold of Columbia.
+____
+
+[small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 42:6]#
+
+{% endmargin %}
+
+*Alma 17:32* And it came to pass that they went in search of the flocks; and they did follow Ammon, and [highlight]#they rushed forth with much swiftness# and did head the flocks of the king and did gather them together again to the place of water.
 
 *Alma 17:33* And those men again stood to scatter their flocks, but Ammon saith unto his brethren: Encircle the flocks round about that they flee not, and I go and contend with these men which do scatter our flocks.
 
