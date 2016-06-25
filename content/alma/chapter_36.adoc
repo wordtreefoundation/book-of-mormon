@@ -32,7 +32,17 @@
 
 *Alma 36:17* And it came to pass that as I was thus racked with torment, while I was harrowed up by the memory of my many sins, behold, I remembered also to have heard my father prophesy unto the people concerning the coming of one Jesus Christ, a Son of God, to atone for the sins of the world.
 
-*Alma 36:18* Now as my mind catched hold upon this thought, I cried within my heart: O Jesus, thou Son of God, have mercy on me, who art in the gall of bitterness and art encircled about by the everlasting chains of death.
+{% margin %}
+____
+
+...thou art in the gall of bitterness...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-8/[Acts 8:23]#
+
+____
+{% endmargin %}
+
+*Alma 36:18* Now as my mind catched hold upon this thought, I cried within my heart: O Jesus, thou Son of God, have mercy on me, who [highlight-orange]#art in the gall of bitterness# and art encircled about by the everlasting chains of death.
 
 *Alma 36:19* And now behold, when I thought this, I could remember my pains no more. Yea, I was harrowed up by the memory of my sins no more.
 
