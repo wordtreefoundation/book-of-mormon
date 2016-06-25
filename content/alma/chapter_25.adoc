@@ -8,7 +8,17 @@
 
 *Alma 25:5* And the remainder having fled into the east wilderness and having usurped the power and authority over the Lamanites caused that many of the Lamanites should perish by fire because of their belief.
 
-*Alma 25:6* For many of them, after having suffered much loss and so many afflictions, they began to be stirred up in remembrance of the words which Aaron and his brethren had preached to them in their land. Therefore they began to disbelieve the traditions of their fathers and to believe in the Lord and that he gave great power unto the Nephites; and thus there were many of them converted in the wilderness.
+{% margin %}
+____
+
+...to stir you up by putting you in remembrance;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-1/[II Peter 1:13]#
+
+____
+{% endmargin %}
+
+*Alma 25:6* For many of them, after having suffered much loss and so many afflictions, they began to be [highlight-orange]#stirred up in remembrance# of the words which Aaron and his brethren had preached to them in their land. Therefore they began to disbelieve the traditions of their fathers and to believe in the Lord and that he gave great power unto the Nephites; and thus there were many of them converted in the wilderness.
 
 *Alma 25:7* And it came to pass that those rulers which were the remnant of the children of Amulon caused that they should be put to death, yea, all those that believed in these things.
 
