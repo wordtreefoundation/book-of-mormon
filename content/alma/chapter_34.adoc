@@ -22,7 +22,17 @@
 
 *Alma 34:12* But the law requireth the life of him who hath murdered. Therefore there can be nothing which is short of an infinite atonement which will suffice for the sins of the world.
 
-*Alma 34:13* Therefore it is expedient that there should be a great and last sacrifice. And then shall there be--or it is expedient there should be--a stop to the shedding of blood; then shall the law of Moses be fulfilled. Yea, it shall all be fulfilled, every jot and tittle, and none shall have passed away.
+{% margin %}
+____
+
+...one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+
+ [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:18]#
+
+____
+{% endmargin %}
+
+*Alma 34:13* Therefore it is expedient that there should be a great and last sacrifice. And then shall there be--or it is expedient there should be--a stop to the shedding of blood; then shall the law of Moses be fulfilled. [highlight-orange]#Yea, it shall all be fulfilled, every jot and tittle#, and none shall have passed away.
 
 *Alma 34:14* And behold, this is the whole meaning of the law, every whit a pointing to that great and last sacrifice; and that great and last sacrifice will be the Son of God, yea, infinite and eternal.
 
@@ -54,7 +64,17 @@
 
 *Alma 34:28* And now behold, my brethren, I say unto you: Do not suppose that this is all. For after ye have done all these things, if ye turn away the needy and the naked and visit not the sick and afflicted and impart of your substance, if ye have, to those which stand in need--I say unto you, if ye do not any of these things, behold, your prayer is vain and availeth you nothing, and ye are as hypocrites which do deny the faith.
 
-*Alma 34:29* Therefore if ye do not remember to be charitable, ye are as dross which the refiners do cast out--it being of no worth--and is trodden under foot of men.
+{% margin %}
+____
+
+...good for nothing, but to be cast out, and to be trodden under foot of men.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:13]#
+
+____
+{% endmargin %}
+
+*Alma 34:29* Therefore if ye do not remember to be charitable, ye are as dross which the refiners do [highlight-orange]#cast out--it being of no worth--and is trodden under foot of men.#
 
 *Alma 34:30* And now my brethren, I would that after ye have received so many witnesses, seeing that the holy scriptures testifies of these things, come forth and bring fruit unto repentance.
 
@@ -72,7 +92,17 @@
 
 *Alma 34:37* And now my beloved brethren, I desire that ye should remember these things and that ye should work out your salvation with fear before God and that ye should no more deny the coming of Christ,
 
-*Alma 34:38* that ye contend no more against the Holy Ghost, but that ye receive it and take upon you the name of Christ, that ye humble yourselves even to the dust and worship God in whatsoever place ye may be in, in spirit and in truth, and that ye live in thanksgiving daily for the many mercies and blessings which he doth bestow upon you.
+{% margin %}
+____
+
+...worship him in spirit and in truth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-4/[John 4:24]#
+
+____
+{% endmargin %}
+
+*Alma 34:38* that ye contend no more against the Holy Ghost, but that ye receive it and take upon you the name of Christ, that ye humble yourselves even to the dust and [highlight-orange]#worship God# in whatsoever place ye may be in, [highlight-orange]#in spirit and in truth#, and that ye live in thanksgiving daily for the many mercies and blessings which he doth bestow upon you.
 
 *Alma 34:39* Yea, and I also exhort you, my brethren, that ye be watchful unto prayer continually, that ye may not be led away by the temptations of the devil, that he may not overpower you, that ye may not become his subjects at the last day. For behold, he rewardeth you no good thing.
 
