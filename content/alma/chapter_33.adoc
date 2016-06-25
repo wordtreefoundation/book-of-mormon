@@ -42,5 +42,15 @@
 
 *Alma 33:22* If so, woe shall come upon you. But if not so, then cast about your eyes and begin to believe in the Son of God, that he will come to redeem his people and that he shall suffer and die to atone for their sins and that he shall rise again from the dead, which shall bring to pass the resurrection, that all men shall stand before him to be judged at the last and judgment day according to their works.
 
-*Alma 33:23* And now my brethren, I desire that ye should plant this word in your hearts. And as it beginneth to swell, even so nourish it by your faith. And behold, it will become a tree springing up in you unto everlasting life. And then may God grant unto you that your burdens may be light through the joy of his Son. And even all this can ye do if ye will. Amen.
+{% margin %}
+____
+
+...springing up into everlasting life.
+
+ [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-4/[John 4:14]#
+
+____
+{% endmargin %}
+
+*Alma 33:23* And now my brethren, I desire that ye should plant this word in your hearts. And as it beginneth to swell, even so nourish it by your faith. And behold, it will become a tree [highlight-orange]#springing up in you unto everlasting life#. And then may God grant unto you that your burdens may be light through the joy of his Son. And even all this can ye do if ye will. Amen.
 
