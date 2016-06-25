@@ -22,7 +22,17 @@
 
 *Alma 32:12* I say unto you: It is well that ye are cast out of your synagogues, that ye may be humble and that ye may learn wisdom; for it is necessary that ye should learn wisdom. For it is because that ye are cast out that ye are despised of your brethren because of your exceeding poverty, that ye are brought to a lowliness of heart; for ye are necessarily brought to be humble.
 
-*Alma 32:13* And now because ye are compelled to be humble, blessed are ye; for a man sometimes, if he is compelled to be humble, seeketh repentance. And now surely, whosoever repenteth shall find mercy. And he that findeth mercy and endureth to the end, the same shall be saved.
+{% margin %}
+____
+
+But he that shall endure unto the end, the same shall be saved.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+
+____
+{% endmargin %}
+
+*Alma 32:13* And now because ye are compelled to be humble, blessed are ye; for a man sometimes, if he is compelled to be humble, seeketh repentance. And now surely, whosoever repenteth shall find mercy. [highlight-orange]#And he that findeth mercy and endureth to the end, the same shall be saved.#
 
 *Alma 32:14* And now as I said unto you that because ye were compelled to be humble ye were blessed, do ye not suppose that they are more blessed who truly humble themselves because of the word?
 
@@ -38,7 +48,17 @@
 
 *Alma 32:20* Now of this thing ye must judge. Behold, I say unto you that it is on the one hand even as it is on the other; and it shall be unto every man according to his work.
 
-*Alma 32:21* And now as I said concerning faith: faith is not to have a perfect knowledge of things; therefore if ye have faith, ye hope for things which is not seen, which are true.
+{% margin %}
+____
+
+...faith is the substance of things hoped for, the evidence of things not seen.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:6]#
+
+____
+{% endmargin %}
+
+*Alma 32:21* And now as I said concerning faith: faith is not to have a perfect knowledge of things; therefore if ye have [highlight-orange]#faith, ye hope for things which is not seen, which are true.#
 
 *Alma 32:22* And now behold, I say unto you--and I would that ye should remember--that God is merciful unto all who believe on his name. Therefore he desireth in the first place that ye should believe, yea, even on his word.
 
@@ -72,13 +92,33 @@
 
 *Alma 32:37* And behold, as the tree beginneth to grow, ye will say: Let us nourish it with great care that it may get root, that it may grow up and bring forth fruit unto us. And now behold, if ye nourish it with much care, it will get root and grow up and bring forth fruit.
 
-*Alma 32:38* But if ye neglect the tree and take no thought for its nourishment, behold, it will not get any root. And when the heat of the sun cometh and scorcheth it, and because it hath no root, it withereth away; and ye pluck it up and cast it out.
+{% margin %}
+____
+
+And when the sun was up, they were scorched; and because they had no root, they withered away.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-13/[Matthew 13:6]#
+
+____
+{% endmargin %}
+
+*Alma 32:38* But if ye neglect the tree and take no thought for its nourishment, behold, it will not get any root. [highlight-orange]#And when the heat of the sun cometh and scorcheth it, and because it hath no root, it withereth away#; and ye pluck it up and cast it out.
 
 *Alma 32:39* Now this is not because the seed was not good, neither is it because the fruit thereof would not be desirable. But it is because your ground is barren and ye will not nourish the tree; therefore ye cannot have the fruit thereof.
 
 *Alma 32:40* And thus it is: if ye will not nourish the word, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life.
 
-*Alma 32:41* But if ye will nourish the word, yea, nourish the tree as it beginneth to grow by your faith with great diligence and with patience, looking forward to the fruit thereof, and it shall take root. And behold, it shall be a tree springing up unto everlasting life.
+{% margin %}
+____
+
+...springing up into everlasting life.
+
+ [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-4/[John 4:14]#
+
+____
+{% endmargin %}
+
+*Alma 32:41* But if ye will nourish the word, yea, nourish the tree as it beginneth to grow by your faith with great diligence and with patience, looking forward to the fruit thereof, and it shall take root. And behold, it shall be a tree [highlight-orange]#springing up unto everlasting life.#
 
 *Alma 32:42* And because of your diligence and your faith and your patience with the word in nourishing it that it may take root in you, behold, by and by ye shall pluck the fruit thereof, which is most precious, which is sweet above all that is sweet, and which is white above all that is white, yea, and pure above all that is pure; and ye shall feast upon this fruit even until ye are filled, that ye hunger not, neither shall ye thirst.
 
