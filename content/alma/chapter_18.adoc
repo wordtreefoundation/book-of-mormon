@@ -22,7 +22,17 @@
 
 *Alma 18:12* And it came to pass that when Ammon had made ready the horses and the chariots for the king and his servants, he went in unto the king. And he saw that the countenance of the king was changed; therefore he was about to return out of his presence.
 
-*Alma 18:13* And one of the king's servants said unto him: Rabbanah, which is being interpreted powerful or great king--considering their kings to be powerful--and thus he said unto him: Rabbanah, the king desireth thee to stay.
+{% margin %}
+____
+
+...said unto him, Rabbi, (which is to say, being interpreted, Master...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:38]#
+
+____
+{% endmargin %}
+
+*Alma 18:13* And one of the king's servants [highlight-orange]#said unto him: Rabbanah, which is being interpreted powerful or great king#--considering their kings to be powerful--and thus he said unto him: Rabbanah, the king desireth thee to stay.
 
 *Alma 18:14* Therefore Ammon turned himself unto the king and saith unto him: What wilt thou that I should do for thee, O king? And the king answered him not for the space of an hour according to their time, for he knew not what he should say unto him.
 
@@ -60,7 +70,17 @@
 
 *Alma 18:31* And king Lamoni saith: Is it above the earth?
 
-*Alma 18:32* And Ammon saith: Yea, and he looketh down upon all the children of men; and he knows all the thoughts and intents of the heart, for by his hand were they all created from the beginning.
+{% margin %}
+____
+
+...the thoughts and intents of the heart.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-4/[Hebrews 4:12]#
+
+____
+{% endmargin %}
+
+*Alma 18:32* And Ammon saith: Yea, and he looketh down upon all the children of men; and he knows all [highlight-orange]#the thoughts and intents of the heart#, for by his hand were they all created from the beginning.
 
 *Alma 18:33* And king Lamoni saith: I believe all these things which thou hast spoken. Art thou sent from God?
 
