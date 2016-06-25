@@ -48,7 +48,17 @@ ____
 
 *Alma 21:20* But he caused that there should be synagogues built in the land of Ishmael. And he caused that his people--or the people which was under his reign--should assemble themselves together.
 
-*Alma 21:21* And he did rejoice over them, and he did teach them many things. And he did also declare unto them that they were a people which was under him and that they were a free people, that they were free from the oppressions of the king, his father, for that his father had granted unto him that he might reign over the people which were in the land of Ishmael and in all the land round about.
+{% margin %}
+____
+
+the Prince Regent, who governed the nation in the name [highlight]#of the King his father; for#, lo! the King was possessed of an evil spirit, and his son reigned in his stead.
+
+[small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 1:14]#
+
+____
+{% endmargin %}
+
+*Alma 21:21* And he did rejoice over them, and he did teach them many things. And he did also declare unto them that they were a people which was under him and that they were a free people, that they were free from the oppressions [highlight]#of the king, his father, for# that his father had granted unto him that he might reign over the people which were in the land of Ishmael and in all the land round about.
 
 *Alma 21:22* And he also declared unto them that they might have the liberty of worshipping the Lord their God according to their desires in whatsoever place they were in, if it were in the land which was under the reign of king Lamoni.
 
