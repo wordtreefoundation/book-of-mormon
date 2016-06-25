@@ -23,9 +23,9 @@
 {% margin %}
 ____
 Not many days after those things, [highlight]#it came to pass, that the hearts of# the lords and the counsellors of Britain were rejoiced.
-____
 
 [small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 13:28]#
+____
 
 {% endmargin %}
 
@@ -61,8 +61,9 @@ ____
 The phrase "a going" is relatively uncommon in print from this period, but is also present in a letter written by Joseph Smith:
 ____
 Mr. Stowell has a prospect of getting five or six hundred dollars he does not know certain that he can get it but he is a going to try and if he can get the money...
-____
+
 http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-october-1829[Letter to Oliver Cowdery, 22 October 1829]
+____
 {% endmargin %}
 
 *Alma 17:26* And it came to pass that after he had been in the service of the king three days that as he was with the Lamanitish servants a going forth with their flocks to the place of water, which was called the waters of Sebus--and all the Lamanites drive their flocks hither that they might have water--
@@ -72,9 +73,9 @@ http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-octobe
 {% margin %}
 ____
 the battering-rams of the king began to utter their noises
-____
 
 [small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 54:10]#
+____
 
 {% endmargin %}
 
@@ -83,10 +84,9 @@ ____
 {% margin %}
 ____
 Now when Carden heard these words, his heart leaped with joy
-____
 
 [small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 13:20]#
-
+____
 {% endmargin %}
 
 
@@ -99,9 +99,9 @@ ____
 {% margin %}
 ____
 And on the fifteenth day of the month, after they had prepared themselves, [highlight]#they rushed forth with all their might# against the strong hold of Columbia.
-____
 
 [small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 42:6]#
+____
 
 {% endmargin %}
 
