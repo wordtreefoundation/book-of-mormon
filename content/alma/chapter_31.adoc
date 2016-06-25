@@ -18,7 +18,17 @@
 
 *Alma 31:10* neither would they observe the performances of the church, to continue in prayer and supplication to God daily that they might not enter into temptation.
 
-*Alma 31:11* Yea, in fine, they did pervert the ways of the Lord in very many instances. Therefore for this cause Alma and his brethren went into the land to preach the word unto them.
+{% margin %}
+____
+
+...cease to pervert the right ways of the Lord?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-13/[Acts 13:10]#
+
+____
+{% endmargin %}
+
+*Alma 31:11* Yea, in fine, [highlight-orange]#they did pervert the ways of the Lord in very many instances#. Therefore for this cause Alma and his brethren went into the land to preach the word unto them.
 
 *Alma 31:12* Now when they had came into the land, behold, to their astonishment they found that the Zoramites had built synagogues and that they did gather themselves together on one day of the week, which day they did call the day of the Lord, and they did worship after a manner which Alma and his brethren had never beheld.
 
@@ -30,7 +40,17 @@
 
 *Alma 31:16* Holy God, we believe that thou hast separated us from our brethren. And we do not believe in the tradition of our brethren which was handed down to them by the childishness of their fathers, but we believe that thou hast elected us to be thy holy children, and also thou hast made it known unto us that there shall be no Christ.
 
-*Alma 31:17* But thou art the same yesterday, today, and forever. And thou hast elected us that we shall be saved, whilst all around us are elected to be cast by thy wrath down to hell, for the which holiness, O God, we thank thee. And we also thank thee that thou hast elected us that we may not be led away after the foolish traditions of our brethren, which doth bind them down to a belief of Christ, which doth lead their hearts to wander far from thee, our God.
+{% margin %}
+____
+
+Jesus Christ the same yesterday, and to day, and for ever.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-13/[Hebrews 13:8]#
+
+____
+{% endmargin %}
+
+*Alma 31:17* [highlight-orange]#But thou art the same yesterday, today, and forever.# And thou hast elected us that we shall be saved, whilst all around us are elected to be cast by thy wrath down to hell, for the which holiness, O God, we thank thee. And we also thank thee that thou hast elected us that we may not be led away after the foolish traditions of our brethren, which doth bind them down to a belief of Christ, which doth lead their hearts to wander far from thee, our God.
 
 *Alma 31:18* And again we thank thee, O God, that we are a chosen and a holy people. Amen.
 
@@ -70,7 +90,17 @@
 
 *Alma 31:36* Now it came to pass that when Alma had said these words that he clapped his hands upon all they which were with him. And behold, as he clapped his hands upon them, they were filled with the Holy Spirit.
 
-*Alma 31:37* And after that, they did separate themselves one from another, taking no thought for themselves what they should eat or what they should drink or what they should put on.
+{% margin %}
+____
+
+...Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:25]#
+
+____
+{% endmargin %}
+
+*Alma 31:37* And after that, they did separate themselves one from another, [highlight-orange]#taking no thought for themselves what they should eat or what they should drink or what they should put on.#
 
 *Alma 31:38* And the Lord provided for them that they should hunger not, neither should they thirst. Yea, and he also gave them strength that they should suffer no manner of afflictions save it were swallowed up in the joy of Christ. Now this was according to the prayer of Alma--and this because he prayed in faith.
 
