@@ -64,7 +64,16 @@
 
 *Alma 22:33* And it came to pass that the Nephites had inhabited the land Bountiful, even from the east unto the west sea. And thus the Nephites in their wisdom, with their guards and their armies, had hemmed in the Lamanites on the south, that thereby they should have no more possession on the north, that they might not overrun the land northward.
 
-*Alma 22:34* Therefore the Lamanites could have no more possessions, only in the land of Nephi and the wilderness round about. Now this was wisdom in the Nephites, as the Lamanites were an enemy to them; they would not suffer their afflictions on every hand--and also that they might have a country whither they might flee according to their desires.
+{% margin %}
+____
+
+Moreover, they were a nation of [highlight]#savages# that dwelt in the back-woods [highlight]#and the wilderness round about# the states of Georgia, Tennessee, and the Mississippi Territory.
+
+[small]#https://wordtreefoundation.github.io/thelatewar/[The Late War, 1816, 34:5]#
+____
+{% endmargin %}
+
+*Alma 22:34* Therefore the [highlight]#Lamanites #could have no more possessions, only in the land of Nephi [highlight]#and the wilderness round about#. Now this was wisdom in the Nephites, as the Lamanites were an enemy to them; they would not suffer their afflictions on every hand--and also that they might have a country whither they might flee according to their desires.
 
 *Alma 22:35* And now I after having said this return again to the account of Ammon, and Aaron, Omner, and Himni, and their brethren.
 
