@@ -14,9 +14,29 @@
 
 *Alma 19:8* And he saith unto the queen: He is not dead, but he sleepeth in God; and on the morrow he shall rise again. Therefore bury him not.
 
-*Alma 19:9* And Ammon saith unto her: Believest thou this? And she said unto him: I have had no witness save thy word and the word of our servants. Nevertheless I believe that it shall be according as thou hast said.
+{% margin %}
+____
 
-*Alma 19:10* And Ammon said unto her: Blessed art thou because of thy exceeding faith. I say unto thee, woman, there has not been such great faith among all the people of the Nephites.
+...Believest thou this?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-11/[John 11:26]#
+
+____
+{% endmargin %}
+
+*Alma 19:9* And Ammon saith unto her: [highlight-orange]#Believest thou this?# And she said unto him: I have had no witness save thy word and the word of our servants. Nevertheless I believe that it shall be according as thou hast said.
+
+{% margin %}
+____
+
+...I have not found so great faith, no, not in Israel.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-7/[Luke 7:9]#
+
+____
+{% endmargin %}
+
+*Alma 19:10* And Ammon said unto her: Blessed art thou because of thy exceeding faith. I say unto thee, woman, [highlight-orange]#there has not been such great faith among all the people of the Nephites.#
 
 *Alma 19:11* And it came to pass that she watched over the bed of her husband from that time even until that time on the morrow which Ammon had appointed that he should rise.
 
