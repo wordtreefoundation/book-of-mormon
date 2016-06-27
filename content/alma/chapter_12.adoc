@@ -56,9 +56,27 @@ ____
 
 *Alma 12:15* But this cannot be. We must come forth and stand before him in his glory and in his power and in his might, majesty, and dominion, and acknowledge to their everlasting shame that all his judgments are just, that he is just in all his works and that he is merciful unto the children of men and that he hath all power to save every man that believeth on his name and bringeth forth fruit meet for repentance.
 
-*Alma 12:16* And now behold, I say unto you: Then cometh a death, even a second death, which is a spiritual death. Then is a time that whosoever dieth in his sins as to the temporal death shall also die a spiritual death; yea, he shall die as to things pertaining unto righteousness.
+{% margin %}
+____
 
-*Alma 12:17* Then is the time when their torments shall be as a lake of fire and brimstone whose flames ascendeth up forever and ever. And then is the time that they shall be chained down to an everlasting destruction according to the power and captivity of Satan, having subjected them according to his will.
+...the second death.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:14]#
+____
+{% endmargin %}
+
+*Alma 12:16* And now behold, I say unto you: Then cometh a death, even [hihglight-orange]#a second death#, which is a spiritual death. Then is a time that whosoever dieth in his sins as to the temporal death shall also die a spiritual death; yea, he shall die as to things pertaining unto righteousness.
+
+{% margin %}
+____
+
+...he shall be tormented with fire and brimstone...And the smoke of their torment ascendeth up for ever and ever...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:10-11]#
+____
+{% endmargin %}
+
+*Alma 12:17* Then is the time when [highlight-orange]#their torments shall be as a lake of fire and brimstone whose flames ascendeth up forever and ever.# And then is the time that they shall be chained down to an everlasting destruction according to the power and captivity of Satan, having subjected them according to his will.
 
 *Alma 12:18* Then I say unto you: They shall be as though there had been no redemption made, for they cannot be redeemed according to God's justice; and they cannot die, seeing there is no more corruption.
 
@@ -78,7 +96,16 @@ ____
 
 *Alma 12:26* And now behold, if it were possible that our first parents could have went forth and partaken of the tree of life, they would have been forever miserable, having no preparatory state. And thus the plan of redemption would have been frustrated, and the word of God would have been void, taking none effect.
 
-*Alma 12:27* But behold, it was not so, but it was appointed unto man that they must die. And after death they must come to judgment, even that same judgment of which we have spoken, which is the end.
+{% margin %}
+____
+
+...it is appointed unto men once to die, but after this the judgment:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-9/[Hebrews 9:27]#
+____
+{% endmargin %}
+
+*Alma 12:27* But behold, it was not so, but [highlight-orange]#it was appointed unto man that they must die. And after death they must come to judgment#, even that same judgment of which we have spoken, which is the end.
 
 *Alma 12:28* And after God had appointed that these things should come unto man, behold, then he saw that it was expedient that man should know concerning the things whereof he had appointed unto them.
 
@@ -102,7 +129,16 @@ ____
 
 *Alma 12:34* Therefore whosoever repenteth and hardeneth not his heart, he shall have claim on mercy through mine Only Begotten Son unto a remission of their sins; and these shall enter into my rest.
 
-*Alma 12:35* And whosoever will harden his heart and will do iniquity, behold, I swear in my wrath that they shall not enter into my rest.
+{% margin %}
+____
+
+So I sware in my wrath, They shall not enter into my rest.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-3/[Hebrews 3:11]#
+____
+{% endmargin %}
+
+*Alma 12:35* And whosoever will harden his heart and will do iniquity, behold, [highlight-orange]#I swear in my wrath that they shall not enter into my rest.#
 
 *Alma 12:36* And now my brethren, behold, I say unto you that if ye will harden your hearts, ye shall not enter into the rest of the Lord. Therefore your iniquity provoketh him that he sendeth down his wrath upon you as in the first provocation--yea, according to his word in the last provocation as well as in the first--to the everlasting destruction of your souls, therefore according to his word unto the last death as well as the first.
 
