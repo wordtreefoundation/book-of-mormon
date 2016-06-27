@@ -52,11 +52,15 @@ ____
 Watch ye, stand fast in the faith, quit you like men, be strong.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-16/[I Corinthians 16:13]#
+____
 
+...be ye stedfast, unmoveable...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:58]#
 ____
 {% endmargin %}
 
-*Alma 1:25* Now this was a great trial to those that did [highlight-orange]#stand fast in the faith;# nevertheless they were steadfast and immovable in keeping the commandments of God, and they bore with patience the persecution which was heaped upon them.
+*Alma 1:25* Now this was a great trial to those that did [highlight-orange]#stand fast in the faith;# nevertheless they were [highlight-orange]#steadfast and immovable# in keeping the commandments of God, and they bore with patience the persecution which was heaped upon them.
 
 *Alma 1:26* And when their priests left their labor to impart the word of God unto the people, the people also left their labors to hear the word of God. And when the priest had imparted unto them the word of God, they all returned again diligently unto their labors, and the priest, not esteeming himself above his hearers, for the preacher was no better than the hearer, neither was the teacher any better than the learner. And thus they were all equal; and they did all labor, every man according to his strength.
 
