@@ -36,7 +36,16 @@
 
 *Alma 9:19* for he will not suffer you that ye shall live in your iniquities, to destroy his people. I say unto you: Nay, he would rather suffer that the Lamanites might destroy all this people, which is called the people of Nephi, if it were possible that they could fall into sins and transgressions after having had so much light and so much knowledge given unto them of the Lord their God;
 
-*Alma 9:20* yea, after having been such a highly favored people of the Lord; yea, after having been favored above every other nation, kindred, tongue, or people; after having had all things made known unto them, according to their desires and their faith and prayers, of that which has been and which is and which is to come;
+{% margin %}
+____
+
+...every nation, and kindred, and tongue, and people,
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+____
+{% endmargin %}
+
+*Alma 9:20* yea, after having been such a highly favored people of the Lord; yea, after having been favored above [highlight-orange]#every other nation, kindred, tongue, or people#; after having had all things made known unto them, according to their desires and their faith and prayers, of that which has been and which is and which is to come;
 
 *Alma 9:21* having been visited by the Spirit of God, having conversed with angels, and having been spoken unto by the voice of the Lord, and having the spirit of prophecy and the spirit of revelation; and also many gifts: the gift of speaking with tongues and the gift of preaching and the gift of the Holy Ghost and the gift of translation;
 
@@ -46,7 +55,16 @@
 
 *Alma 9:24* For behold, the promises of the Lord are extended to the Lamanites, but they are not unto you if ye transgress. For hath not the Lord expressly promised and firmly decreed that if ye will rebel against him that ye shall utterly be destroyed from off the face of the earth?
 
-*Alma 9:25* And now for this cause that ye may not be destroyed, the Lord hath sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: Repent ye, repent ye, for the kingdom of heaven is nigh at hand.
+{% margin %}
+____
+
+...Repent: for the kingdom of heaven is at hand.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-4/[Matthew 4:17]#
+____
+{% endmargin %}
+
+*Alma 9:25* And now for this cause that ye may not be destroyed, the Lord hath sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: [highlight-orange]#Repent ye, repent ye, for the kingdom of heaven is nigh at hand.#
 
 {% margin %}
 ____
