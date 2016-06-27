@@ -34,7 +34,18 @@
 
 *Alma 4:18* Now Alma did not grant unto him the office of being high priest over the church, but he retained the office of high priest unto himself--but he delivered the judgment seat unto Nephihah.
 
-*Alma 4:19* And this he did that he himself might go forth among his people, or among the people of Nephi, that he might preach the word of God unto them, to stir them up in remembrance of their duty, and that he might pull down by the word of God all the pride and craftiness and all the contentions which was among his people, seeing no way that he might reclaim them save it were in bearing down in pure testimony against them.
+
+{% margin %}
+____
+
+...to stir you up by putting you in remembrance;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-1/[II Peter 1:13]#
+
+____
+{% endmargin %}
+
+*Alma 4:19* And this he did that he himself might go forth among his people, or among the people of Nephi, that he might preach the word of God unto them, [highlight-orange]#to stir them up in remembrance# of their duty, and that he might pull down by the word of God all the pride and craftiness and all the contentions which was among his people, seeing no way that he might reclaim them save it were in bearing down in pure testimony against them.
 
 *Alma 4:20* And thus in the commencement of the ninth year of the reign of the judges over the people of Nephi, and confined himself wholly to the high priesthood of the holy order of God, to the testimony of the word according to the spirit of revelation and prophecy. The words which Alma, the high priest according to the holy order of God, delivered to the people in their cities and villages throughout the land.
 
