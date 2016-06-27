@@ -28,7 +28,17 @@
 
 *Alma 45:15* And now it came to pass that after Alma had said these things to Helaman, he blessed him and also his other sons. And he also blessed the earth for the righteous' sake.
 
-*Alma 45:16* And he said: Thus saith the Lord God: Cursed shall be the land, yea, this land, unto every nation, kindred, tongue, and people, unto destruction, which do wickedly, when they are fully ripe. And as I have said, so shall it be. For this is the cursing and the blessing of God upon the land, for the Lord cannot look upon sin with the least degree of allowance.
+{% margin %}
+____
+
+...every nation, and kindred, and tongue, and people,
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+
+____
+{% endmargin %}
+
+*Alma 45:16* And he said: Thus saith the Lord God: Cursed shall be the land, yea, this land, unto [highlight-orange]#every nation, kindred, tongue, and people#, unto destruction, which do wickedly, when they are fully ripe. And as I have said, so shall it be. For this is the cursing and the blessing of God upon the land, for the Lord cannot look upon sin with the least degree of allowance.
 
 *Alma 45:17* And now when Alma had said these words, he blessed the church, yea, all those which should stand fast in the faith from that time henceforth.
 
