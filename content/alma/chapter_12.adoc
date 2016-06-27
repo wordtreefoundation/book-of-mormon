@@ -54,6 +54,17 @@ ____
 
 *Alma 12:14* For our works will condemn us, yea, all our works will condemn us; we shall not be found spotless--and our thoughts will also condemn us--and in this awful state we shall not durst look up to our God. And we would fain be glad if we could command the rocks and the mountains to fall upon us, to hide us from his presence.
 
+
+{% margin %}
+____
+
+Bring forth therefore fruits meet for repentance:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:8]#
+
+____
+{% endmargin %}
+
 *Alma 12:15* But this cannot be. We must come forth and stand before him in his glory and in his power and in his might, majesty, and dominion, and acknowledge to their everlasting shame that all his judgments are just, that he is just in all his works and that he is merciful unto the children of men and that he hath all power to save every man that believeth on his name and bringeth forth fruit meet for repentance.
 
 {% margin %}
