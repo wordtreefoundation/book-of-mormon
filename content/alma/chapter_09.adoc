@@ -69,7 +69,7 @@ ____
 {% margin %}
 ____
 
-And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+...(and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:14]#
 
