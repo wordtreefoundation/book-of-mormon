@@ -14,7 +14,17 @@
 
 *Alma 7:8* Behold, I do not say that he will come among us at the time of his dwelling in his mortal tabernacle; for behold, the Spirit hath not said unto me that this should be the case. Now as to this thing I do not know; but this much I do know, that the Lord God hath power to do all things which is according to his word.
 
-*Alma 7:9* But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying: Repent ye, repent ye, and prepare the way of the Lord and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.
+{% margin %}
+____
+
+...Repent ye: for the kingdom of heaven is at hand.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
+
+____
+{% endmargin %}
+
+*Alma 7:9* But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying: [highlight-orange]#Repent ye, repent ye#, and prepare the way of the Lord and walk in his paths, which are straight; for behold, [highlight-orange]#the kingdom of heaven is at hand#, and the Son of God cometh upon the face of the earth.
 
 *Alma 7:10* And behold, he shall be born of Mary at Jerusalem, which is the land of our forefathers, she being a virgin, a precious and chosen vessel, who shall be overshadowed and conceive by the power of the Holy Ghost and bring forth a son, yea, even the Son of God.
 
@@ -65,7 +75,17 @@ ____
 
 *Alma 7:14* Now I say unto you that ye must repent and be born again, for the Spirit saith: [highlight-orange]#If ye are not born again, ye cannot inherit the kingdom of heaven.# Therefore come and be baptized unto repentance, that ye may be washed from your sins, that ye may have faith on the Lamb of God, [highlight-orange]#which taketh away the sins of the world#, which is mighty to save and [highlight-orange]#to cleanse from all unrighteousness.#
 
-*Alma 7:15* Yea, I say unto you: Come and fear not, and lay aside every sin which easily doth beset you, which doth bind you down to destruction. Yea, come and go forth, and show unto your God that ye are willing to repent of your sins and enter into a covenant with him to keep his commandments, and witness it unto him this day by going into the waters of baptism.
+{% margin %}
+____
+
+...let us lay aside...the sin which doth so easily beset us...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-12/[Hebrews 12:1]#
+
+____
+{% endmargin %}
+
+*Alma 7:15* Yea, I say unto you: Come and fear not, and [highlight-orange]#lay aside every sin which easily doth beset you#, which doth bind you down to destruction. Yea, come and go forth, and show unto your God that ye are willing to repent of your sins and enter into a covenant with him to keep his commandments, and witness it unto him this day by going into the waters of baptism.
 
 *Alma 7:16* And whosoever doeth this and keepeth the commandments of God from thenceforth, the same will remember that I say unto him, yea, he will remember that I have said unto him: He shall have eternal life--according to the testimony of the Holy Spirit which testifieth in me.
 
@@ -86,15 +106,51 @@ ____
 
 *Alma 7:20* I perceive that it hath been made known unto you by the testimony of his word that he cannot walk in crooked paths, [highlight-orange]#neither doth he vary from that which he hath said, neither hath he a shadow of turning from the right to the left#, or from that which is right to that which is wrong. Therefore his course is one eternal round.
 
-*Alma 7:21* And he doth not dwell in unholy temples, neither can filthiness or any thing which is unclean be received into the kingdom of God. Therefore I say unto you: The time shall come--yea, and it shall be at the last day--that he which is filthy shall remain in his filthiness.
+{% margin %}
+____
+
+...he which is filthy, let him be filthy still...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:11]#
+
+____
+{% endmargin %}
+
+*Alma 7:21* And he doth not dwell in unholy temples, neither can filthiness or any thing which is unclean be received into the kingdom of God. Therefore I say unto you: The time shall come--yea, and it shall be at the last day--that [highlight-orange]#he which is filthy shall remain in his filthiness.#
 
 *Alma 7:22* And now my beloved brethren, I have said these things unto you that I might awaken you to a sense of your duty to God, that ye may walk blameless before him, that ye may walk after the holy order of God after which ye have been received.
 
 *Alma 7:23* And now I would that ye should be humble and be submissive and gentle, easy to be entreated, full of patience and long-suffering, being temperate in all things, being diligent in keeping the commandments of God at all times, asking for whatsoever things ye stand in need, both spiritual and temporal, always returning thanks unto God for whatsoever things ye do receive.
 
-*Alma 7:24* And see that ye have faith, hope, and charity, and then ye will always abound in good works.
+{% margin %}
+____
 
-*Alma 7:25* And may the Lord bless you and keep your garments spotless, that ye may at last be brought to sit down with Abraham, Isaac, and Jacob, and the holy prophets which have been ever since the world began, having your garments spotless--even as their garments are spotless--in the kingdom of heaven, to go no more out.
+...now abideth faith, hope, charity...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[I Corinthians 13:13]#
+
+____
+
+...ye...may abound to every good work
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-9/[II Corinthians 9:8]#
+
+____
+{% endmargin %}
+
+*Alma 7:24* And see that ye have [highlight-orange]#faith, hope, and charity, and then ye will always abound in good works.#
+
+{% margin %}
+____
+
+...sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-8/[Matthew 8:11]#
+
+____
+{% endmargin %}
+
+*Alma 7:25* And may the Lord bless you and keep your garments spotless, that ye may at last be brought to [highlight-orange]#sit down with Abraham, Isaac, and Jacob#, and the holy prophets which have been ever since the world began, having your garments spotless--even as their garments are spotless--[highlight-orange]#in the kingdom of heaven#, to go no more out.
 
 *Alma 7:26* And now my beloved brethren, I have spoken these words unto you according to the Spirit which testifieth in me. And my soul doth exceedingly rejoice because of the exceeding diligence and heed which ye have given unto my word.
 
