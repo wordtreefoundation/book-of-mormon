@@ -33,7 +33,16 @@ ____
 
 *Alma 13:10* Now as I said concerning the holy order, or this high priesthood: there were many which were ordained and became high priests of God. And it was on account of their exceeding faith and repentance and their righteousness before God, they choosing to repent and work righteousness rather than to perish,
 
-*Alma 13:11* therefore they were called after this holy order and were sanctified; and their garments were washed white through the blood of the Lamb.
+{% margin %}
+____
+
+...have washed their robes, and made them white in the blood of the Lamb.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:14]#
+____
+{% endmargin %}
+
+*Alma 13:11* therefore they were called after this holy order and were sanctified; and [highlight-orange]#their garments were washed white through the blood of the Lamb.#
 
 *Alma 13:12* Now they, after being sanctified by the Holy Ghost, having their garments made white, being pure and spotless before God, could not look upon sin save it were with abhorrence. And there were many--an exceeding great many--which were made pure and entered into the rest of the Lord their God.
 
