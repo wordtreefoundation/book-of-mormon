@@ -4,7 +4,16 @@
 
 *Alma 37:3* and these plates of brass, which contain these engravings, which have the records of the holy scriptures upon them, which have the genealogy of our forefathers, even from the beginning.
 
-*Alma 37:4* And behold, it hath been prophesied by our fathers that they should be kept and handed down from one generation to another, and be kept and preserved by the hand of the Lord until they should go forth unto every nation, kindred, tongue, and people, that they shall know of the mysteries contained thereon.
+{% margin %}
+____
+
+...every nation, and kindred, and tongue, and people,
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+____
+{% endmargin %}
+
+*Alma 37:4* And behold, it hath been prophesied by our fathers that they should be kept and handed down from one generation to another, and be kept and preserved by the hand of the Lord until they should go forth unto [highlight-orange]#every nation, kindred, tongue, and people#, that they shall know of the mysteries contained thereon.
 
 *Alma 37:5* And now behold, if they are kept, they must retain their brightness. Yea, and they will retain their brightness--yea, and also shall all the plates which do contain that which is holy writ.
 
