@@ -46,7 +46,17 @@ http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-octobe
 
 *Alma 10:16* and it came to pass that they began to question Amulek, that thereby they might make him cross his words or contradict the words which he should speak.
 
-*Alma 10:17* Now they knew not that Amulek could know of their design. But it came to pass as they began to question him, he perceived their thoughts, and he saith unto them: O ye wicked and perverse generation, ye lawyers and hypocrites, for ye are laying the foundations of the devil, for ye are laying traps and snares to catch the holy ones of God.
+{% margin %}
+____
+
+...O faithless and perverse generation...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-17/[Matthew 17:17]#
+
+____
+{% endmargin %}
+
+*Alma 10:17* Now they knew not that Amulek could know of their design. But it came to pass as they began to question him, he perceived their thoughts, and he saith unto them: [highlight-orange]#O ye wicked and perverse generation#, ye lawyers and hypocrites, for ye are laying the foundations of the devil, for ye are laying traps and snares to catch the holy ones of God.
 
 *Alma 10:18* Ye are laying plans to pervert the ways of the righteous and to bring down the wrath of God upon your heads, even to the utter destruction of this people.
 
@@ -72,7 +82,17 @@ ____
 
 *Alma 10:24* And now it came to pass that the people were more angry with Amulek, and they cried out, saying: This man doth revile against our laws, which are just, and our wise lawyers, which we have selected.
 
-*Alma 10:25* But Amulek stretched forth his hand and cried the mightier unto them, saying: O ye wicked and perverse generation, why hath Satan got such great hold upon your hearts? Why will ye yield yourselves unto him, that he may have power over you to blind your eyes, that ye will not understand the words which are spoken according to their truth?
+{% margin %}
+____
+
+...O faithless and perverse generation...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-17/[Matthew 17:17]#
+
+____
+{% endmargin %}
+
+*Alma 10:25* But Amulek stretched forth his hand and cried the mightier unto them, saying: [highlight-orange]#O ye wicked and perverse generation#, why hath Satan got such great hold upon your hearts? Why will ye yield yourselves unto him, that he may have power over you to blind your eyes, that ye will not understand the words which are spoken according to their truth?
 
 *Alma 10:26* For behold, have I testified against your law? Ye do not understand. Ye say that I have spoken against your law, but I have not; but I have spoken in favor of your law, to your condemnation.
 
