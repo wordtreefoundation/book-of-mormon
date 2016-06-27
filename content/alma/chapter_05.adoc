@@ -26,7 +26,16 @@
 
 *Alma 5:14* And now behold, I ask of you, my brethren of the church: Have ye spiritually been born of God? Have ye received his image in your own countenances? Have ye experienced this mighty change in your hearts?
 
-*Alma 5:15* Do ye exercise faith in the redemption of him who created you? Do you look forward with an eye of faith and view this mortal body raised in immortality and this corruption raised in incorruption, to stand before God to be judged according to the deeds which hath been done in the mortal body?
+{% margin %}
+____
+
+It is sown in corruption; it is raised in incorruption:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:42]#
+____
+{% endmargin %}
+
+*Alma 5:15* Do ye exercise faith in the redemption of him who created you? Do you look forward with an eye of faith and view this mortal body raised in immortality and [highlight-orange]#this corruption raised in incorruption#, to stand before God to be judged according to the deeds which hath been done in the mortal body?
 
 *Alma 5:16* I say unto you: Can you imagine to yourselves that ye hear the voice of the Lord saying unto you in that day: Come unto me, ye blessed; for behold, your works have been the works of righteousness upon the face of the earth;
 
@@ -44,15 +53,42 @@
 
 *Alma 5:23* Behold, will they not testify that ye are murderers? Yea, and also that ye are guilty of all manner of wickedness?
 
-*Alma 5:24* Behold, my brethren, do ye suppose that such an one can have a place to sit down in the kingdom of God with Abraham, with Isaac, and with Jacob, and also all the holy prophets, whose garments are cleansed and are spotless, pure, and white?
+{% margin %}
+____
+
+...sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-8/[Matthew 8:11]#
+____
+{% endmargin %}
+
+*Alma 5:24* Behold, my brethren, do ye suppose that such an one can have a place to [highlight-orange]#sit down in the kingdom of God with Abraham, with Isaac, and with Jacob#, and also all the holy prophets, whose garments are cleansed and are spotless, pure, and white?
 
 *Alma 5:25* I say unto you: Nay, except ye make our Creator a liar from the beginning, or suppose that he is a liar from the beginning. Or also, ye cannot suppose that such an one can have place in the kingdom of heaven, but they shall be cast out; for they are the children of the kingdom of the devil.
 
 *Alma 5:26* And now behold, I say unto you my brethren: If ye have experienced a change of heart and if ye have felt to sing the song of redeeming love, I would ask: Can ye feel so now?
 
-*Alma 5:27* Have ye walked keeping yourselves blameless before God? Could ye say--if ye were called to die at this time--within yourselves that ye have been sufficiently humble, that your garments have been cleansed and made white through the blood of Christ?--which will come to redeem his people from their sins.
+{% margin %}
+____
 
-*Alma 5:28* Behold, are ye stripped of pride? I say unto you: If ye are not, ye are not prepared to meet God. Behold, ye must prepare quickly; for the kingdom of heaven is soon at hand, and such an one hath not eternal life.
+...have washed their robes, and made them white in the blood of the Lamb.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:14]#
+____
+{% endmargin %}
+
+*Alma 5:27* Have ye walked keeping yourselves blameless before God? Could ye say--if ye were called to die at this time--within yourselves that ye have been sufficiently humble, that your [highlight-orange]#garments have been cleansed and made white through the blood of Christ#?--which will come to redeem his people from their sins.
+
+{% margin %}
+____
+
+...Repent ye: for the kingdom of heaven is at hand
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
+____
+{% endmargin %}
+
+*Alma 5:28* Behold, are ye stripped of pride? I say unto you: If ye are not, ye are not prepared to meet God. Behold, ye must prepare quickly; [highlight-orange]#for the kingdom of heaven is soon at hand#, and such an one hath not eternal life.
 
 *Alma 5:29* Behold, I say: Is there one among you who is not stripped of envy? I say unto you that such an one is not prepared. And I would that he should prepare quickly, for the hour is close at hand; and he knoweth not when the time shall come, for such an one is not found guiltless.
 
@@ -66,7 +102,15 @@
 
 *Alma 5:34* Yea, he saith: Come unto me and ye shall partake of the fruit of the tree of life; yea, ye shall eat and drink of the bread and the waters of life freely.
 
-*Alma 5:35* Yea, come unto me and bring forth works of righteousness, and ye shall not be cut down and cast into the fire.
+{% margin %}
+____
+...hewn down, and cast into the fire.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+____
+{% endmargin %}
+
+*Alma 5:35* Yea, come unto me and bring forth works of righteousness, and ye shall not be [highlight-orange]#cut down and cast into the fire.#
 
 *Alma 5:36* For behold, the time is at hand that whosoever bringeth forth not good fruit, or whosoever doeth not the works of righteousness, the same hath cause to wail and mourn.
 
@@ -92,11 +136,39 @@
 
 *Alma 5:47* And moreover I say unto you that as it has thus been revealed unto me that the words which have been spoken by our fathers are true, even so according to the spirit of prophecy which is in me, which is also by the manifestation of the Spirit of God,
 
-*Alma 5:48* I say unto you that I know of myself that whatsoever I shall say unto you concerning that which is to come is true. And I say unto you that I know that Jesus Christ shall come, yea, the Son, the Only Begotten of the Father, full of grace and mercy and truth. And behold, it is he that cometh to take away the sins of the world, yea, the sins of every man which steadfastly believeth on his name.
+{% margin %}
+____
+
+...the only begotten of the Father,) full of grace and truth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:14]#
+
+...the Lamb of God, which taketh away the sin of the world.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:29]#
+____
+
+...believe on his name:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:12]#
+
+____
+{% endmargin %}
+
+*Alma 5:48* I say unto you that I know of myself that whatsoever I shall say unto you concerning that which is to come is true. And I say unto you that I know that Jesus Christ shall come, yea, the Son, the [highlight-orange]#Only Begotten of the Father, full of grace and mercy and truth#. And behold, it is he that cometh to [highlight-orange]#take away the sins of the world#, yea, the sins of every man which steadfastly [highlight-orange]#believeth on his name.#
 
 *Alma 5:49* And now I say unto you that this is the order after which I am called, yea, to preach unto my beloved brethren--yea, and every one that dwelleth in the land--yea, to preach unto all, both old and young, both bond and free; yea, I say unto you, the aged and also the middle aged and the rising generation, yea, to cry unto them that they must repent and be born again.
 
-*Alma 5:50* Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand. Yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you that the Spirit saith: Behold, the glory of the King of all the earth and also the King of heaven shall very soon shine forth among all the children of men.
+{% margin %}
+____
+
+...Repent ye: for the kingdom of heaven is at hand
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
+____
+{% endmargin %}
+
+*Alma 5:50* Yea, thus saith the Spirit: [highlight-orange]#Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand#. Yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you that the Spirit saith: Behold, the glory of the King of all the earth and also the King of heaven shall very soon shine forth among all the children of men.
 
 *Alma 5:51* And also the Spirit saith unto me, yea, crieth unto me with a mighty voice, saying: Go forth and say unto this people: Repent! For except ye repent, ye can in no wise inherit the kingdom of heaven.
 
@@ -128,7 +200,18 @@ ____
 
 *Alma 5:56* And finally, all ye that will persist in your wickedness, I say unto you that these are they which shall be hewn down and cast into the fire except they speedily repent.
 
-*Alma 5:57* And now I say unto you, all you that are desirous to follow the voice of the good shepherd: Come ye out from the wicked and be ye separate and touch not their unclean things. And behold, their names shall be blotted out, that the names of the wicked shall not be numbered among the names of the righteous, that the word of God may be fulfilled which saith: The names of the wicked shall not be mingled with the names of my people;
+
+{% margin %}
+____
+
+..._come out from among them, and be ye separate_, saith the Lord, and touch not the unclean thing; and I will receive you.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-6/[II Corinthians 6:17]#
+
+____
+{% endmargin %}
+
+*Alma 5:57* And now I say unto you, all you that are desirous to follow the voice of the good shepherd: [highlight-orange]#Come ye out from the wicked and be ye separate and touch not their unclean things#. And behold, their names shall be blotted out, that the names of the wicked shall not be numbered among the names of the righteous, that the word of God may be fulfilled which saith: The names of the wicked shall not be mingled with the names of my people;
 
 {% margin %}
 ____
