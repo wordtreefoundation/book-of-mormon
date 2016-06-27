@@ -74,7 +74,17 @@
 
 *Alma 11:38* Now Zeezrom saith again unto him: Is the Son of God the very Eternal Father?
 
-*Alma 11:39* And Amulek saith unto him: Yea, he is the very Eternal Father of heaven and earth and all things which in them is. He is the beginning and the end, the first and the last.
+{% margin %}
+____
+
+...the beginning and the end, the first and the last.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:13]#
+
+____
+{% endmargin %}
+
+*Alma 11:39* And Amulek saith unto him: Yea, he is the very Eternal Father of heaven and earth and all things which in them is. He is [highlight-orange]#the beginning and the end, the first and the last.#
 
 *Alma 11:40* And he shall come into the world to redeem his people. And he shall take upon him the transgressions of those who believe on his name; and these are they that shall have eternal life, and salvation cometh to none else.
 
