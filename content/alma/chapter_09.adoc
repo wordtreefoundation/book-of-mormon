@@ -84,7 +84,17 @@ ____
 
 *Alma 9:29* Now behold, this is the voice of the angel crying unto the people.
 
-*Alma 9:30* And now my beloved brethren--for ye are my brethren and ye had ought to be beloved--and ye had ought to bring forth works which is meet for repentance, seeing that your hearts have been grossly hardened against the word of God and seeing that ye are a lost and a fallen people.
+{% margin %}
+____
+
+Bring forth therefore fruits meet for repentance:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:8]#
+
+____
+{% endmargin %}
+
+*Alma 9:30* And now my beloved brethren--for ye are my brethren and ye had ought to be beloved--and ye had ought to [highlight-orange]#bring forth works which is meet for repentance#, seeing that your hearts have been grossly hardened against the word of God and seeing that ye are a lost and a fallen people.
 
 *Alma 9:31* Now it came to pass that when I Alma had spoken these words, behold, the people were wroth with me because I said unto them that they was a hard-hearted and a stiffnecked people.
 
