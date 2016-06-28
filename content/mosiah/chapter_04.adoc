@@ -8,13 +8,31 @@
 
 *Mosiah 4:5* For behold that if the knowledge of the goodness of God at this time hath awakened you to a sense of your nothingness and your worthless and fallen state--
 
-*Mosiah 4:6* I say unto you that if ye have come to a knowledge of the goodness of God and his matchless power and his wisdom and his patience and his long-suffering towards the children of men, and also the atonement which hath been prepared from the foundation of the world, that thereby salvation might come to him that should put his trust in the Lord and should be diligent in keeping his commandments and continue in the faith, even unto the end of his life--I mean the life of the mortal body--
+{% margin %}
+____
+
+...prepared for you _from the foundation of the world_...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
+____
+{% endmargin %}
+
+*Mosiah 4:6* I say unto you that if ye have come to a knowledge of the goodness of God and his matchless power and his wisdom and his patience and his long-suffering towards the children of men, and also the atonement which hath been [highlight-orange]#prepared from the foundation of the world#, that thereby salvation might come to him that should put his trust in the Lord and should be diligent in keeping his commandments and continue in the faith, even unto the end of his life--I mean the life of the mortal body--
 
 *Mosiah 4:7* I say that this is the man that receiveth salvation through the atonement which was prepared from the foundation of the world for all mankind which ever was, ever since the fall of Adam, or which is or which ever shall be, even unto the end of the world.
 
 *Mosiah 4:8* And this is the means whereby salvation cometh. And there is none other salvation save this which hath been spoken of; neither is there any conditions whereby man can be saved except the conditions which I have told you.
 
-*Mosiah 4:9* Believe in God! Believe that he is and that he created all things, both in heaven and in earth; believe that he hath all wisdom and all power, both in heaven and in earth; believe that man doth not comprehend all the things which the Lord can comprehend.
+{% margin %}
+____
+
+...believe that he is...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:6]#
+____
+{% endmargin %}
+
+*Mosiah 4:9* Believe in God! [highlight-orange]#Believe that he is# and that he created all things, both in heaven and in earth; believe that he hath all wisdom and all power, both in heaven and in earth; believe that man doth not comprehend all the things which the Lord can comprehend.
 
 *Mosiah 4:10* And again, believe that ye must repent of your sins and forsake them and humble yourselves before God and ask in sincerity of heart that he would forgive you. And now if you believe all these things, see that ye do them.
 
