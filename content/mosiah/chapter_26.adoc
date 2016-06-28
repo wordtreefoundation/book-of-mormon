@@ -58,7 +58,21 @@ ____
 
 *Mosiah 26:26* And then shall they know that I am the Lord their God, that I am their Redeemer, but they would not be redeemed.
 
-*Mosiah 26:27* And then will I confess unto them that I never knew them, and they shall depart into everlasting fire prepared for the devil and his angels.
+{% margin %}
+____
+
+And then will I profess unto them, I never knew you...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:23]#
+____
+
+Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:41]#
+____
+{% endmargin %}
+
+*Mosiah 26:27* [highlight-orange]#And then will I confess unto them that I never knew them#, and they shall [highlight-orange]#depart into everlasting fire prepared for the devil and his angels.#
 
 *Mosiah 26:28* Therefore I say unto you that he that will not hear my voice, the same shall ye not receive into my church, for him I will not receive at the last day.
 
@@ -78,9 +92,29 @@ ____
 
 *Mosiah 26:36* And them that would not confess their sins and repent of their iniquity, the same were not numbered among the people of the church; and their names were blotted out.
 
-*Mosiah 26:37* And it came to pass that Alma did regulate all the affairs of the church. And they began again to have peace and to prosper exceedingly in the affairs of the church, walking circumspectly before God, receiving many and baptizing many.
+{% margin %}
+____
+
+...walk circumspectly...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-5/[Ephesians 5:15]#
+
+____
+{% endmargin %}
+
+*Mosiah 26:37* And it came to pass that Alma did regulate all the affairs of the church. And they began again to have peace and to prosper exceedingly in the affairs of the church, [highlight-orange]#walking circumspectly# before God, receiving many and baptizing many.
 
 *Mosiah 26:38* And now all these things did Alma and his fellow laborers do which were over the church, walking in all diligence, teaching the word of God in all things, suffering all manner of afflictions, being persecuted by all those who did not belong to the church of God.
 
-*Mosiah 26:39* And they did admonish their brethren; and they were also admonished every one by the word of God according to his sins or to the sins which he had committed, being commanded of God to pray without ceasing and to give thanks in all things.
+{% margin %}
+____
+
+Pray without ceasing.  In every thing give thanks...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Thessalonians-Chapter-5/[II Thessalonians 5:17-18]#
+
+____
+{% endmargin %}
+
+*Mosiah 26:39* And they did admonish their brethren; and they were also admonished every one by the word of God according to his sins or to the sins which he had committed, being commanded of God [highlight-orange]#to pray without ceasing and to give thanks in all things.#
 
