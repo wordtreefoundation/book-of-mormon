@@ -12,7 +12,16 @@
 
 *Mosiah 10:7* but I having sent my spies out round about the land of Shemlon that I might discover their preparations, that I might guard against them, that they might not come upon my people and destroy them.
 
-*Mosiah 10:8* And it came to pass that they came up upon the north of the land of Shilom with their numerous hosts, men armed with bows and with arrows and with swords and with scimitars and with stones and with slings. And they had their heads shaved that they were naked, and they were girded about with a leathern girdle about their loins.
+{% margin %}
+____
+
+...a leathern girdle about his loins...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:4]#
+____
+{% endmargin %}
+
+*Mosiah 10:8* And it came to pass that they came up upon the north of the land of Shilom with their numerous hosts, men armed with bows and with arrows and with swords and with scimitars and with stones and with slings. And they had their heads shaved that they were naked, and they were girded about with [highlight-orange]#a leathern girdle about their loins.#
 
 *Mosiah 10:9* And it came to pass that I caused that the women and children of my people should be hid in the wilderness. And I also caused that all my old men that could bear arms and also all my young men that were able to bear arms should gather themselves together to go to battle against the Lamanites, and I did place them in their ranks every man according to his age.
 
