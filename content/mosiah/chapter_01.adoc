@@ -28,7 +28,16 @@ ____
 
 *Mosiah 1:11* And moreover I shall give this people a name that thereby they may be distinguished above all the people which the Lord God hath brought out of the land of Jerusalem. And this I do because they have been a diligent people in keeping the commandments of the Lord.
 
-*Mosiah 1:12* And I give unto them a name that never shall be blotted out except it be through transgression.
+{% margin %}
+____
+
+...I will not blot out his name out of the book of life...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-3/[Revelation 3:5]#
+____
+{% endmargin %}
+
+*Mosiah 1:12* And I give unto them a name that never shall [highlight-orange]#be blotted out# except it be through transgression.
 
 *Mosiah 1:13* Yea, and moreover I say unto you that if this highly favored people of the Lord should fall into transgression and become a wicked and an adulterous people that the Lord will deliver them up, that thereby they become weak like unto their brethren, and he will no more preserve them by his matchless and marvelous power as he hath hitherto preserved our fathers.
 
@@ -38,7 +47,16 @@ ____
 
 *Mosiah 1:16* And moreover he also gave him charge concerning the records which were engraven on the plates of brass, and also the plates of Nephi, and also the sword of Laban, and the ball or director which led our fathers through the wilderness, which was prepared by the hand of the Lord that thereby they might be led, every one, according to the heed and diligence which they gave unto him.
 
-*Mosiah 1:17* Therefore as they were unfaithful, they did not prosper nor progress in their journey, but were driven back and incurred the displeasure of God upon them; and therefore they were smitten with famine and sore afflictions, to stir them up in remembrance of their duty.
+{% margin %}
+____
+
+...to stir you up by putting you in remembrance;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-1/[II Peter 1:13]#
+____
+{% endmargin %}
+
+*Mosiah 1:17* Therefore as they were unfaithful, they did not prosper nor progress in their journey, but were driven back and incurred the displeasure of God upon them; and therefore they were smitten with famine and sore afflictions, [highlight-orange]#to stir them up in remembrance of their duty.#
 
 *Mosiah 1:18* And now it came to pass that and proclaimed unto all the people which were in the land of Zarahemla that thereby they might gather themselves together to go up to the temple to hear the words which his father should speak unto them.
 
