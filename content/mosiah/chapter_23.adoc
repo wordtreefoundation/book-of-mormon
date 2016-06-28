@@ -22,7 +22,17 @@
 
 *Mosiah 23:12* And now I say unto you: As you have been oppressed by king Noah and have been in bondage to him and his priests and have been brought into iniquity by them, therefore ye were bound with the bands of iniquity.
 
-*Mosiah 23:13* And now as ye have been delivered by the power of God out of these bonds, yea, even out of the hands of king Noah and his people, and also from the bonds of iniquity, even so I desire that ye should stand fast in this liberty wherewith ye have been made free and that ye trust no man to be a king over you--
+{% margin %}
+____
+
+Stand fast therefore in the liberty wherewith Christ hath made us free...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Galatians-Chapter-5/[Galatians 5:1]#
+
+____
+{% endmargin %}
+
+*Mosiah 23:13* And now as ye have been delivered by the power of God out of these bonds, yea, even out of the hands of king Noah and his people, and also from the bonds of iniquity, even so I desire that ye should [highlight-orange]#stand fast in this liberty wherewith ye have been made free# and that ye trust no man to be a king over you--
 
 *Mosiah 23:14* and also trusting no one to be your teachers nor your ministers except he be a man of God, walking in his ways and keeping his commandments.
 
