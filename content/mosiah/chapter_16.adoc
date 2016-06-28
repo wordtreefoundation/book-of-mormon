@@ -1,4 +1,13 @@
-*Mosiah 16:1* And now it came to pass that after Abinadi had spoken these words, he stretched forth his hands and said: The time shall come when all shall see the salvation of the Lord, when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just.
+{% margin %}
+____
+
+...to every nation, and kindred, and tongue, and people...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+____
+{% endmargin %}
+
+*Mosiah 16:1* And now it came to pass that after Abinadi had spoken these words, he stretched forth his hands and said: The time shall come when all shall see the salvation of the Lord, [highlight-orange]#when every nation, kindred, tongue#, and people shall see eye to eye and shall confess before God that his judgments are just.
 
 {% margin %}
 ____
