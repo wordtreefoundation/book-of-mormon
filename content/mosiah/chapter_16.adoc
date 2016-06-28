@@ -1,8 +1,34 @@
 *Mosiah 16:1* And now it came to pass that after Abinadi had spoken these words, he stretched forth his hands and said: The time shall come when all shall see the salvation of the Lord, when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just.
 
-*Mosiah 16:2* And then shall the wicked be cast out, and they shall have cause to howl and weep and wail and gnash their teeth--and this because they would not hearken unto the voice of the Lord. Therefore the Lord redeemeth them not.
+{% margin %}
+____
 
-*Mosiah 16:3* For they are carnal and devilish; and the devil hath power over them, yea, even that old serpent that did beguile our first parents, which was the cause of their fall, which was the cause of all mankind's becoming carnal, sensual, devilish, knowing evil from good, subjecting themselves to the devil.
+..._cast him into outer darkness, there shall be weeping and gnashing of teeth._
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-22/[Matthew 22:13]#
+____
+{% endmargin %}
+
+*Mosiah 16:2* And [highlight-orange]#then shall the wicked be cast out, and they shall have cause to howl and weep and wail and gnash their teeth#--and this because they would not hearken unto the voice of the Lord. Therefore the Lord redeemeth them not.
+
+{% margin %}
+____
+
+...that old serpent...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:2]#
+
+...the serpent beguiled Eve...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-11/[II Corinthians 11:3]#
+
+...earthly, sensual, devilish.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/James-Chapter-3/[James 3:15]#
+____
+{% endmargin %}
+
+*Mosiah 16:3* For they are carnal and devilish; and the devil hath power over them, yea, even that [highlight-orange]#old serpent that did beguile our first parents#, which was the cause of their fall, which was the cause of all mankind's becoming [highlight-orange]#carnal, sensual, devilish#, knowing evil from good, subjecting themselves to the devil.
 
 *Mosiah 16:4* Thus all mankind were lost. And behold, they would have been endlessly lost were it not that God redeemed his people from their lost and fallen state.
 
@@ -10,21 +36,80 @@
 
 *Mosiah 16:6* And now if Christ had not come into the world--speaking of things to come as though they had already come--there could have been no redemption.
 
+{% margin %}
+____
+
+O death, where is thy sting?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:55]#
+____
+{% endmargin %}
+
 *Mosiah 16:7* And if Christ had not risen from the dead or broken the bands of death--that the grave should have no victory and that death should have no sting--there could have been no resurrection.
 
-*Mosiah 16:8* But there is a resurrection. Therefore the grave hath no victory, and the sting of death is swallowed up in Christ.
+{% margin %}
+____
 
-*Mosiah 16:9* He is the light and the life of the world, yea, a light that is endless that can never be darkened; yea, and also a life which is endless, that there can be no more death.
+O death, where is thy sting?
 
-*Mosiah 16:10* Even this mortal shall put on immortality, and this corruption shall put on incorruption and shall be brought to stand before the bar of God to be judged of him according to their works, whether they be good or whether they be evil:
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:55]#
 
-*Mosiah 16:11* if they be good, to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation, being delivered up to the devil, who hath subjected them--which is damnation--
+...Death is swallowed up in victory.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:54]#
+____
+{% endmargin %}
+
+*Mosiah 16:8* But there is a resurrection. Therefore the grave hath no victory, and the [highlight-orange]#sting of death is swallowed up in Christ.#
+
+{% margin %}
+____
+
+...I am the light of the world...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
+____
+{% endmargin %}
+
+*Mosiah 16:9* He is the [highlight-orange]#light and the life of the world#, yea, a light that is endless that can never be darkened; yea, and also a life which is endless, that there can be no more death.
+
+{% margin %}
+____
+
+...this corruptible must put on incorruption, and this mortal must put on immortality.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:53]#
+____
+{% endmargin %}
+
+*Mosiah 16:10* Even [highlight-orange]#this mortal shall put on immortality, and this corruption shall put on incorruption# and shall be brought to stand before the bar of God to be judged of him according to their works, whether they be good or whether they be evil:
+
+{% margin %}
+____
+
+And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-5/[John 5:29]#
+____
+{% endmargin %}
+
+*Mosiah 16:11* [highlight-orange]#if they be good, to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation#, being delivered up to the devil, who hath subjected them--which is damnation--
 
 *Mosiah 16:12* having gone according to their own carnal wills and desires, having never called upon the Lord while the arms of mercy was extended towards them--for the arms of mercy was extended towards them and they would not--they being warned of their iniquities, and yet they would not depart from them. And they were commanded to repent, and yet they would not repent.
 
 *Mosiah 16:13* And now had ye not ought to tremble and repent of your sins?--and remember, only in and through Christ ye can be saved.
 
-*Mosiah 16:14* Therefore if ye teach the law of Moses, also teach that it is a shadow of those things which are to come.
+{% margin %}
+____
+
+Which are a shadow of things to come...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Colossians-Chapter-2/[Colossians 2:17]#
+
+____
+{% endmargin %}
+
+*Mosiah 16:14* Therefore if ye teach the law of Moses, also teach that it [highlight-orange]#is a shadow of those things which are to come.#
 
 *Mosiah 16:15* Teach them that redemption cometh through Christ the Lord, which is the very Eternal Father. Amen.
 
