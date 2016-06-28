@@ -56,7 +56,16 @@
 
 *Mosiah 7:29* For behold, the Lord hath said: I will not succor my people in the day of their transgression, but I will hedge up their ways, that they prosper not; and their doings shall be as a stumbling block before them.
 
-*Mosiah 7:30* And again he saith: If my people shall sow filthiness, they shall reap the chaff thereof in the whirlwind; and the effects thereof is poison.
+{% margin %}
+____
+
+...they have sown the wind, and they shall reap the whirlwind...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hosea-Chapter-8/[Hosea 8:7]#
+____
+{% endmargin %}
+
+*Mosiah 7:30* And again he saith: If my people shall [highlight]#sow filthiness, they shall reap the chaff thereof in the whirlwind#; and the effects thereof is poison.
 
 *Mosiah 7:31* And again he saith: If my people shall sow filthiness, they shall reap the east wind, which bringeth immediate destruction.
 
