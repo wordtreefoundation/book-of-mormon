@@ -115,7 +115,16 @@ ____
 
 *Mosiah 15:27* Therefore had ye not ought to tremble? For salvation cometh to none such, for the Lord hath redeemed none such. Yea, neither can the Lord redeem such, for he cannot deny himself; for he cannot deny justice when it hath its claim.
 
-*Mosiah 15:28* And now I say unto you that the time shall come that the salvation of the Lord shall be declared to every nation, kindred, tongue, and people.
+{% margin %}
+____
+
+...to every nation, and kindred, and tongue, and people...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+____
+{% endmargin %}
+
+*Mosiah 15:28* And now I say unto you that the time shall come that the salvation of the Lord shall be declared [highlight-orange]#to every nation, kindred, tongue, and people.#
 
 {% margin %}
 ____
