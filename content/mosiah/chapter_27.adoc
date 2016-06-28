@@ -46,7 +46,16 @@
 
 *Mosiah 27:24* for, said he, I have repented of my sins and have been redeemed of the Lord. Behold, I am born of the Spirit.
 
-*Mosiah 27:25* And the Lord said unto me: Marvel not that all mankind, yea, men and women--all nations, kindreds, tongues, and people--must be born again, yea, born of God, changed from their carnal and fallen state to a state of righteousness, being redeemed of God, becoming his sons and daughters.
+{% margin %}
+____
+
+...to every nation, and kindred, and tongue, and people...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+____
+{% endmargin %}
+
+*Mosiah 27:25* And the Lord said unto me: Marvel not that all mankind, yea, men and women--[highlight-orange]#all nations, kindreds, tongues#, and people--must be born again, yea, born of God, changed from their carnal and fallen state to a state of righteousness, being redeemed of God, becoming his sons and daughters.
 
 *Mosiah 27:26* And thus they become new creatures; and unless they do this, they can in no wise inherit the kingdom of God.
 
