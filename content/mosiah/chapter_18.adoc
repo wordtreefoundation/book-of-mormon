@@ -22,7 +22,17 @@
 
 *Mosiah 18:12* And now it came to pass that Alma took Helam, he being one of the first, and went and stood forth in the water and cried, saying: O Lord, pour out thy Spirit upon thy servant, that he may do this work with holiness of heart.
 
-*Mosiah 18:13* And when he had said these words, the Spirit of the Lord was upon him and he said: Helam, I baptize thee, having authority from the Almighty God, as a testimony that ye have entered into a covenant to serve him until you are dead as to the mortal body; and may the Spirit of the Lord be poured out upon you, and may he grant unto you eternal life through the redemption of Christ, which he hath prepared from the foundation of the world.
+{% margin %}
+____
+
+...the kingdom prepared for you _from the foundation of the world_:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
+
+____
+{% endmargin %}
+
+*Mosiah 18:13* And when he had said these words, the Spirit of the Lord was upon him and he said: Helam, I baptize thee, having authority from the Almighty God, as a testimony that ye have entered into a covenant to serve him until you are dead as to the mortal body; and may the Spirit of the Lord be poured out upon you, and may he grant unto you eternal life through the redemption of Christ, [highlight-orange]#which he hath prepared from the foundation of the world.#
 
 *Mosiah 18:14* And after Alma had said these words, both Alma and Helam was buried in the water. And they arose and came forth out of the water rejoicing, being filled with the Spirit.
 
@@ -38,7 +48,22 @@
 
 *Mosiah 18:20* Yea, even he commanded them that they should preach nothing save it were repentance and faith on the Lord, who hath redeemed his people.
 
-*Mosiah 18:21* And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having one faith and one baptism, having their hearts knit together in unity and in love one towards another.
+{% margin %}
+____
+
+...one faith, one baptism,
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-4/[Ephesians 4:5]#
+____
+
+That their hearts might be comforted, being knit together in love...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Collossians-Chapter-2/[Collossians 2:2]#
+
+____
+{% endmargin %}
+
+*Mosiah 18:21* And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having [highlight-orange]#one faith and one baptism#, [highlight-orange]#having their hearts knit together in unity and in love one towards another#.
 
 *Mosiah 18:22* And thus he commanded them to preach. And thus they became the children of God.
 
