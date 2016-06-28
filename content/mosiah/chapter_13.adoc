@@ -24,7 +24,7 @@
 ____
 Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:4]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:5]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 And showing mercy unto thousands of them that love me, and keep my commandments.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:6]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:7]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 Remember the sabbath day, to keep it holy.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:8]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 Six days shalt thou labor, and do all thy work:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:9]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:10]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:11]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 Honor thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:12]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 Thou shalt not kill.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:13]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 Thou shalt not commit adultery.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:14]#
 ____
 {% endmargin %}
 
@@ -143,7 +143,7 @@ ____
 ____
 Thou shalt not steal.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:15]#
 ____
 {% endmargin %}
 
@@ -154,7 +154,7 @@ ____
 ____
 Thou shalt not bear false witness against thy neighbor.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:16]#
 ____
 {% endmargin %}
 
@@ -165,7 +165,7 @@ ____
 ____
 Thou shalt not covet thy neighbor's house, thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbor's.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-20/[Exodus 20:17]#
 ____
 {% endmargin %}
 
