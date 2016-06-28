@@ -54,20 +54,36 @@
 
 *Mosiah 27:28* Nevertheless, after wading through much tribulation, repenting nigh unto death, the Lord in mercy hath seen fit to snatch me out of an everlasting burning; and I am born of God.
 
-*Mosiah 27:29* My soul hath been redeemed from the gall of bitterness and bonds of iniquity. I was in the darkest abyss, but now I behold the marvelous light of God. My soul was racked with eternal torment, but I am snatched and my soul is pained no more.
+{% margin %}
+____
+
+...in the gall of bitterness, and in the bond of iniquity.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-8/[Acts 8:23]#
+
+____
+{% endmargin %}
+
+*Mosiah 27:29* My soul hath been redeemed from [highlight-orange]#the gall of bitterness and bonds of iniquity#. I was in the darkest abyss, but now I behold the marvelous light of God. My soul was racked with eternal torment, but I am snatched and my soul is pained no more.
 
 *Mosiah 27:30* I rejected my Redeemer and denied that which had been spoken of by our fathers. But now I know that they may foresee that he will come and that he remembereth every creature of his creating and he will make himself manifest unto all.
 
 {% margin %}
 ____
-I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.
+...That unto me every knee shall bow, every tongue shall swear.
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:23]
+____
+
+...at the name of Jesus every knee should bow...And that every tongue should confess...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Phillipians-Chapter-2/[Phillipians 2:10-11]#
+
 ____
 {% endmargin %}
 
 
-*Mosiah 27:31* [highlight]#Yea, every knee shall bow and every tongue confess before him. Yea, even at the last day when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess who live without God in the world that the judgment of an everlasting punishment is just upon them. And they shall quake and tremble and shrink beneath the glance of his all-searching eye.#
+*Mosiah 27:31* [highlight-orange]#Yea, every knee shall bow and every tongue confess before him.# Yea, even at the last day when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess who live without God in the world that the judgment of an everlasting punishment is just upon them. And they shall quake and tremble and shrink beneath the glance of his all-searching eye.
 
 *Mosiah 27:32* And now it came to pass that and those which were with Alma at the time the angel appeared unto them, traveling round about through all the land, publishing to all the people the things which they had heard and seen, and preaching the word of God, in much tribulation, being greatly persecuted by those which were unbelievers, being smitten by many of them.
 
