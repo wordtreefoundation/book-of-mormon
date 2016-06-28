@@ -2,7 +2,7 @@
 ____
 Who hath believed our report? and to whom is the arm of the LORD revealed?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-53/[Isaiah 53:12]#
 ____
 {% endmargin %}
 
