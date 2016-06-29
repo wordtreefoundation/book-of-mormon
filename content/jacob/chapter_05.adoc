@@ -80,7 +80,16 @@
 
 *Jacob 5:41* And it came to pass that the Lord of the vineyard wept and saith unto the servant: What could I have done more for my vineyard?
 
-*Jacob 5:42* Behold, I knew that all the fruit of the vineyard, save it were these, had become corrupted. And now these which have once brought forth good fruit have also become corrupted. And now all the trees of my vineyard are good for nothing, save it be to be hewn down and cast into the fire.
+{% margin %}
+____
+
+...every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+____
+{% endmargin %}
+
+*Jacob 5:42* Behold, I knew that all the fruit of the vineyard, save it were these, had become corrupted. And now [highlight-orange]#these which have once brought forth good fruit# have also become corrupted. And now all the trees of my vineyard [highlight-orange]#are good for nothing, save it be to be hewn down and cast into the fire.#
 
 *Jacob 5:43* And behold, this last whose branch hath withered away I did plant in a good spot of ground, yea, even that which was choice unto me above all other parts of the land of my vineyard.
 
@@ -88,13 +97,52 @@
 
 *Jacob 5:45* And thou beholdest that a part thereof brought forth good fruit and the other part thereof brought forth wild fruit. And because that I plucked not the branches thereof and cast them into the fire, behold, they have overcome the good branch, that it hath withered away.
 
-*Jacob 5:46* And now behold, notwithstanding all the care which we have taken of my vineyard, the trees thereof hath become corrupted, that they bring forth no good fruit. And these I had hope to preserve, to have laid up fruit thereof against the season unto mine own self. But behold, they have become like unto the wild olive tree, and they are of no worth but to be hewn down and cast into the fire. And it grieveth me that I should lose them.
+{% margin %}
+____
 
-*Jacob 5:47* But what could I have done more in my vineyard? Have I slackened mine hand that I have not nourished it? Nay, I have nourished it and I have digged it and I have pruned it and I have dunged it, and I have stretched forth mine hand almost all the day long; and the end draweth nigh. And it grieveth me that I should hew down all the trees of my vineyard and cast them into the fire that they should be burned. Who is it that hath corrupted my vineyard?
+...every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+____
+{% endmargin %}
+
+*Jacob 5:46* And now behold, notwithstanding all the care which we have taken of my vineyard, the trees thereof hath become corrupted, that they bring forth no good fruit. And these I had hope to preserve, to have laid up fruit thereof against the season unto mine own self. But behold, they have become like unto the wild olive tree, and they are of no worth but [highlight-orange]#to be hewn down and cast into the fire.# And it grieveth me that I should lose them.
+
+{% margin %}
+____
+
+...I shall dig about it, and dung it:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:8]#
+
+What could have been done more to my vineyard...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-5/[Isaiah 5:4]#
+____
+{% endmargin %}
+
+*Jacob 5:47* But [highlight]#what could I have done more in my vineyard?# Have I slackened mine hand that I have not nourished it? Nay, I have nourished it and [highlight-orange]#I have digged it and I have pruned it and I have dunged it#, and I have stretched forth mine hand almost all the day long; and the end draweth nigh. And it grieveth me that I should hew down all the trees of my vineyard and cast them into the fire that they should be burned. Who is it that hath corrupted my vineyard?
 
 *Jacob 5:48* And it came to pass that the servant saith unto his master: Is it not the loftiness of thy vineyard? Hath not the branches thereof overcame the roots which are good? And because that the branches have overcame the roots thereof--for behold, they grew faster than the strength of the roots thereof, taking strength unto themselves--behold, I say: Is not this the cause that the trees of thy vineyard hath become corrupted?
 
-*Jacob 5:49* And it came to pass that the Lord of the vineyard saith unto the servant: Let us go to and hew down the trees of the vineyard and cast them into the fire, that they shall not cumber the ground of my vineyard, for I have done all. What could I have done more for my vineyard?
+{% margin %}
+____
+
+...every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+
+...why cumbereth it the ground?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:7]#
+
+What could have been done more to my vineyard...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-5/[Isaiah 5:4]#
+____
+{% endmargin %}
+
+*Jacob 5:49* And it came to pass that the Lord of the vineyard saith unto the servant: Let us go to and [highlight-orange]#hew down the trees of the vineyard and cast them into the fire#, that [highlight-orange]#they shall not cumber the ground# of my vineyard, for I have done all. [highlight]#What could I have done more for my vineyard?#
 
 *Jacob 5:50* But behold, the servant saith unto the Lord of the vineyard: Spare it a little longer.
 
@@ -122,13 +170,40 @@
 
 *Jacob 5:62* Wherefore let us go to and labor with our mights this last time; for behold, the end draweth nigh, and this is for the last time that I shall prune my vineyard.
 
-*Jacob 5:63* Graft in the branches--begin at the last, that they may be first and that the first may be last--and dig about the trees, both old and young--the first and the last, and the last and the first--that all may be nourished once again for the last time.
+{% margin %}
+____
 
-*Jacob 5:64* Wherefore dig about them and prune them and dung them once more for the last time; for the end draweth nigh. And if it so be that these last grafts shall grow and bring forth the natural fruit, then shall ye prepare the way for them that they may grow.
+...first shall be last; and the last shall be first.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-19/[Matthew 19:30]#
+____
+{% endmargin %}
+
+*Jacob 5:63* Graft in the branches--begin at the last, that they may be first and that the first may be last--and dig about the trees, both old and young--[highlight-orange]#the first and the last, and the last and the first#--that all may be nourished once again for the last time.
+
+{% margin %}
+____
+
+...I shall dig about it, and dung it:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:8]#
+____
+{% endmargin %}
+
+*Jacob 5:64* Wherefore [highlight-orange]#dig about them and prune them and dung them# once more for the last time; for the end draweth nigh. And if it so be that these last grafts shall grow and bring forth the natural fruit, then shall ye prepare the way for them that they may grow.
 
 *Jacob 5:65* And as they begin to grow, ye shall clear away the branches which bring forth bitter fruit, according to the strength of the good and the size thereof. And ye shall not clear away the bad thereof all at once, lest the roots thereof should be too strong for the graft and the graft thereof shall perish and I lose the trees of my vineyard,
 
-*Jacob 5:66* for it grieveth me that I should lose the trees of my vineyard. Wherefore ye shall clear away the bad according as the good shall grow, that the root and the top may be equal in strength until the good shall overcome the bad and the bad be hewn down and cast into the fire, that they cumber not the ground of my vineyard; and thus will I sweep away the bad out of my vineyard.
+{% margin %}
+____
+
+...why cumbereth it the ground?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:7]#
+____
+{% endmargin %}
+
+*Jacob 5:66* for it grieveth me that I should lose the trees of my vineyard. Wherefore ye shall clear away the bad according as the good shall grow, that the root and the top may be equal in strength until the good shall overcome the bad and the bad be hewn down and cast into the fire, that [highlight-orange]#they cumber not the ground# of my vineyard; and thus will I sweep away the bad out of my vineyard.
 
 *Jacob 5:67* And the branches of the natural tree will I graft in again into the natural tree,
 
@@ -148,7 +223,16 @@
 
 *Jacob 5:75* And it came to pass that when the Lord of the vineyard saw that his fruit was good and that his vineyard was no more corrupt, he calleth up his servants and saith unto them: Behold, for this last time have we nourished my vineyard. And thou beholdest that I have done according to my will; and I have preserved the natural fruit, that it is good even like as it was in the beginning. And blessed art thou, for because that ye have been diligent in laboring with me in my vineyard and have kept my commandments--and it hath brought unto me again the natural fruit, that my vineyard is no more corrupted and the bad is cast away--behold, ye shall have joy with me because of the fruit of my vineyard.
 
-*Jacob 5:76* For behold, for a long time will I lay up of the fruit of my vineyard unto mine own self against the season, which speedily cometh. And for the last time have I nourished my vineyard and pruned it and dug about it and dunged it. Wherefore I will lay up unto mine own self of the fruit for a long time, according to that which I have spoken.
+{% margin %}
+____
+
+...I shall dig about it, and dung it:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:8]#
+____
+{% endmargin %}
+
+*Jacob 5:76* For behold, for a long time will I lay up of the fruit of my vineyard unto mine own self against the season, which speedily cometh. And for the last time have I nourished my vineyard and pruned it [highlight-orange]#and dug about it and dunged it#. Wherefore I will lay up unto mine own self of the fruit for a long time, according to that which I have spoken.
 
 *Jacob 5:77* And when the time cometh that evil fruit shall again come into my vineyard, then will I cause the good and the bad to be gathered; and the good will I preserve unto myself, and the bad will I cast away into its own place. And then cometh the season and the end, and my vineyard will I cause to be burned with fire.
 
