@@ -283,25 +283,127 @@ ____
 
 *2 Nephi 27:24* [highlight]#And again it shall come to pass that the Lord shall say unto him that shall read the words that shall be delivered him:#
 
-*2 Nephi 27:25* Forasmuch as this people draw near unto me with their mouth and with their lips do honor me but have removed their heart far from me and their fear towards me is taught by the precept of men,
+{% margin %}
+____
+Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
-*2 Nephi 27:26* therefore I will proceed to do a marvelous work among this people--yea, a marvelous work and a wonder--for the wisdom of their wise and learned shall perish, and the understanding of their prudent shall be hid.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:13]#
+____
+{% endmargin %}
 
-*2 Nephi 27:27* And woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark. And they say: Who seeth us and who knoweth us? And they also say: Surely your turning of things upside down shall be esteemed as the potter's clay! But behold, I will shew unto them, saith the Lord of Hosts, that I know all their works. For shall the work say of him that made it: He made me not! Or shall the thing framed say of him that framed it: He had no understanding!
+*2 Nephi 27:25* [highlight-orange]#Forasmuch as this people draw near unto me with their mouth and with their lips do honor me but have removed their heart far from me and their fear towards me is taught by the precept of men#,
 
-*2 Nephi 27:28* But behold, saith the Lord of Hosts, I will shew unto the children of men that it is not yet a very little while and Lebanon shall be turned into a fruitful field and the fruitful field shall be esteemed as a forest.
+{% margin %}
+____
+Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
 
-*2 Nephi 27:29* And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity and out of darkness.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:14]#
+____
+{% endmargin %}
 
-*2 Nephi 27:30* And the meek also shall increase and their joy shall be in the Lord, and the poor among men shall rejoice in the Holy One of Israel.
+*2 Nephi 27:26* [highlight-orange]#therefore I will proceed to do a marvelous work among this people--yea, a marvelous work and a wonder--for the wisdom of their wise and learned shall perish, and the understanding of their prudent shall be hid#.
 
-*2 Nephi 27:31* For assuredly as the Lord liveth, they shall see that the terrible one is brought to naught and the scorner is consumed. And all that watch for iniquity are cut off,
+{% margin %}
+____
+Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 
-*2 Nephi 27:32* and they that make a man an offender for a word and lay a snare for him that reproveth in the gate and turn aside the just for a thing of naught.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:15]#
+____
+____
+Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
-*2 Nephi 27:33* Therefore thus saith the Lord, who redeemed Abraham, concerning the house of Jacob: neither shall his face now wax pale.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:16]#
+____
 
-*2 Nephi 27:34* But when he seeth his children, the work of my hands, in the midst of him, they shall sanctify my name and sanctify the Holy One of Jacob and shall fear the God of Israel.
+{% endmargin %}
 
-*2 Nephi 27:35* They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+*2 Nephi 27:27* [highlight-orange]#And woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark. And they say: Who seeth us and who knoweth us?# And they also say: [highlight-orange]#Surely your turning of things upside down shall be esteemed as the potter's clay!# But behold, I will shew unto them, saith the Lord of Hosts, that I know all their works. [highlight-orange]#For shall the work say of him that made it: He made me not! Or shall the thing framed say of him that framed it: He had no understanding!#
+
+{% margin %}
+____
+Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:17]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:28* But behold, saith the Lord of Hosts, I will shew unto the children of men that [highlight-orange]#it is not yet a very little while and Lebanon shall be turned into a fruitful field and the fruitful field shall be esteemed as a forest.#
+
+{% margin %}
+____
+And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:18]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:29* [highlight-orange]#And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity and out of darkness.#
+
+{% margin %}
+____
+The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:19]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:30* [highlight-orange]#And the meek also shall increase and their joy shall be in the Lord, and the poor among men shall rejoice in the Holy One of Israel.#
+
+{% margin %}
+____
+For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:20]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:31* [highlight-orange]#For# assuredly as the Lord liveth, they shall see that [highlight-orange]#the terrible one is brought to naught and the scorner is consumed. And all that watch for iniquity are cut off,#
+
+{% margin %}
+____
+That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:21]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:32* [highlight-orange]#and they that make a man an offender for a word and lay a snare for him that reproveth in the gate and turn aside the just for a thing of naught.#
+
+{% margin %}
+____
+Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:22]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:33* [highlight-orange]#Therefore thus saith the Lord, who redeemed Abraham, concerning the house of Jacob: neither shall his face now wax pale.#
+
+{% margin %}
+____
+But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:23]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:34* [highlight-orange]#But when he seeth his children, the work of my hands, in the midst of him, they shall sanctify my name and sanctify the Holy One of Jacob and shall fear the God of Israel.#
+
+{% margin %}
+____
+They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:24]#
+____
+
+{% endmargin %}
+
+*2 Nephi 27:35* [highlight-orange]#They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.#
 
