@@ -56,7 +56,16 @@ ____
 
 *Omni 1:25* And it came to pass that I began to be old; and having no seed and knowing king Benjamin to be a just man before the Lord, wherefore I shall deliver up these plates unto him, exhorting all men to come unto God, the Holy One of Israel, and believe in prophesying and in revelations and in the ministering of angels and in the gift of speaking with tongues and in the gift of interpreting languages and in all things which is good, for there is nothing which is good save it comes from the Lord; and that which is evil cometh from the devil.
 
-*Omni 1:26* And now my beloved brethren, I would that ye should come unto Christ, which is the Holy One of Israel, and partake of his salvation and the power of his redemption; yea, come unto him and offer your whole souls as an offering unto him and continue in fasting and praying and endure to the end; and as the Lord liveth, ye will be saved.
+{% margin %}
+____
+
+...endure unto the end, the same shall be saved.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+____
+{% endmargin %}
+
+*Omni 1:26* And now my beloved brethren, I would that ye should come unto Christ, which is the Holy One of Israel, and partake of his salvation and the power of his redemption; yea, come unto him and offer your whole souls as an offering unto him and continue in fasting and praying and [highlight-orange]#endure to the end; and as the Lord liveth, ye will be saved.#
 
 *Omni 1:27* And now I would speak somewhat concerning a certain number which went up into the wilderness to return to the land of Nephi, for there was a large number which were desirous to possess the land of their inheritance;
 
