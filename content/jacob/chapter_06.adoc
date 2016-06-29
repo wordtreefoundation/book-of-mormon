@@ -28,7 +28,16 @@ ____
 
 *Jacob 6:6* yea, [highlight-orange]#today--if ye will hear his voice--harden not your hearts.# For why will ye die?
 
-*Jacob 6:7* For behold, after that ye have been nourished by the good word of God all the day long, will ye bring forth evil fruit, that ye must be hewn down and cast into the fire?
+{% margin %}
+____
+
+...every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+____
+{% endmargin %}
+
+*Jacob 6:7* For behold, after that ye have been nourished by the good word of God all the day long, [highlight-orange]#will ye bring forth evil fruit, that ye must be hewn down and cast into the fire?#
 
 *Jacob 6:8* Behold, will ye reject these words? Will ye reject the words of the prophets? And will ye reject all the words which have been spoken concerning Christ after that so many have spoken concerning him, and deny the good word of Christ and the power of God and the gift of the Holy Ghost and quench the Holy Spirit and make a mock of the great plan of redemption which hath been laid for you?
 
