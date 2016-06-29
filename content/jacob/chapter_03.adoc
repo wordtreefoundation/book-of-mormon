@@ -18,7 +18,17 @@
 
 *Jacob 3:10* Wherefore ye shall remember your children, how that ye have grieved their hearts because of the example that ye have sat before them; and also remember that ye may because of your filthiness bring your children unto destruction and their sins be heaped upon your heads at the last day.
 
-*Jacob 3:11* O my brethren, hearken unto my words. Arouse the faculties of your souls, shake yourselves that ye may awake from the slumber of death, and loose yourselves from the pains of hell, that ye may not become angels to the devil, to be cast into that lake of fire and brimstone, which is the second death.
+{% margin %}
+____
+
+...in the lake which burneth with fire and brimstone: which is the second death.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:8]#
+
+____
+{% endmargin %}
+
+*Jacob 3:11* O my brethren, hearken unto my words. Arouse the faculties of your souls, shake yourselves that ye may awake from the slumber of death, and loose yourselves from the pains of hell, that ye may not become angels to the devil, [highlight-orange]#to be cast into that lake of fire and brimstone, which is the second death.#
 
 *Jacob 3:12* And now I Jacob spake many more things unto the people of Nephi, warning them against fornication and lasciviousness and every kind of sin, telling them the awful consequences of them.
 
