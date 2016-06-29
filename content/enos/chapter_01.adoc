@@ -1,4 +1,13 @@
-*Enos 1:1* Behold, it came to pass that I Enos knowing my father that he was a just man, for he taught me in his language and also in the nurture and admonition of the Lord--and blessed be the name of my God for it--
+{% margin %}
+____
+
+...in the nurture and admonition of the Lord.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-6/[Ephesians 6:4]#
+____
+{% endmargin %}
+
+*Enos 1:1* Behold, it came to pass that I Enos knowing my father that he was a just man, for he taught me in his language and also [highlight-orange]#in the nurture and admonition of the Lord#--and blessed be the name of my God for it--
 
 *Enos 1:2* and I will tell you of the wrestle which I had before God before that I received a remission of my sins.
 
@@ -12,7 +21,16 @@
 
 *Enos 1:7* And I saith: Lord, how is it done?
 
-*Enos 1:8* And he saith unto me: Because of thy faith in Christ, whom thou hast not heard nor seen--and many years passeth away before that he shall manifest himself in the flesh--wherefore go to it; thy faith hath made thee whole.
+{% margin %}
+____
+
+...thy faith hath made thee whole.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-9/[Matthew 9:22]#
+____
+{% endmargin %}
+
+*Enos 1:8* And he saith unto me: Because of thy faith in Christ, whom thou hast not heard nor seen--and many years passeth away before that he shall manifest himself in the flesh--wherefore go to it; [highlight-orange]#thy faith hath made thee whole.#
 
 *Enos 1:9* Now it came to pass that when I had heard these words, I began to feel a desire for the welfare of my brethren the Nephites; wherefore I did pour out my whole soul unto God for them.
 
@@ -26,7 +44,16 @@
 
 *Enos 1:14* For at the present our strugglings were vain in restoring them to the true faith. And they swore in their wrath that if it were possible, they would destroy our records and us and also all the traditions of our fathers.
 
-*Enos 1:15* Wherefore I knowing that the Lord God was able to preserve our records, I cried unto him continually, for he had said unto me: Whatsoever thing ye shall ask in faith--believing that ye shall receive--in the name of Christ, ye shall receive it.
+{% margin %}
+____
+
+And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-21/[Matthew 21:22]#
+____
+{% endmargin %}
+
+*Enos 1:15* Wherefore I knowing that the Lord God was able to preserve our records, I cried unto him continually, for he had said unto me: [highlight-orange]#Whatsoever thing ye shall ask in faith--believing that ye shall receive--in the name of Christ, ye shall receive it.#
 
 *Enos 1:16* And I had faith and I did cry unto God that he would preserve the records. And he covenanted with me that he would bring them forth unto the Lamanites in his own due time.
 
@@ -50,4 +77,21 @@
 
 *Enos 1:26* And as I saw that I must soon go down to my grave, having been wrought upon by the power of God that I must preach and prophesy unto this people and declare the word according to the truth which is in Christ--and I have declared it in all my days and have rejoiced in it above that of the world.
 
-*Enos 1:27* And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality and shall stand before him. Then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed; there is a place prepared for you in the mansions of my Father. Amen.
+{% margin %}
+____
+
+...this mortal must put on immortality.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:53]#
+
+...Come, ye blessed of my Father...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:2]#
+
+In my Father’s house are many mansions...I go to prepare a place for you.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:2]#
+____
+{% endmargin %}
+
+*Enos 1:27* And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality and shall stand before him. Then shall I see his face with pleasure, and he will say unto me: [highlight-orange]#Come unto me, ye blessed; there is a place prepared for you in the mansions of my Father. Amen.#
