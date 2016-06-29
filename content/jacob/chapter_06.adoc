@@ -46,13 +46,17 @@ ____
 {% margin %}
 ____
 
+...in the lake which burneth with fire and brimstone: which is the second death.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:8]#
+
 And the smoke of their torment ascendeth up for ever and ever...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:11]#
 ____
 {% endmargin %}
 
-*Jacob 6:10* and according to the power of justice--for justice cannot be denied--that ye must go away into that lake of fire and brimstone?--whose flames are unquenchable and [highlight-orange]#whose smoke ascendeth up forever and ever#, which lake of fire and brimstone is endless [highlight-orange]#torment.#
+*Jacob 6:10* and according to the power of justice--for justice cannot be denied--[highlight-orange]#that ye must go away into that lake of fire and brimstone?#--whose flames are unquenchable and [highlight-orange]#whose smoke ascendeth up forever and ever#, which lake of fire and brimstone is endless [highlight-orange]#torment.#
 
 {% margin %}
 ____
