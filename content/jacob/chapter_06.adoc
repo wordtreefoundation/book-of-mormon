@@ -4,11 +4,29 @@
 
 *Jacob 6:3* And how blessed are they who have labored diligently in his vineyard! And how cursed are they which shall be cast out into their own place! And the world shall be burned with fire.
 
-*Jacob 6:4* And how merciful is our God unto us! For he remembereth the house of Israel, both roots and branches. And he stretches forth his hands unto them all the day long. And they are a stiffnecked and a gainsaying people, but as many as will not harden their hearts shall be saved in the kingdom of God.
+{% margin %}
+____
+
+...All day long I have stretched forth my hands unto a disobedient and gainsaying people.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-10/[Romans 10:21]#
+____
+{% endmargin %}
+
+*Jacob 6:4* And how merciful is our God unto us! For he remembereth the house of Israel, both roots and branches. And [highlight-orange]#he stretches forth his hands unto them all the day long. And they are a stiffnecked and a gainsaying people#, but as many as will not harden their hearts shall be saved in the kingdom of God.
 
 *Jacob 6:5* Wherefore, my beloved brethren, I beseech of you in words of soberness that ye would repent and come with full purpose of heart and cleave unto God as he cleaveth unto you. And while his arm of mercy is extended towards you in the light of the day, harden not your hearts;
 
-*Jacob 6:6* yea, today--if ye will hear his voice--harden not your hearts. For why will ye die?
+{% margin %}
+____
+
+...To day if ye will hear his voice, Harden not your hearts...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-3/[Hebrews 3:7-8]#
+____
+{% endmargin %}
+
+*Jacob 6:6* yea, [highlight-orange]#today--if ye will hear his voice--harden not your hearts.# For why will ye die?
 
 *Jacob 6:7* For behold, after that ye have been nourished by the good word of God all the day long, will ye bring forth evil fruit, that ye must be hewn down and cast into the fire?
 
@@ -16,9 +34,27 @@
 
 *Jacob 6:9* Know ye not that if ye will do these things that the power of the redemption and the resurrection which is in Christ will bring you to stand with shame and awful guilt before the bar of God,
 
-*Jacob 6:10* and according to the power of justice--for justice cannot be denied--that ye must go away into that lake of fire and brimstone?--whose flames are unquenchable and whose smoke ascendeth up forever and ever, which lake of fire and brimstone is endless torment.
+{% margin %}
+____
 
-*Jacob 6:11* O then, my beloved brethren, repent ye and enter ye in at the strait gate and continue in the way which is narrow until ye shall obtain eternal life.
+And the smoke of their torment ascendeth up for ever and ever...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:11]#
+____
+{% endmargin %}
+
+*Jacob 6:10* and according to the power of justice--for justice cannot be denied--that ye must go away into that lake of fire and brimstone?--whose flames are unquenchable and [highlight-orange]#whose smoke ascendeth up forever and ever#, which lake of fire and brimstone is endless [highlight-orange]#torment.#
+
+{% margin %}
+____
+
+Enter ye in at the strait gate...narrow is the way, which leadeth unto life...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13-14]#
+____
+{% endmargin %}
+
+*Jacob 6:11* O then, my beloved brethren, repent ye and [highlight-orange]#enter ye in at the strait gate and continue in the way which is narrow until ye shall obtain eternal life.#
 
 *Jacob 6:12* O be wise! What can I say more?
 
