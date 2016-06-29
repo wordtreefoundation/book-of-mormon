@@ -50,10 +50,6 @@ And the fortress of the high fort of thy walls shall he bring down, lay low, and
 
 KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-25/[Isaiah 25:12]
 ____
-{% endmargin %}
-
-
-{% margin %}
 ____
 And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
 
