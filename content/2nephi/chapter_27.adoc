@@ -6,7 +6,6 @@ Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let the
 ____
 {% endmargin %}
 
-
 *2 Nephi 27:1* [highlight-orange]#But behold, in the last days or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both they which shall come upon this land and they which shall be upon other lands, yea, even upon all the lands of the earth--behold, they will be drunken with iniquity and all manner of abominations.#
 
 {% margin %}
@@ -14,7 +13,8 @@ ____
 Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:2]#
-
+____
+____
 Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:6]#
@@ -29,12 +29,13 @@ ____
 And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:3]#
-
-
+____
+____
 And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:7]#
-
+____
+____
 It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:8]#
@@ -49,7 +50,8 @@ ____
 And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:4]#
-
+____
+____
 Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:9]#
@@ -64,7 +66,8 @@ ____
 Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:5]#
-
+____
+____
 For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:10]#
