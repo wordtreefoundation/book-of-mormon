@@ -125,5 +125,16 @@ ____
 
 *2 Nephi 26:32* And again the Lord God hath commanded that men should not murder, that they should not lie, that they should not steal, that they should not take the name of the Lord their God in vain, that they should not envy, that they should not have malice, that they should not contend one with another, that they should not commit whoredoms, and that they should not do none of these things. For whoso doeth them shall perish,
 
-*2 Nephi 26:33* for none of these iniquities come of the Lord. For he doeth that which is good among the children of men. And he doeth nothing save it be plain unto the children of men. And he inviteth them all to come unto him and partake of his goodness. And he denieth none that come unto him, black and white, bond and free, male and female; and he remembereth the heathen. And all are alike unto God, both Jew and Gentile.
+
+{% margin %}
+____
+here is neither [highlight-orange]#Jew nor Greek#, there is neither [highlight-orange]#bond nor free, there is neither male nor female: for ye are all one in Christ Jesus#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Galatians-Chapter-3/[Galatians 3:28]#
+____
+
+{% endmargin %}
+
+
+*2 Nephi 26:33* for none of these iniquities come of the Lord. For he doeth that which is good among the children of men. And he doeth nothing save it be plain unto the children of men. And he inviteth them all to come unto him and partake of his goodness. And he denieth none that come unto him, black and white, [highlight-orange]#bond and free, male and female#; and he remembereth the heathen. [highlight-orange]#And all are alike unto God#, both [highlight-orange]#Jew and Gentile#.
 
