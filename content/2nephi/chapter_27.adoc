@@ -17,7 +17,7 @@ Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall
 
 Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 
-#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:6]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:6]#
 ____
 {% endmargin %}
 
@@ -146,6 +146,7 @@ And the book is delivered to him that is not learned, saying, Read this, I pray 
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:12]#
 ____
+
 {% endmargin %}
 
 
@@ -254,7 +255,7 @@ ____
 ____
 Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:22]#
 ____
 {% endmargin %}
 
