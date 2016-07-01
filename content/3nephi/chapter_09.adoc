@@ -83,9 +83,31 @@ ____
 
 *3 Nephi 9:18* [highlight-orange]#I am the light and the life of the world#. [highlight-orange]#I am Alpha and Omega, the beginning and the end.#
 
-*3 Nephi 9:19* And ye shall offer up unto me no more the shedding of blood; yea, your sacrifices and your burnt offerings shall be done away, for I will accept none of your sacrifices and your burnt offerings.
+{% margin %}
+____
 
-*3 Nephi 9:20* And ye shall offer for a sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto me with a broken heart and a contrite spirit, him will I baptize with fire and with the Holy Ghost, even as the Lamanites because of their faith in me at the time of their conversion were baptized with fire and with the Holy Ghost--and they knew it not.
+Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-10/[Hebrews 10:8]#
+____
+{% endmargin %}
+
+*3 Nephi 9:19* And [highlight-orange]#ye shall offer up unto me no more the shedding of blood; yea, your sacrifices and your burnt offerings shall be done away#, for I will accept none of your sacrifices and your burnt offerings.
+
+{% margin %}
+____
+
+The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:17]#
+
+...he shall baptize you with the Holy Ghost, and with fire:...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
+____
+{% endmargin %}
+
+*3 Nephi 9:20* And [highlight]#ye shall offer for a sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto me with a broken heart and a contrite spirit#, [highlight-orange]#him will I baptize with fire and with the Holy Ghost#, even as the Lamanites because of their faith in me at the time of their conversion were baptized with fire and with the Holy Ghost--and they knew it not.
 
 {% margin %}
 ____
