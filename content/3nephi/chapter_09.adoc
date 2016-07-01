@@ -87,7 +87,16 @@ ____
 
 *3 Nephi 9:20* And ye shall offer for a sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto me with a broken heart and a contrite spirit, him will I baptize with fire and with the Holy Ghost, even as the Lamanites because of their faith in me at the time of their conversion were baptized with fire and with the Holy Ghost--and they knew it not.
 
-*3 Nephi 9:21* Behold, I have come into the world to bring redemption unto the world, to save the world from sin.
+{% margin %}
+____
+
+...for he shall save his people from their sins.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-1/[Matthew 1:21]#
+____
+{% endmargin %}
+
+*3 Nephi 9:21* Behold, I have come into the world to bring redemption unto the world, [highlight-orange]to save the world from sin.#
 
 *3 Nephi 9:22* Therefore whoso repenteth and cometh unto me as a little child, him will I receive, for of such is the kingdom of God. Behold, for such I have laid down my life and have taken it up again. Therefore repent and come unto me, ye ends of the earth, and be saved.
 
