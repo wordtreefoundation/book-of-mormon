@@ -19,7 +19,16 @@ ____
 
 *3 Nephi 10:6* O ye house of Israel whom I have spared, [highlight-orange]#how oft will I gather you as a hen gathereth her chickens under her wings# if ye will repent and return unto me with full purpose of heart!
 
-*3 Nephi 10:7* But if not, O house of Israel, the places of your dwellings shall become desolate until the time of the fulfilling of the covenant to your fathers.
+{% margin %}
+____
+
+In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate;...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-6/[Ezekiel 6:6]#
+____
+{% endmargin %}
+
+*3 Nephi 10:7* But if not, O house of Israel, [highlight]#the places of your dwellings shall become desolate# until the time of the fulfilling of the covenant to your fathers.
 
 *3 Nephi 10:8* And now it came to pass that after the people had heard these words, behold, they began to weep and howl again because of the loss of their kindreds and friends.
 
@@ -33,7 +42,16 @@ ____
 
 *3 Nephi 10:13* And they were spared and were not sunk and buried up in the earth, and they were not drowned in the depths of the sea, and they were not burned by fire, neither were they fallen upon and crushed to death; and they were not carried away in the whirlwind, neither were they overpowered by the vapors of smoke and of darkness.
 
-*3 Nephi 10:14* And now whoso readeth, let him understand; he that hath the scriptures, let him search them and see and behold if all these deaths and destructions by fire and by smoke and by tempests and by whirlwinds and by the opening of the earth to receive them and all these things is not unto the fulfilling of the prophecies of many of the holy prophets.
+{% margin %}
+____
+
+whoso readeth, let him understand
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:15]#
+____
+{% endmargin %}
+
+*3 Nephi 10:14* And now [highlight-orange]#whoso readeth, let him understand#; he that hath the scriptures, let him search them and see and behold if all these deaths and destructions by fire and by smoke and by tempests and by whirlwinds and by the opening of the earth to receive them and all these things is not unto the fulfilling of the prophecies of many of the holy prophets.
 
 *3 Nephi 10:15* Behold, I say unto you: Yea, many have testified of these things at the coming of Christ and were slain because they testified of these things
 
