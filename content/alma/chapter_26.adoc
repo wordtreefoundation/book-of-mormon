@@ -2,7 +2,31 @@
 
 *Alma 26:2* And now I ask: What great blessings hath he bestowed upon us? Can ye tell?
 
-*Alma 26:3* Behold, I answer for you: For our brethren the Lamanites were in darkness, yea, even in the darkest abyss. But behold, how many of them are brought to behold the marvelous light of God! And this is the blessing which hath been bestowed upon us, that we have been made instruments in the hands of God to bring about this great work.
+{% margin %}
+____
+
+But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into [highlight-orange]#his marvellous light#:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Peter-Chapter-2/[1 Peter 2:9]#
+____
+____
+Behold, [highlight-orange]#what manner of love the Father hath bestowed upon us, that we should be called the sons of God#: therefore the world knoweth us not, because it knew him not.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-3/[1 John 3:1]#
+____
+____
+Instruments in the hands of God
+
+[small]#Lectures on the four last books of the Pentateuch, 1829, https://books.google.cat/books?id=9VkHAAAAQAAJ&pg=PA192&dq=instruments+hands+of+god&hl=ca&sa=X&ved=0ahUKEwiq05mQvNXNAhXn44MKHYp1CT4Q6AEIIDAA#v=onepage&q=instruments%20hands%20of%20god&f=false[Part III Lecture I Section Heading]#
+
+[small]#The retrospect, 1823, https://books.google.cat/books?id=zNQHAAAAQAAJ&pg=PA203&dq=instruments+hands+of+god&hl=ca&sa=X&ved=0ahUKEwiq05mQvNXNAhXn44MKHYp1CT4Q6AEIKDAB#v=onepage&q=instruments%20hands%20of%20god&f=false[Page 203]#
+
+[small]#A Narrative of the Proceedings of the Society Called Quakers, 1813, https://books.google.cat/books?id=amxBAQAAMAAJ&pg=RA1-PA79&dq=instruments+hands+of+god&hl=ca&sa=X&ved=0ahUKEwiq05mQvNXNAhXn44MKHYp1CT4Q6AEIODAD#v=onepage&q=instruments%20hands%20of%20god&f=false[Page 79]#
+____
+
+{% endmargin %}
+
+*Alma 26:3* Behold, I answer for you: For our brethren the Lamanites were in darkness, yea, even in the darkest abyss. But behold, how many of them are brought to behold [highlight-orange]#the marvelous light of God!# And this is [highlight-orange]#the blessing which hath been bestowed upon us, that we# have been made [highlight]#instruments in the hands of God# to bring about this great work.
 
 *Alma 26:4* Behold, thousands of them do rejoice and have been brought into the fold of God.
 
@@ -12,7 +36,6 @@ ____
 ...Thrust in thy sickle, and reap...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:15]#
-
 ____
 {% endmargin %}
 
