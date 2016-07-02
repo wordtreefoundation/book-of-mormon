@@ -60,7 +60,17 @@ ____
 
 *Alma 26:21* And now behold, my brethren, what natural man is there that knoweth these things? I say unto you: There is none that knoweth these things save it be the penitent.
 
-*Alma 26:22* Yea, he that repenteth and exerciseth faith and bringeth forth good works and prayeth continually without ceasing, unto such it is given to know the mysteries of God. Yea, unto such it shall be given to reveal things which never have been revealed. Yea, and it shall be given unto such to bring thousands of souls to repentance, even as it hath been given unto us to bring these our brethren to repentance.
+{% margin %}
+____
+
+Pray without ceasing
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Thessalonians-Chapter-5/[1 Thessalonians 5:17]#
+
+____
+{% endmargin %}
+
+*Alma 26:22* Yea, he that repenteth and exerciseth faith and bringeth forth good works and [highlight-orange]#prayeth continually without ceasing#, unto such it is given to know the mysteries of God. Yea, unto such it shall be given to reveal things which never have been revealed. Yea, and it shall be given unto such to bring thousands of souls to repentance, even as it hath been given unto us to bring these our brethren to repentance.
 
 *Alma 26:23* Now, do ye remember, my brethren, that we said unto our brethren in the land of Zarahemla: We go up to the land of Nephi to preach unto our brethren the Lamanites. And they laughed us to scorn,
 
