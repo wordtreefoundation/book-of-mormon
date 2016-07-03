@@ -6,19 +6,64 @@
 
 *3 Nephi 9:4* And behold, that great city Moroni have I caused to be sunk in the depths of the sea and the inhabitants thereof to be drowned.
 
-*3 Nephi 9:5* And behold, that great city Moronihah have I covered with earth and the inhabitants thereof, to hide their iniquities and their abominations from before my face, that the blood of the prophets and of the saints shall not come up any more unto me against them.
+{% margin %}
+____
+
+...the blood of prophets, and of saints, and of all that were slain upon the earth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
+____
+{% endmargin %}
+
+*3 Nephi 9:5* And behold, that great city Moronihah have I covered with earth and the inhabitants thereof, to hide their iniquities and their abominations from before my face, that [highlight-orange]#the blood of the prophets and of the saints# shall not come up any more unto me against them.
 
 *3 Nephi 9:6* And behold, the city of Gilgal have I caused to be sunk and the inhabitants thereof to be buried up in the depths of the earth--
 
 *3 Nephi 9:7* yea, and the city of Onihah and the inhabitants thereof, and the city of Mocum and the inhabitants thereof, and the city of Jerusalem and the inhabitants thereof; and waters have I caused to come up in the stead thereof, to hide their wickedness and abominations from before my face, that the blood of the prophets and the saints shall not come up any more unto me against them.
 
-*3 Nephi 9:8* And behold, the city of Gadiandi and the city of Gadiomnah and the city of Jacob and the city of Gimgimno, all these have I caused to be sunk and made hills and valleys in the places thereof; and the inhabitants thereof have I buried up in the depths of the earth, to hide their wickedness and abominations from before my face, that the blood of the prophets and the saints should not come up any more unto me against them.
+{% margin %}
+____
 
-*3 Nephi 9:9* And behold, that great city Jacob-Ugath, which was inhabited by the people of the king Jacob, have I caused to be burned with fire because of their sins and their wickedness, which was above all the wickedness of the whole earth because of their secret murders and combinations, for it was they that did destroy the peace of my people and the government of the land. Therefore I did cause them to be burned, to destroy them from before my face, that the blood of the prophets and the saints should not come up unto me any more against them.
+...the blood of prophets, and of saints, and of all that were slain upon the earth.
 
-*3 Nephi 9:10* And behold, the city of Laman and the city of Josh and the city of Gad and the city of Kishcumen have I caused to be burned with fire, and the inhabitants thereof, because of their wickedness in casting out the prophets and stoning them which I did send to declare unto them concerning their wickedness and their abominations.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
+____
+{% endmargin %}
 
-*3 Nephi 9:11* And because they did cast them all out, that there were none righteous among them, I did send down fire and destroy them, that their wickedness and abominations might be hid from before my face, that the blood of the prophets and the saints which I sent among them might not cry unto me from the ground against them.
+*3 Nephi 9:8* And behold, the city of Gadiandi and the city of Gadiomnah and the city of Jacob and the city of Gimgimno, all these have I caused to be sunk and made hills and valleys in the places thereof; and the inhabitants thereof have I buried up in the depths of the earth, to hide their wickedness and abominations from before my face, that [highlight-orange]#the blood of the prophets and the saints# should not come up any more unto me against them.
+
+{% margin %}
+____
+
+...the blood of prophets, and of saints, and of all that were slain upon the earth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
+____
+{% endmargin %}
+
+*3 Nephi 9:9* And behold, that great city Jacob-Ugath, which was inhabited by the people of the king Jacob, have I caused to be burned with fire because of their sins and their wickedness, which was above all the wickedness of the whole earth because of their secret murders and combinations, for it was they that did destroy the peace of my people and the government of the land. Therefore I did cause them to be burned, to destroy them from before my face, that [highlight-orange]#the blood of the prophets and the saints# should not come up unto me any more against them.
+
+{% margin %}
+____
+
+Your country is desolate, your cities are burned with fire
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-1/[Isaiah 1:7]#
+____
+{% endmargin %}
+
+*3 Nephi 9:10* And behold, [highlight]#the city of Laman and the city of Josh and the city of Gad and the city of Kishcumen have I caused to be burned with fire#, and the inhabitants thereof, because of their wickedness in casting out the prophets and stoning them which I did send to declare unto them concerning their wickedness and their abominations.
+
+{% margin %}
+____
+
+...the blood of prophets, and of saints...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
+____
+{% endmargin %}
+
+*3 Nephi 9:11* And because they did cast them all out, that there were none righteous among them, I did send down fire and destroy them, that their wickedness and abominations might be hid from before my face, that [highlight-orange]#the blood of the prophets and the saints# which I sent among them might not cry unto me from the ground against them.
 
 *3 Nephi 9:12* And many great destructions have I caused to come upon this land and upon this people because of their wickedness and their abominations.
 
@@ -41,10 +86,14 @@ ____
 ...I am in the Father, and the Father in me...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:11]#
+
+...I have both glorified it, and will glorify it again.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:28]#
 ____
 {% endmargin %}
 
-*3 Nephi 9:15* Behold, I am Jesus Christ the Son of God. I created the heavens and the earth and all things that in them is. I was with the Father from the beginning. [highlight-orange]#I am in the Father and the Father in me;# and in me hath the Father glorified his name.
+*3 Nephi 9:15* Behold, I am Jesus Christ the Son of God. I created the heavens and the earth and all things that in them is. I was with the Father from the beginning. [highlight-orange]#I am in the Father and the Father in me;# and in [highlight-orange]#me hath the Father glorified his name.#
 
 {% margin %}
 ____
@@ -120,5 +169,22 @@ ____
 
 *3 Nephi 9:21* Behold, I have come into the world to bring redemption unto the world, [highlight-orange]to save the world from sin.#
 
-*3 Nephi 9:22* Therefore whoso repenteth and cometh unto me as a little child, him will I receive, for of such is the kingdom of God. Behold, for such I have laid down my life and have taken it up again. Therefore repent and come unto me, ye ends of the earth, and be saved.
+{% margin %}
+____
+
+Suffer little [highlight]#children to come unto me#, and forbid them not: [highlight]#for of such is the kingdom of God.#
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-18/[Luke 18:16]#
+
+...I lay down my life, that I might take it again.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:17]#
+
+Look unto me, and be ye saved, all the ends of the earth... 
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
+____
+{% endmargin %}
+
+*3 Nephi 9:22* [highlight-orange]#Therefore whoso repenteth and cometh unto me as a little child, him will I receive, for of such is the kingdom of God#. Behold, for such [highlight-orange]#I have laid down my life and have taken it up again.# Therefore repent and [highlight]#come unto me, ye ends of the earth, and be saved.#
 
