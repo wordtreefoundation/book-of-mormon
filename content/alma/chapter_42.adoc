@@ -11,7 +11,7 @@ ____
 ____
 {% endmargin %}
 
-*Alma 42:2* Now behold, my son, I will explain this thing unto thee. [highlight]#For behold, after the Lord God sent our first parents forth from the garden of Eden to till the ground from whence he was taken--yea, he drove out the man--and he placed at the east end of the garden of Eden cherubims and a flaming sword which turned every way to keep the tree of life#--
+*Alma 42:2* Now behold, my son, I will explain this thing unto thee. [highlight-orange]#For behold, after the Lord God sent our first parents forth from the garden of Eden to till the ground from whence he was taken--yea, he drove out the man--and he placed at the east end of the garden of Eden cherubims and a flaming sword which turned every way to keep the tree of life#--
 
 *Alma 42:3* now we see that the man had became as God, knowing good and evil, and lest he should put forth his hand and take also of the tree of life and eat and live forever, that the Lord God placed cherubims and the flaming sword that he should not partake of the fruit.
 
