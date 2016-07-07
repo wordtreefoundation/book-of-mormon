@@ -47,7 +47,7 @@ ____
 
 ...springing up into everlasting life.
 
- [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-4/[John 4:14]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-4/[John 4:14]#
 
 ____
 {% endmargin %}
