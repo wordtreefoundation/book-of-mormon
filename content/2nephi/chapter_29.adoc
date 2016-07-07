@@ -15,10 +15,15 @@ And he will lift up an ensign to the nations from far, and will hiss unto them f
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-5/[Isaiah 5:26]#
 ____
+____
+... and set up my standard to the people: ...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]#
+____
 {% endmargin %}
 
 
-*2 Nephi 29:2* --and also that I may remember the promises which I have made unto thee Nephi and also unto thy father, that I would remember your seed, and that the words of your seed should proceed forth out of my mouth unto your seed, and my words [highlight-orange]#shall hiss forth unto the ends of the earth# for a standard unto my people which are of the house of Israel--
+*2 Nephi 29:2* --and also that I may remember the promises which I have made unto thee Nephi and also unto thy father, that I would remember your seed, and that the words of your seed should proceed forth out of my mouth unto your seed, and my words [highlight-orange]#shall hiss forth unto the ends of the earth# for a [highlight-orange]#standard unto my people# which are of the house of Israel--
 
 *2 Nephi 29:3* and because my words shall hiss forth, many of the Gentiles shall say: A Bible, a Bible, we have got a Bible! And there cannot be any more Bible!
 
@@ -36,7 +41,15 @@ ____
 
 *2 Nephi 29:10* Wherefore because that ye have a Bible, ye need not suppose that it contains all my words; neither need ye suppose that I have not caused more to be written.
 
-*2 Nephi 29:11* For I command all men, both in the east and in the west and in the north and in the south and in the islands of the sea, that they shall write the words which I speak unto them, for out of the books which shall be written I will judge the world, every man according to their works, according to that which is written.
+{% margin %}
+____
+... and the books were opened: and another [highlight-orange]#book# was opened, [highlight-orange]#which# is the book of life: and the dead were [highlight-orange]#judged# out of those things [highlight-orange]#which were written# in the books, [highlight-orange]#according to their works#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:12]#
+____
+{% endmargin %}
+
+*2 Nephi 29:11* For I command all men, both in the east and in the west and in the north and in the south and in the islands of the sea, that they shall write the words which I speak unto them, for out of the [highlight-orange]#books which# shall be written I will [highlight-orange]#judge# the world, every man [highlight-orange]#according to their works#, according to that [highlight-orange]#which is written#.
 
 *2 Nephi 29:12* For behold, I shall speak unto the Jews, and they shall write it; and I shall also speak unto the Nephites, and they shall write it; and I shall also speak unto the other tribes of the house of Israel which I have led away, and they shall write it; and I shall also speak unto all the nations of the earth, and they shall write it.
 
