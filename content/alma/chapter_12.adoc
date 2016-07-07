@@ -52,7 +52,16 @@ ____
 
 *Alma 12:13* Then if our hearts have been hardened--yea, if we have hardened our hearts against the word insomuch that it hath not been found in us--then will our state be awful, for then we shall be condemned.
 
-*Alma 12:14* For our works will condemn us, yea, all our works will condemn us; we shall not be found spotless--and our thoughts will also condemn us--and in this awful state we shall not durst look up to our God. And we would fain be glad if we could command the rocks and the mountains to fall upon us, to hide us from his presence.
+{% margin %}
+____
+
+And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-6/[Revelation 6:16]#
+
+____
+{% endmargin %}
+*Alma 12:14* For our works will condemn us, yea, all our works will condemn us; we shall not be found spotless--and our thoughts will also condemn us--and in this awful state we shall not durst look up to our God. And we would fain be glad if we could command [highlight-orange]#the rocks and the mountains to fall upon us, to hide us from his presence#.
 
 
 {% margin %}
