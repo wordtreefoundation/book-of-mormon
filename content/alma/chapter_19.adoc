@@ -6,13 +6,36 @@
 
 *Alma 19:4* And she saith unto him: The servants of my husband have made it known unto me that thou art a prophet of a holy God and that thou hast power to do many mighty works in his name.
 
-*Alma 19:5* Therefore if this is the case, I would that ye should go in and see my husband, for he has been laid upon his bed for the space of two days and two nights. And some say that he is not dead; but others say that he is dead and that he stinketh and that he ought to be placed in the sepulchre. But as for myself, to me he doth not stink.
+{% margin %}
+____
+
+... Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-11/[John 11:39]#
+
+____
+{% endmargin %}
+
+*Alma 19:5* Therefore if this is the case, I would that ye should go in and see my husband, for he has been laid upon his bed for the space of two [highlight-orange]#days# and two nights. And some say that he is not dead; but others say that he is [highlight-orange]#dead# and that he [highlight-orange]#stinketh# and that he ought to be placed in the sepulchre. But as for myself, to me he doth not stink.
 
 *Alma 19:6* Now this was what Ammon desired, for he knew that king Lamoni was under the power of God. He knew that the dark veil of unbelief being cast away from his mind, and the light which did light up his mind, which was the light of the glory of God, which was a marvelous light of his goodness--yea, this light had infused such joy into his soul, the cloud of darkness having been dispelled, and the light of everlasting life was lit up in his soul--yea, he knew that this had overcame his natural frame and he was carried away in God.
 
 *Alma 19:7* Therefore what the queen desired of him was his only desire. Therefore he went in to see the king according as the queen had desired him. And he saw the king, and he knew that he was not dead.
 
-*Alma 19:8* And he saith unto the queen: He is not dead, but he sleepeth in God; and on the morrow he shall rise again. Therefore bury him not.
+{% margin %}
+____
+These things said he: and after that he saith unto them, Our friend Lazarus sleepeth...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-11/[John 11:11]#
+____
+____
+Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-11/[John 11:24]#
+____
+{% endmargin %}
+
+*Alma 19:8* And [highlight-orange]#he saith# unto the queen: He is not dead, but he [highlight-orange]#sleepeth# in God; and on the morrow [highlight-orange]#he shall rise again#. Therefore bury him not.
 
 {% margin %}
 ____
