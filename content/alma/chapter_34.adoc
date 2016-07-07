@@ -27,7 +27,7 @@ ____
 
 ...one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 
- [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:18]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:18]#
 
 ____
 {% endmargin %}
