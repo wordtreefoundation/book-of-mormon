@@ -81,9 +81,9 @@ ____
 ____
 ...That unto me every knee shall bow, every tongue shall swear.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:23]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:23]#
 ____
-
+____
 ...at the name of Jesus every knee should bow...And that every tongue should confess...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Phillipians-Chapter-2/[Phillipians 2:10-11]#
@@ -108,10 +108,10 @@ ____
 ____
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]#
 ____
 {% endmargin %}
 
 
-*Mosiah 27:37* [highlight]#And how blessed are they! For they did publish peace; they did publish good tidings of good, and they did declare unto the people that the Lord reigneth.#
+*Mosiah 27:37* [highlight-orange]#And how blessed are they! For they did publish peace; they did publish good tidings of good, and they did declare unto the people that the Lord reigneth.#
 
