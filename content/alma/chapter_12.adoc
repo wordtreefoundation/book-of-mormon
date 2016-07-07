@@ -74,7 +74,7 @@ Bring forth therefore fruits meet for repentance:
 ____
 {% endmargin %}
 
-*Alma 12:15* But this cannot be. We must come forth and stand before him in his glory and in his power and in his might, majesty, and dominion, and acknowledge to their everlasting shame that all his judgments are just, that he is just in all his works and that he is merciful unto the children of men and that he hath all power to save every man that believeth on his name and bringeth forth fruit meet for repentance.
+*Alma 12:15* But this cannot be. We must come forth and stand before him in his glory and in his power and in his might, majesty, and dominion, and acknowledge to their everlasting shame that all his judgments are just, that he is just in all his works and that he is merciful unto the children of men and that he hath all power to save every man that believeth on his name and [highlight-orange]#bringeth forth fruit meet for repentance#.
 
 {% margin %}
 ____
@@ -85,7 +85,7 @@ ____
 ____
 {% endmargin %}
 
-*Alma 12:16* And now behold, I say unto you: Then cometh a death, even [hihglight-orange]#a second death#, which is a spiritual death. Then is a time that whosoever dieth in his sins as to the temporal death shall also die a spiritual death; yea, he shall die as to things pertaining unto righteousness.
+*Alma 12:16* And now behold, I say unto you: Then cometh a death, even [highlight-orange]#a second death#, which is a spiritual death. Then is a time that whosoever dieth in his sins as to the temporal death shall also die a spiritual death; yea, he shall die as to things pertaining unto righteousness.
 
 {% margin %}
 ____
