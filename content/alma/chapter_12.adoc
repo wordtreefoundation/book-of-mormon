@@ -34,7 +34,7 @@ ____
 {% margin %}
 ____
 
-And have hope toward God, which they themselves also allow, [highlight]#that there shall be a resurrection of the dead, both of the just and unjust.#
+And have hope toward God, which they themselves also allow, [highlight-orange]#that there shall be a resurrection of the dead, both of the just and unjust.#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-24/[Acts 24:15]#
 ____
