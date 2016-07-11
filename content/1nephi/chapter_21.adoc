@@ -2,7 +2,7 @@
 ____
 Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 And said unto me, Thou art my servant, O Israel, in whom I will be glorified.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the LORD, and my work with my God.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 And now, saith the LORD that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 Thus saith the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 Thus saith the LORD, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 And I will make all my mountains a way, and my highways shall be exalted.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +145,7 @@ ____
 ____
 But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +156,7 @@ ____
 ____
 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +167,7 @@ ____
 ____
 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +178,7 @@ ____
 ____
 Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:17]#
 ____
 {% endmargin %}
 
@@ -189,7 +189,7 @@ ____
 ____
 Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:18]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:18]#
 ____
 {% endmargin %}
 
@@ -200,7 +200,7 @@ ____
 ____
 For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:19]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:19]#
 ____
 {% endmargin %}
 
@@ -211,7 +211,7 @@ ____
 ____
 The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:20]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:20]#
 ____
 {% endmargin %}
 
@@ -222,7 +222,7 @@ ____
 ____
 Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:21]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:21]#
 ____
 {% endmargin %}
 
@@ -233,7 +233,7 @@ ____
 ____
 Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:22]#
 ____
 {% endmargin %}
 
@@ -244,7 +244,7 @@ ____
 ____
 And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:23]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:23]#
 ____
 {% endmargin %}
 
@@ -255,7 +255,7 @@ ____
 ____
 Shall the prey be taken from the mighty, or the lawful captive delivered?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:24]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:24]#
 ____
 {% endmargin %}
 
@@ -266,7 +266,7 @@ ____
 ____
 But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:25]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:25]#
 ____
 {% endmargin %}
 
@@ -277,7 +277,7 @@ ____
 ____
 And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:26]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-49/[Isaiah 49:26]#
 ____
 {% endmargin %}
 

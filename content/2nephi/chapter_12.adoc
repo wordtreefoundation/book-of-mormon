@@ -2,7 +2,7 @@
 ____
 The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 And it shall come to pass in the last days, that the mountain of the LORD's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 O house of Jacob, come ye, and let us walk in the light of the LORD.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +145,7 @@ ____
 ____
 And upon all the high mountains, and upon all the hills that are lifted up,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +156,7 @@ ____
 ____
 And upon every high tower, and upon every fenced wall,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +167,7 @@ ____
 ____
 And upon all the ships of Tarshish, and upon all pleasant pictures.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +178,7 @@ ____
 ____
 And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:17]#
 ____
 {% endmargin %}
 
@@ -189,7 +189,7 @@ ____
 ____
 And the idols he shall utterly abolish.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:18]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:18]#
 ____
 {% endmargin %}
 
@@ -200,7 +200,7 @@ ____
 ____
 And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:19]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:19]#
 ____
 {% endmargin %}
 
@@ -211,7 +211,7 @@ ____
 ____
 In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:20]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:20]#
 ____
 {% endmargin %}
 
@@ -222,7 +222,7 @@ ____
 ____
 To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:21]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:21]#
 ____
 {% endmargin %}
 
@@ -233,7 +233,7 @@ ____
 ____
 Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of ?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-2/[Isaiah 2:22]#
 ____
 {% endmargin %}
 

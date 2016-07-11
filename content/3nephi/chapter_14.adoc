@@ -24,7 +24,7 @@ ____
 ____
 And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:3]#
 ____
 {% endmargin %}
 

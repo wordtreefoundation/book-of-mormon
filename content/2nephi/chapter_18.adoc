@@ -2,7 +2,7 @@
 ____
 Moreover the LORD said unto me, Take thee a great roll, and write in it with a man's pen concerning Mahershalalhashbaz.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 And I went unto the prophetess; and she conceived, and bare a son. Then said the LORD to me, Call his name Mahershalalhashbaz.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 The LORD spake also unto me again, saying,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 Forasmuch as this people refuseth the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah's son;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, even the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 Say ye not, A confederacy, to all them to whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 Sanctify the LORD of hosts himself; and let him be your fear, and let him be your dread.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:13]#
 ____
 {% endmargin %}
 
@@ -145,7 +145,7 @@ ____
 ____
 And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:14]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:14]#
 ____
 {% endmargin %}
 
@@ -156,7 +156,7 @@ ____
 ____
 And many among them shall stumble, and fall, and be broken, and be snared, and be taken.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:15]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:15]#
 ____
 {% endmargin %}
 
@@ -167,7 +167,7 @@ ____
 ____
 Bind up the testimony, seal the law among my disciples.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:16]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:16]#
 ____
 {% endmargin %}
 
@@ -178,7 +178,7 @@ ____
 ____
 And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:17]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:17]#
 ____
 {% endmargin %}
 
@@ -189,7 +189,7 @@ ____
 ____
 Behold, I and the children whom the LORD hath given me are for signs and for wonders in Israel from the LORD of hosts, which dwelleth in mount Zion.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:18]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:18]#
 ____
 {% endmargin %}
 
@@ -200,7 +200,7 @@ ____
 ____
 And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:19]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:19]#
 ____
 {% endmargin %}
 
@@ -211,7 +211,7 @@ ____
 ____
 To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:20]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:20]#
 ____
 {% endmargin %}
 
@@ -222,7 +222,7 @@ ____
 ____
 And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:21]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:21]#
 ____
 {% endmargin %}
 
@@ -233,7 +233,7 @@ ____
 ____
 And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:22]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-8/[Isaiah 8:22]#
 ____
 {% endmargin %}
 

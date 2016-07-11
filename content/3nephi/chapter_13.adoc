@@ -101,7 +101,7 @@ ____
 ____
 Thy kingdom come, Thy will be done in earth, as it is in heaven.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:10]#
 ____
 {% endmargin %}
 

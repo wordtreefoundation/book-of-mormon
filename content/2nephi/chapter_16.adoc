@@ -2,7 +2,7 @@
 ____
 In the year that king Uzziah died I saw also the LORD sitting upon a throne, high and lifted up, and his train filled the temple.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:1]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:1]#
 ____
 {% endmargin %}
 
@@ -13,7 +13,7 @@ ____
 ____
 Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:2]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:2]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:3]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:3]#
 ____
 {% endmargin %}
 
@@ -35,7 +35,7 @@ ____
 ____
 And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:4]#
 ____
 {% endmargin %}
 
@@ -46,7 +46,7 @@ ____
 ____
 Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:5]#
 ____
 {% endmargin %}
 
@@ -57,7 +57,7 @@ ____
 ____
 Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:6]#
 ____
 {% endmargin %}
 
@@ -68,7 +68,7 @@ ____
 ____
 And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:7]#
 ____
 {% endmargin %}
 
@@ -79,7 +79,7 @@ ____
 ____
 Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:8]#
 ____
 {% endmargin %}
 
@@ -90,7 +90,7 @@ ____
 ____
 And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:9]#
 ____
 {% endmargin %}
 
@@ -101,7 +101,7 @@ ____
 ____
 Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:10]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:10]#
 ____
 {% endmargin %}
 
@@ -112,7 +112,7 @@ ____
 ____
 Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:11]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:11]#
 ____
 {% endmargin %}
 
@@ -123,7 +123,7 @@ ____
 ____
 And the LORD have removed men far away, and there be a great forsaking in the midst of the land.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:12]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:12]#
 ____
 {% endmargin %}
 
@@ -134,7 +134,7 @@ ____
 ____
 But yet in it shall be a tenth, and it shall return, and shall be eaten: as a teil tree, and as an oak, whose substance is in them, when they cast their leaves: so the holy seed shall be the substance thereof.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:13]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-6/[Isaiah 6:13]#
 ____
 {% endmargin %}
 

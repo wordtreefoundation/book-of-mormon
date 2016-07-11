@@ -18,7 +18,7 @@
 ____
 But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth: with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:4]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:4]#
 ____
 {% endmargin %}
 
@@ -31,7 +31,7 @@ ____
 ____
 And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:5]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:5]#
 ____
 {% endmargin %}
 
@@ -42,7 +42,7 @@ ____
 ____
 The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:6]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:6]#
 ____
 {% endmargin %}
 
@@ -53,7 +53,7 @@ ____
 ____
 And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:7]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:7]#
 ____
 {% endmargin %}
 
@@ -64,7 +64,7 @@ ____
 ____
 And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:8]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:8]#
 ____
 {% endmargin %}
 
@@ -75,7 +75,7 @@ ____
 ____
 They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:9]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-11/[Isaiah 11:9]#
 ____
 {% endmargin %}
 

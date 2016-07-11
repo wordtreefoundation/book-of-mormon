@@ -134,7 +134,7 @@ ____
 ____
 And the king said, Enquire thou whose son the [highlight]#stripling# is.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Samuel-Chapter-17/[1 Sam. 17:56]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Samuel-Chapter-17/[1 Sam. 17:56]#
 ____
 {% endmargin %}
 
