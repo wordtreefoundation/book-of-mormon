@@ -402,7 +402,7 @@ ____
 ____
 And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:40]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:40]#
 ____
 {% endmargin %}
 
@@ -446,7 +446,7 @@ ____
 ____
 But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
 
-KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:44]
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:44]#
 ____
 {% endmargin %}
 

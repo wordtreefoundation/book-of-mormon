@@ -231,11 +231,11 @@ ____
 {% margin %}
 ____
 
-1 Behold, [highlight]#what manner of love the Father hath bestowed upon us#, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
+1 Behold, [highlight-orange]#what manner of love the Father hath bestowed upon us#, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
 
-2 Beloved, now are we the [highlight]#sons of God#, and it doth not yet appear what we shall be: but we know that, [highlight]#when he shall appear, we shall be like him; for we shall see him as he is.#
+2 Beloved, now are we the [highlight-orange]#sons of God#, and it doth not yet appear what we shall be: but we know that, [highlight-orange]#when he shall appear, we shall be like him; for we shall see him as he is.#
 
-3 And every man that hath this hope [highlight]#in him purifieth himself, even as he is pure.#
+3 And every man that hath this hope [highlight-orange]#in him purifieth himself, even as he is pure.#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-3/[I John 3:1-3]#
 ____

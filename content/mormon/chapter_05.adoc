@@ -24,7 +24,16 @@
 
 *Mormon 5:13* And this is the commandment which I have received. And behold, they shall come forth according to the commandment of the Lord when he shall see fit in his wisdom.
 
-*Mormon 5:14* And behold, they shall go unto the unbelieving of the Jews. And for this intent shall they go, that they may be persuaded that Jesus is the Christ, the Son of the living God, that the Father may bring about through his Most Beloved his great and eternal purpose in the restoring the Jews or all the house of Israel to the land of their inheritance, which the Lord their God hath given them, unto the fulfilling of his covenant,
+{% margin %}
+____
+... that ye might believe that Jesus is the Christ, the Son of God...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-20/[John 20:31]#
+
+____
+{% endmargin %}
+
+*Mormon 5:14* And behold, they shall go unto the unbelieving of the Jews. And for this intent shall they go, [highlight-orange]#that they may be persuaded that Jesus is the Christ, the Son of the living God#, that the Father may bring about through his Most Beloved his great and eternal purpose in the restoring the Jews or all the house of Israel to the land of their inheritance, which the Lord their God hath given them, unto the fulfilling of his covenant,
 
 *Mormon 5:15* and also that the seed of this people may more fully believe his gospel, which shall go forth unto them from the Gentiles. For this people shall be scattered and shall become a dark, a filthy, and a loathsome people, beyond the description of that which ever hath been amongst us, yea, even that which hath been among the Lamanites--and this because of their unbelief and idolatry.
 

@@ -28,7 +28,7 @@ In all your dwellingplaces the cities shall be laid waste, and the high places s
 ____
 {% endmargin %}
 
-*3 Nephi 10:7* But if not, O house of Israel, [highlight]#the places of your dwellings shall become desolate# until the time of the fulfilling of the covenant to your fathers.
+*3 Nephi 10:7* But if not, O house of Israel, [highlight-orange]#the places of your dwellings shall become desolate# until the time of the fulfilling of the covenant to your fathers.
 
 *3 Nephi 10:8* And now it came to pass that after the people had heard these words, behold, they began to weep and howl again because of the loss of their kindreds and friends.
 
@@ -61,7 +61,7 @@ ____
 ____
 But the imaginary evils which the children of men commit are oftentimes graven in brass, whilst their actual good deeds are written in sand.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#brass-records[36:26]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#brass-records[36:26]#
 ____
 {% endmargin %}
 

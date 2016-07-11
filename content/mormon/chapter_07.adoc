@@ -15,7 +15,7 @@ Death is swallowed up in victory. O death, where is thy sting?
 ____
 {% endmargin %}
 
-*Mormon 7:5* Know ye that ye must come to the knowledge of your fathers and repent of all your sins and iniquities and believe in Jesus Christ, that he is the Son of God and that he was slain by the Jews, and by the power of the Father he hath risen again, whereby he hath gained the victory over the grave. [highlight-orange]#And also in him is the sting of death swallowed up.#
+*Mormon 7:5* Know ye that ye must come to the knowledge of your fathers and repent of all your sins and iniquities and believe in Jesus Christ, that he is the Son of God and that he was slain by the Jews, and by the power of the Father he hath risen again, whereby he hath gained the [highlight-orange]#victory# over the [highlight-orange]#grave.# And also in him is [highlight-orange]#the sting of death swallowed up.#
 
 *Mormon 7:6* And he bringeth to pass the resurrection of the dead, whereby man must be raised to stand before his judgment seat.
 

@@ -108,13 +108,13 @@ ____
 
 {% margin %}
 ____
-...dividing to every man severally as he will.
+ But all these worketh that one and the self- same Spirit, dividing to every man severally as he will
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:11]#
 ____
 {% endmargin %}
 
-*Moroni 10:17* And all these gifts comes by the Spirit of Christ, and they [highlight-orange]#come unto every man severally according as he will.#
+*Moroni 10:17* [highlight-orange]#And all these# gifts comes by [highlight-orange]#the Spirit# of Christ, and they [highlight-orange]#come unto every man severally according as he will.#
 
 *Moroni 10:18* And I would exhort you, my beloved brethren, that ye remember that every good gift cometh of Christ.
 

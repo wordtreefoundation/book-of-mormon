@@ -15,11 +15,11 @@
 {% margin %}
 ____
 
-57 ...in the twinkling of an eye...
+52 ...in the twinkling of an eye...
 
-58 ...and this mortal must put on immortality.
+53 ...and this mortal must put on immortality.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:57-58]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:52-53]#
 
 ____
 {% endmargin %}

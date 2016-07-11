@@ -60,7 +60,7 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
 ____
-[highlight]#And be ye saved, all the ends of the earth#...
+[highlight-orange]#And be ye saved, all the ends of the earth#...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
 ____
@@ -70,7 +70,7 @@ ____
 ____
 {% endmargin %}
 
-*3 Nephi 27:20* Now this is the commandment: [highlight-orange]#repent#, [highlight]#all ye ends of the earth#, and come unto me and be [higlight-orange]#baptized in my name, that ye may be sanctified by the reception of the Holy Ghost#, that ye may stand spotless before me at the last day.
+*3 Nephi 27:20* Now this is the commandment: [highlight-orange]#repent#, [highlight-orange]#all ye ends of the earth#, and come unto me and be [higlight-orange]#baptized in my name, that ye may be sanctified by the reception of the Holy Ghost#, that ye may stand spotless before me at the last day.
 
 {% margin %}
 ____
@@ -128,14 +128,22 @@ ____
 
 *3 Nephi 27:31* Behold, I would that ye should understand, for I mean them which are now alive of this generation. And none of them are lost, and in them I have fullness of joy.
 
-*3 Nephi 27:32* But behold, it sorroweth me because of the fourth generation from this generation, for they are led away captive by him, even as was the son of perdition. For they will sell me for silver and for gold and for that which moth doth corrupt and which thieves can break through and steal. And in that day will I visit them, even in turning their works upon their own heads.
+{% margin %}
+____
+...where moth and rust doth corrupt, and where thieves break through and steal
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:19]#
+____
+{% endmargin %}
+
+*3 Nephi 27:32* But behold, it sorroweth me because of the fourth generation from this generation, for they are led away captive by him, even as was the son of perdition. For they will sell me for silver and for gold [highlight-orange]#and for that which moth doth corrupt and which thieves can break through and steal#. And in that day will I visit them, even in turning their works upon their own heads.
 
 {% margin %}
 ____
 
-Enter ye in at the strait gate: for [highlight]#wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat#:
+[highlight-orange]#Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat#:
 
-Because [highlight]#strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it#
+Because [highlight-orange]#strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13-14]#
 ____
@@ -146,5 +154,5 @@ ____
 ____
 {% endmargin %}
 
-*3 Nephi 27:33* And it came to pass that when Jesus had ended these sayings, he saith unto his disciples: [highlight-orange]#Enter ye in at the strait gate. For strait is the gate and narrow is the way that leads to life, and few there be that find it. But wide is the gate and broad the way which leads to death,# and many there be that traveleth therein [highlight-orange]#until the night cometh wherein no man can work.#
+*3 Nephi 27:33* And it came to pass that when Jesus had ended these sayings, he saith unto his disciples: [highlight-orange]#Enter ye in at the strait gate. For strait is the gate and narrow is the way that leads to life, and few there be that find it. But wide is the gate and broad the way which leads to death, and many there be that traveleth therein until the night cometh wherein no man can work.#
 
