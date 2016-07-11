@@ -90,7 +90,7 @@ ____
 {% margin %}
 ____
 
-[highlight]For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.#
+[highlight-orange]#For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-8/[Acts 8:23]#
 

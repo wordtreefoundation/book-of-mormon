@@ -108,7 +108,7 @@ ____
 
 {% margin %}
 ____
- But all these worketh that one and the self- same Spirit, dividing to every man severally as he will
+But all these worketh that one and the self- same Spirit, dividing to every man severally as he will
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[1 Corinthians 12:11]#
 ____
@@ -178,7 +178,7 @@ Enlarge the place of thy tent, and let them stretch forth the curtains of thine 
 ____
 {% endmargin %}
 
-*Moroni 10:31* [highlight]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.#
+*Moroni 10:31* [highlight-orange]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.#
 
 {% margin %}
 ____
