@@ -8,18 +8,19 @@
 
 *3 Nephi 11:5* And again the third time they did hear the voice and did open their ears to hear it. And their eyes were towards the sound thereof, and they did look steadfastly towards heaven from whence the sound came.
 
-*3 Nephi 11:6* And behold, the third time they did understand the voice which they heard, and it saith unto them:
 
-{% margin %}
+{% margin 2 %}
 ____
 
-...This is my beloved Son, in whom I am well pleased; hear ye him.
+While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-17/[Matthew 17:5]#
 ____
 {% endmargin %}
 
-*3 Nephi 11:7* Behold [highlight-orange]#my Beloved Son, in whom I am well pleased, in whom I have glorified my name. Hear ye him!#
+*3 Nephi 11:6* And [highlight-orange]#behold#, the third time they did understand the [highlight-orange]#voice which# they heard, and it [highlight-orange]#saith# unto them:
+
+*3 Nephi 11:7* Behold [highlight-orange]#my Beloved Son, in whom I am well pleased#, in whom I have glorified my name. [highlight-orange]#Hear ye him!#
 
 *3 Nephi 11:8* And it came to pass as they understood, they cast their eyes up again towards heaven. And behold, they saw a man descending out of heaven, and he was clothed in a white robe. And he came down and stood in the midst of them, and the eyes of the whole multitude was turned upon him. And they durst not open their mouths, even one to another, and wist not what it meant, for they thought it was an angel that had appeared unto them.
 
@@ -187,7 +188,7 @@ ____
 ____
 {% endmargin %}
 
-*3 Nephi 11:39* Verily verily I say unto you that this is my doctrine. And whoso buildeth [highlight-orange]#upon this buildeth upon my rock; and the gates of hell shall not prevail against them.#
+*3 Nephi 11:39* Verily verily [highlight-orange]#I say unto you# that this is my doctrine. And whoso [highlight-orange]#buildeth upon this buildeth upon my rock; and the gates of hell shall not prevail against them.#
 
 {% margin %}
 ____

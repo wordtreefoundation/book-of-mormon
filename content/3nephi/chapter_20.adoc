@@ -37,7 +37,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:16* [highlight]#then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.#
+*3 Nephi 20:16* [highlight-orange]#then shall ye which are a remnant of the house of Jacob go forth among them. And ye shall be in the midst of them, which shall be many, and ye shall be among them as a lion among the beasts of the forest. And as a young lion among the flocks of sheep who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver.#
 
 {% margin %}
 ____
@@ -48,7 +48,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:17* [highlight]#Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.#
+*3 Nephi 20:17* [highlight-orange]#Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.#
 
 {% margin %}
 ____
@@ -59,7 +59,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:18* [highlight]#And I will gather my people together as a man gathereth his sheaves into the floor,#
+*3 Nephi 20:18* [highlight-orange]#And I will gather my people together as a man gathereth his sheaves into the floor,#
 
 {% margin %}
 ____
@@ -70,7 +70,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:19* [highlight]#for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.#
+*3 Nephi 20:19* [highlight-orange]#for I will make my people with whom the Father hath covenanted. Yea, I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many people. And I will consecrate their gain unto the Lord and their substance unto the Lord of the whole earth. And behold, I am he which doeth it.#
 
 *3 Nephi 20:20* And it shall come to pass, saith the Father, that the sword of my justice shall hang over them at that day. And except they repent, it shall fall upon them, saith the Father, yea, even upon all the nations of the Gentiles.
 
@@ -113,7 +113,7 @@ ____
 {% margin %}
 ____
 
-Unto you first God, [highlight]#having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.#
+Unto you first God, [highlight-orange]#having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-3/[Acts 3:26]#
 ____
@@ -149,7 +149,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:32* [highlight]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
+*3 Nephi 20:32* [highlight-orange]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
 
 *3 Nephi 20:33* Then will the Father gather them together again and give unto them Jerusalem for the land of their inheritance.
 
@@ -162,7 +162,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:34* [highlight]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
+*3 Nephi 20:34* [highlight-orange]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
 
 {% margin %}
 ____
@@ -172,28 +172,115 @@ The LORD hath made bare his holy arm in the eyes of all the nations; and all the
 ____
 {% endmargin %}
 
+*3 Nephi 20:35* [highlight-orange]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
 
-*3 Nephi 20:35* [highlight]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
+{% margin %}
+____
+Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 
-*3 Nephi 20:36* And then shall be brought to pass that which is written: Awake, awake again and put on thy strength, O Zion! Put on thy beautiful garments, O Jerusalem the holy city! For henceforth there shall no more come into thee the uncircumcised and the unclean.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:1]#
+____
+{% endmargin %}
 
-*3 Nephi 20:37* Shake thyself from the dust! Arise! Sit down, O Jerusalem! Loose thyself from the bands of thy neck, O captive daughter of Zion!
+*3 Nephi 20:36* And then shall be brought to pass that which is written: [highlight-orange]#Awake, awake again and put on thy strength, O Zion! Put on thy beautiful garments, O Jerusalem the holy city! For henceforth there shall no more come into thee the uncircumcised and the unclean.#
 
-*3 Nephi 20:38* For thus saith the Lord: Ye have sold yourselves for naught; and ye shall be redeemed without money.
+{% margin %}
+____
+Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.
 
-*3 Nephi 20:39* Verily verily I say unto you that my people shall know my name. Yea, in that day they shall know that I am he that doth speak.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:2]#
+____
+{% endmargin %}
 
-*3 Nephi 20:40* And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace, that bringeth good tidings unto them of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!
 
-*3 Nephi 20:41* And then shall a cry go forth: Depart ye, depart ye! Go ye out from thence! Touch not that which is unclean! Go ye out of the midst of her! Be ye clean that bear the vessels of the Lord!
+*3 Nephi 20:37* [highlight-orange]#Shake thyself from the dust! Arise! Sit down, O Jerusalem! Loose thyself from the bands of thy neck, O captive daughter of Zion!#
 
-*3 Nephi 20:42* For ye shall not go out with haste nor go by flight; for the Lord will go before you, and the God of Israel shall be your rearward.
+{% margin %}
+____
+For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.
 
-*3 Nephi 20:43* Behold, my servant shall deal prudently. He shall be exalted and extolled and be very high.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:3]#
+____
+{% endmargin %}
 
-*3 Nephi 20:44* As many were astonished at thee--his visage was so marred, more than any man, and his form more than the sons of men--
+*3 Nephi 20:38* [highlight-orange]#For thus saith the Lord: Ye have sold yourselves for naught; and ye shall be redeemed without money.#
 
-*3 Nephi 20:45* so shall he sprinkle many nations. The kings shall shut their mouths at him; for that which had not been told them shall they see, and that which they had not heard shall they consider.
+{% margin %}
+____
+Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:6]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:39* [highlight-orange]#Verily verily I say unto you that my people shall know my name. Yea, in that day they shall know that I am he that doth speak.
+
+{% margin %}
+____
+How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:7]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:40* [highlight-orange]#And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace, that bringeth good tidings unto them of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!
+
+{% margin %}
+____
+Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:11]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:41* [highlight-orange]#And then shall a cry go forth: Depart ye, depart ye! Go ye out from thence! Touch not that which is unclean! Go ye out of the midst of her! Be ye clean that bear the vessels of the Lord!
+
+{% margin %}
+____
+For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rearward.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:12]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:42* [highlight-orange]#For ye shall not go out with haste nor go by flight; for the Lord will go before you, and the God of Israel shall be your rearward.
+
+{% margin %}
+____
+Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:13]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:43* [highlight-orange]#Behold, my servant shall deal prudently. He shall be exalted and extolled and be very high.
+
+{% margin %}
+____
+As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:14]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:44* [highlight-orange]#As many were astonished at thee--his visage was so marred, more than any man, and his form more than the sons of men--
+
+{% margin %}
+____
+So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:15]#
+____
+{% endmargin %}
+
+
+*3 Nephi 20:45* [highlight-orange]#so shall he sprinkle many nations. The kings shall shut their mouths at him; for that which had not been told them shall they see, and that which they had not heard shall they consider.
 
 *3 Nephi 20:46* Verily verily I say unto you: All these things shall surely come, even as the Father hath commanded me. And then shall this covenant which the Father hath covenanted with his people be fulfilled. And then shall Jerusalem be inhabited again with my people, and it shall be the land of their inheritance.
 

@@ -21,7 +21,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:8* [highlight]#And when that day shall come, it shall come to pass that kings shall shut their mouths; for that which had not been told them shall they see, and that which they had not heard shall they consider.#
+*3 Nephi 21:8* [highlight-orange]#And when that day shall come, it shall come to pass that kings shall shut their mouths; for that which had not been told them shall they see, and that which they had not heard shall they consider.#
 
 {% margin %}
 ____
@@ -46,7 +46,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:12* [highlight]#And my people which are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep who, if he go through, both treadeth down and teareth in pieces, and none can deliver.#
+*3 Nephi 21:12* [highlight-orange]#And my people which are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep who, if he go through, both treadeth down and teareth in pieces, and none can deliver.#
 
 {% margin %}
 ____
@@ -57,7 +57,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:13* [highlight]#Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.#
+*3 Nephi 21:13* [highlight-orange]#Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.#
 
 {% margin %}
 ____
@@ -68,7 +68,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:14* [highlight]#Yea, woe be unto the Gentiles except they repent. For it shall come to pass in that day, saith the Father, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots.#
+*3 Nephi 21:14* [highlight-orange]#Yea, woe be unto the Gentiles except they repent. For it shall come to pass in that day, saith the Father, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots.#
 
 {% margin %}
 ____
@@ -79,7 +79,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:15* [highlight]#And I will cut off the cities of thy land and throw down all thy strong holds.#
+*3 Nephi 21:15* [highlight-orange]#And I will cut off the cities of thy land and throw down all thy strong holds.#
 
 {% margin %}
 ____
@@ -90,7 +90,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:16* [highlight]#And I will cut off witchcrafts out of thy hand, and thou shalt have no more soothsayers.#
+*3 Nephi 21:16* [highlight-orange]#And I will cut off witchcrafts out of thy hand, and thou shalt have no more soothsayers.#
 
 {% margin %}
 ____
@@ -101,7 +101,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:17* [highlight]#Thy graven images I will also cut off, and thy standing images out of the midst of thee. And thou shalt no more worship the works of thy hands.#
+*3 Nephi 21:17* [highlight-orange]#Thy graven images I will also cut off, and thy standing images out of the midst of thee. And thou shalt no more worship the works of thy hands.#
 
 {% margin %}
 ____
@@ -112,13 +112,21 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:18* [highlight]#And I will pluck up thy groves out of the midst of thee; so will I destroy thy cities.#
+*3 Nephi 21:18* [highlight-orange]#And I will pluck up thy groves out of the midst of thee; so will I destroy thy cities.#
 
 *3 Nephi 21:19* And it shall come to pass that all lyings and deceivings and envyings and strifes and priestcrafts and whoredoms shall be done away.
 
 *3 Nephi 21:20* For it shall come to pass, saith the Father, that at that day whosoever will not repent and come unto my Beloved Son, them will I cut off from among my people, O house of Israel.
 
-*3 Nephi 21:21* And I will execute vengeance and fury upon them, even as upon the heathen, such as they have not heard.
+{% margin %}
+____
+And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Micah-Chapter-5/[Micah 5:15]#
+____
+{% endmargin %}
+
+*3 Nephi 21:21* [highlight-orange]#And I will execute vengeance and fury upon them, even as upon the heathen, such as they have not heard.#
 
 *3 Nephi 21:22* But if they will repent and hearken unto my words and harden not their hearts, I will establish my church among them. And they shall come in unto the covenant and be numbered among this the remnant of Jacob, unto whom I have given this land for their inheritance.
 
@@ -143,5 +151,5 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 21:29* [highlight]#And they shall go out from all nations. And they shall not go out in haste nor go by flight, for I will go before them, saith the Father, and I will be their rearward.#
+*3 Nephi 21:29* [highlight-orange]#And they shall go out from all nations. And they shall not go out in haste nor go by flight, for I will go before them, saith the Father, and I will be their rearward.#
 

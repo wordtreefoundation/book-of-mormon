@@ -12,7 +12,16 @@
 
 *3 Nephi 5:7* And thus had the twenty and second year passed away, and the twenty and third year also, and the twenty and fourth, and the twenty and fifth. And thus had twenty and five years passed away;
 
-*3 Nephi 5:8* and there had many things transpired which in the eyes of some would be great and marvelous. Nevertheless they cannot all be written in this book. Yea, this book cannot contain even a hundredth part of what was done among so many people in the space of twenty and five years.
+{% margin %}
+____
+
+And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-21/[John 21:25]#
+____
+{% endmargin %}
+
+*3 Nephi 5:8* [highlight-orange]#and there had many things transpired which in the eyes of some would be great and marvelous. Nevertheless they cannot all be written in this book#. Yea, this book [highlight-orange]#cannot contain even a hundredth part# of what was done among so many people in the space of twenty and five years.
 
 *3 Nephi 5:9* But behold, there are records which do contain all the proceedings of this people. And a more short but a true account was given by Nephi.
 

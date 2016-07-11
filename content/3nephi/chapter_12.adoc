@@ -188,7 +188,15 @@ ____
 
 *3 Nephi 12:19* And behold, I have given unto you the law and the commandments of my Father, that ye shall believe in me and that ye shall repent of your sins and come unto me with a broken heart and a contrite spirit. Behold, ye have the commandments before you, and the law is fulfilled.
 
-*3 Nephi 12:20* Therefore come unto me and be ye saved, for verily I say unto you that except ye shall keep my commandments, which I have commanded you at this time, ye shall in no case enter into the kingdom of heaven.
+{% margin %}
+____
+For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:20]#
+____
+{% endmargin %}
+
+*3 Nephi 12:20* Therefore come unto me and be ye saved, for verily I say unto you [highlight-orange]#that except# ye shall keep my commandments, which I have commanded you at this time, [highlight-orange]#ye shall in no case enter into the kingdom of heaven#.
 
 {% margin %}
 ____
@@ -280,7 +288,16 @@ ____
 
 *3 Nephi 12:29* Behold, I give unto you a commandment that ye suffer none of these things to enter into your heart.
 
-*3 Nephi 12:30* For it is better that ye should deny yourselves of these things, wherein ye will take up your cross, than that ye should be cast into hell.
+{% margin %}
+____
+
+And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:30]#
+____
+{% endmargin %}
+
+*3 Nephi 12:30* For it is better that ye should deny yourselves of these things, wherein ye will take up your cross, than that ye [highlight-orange]#should be cast into hell#.
 
 {% margin %}
 ____

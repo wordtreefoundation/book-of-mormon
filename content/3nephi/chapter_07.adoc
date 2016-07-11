@@ -39,7 +39,16 @@ ____
 
 *3 Nephi 7:16* therefore being grieved for the hardness of their hearts and the blindness of their minds, went forth among them in that same year and began to testify boldly repentance and remission of sins through faith on the Lord Jesus Christ.
 
-*3 Nephi 7:17* And he did minister many things unto them. And all of them cannot be written, and a part of them would not suffice; therefore they are not written in this book. And Nephi did minister with power and with great authority.
+{% margin %}
+____
+
+And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-21/[John 21:25]#
+____
+{% endmargin %}
+
+*3 Nephi 7:17* [highlight-orange]#And he did minister many things unto them#. And all of them cannot be written, and a part of them would not suffice; therefore [highlight-orange]#they are not written in this book#. And Nephi did minister with power and with great authority.
 
 *3 Nephi 7:18* And it came to pass that they were angry with him, even because he had greater power than they. For it were not possible that they could disbelieve his words, for so great was his faith on the Lord Jesus Christ that angels did minister unto him daily.
 
