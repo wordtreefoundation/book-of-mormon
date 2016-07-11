@@ -28,9 +28,11 @@ ____
 {% margin %}
 ____
 
-The words of king [highlight]#Lemuel#
+The words of king [highlight-orange]#Lemuel#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Proverbs-Chapter-31/[Proverbs 31:1]#
+____
+____
 
 ...be ye stedfast, unmoveable, always abounding in the work of the Lord...
 
@@ -38,7 +40,7 @@ The words of king [highlight]#Lemuel#
 ____
 {% endmargin %}
 
-*1 Nephi 2:10* And he also spake unto [highlight]#Lemuel#, saying: O that thou mightest be like unto this valley, [highlight-orange]#firm and steadfast and immovable in keeping the commandments of the Lord.#
+*1 Nephi 2:10* And he also spake unto [highlight-orange]#Lemuel#, saying: O that thou mightest be like unto this valley, [highlight-orange]#firm and steadfast and immovable in keeping the commandments of the Lord.#
 
 *1 Nephi 2:11* Now this he spake because of the stiffneckedness of Laman and Lemuel. For behold, they did murmur in many things against their father because that he was a visionary man and that he had led them out of the land of Jerusalem, to leave the land of their inheritance and their gold and their silver and their precious things, and to perish in the wilderness. And this they said that he had done because of the foolish imaginations of his heart.
 

@@ -1,21 +1,20 @@
 {% margin %}
 ____
 [highlight]#I, the writer, was born of Presbyterian parents#...
-____
 
 [small]#https://archive.org/details/cihm_62453[The Rights of Christ], 1815, p. 1#
-
 ____
-...many men call it [highlight]#Nephi#.
 ____
+...many men call it [highlight-orange]#Nephi#.
 
 [small]#KJV Apocrypha, 1611, https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/[2 Maccabees 1:36]#
 
 ____
-...those who have [highlight]#been highly favoured of the Lord#...
 ____
+...those who have [highlight]#been highly favoured of the Lord#...
 
 [small]#Volume 11, 1828, New York Source: p.52, https://books.google.ca/books?id=b4s5AQAAMAAJ&pg=PA52&dq=been+highly+favoured+lord&hl=en&sa=X&ved=0ahUKEwjN4rKu16XNAhVXT1IKHcUNBSoQ6AEIGzAA#v=onepage&q=been%20highly%20favoured%20lord&f=false/[Methodist Magazine] *Note:* In the above Methodist context, being "highly favored of the Lord" seems to indicate that the person is a special recipient of divine revelation.#
+____
 {% endmargin %}
 
 *1 Nephi 1:1* [highlight]#I Nephi having been born of goodly parents,# therefore I was taught somewhat in all the learning of my father. And having seen many afflictions in the course of my days, nevertheless having [highlight]#been highly favored of the Lord# in all my days, yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days.
@@ -31,40 +30,41 @@ Joseph Smith had a Talisman of Jupiter on him when he died, given to him as a ch
 {% margin %}
 ____
 And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.
-____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Kings-Chapter-24/[II Kings 24:8-17]#
-
 ____
-...and spread themselves in [highlight]#Lehi#.
 ____
+...and spread themselves in [highlight-orange]#Lehi#.
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-15/[Judges 15:9]#
+____
 {% endmargin %}
 
-*1 Nephi 1:4* For it came to pass in the commencement of the [highlight]#first year of the reign of Zedekiah#, king of Judah--my father [highlight]#Lehi# having dwelt at Jerusalem in all his days--and in that same year there came many prophets prophesying unto the people that they must repent or the great city Jerusalem must be destroyed.
+*1 Nephi 1:4* For it came to pass in the commencement of the [highlight-orange]#first year of the reign of Zedekiah#, king of Judah--my father [highlight-orange]#Lehi# having dwelt at Jerusalem in all his days--and in that same year there came many prophets prophesying unto the people that they must repent or the great city Jerusalem must be destroyed.
 
 *1 Nephi 1:5* Wherefore it came to pass that my father Lehi, as he went forth, prayed unto the Lord, yea, even with all his heart, in behalf of his people.
 
 {% margin %}
 ____
-...the [highlight]#pillar of fire# by night...
+...the [highlight-orange]#pillar of fire# by night...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-13/[Exodus 13:22]#
+____
+____
 
-...with [highlight]#quaking#, and drink thy water with [highlight]#trembling#...
+...with [highlight-orange]#quaking#, and drink thy water with [highlight-orange]#trembling#...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ezekiel-Chapter-12/[Ezekiel 12:18]#
-
+____
 ____
 
-And as when Moses [highlight]#prayed unto the Lord, the fire came down# from heaven..
+And as when Moses [highlight-orange]#prayed unto the Lord, the fire came down# from heaven..
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Maccabees-Chapter-2/[II Maccabees 2:10]#
-
 ____
+
 {% endmargin %}
 
-*1 Nephi 1:6* And it came to pass [highlight]#as he prayed unto the Lord, there came a pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did [highlight]#quake and tremble# exceedingly.
+*1 Nephi 1:6* And it came to pass [highlight-orange]#as he prayed unto the Lord, there came a pillar of fire# and dwelt upon a rock before him, and he saw and heard much. And because of the things which he saw and heard, he did [highlight-orange]#quake and tremble# exceedingly.
 
 {% margin %}
 ____
@@ -83,6 +83,8 @@ ____
 ...behold, a throne was set in heaven, and one sat on the throne...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 4:2]#
+____
+____
 
 And I beheld, and I heard the voice of many angels round about the throne...
 
@@ -111,7 +113,7 @@ And they that be wise shall shine as the brightness of the firmament; and they t
 ____
 {% endmargin %}
 
-*1 Nephi 1:10* And he also saw twelve others following him, and their brightness did exceed that of the [highlight]#stars in the firmament#.
+*1 Nephi 1:10* And he also saw twelve others following him, and their brightness did exceed that of the [highlight-orange]#stars in the firmament#.
 
 {% margin %}
 ____
@@ -136,12 +138,12 @@ I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, a
 ____
 {% endmargin %}
 
-*1 Nephi 1:13* And he read, saying: [highlight]#Woe woe unto Jerusalem, for I have seen thine abominations.# Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
+*1 Nephi 1:13* And he read, saying: [highlight-orange]#Woe woe unto Jerusalem, for I have seen thine abominations.# Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
 
 {% margin %}
 ____
 
-... saying, [highlight]#Great and marvellous are thy works, Lord God Almighty#; ...
+... saying, [highlight-orange]#Great and marvellous are thy works, Lord God Almighty#; ...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-15/[Revelation 15:3]#
 ____
@@ -163,7 +165,7 @@ ____
 ____
 {% endmargin %}
 
-*1 Nephi 1:17* But I shall make an account of my proceedings in my days. Behold, I [highlight]#make an abridgment# of the record of my father upon plates which I have made with mine own hands. Wherefore after that [highlight]#I have abridged# the record of my father, then will I make an account of mine own life.
+*1 Nephi 1:17* But I shall make an account of my proceedings in my days. Behold, I [highlight-orange]#make an abridgment# of the record of my father upon plates which I have made with mine own hands. Wherefore after that [highlight-orange]#I have abridged# the record of my father, then will I make an account of mine own life.
 
 *1 Nephi 1:18* Therefore I would that ye should know that after the Lord had shewn so many marvelous things unto my father Lehi, yea, concerning the destruction of Jerusalem, behold, he went forth among the people and began to prophesy and to declare unto them concerning the things which he had both seen and heard.
 
