@@ -94,7 +94,15 @@ ____
 
 *2 Nephi 28:22* And behold, others he flattereth away and telleth them: There is no hell. And he saith unto them: I am no devil, for there is none. And thus he whispereth in their ears until he grasps them with his awful chains, from whence there is no deliverance.
 
-*2 Nephi 28:23* Yea, they are grasped with death and hell and the devil; and all that have been seized therewith must stand before the throne of God and be judged according to their works, from whence they must go into the place prepared for them, even a lake of fire and brimstone, which is endless torment.
+{% margin %}
+____
+...into the lake of fire and brimstone...tormented day and night for ever and ever.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:10]#
+____
+{% endmargin %}
+
+*2 Nephi 28:23* Yea, they are grasped with death and hell and the devil; and all that have been seized therewith must stand before the throne of God and be judged according to their works, from whence they must go into the place prepared for them, [highlight-orange]#even a lake of fire and brimstone, which is endless torment.#
 
 *2 Nephi 28:24* Therefore woe be unto him that is at ease in Zion!
 
