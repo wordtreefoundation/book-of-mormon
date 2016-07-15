@@ -103,7 +103,7 @@ ____
 ____
 {% endmargin %}
 
-*1 Nephi 1:9* And it came to pass that he saw one descending out of the midst of heaven, and he beheld that his [highlight]#luster was above that of the sun# at noonday.
+*1 Nephi 1:9* And it came to pass that he saw one descending out of the midst of heaven, and he beheld that his [highlight-orange]#luster was above that of the sun# at noonday.
 
 {% margin %}
 ____
