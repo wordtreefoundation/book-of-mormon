@@ -1,6 +1,14 @@
 *1 Nephi 3:1* And it came to pass that I Nephi returned from speaking with the Lord to the tent of my father.
 
-*1 Nephi 3:2* And it came to pass that he spake unto me, saying: Behold, I have dreamed a dream in the which the Lord hath commanded me that thou and thy brethren shall return to Jerusalem.
+{% margin %}
+____
+...Behold, I dreamed a dream
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Judges-Chapter-7/[Judges 7:13]#
+____
+{% endmargin %}
+
+*1 Nephi 3:2* And it came to pass that he spake unto me, saying: [highlight-orange]#Behold, I have dreamed a dream# in the which the Lord hath commanded me that thou and thy brethren shall return to Jerusalem.
 
 *1 Nephi 3:3* For behold, Laban hath the record of the Jews and also a genealogy of my forefathers, and they are engraven upon plates of brass.
 
