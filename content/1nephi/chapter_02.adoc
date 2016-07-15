@@ -56,7 +56,16 @@ ____
 
 *1 Nephi 2:13* Neither did they believe that Jerusalem, that great city, could be destroyed according to the words of the prophets. And they were like unto the Jews which were at Jerusalem, which sought to take away the life of my father.
 
-*1 Nephi 2:14* And it came to pass that my father did speak unto them in the valley of Lemuel with power, being filled with the Spirit, until their frames did shake before him. And he did confound them that they durst not utter against him; wherefore they did do as he commanded them.
+{% margin %}
+____
+And I have [highlight]#filled him with the spirit# of God, in wisdom, and in understanding, and in knowledge
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-32/[Exodus 31:3]#
+
+____
+{% endmargin %}
+
+*1 Nephi 2:14* And it came to pass that my father did speak unto them in the valley of Lemuel with power, [highlight]#being filled with the Spirit#, until their frames did shake before him. And he did confound them that they durst not utter against him; wherefore they did do as he commanded them.
 
 *1 Nephi 2:15* And my father dwelt in a tent.
 
