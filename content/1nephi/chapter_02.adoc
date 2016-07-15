@@ -19,7 +19,15 @@ ____
 
 *1 Nephi 2:6* And it came to pass that when he had traveled three days in the wilderness, he pitched his tent in a valley beside a river of water.
 
-*1 Nephi 2:7* And it came to pass that he built an altar of stones, and he made an offering unto the Lord and gave thanks unto the Lord our God.
+{% margin %}
+____
+And there shalt thou build an altar unto the LORD thy God, an altar of stones....and thou shalt offer burnt offerings thereon unto the LORD thy God:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Deuteronomy-Chapter-25/[Deuteronomy 25:5-6]#
+____
+{% endmargin %}
+
+*1 Nephi 2:7* And it came to pass that he built [highlight]#an altar of stones#, and [highlight]#he made an offering unto the Lord# and gave thanks [highlight]#unto the Lord our God.#
 
 *1 Nephi 2:8* And it came to pass that he called the name of the river Laman, and it emptied into the Red Sea. And the valley was in the borders near the mouth thereof.
 
