@@ -53,7 +53,7 @@ ____
 
 ...faith is the substance of things hoped for, the evidence of things not seen.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:6]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:1]#
 
 ____
 {% endmargin %}
