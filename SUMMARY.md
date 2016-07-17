@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Preface](content/preface.adoc)
 * [1 Nephi](content/1nephi.md)
    * [Chapter 1](content/1nephi/chapter_01.adoc)
    * [Chapter 2](content/1nephi/chapter_02.adoc)
