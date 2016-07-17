@@ -67,7 +67,16 @@ ____
 
 *3 Nephi 7:21* And it came to pass that the thirty and first year did pass away. And there were but few which were converted unto the Lord. But as many as were converted did truly signify unto the people that they had been visited by the power and Spirit of God which was in Jesus Christ, in whom they believed.
 
-*3 Nephi 7:22* And as many as had devils cast out from them and were healed of their sicknesses and their infirmities did truly manifest unto the people that they had been wrought upon by the Spirit of God and had been healed. And they did shew forth signs also and did do some miracles among the people.
+{% margin %}
+____
+
+And these signs shall follow them that believe; In my name shall they cast out devils...they shall lay hands on the sick, and they shall recover.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:17-18]#
+____
+{% endmargin %}
+
+*3 Nephi 7:22* And as [highlight-orange]#many as had devils cast out from them and were healed of their sicknesses# and their infirmities did truly manifest unto the people that they had been wrought upon by the Spirit of God and had been healed. And they did shew forth signs also and did do some miracles among the people.
 
 *3 Nephi 7:23* And it came to pass that thus passed away the thirty and second year also. And Nephi did cry unto the people in the commencement of the thirty and third year; and he did preach unto them repentance and remission of sins.
 
