@@ -1,36 +1,17 @@
-{% margin %}
-____
-Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:1]#
-____
-{% endmargin %}
-
-*2 Nephi 27:1* [highlight-orange]#But behold, in the last days or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both they which shall come upon this land and they which shall be upon other lands, yea, even upon all the lands of the earth--behold, they will be drunken with iniquity and all manner of abominations.#
+*2 Nephi 27:1* But behold, in the last days or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both they which shall come upon this land and they which shall be upon other lands, yea, even upon all the lands of the earth--behold, they will be drunken with iniquity and all manner of abominations.
 
 {% margin %}
-____
-Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:2]#
-____
 ____
 Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:6]#
 ____
 {% endmargin %}
-
 
 *2 Nephi 27:2* [highlight-orange]#And when that day shall come, they shall be visited of the Lord of Hosts with thunder and with earthquake and with a great noise and with storm and tempest and with the flame of devouring fire.#
 
 {% margin %}
 ____
-And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:3]#
-____
-____
 And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:7]#
@@ -41,96 +22,46 @@ It shall even be as when an hungry man dreameth, and, behold, he eateth; but he 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:8]#
 ____
 {% endmargin %}
-
 
 *2 Nephi 27:3* [highlight-orange]#And all the nations that fight against Zion and that distress her shall be as a dream of a night vision. Yea, it shall be unto them even as unto a hungry man which dreameth: and behold, he eateth, but he awaketh and his soul is empty; or like unto a thirsty man which dreameth: and behold, he drinketh, but he awaketh and behold, he is faint and his soul hath appetite. Yea, even so shall the multitude of all the nations be that fight against mount Zion.#
 
 {% margin %}
 ____
-And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:4]#
-____
-____
 Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:9]#
 ____
 {% endmargin %}
-
 
 *2 Nephi 27:4* [highlight-orange]#For behold, all ye that do iniquity, stay yourselves and wonder, for ye shall cry out and cry. Yea, ye shall be drunken but not with wine; ye shall stagger but not with strong drink.#
 
 {% margin %}
 ____
-Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:5]#
-____
-____
 For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:10]#
 ____
 {% endmargin %}
-
 
 *2 Nephi 27:5* [highlight-orange]#For behold, the Lord hath poured out upon you the spirit of deep sleep. For behold, ye have closed your eyes; and ye have rejected the prophets, and your rulers and the seers hath he covered because of your iniquity.#
 
-{% margin %}
-____
-Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:6]#
-____
-{% endmargin %}
-
-
 *2 Nephi 27:6* [highlight-orange]#And it shall come to pass that the Lord God shall bring forth unto you the words of a book. And they shall be the words of them which have slumbered.#
-
-{% margin %}
-____
-And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:7]#
-____
-{% endmargin %}
-
 
 *2 Nephi 27:7* [highlight-orange]#And behold, the book shall be sealed. And in the book shall be a revelation from God from the beginning of the world to the ending thereof.#
 
-{% margin %}
-____
-It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
+*2 Nephi 27:8* Wherefore because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people. Wherefore the book shall be kept from them.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:8]#
-____
-{% endmargin %}
+*2 Nephi 27:9* But the book shall be delivered unto a man, and he shall deliver the words of the book, which are the words of they which have slumbered in the dust, and he shall deliver these words unto another.
 
+*2 Nephi 27:10* But the words which are sealed he shall not deliver, neither shall he deliver the book, for the book shall be sealed by the power of God; and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth. For behold, they reveal all things, from the foundation of the world unto the end thereof.
 
-*2 Nephi 27:8* [highlight-orange]#Wherefore because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people. Wherefore the book shall be kept from them.#
+*2 Nephi 27:11* And the day cometh that the words of the book which were sealed shall be read upon the housetops; and they shall be read by the power of Christ. And all things shall be revealed unto the children of men which ever hath been among the children of men and which ever will be, even unto the end of the earth.
 
-{% margin %}
-____
-Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
+*2 Nephi 27:12* Wherefore at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it by the power of God, besides him to whom the book shall be delivered. And they shall testify to the truth of the book and the things therein.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:9]#
-____
-{% endmargin %}
+*2 Nephi 27:13* And there is none other which shall view it, save it be a few according to the will of God, to bear testimony of his word unto the children of men. For the Lord God hath said that the words of the faithful should speak as if it were from the dead.
 
-
-*2 Nephi 27:9* [highlight-orange]#But the book shall be delivered unto a man, and he shall deliver the words of the book, which are the words of they which have slumbered in the dust, and he shall deliver these words unto another.#
-
-{% margin %}
-____
-For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:10]#
-____
-{% endmargin %}
-
-
-*2 Nephi 27:10* [highlight-orange]#But the words which are sealed he shall not deliver, neither shall he deliver the book, for the book shall be sealed by the power of God; and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth. For behold, they reveal all things, from the foundation of the world unto the end thereof.#
+*2 Nephi 27:14* Wherefore the Lord God will proceed to bring forth the words of the book. And in the mouth of as many witnesses as seemeth him good will he establish his word. And woe be unto him that rejecteth the word of God.
 
 {% margin %}
 ____
@@ -140,130 +71,39 @@ And the vision of all is become unto you as the words of a book that is sealed, 
 ____
 {% endmargin %}
 
-
-*2 Nephi 27:11* [highlight-orange]#And the day cometh that the words of the book which were sealed shall be read upon the housetops; and they shall be read by the power of Christ. And all things shall be revealed unto the children of men which ever hath been among the children of men and which ever will be, even unto the end of the earth.#
-
-{% margin %}
-____
-And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:12]#
-____
-
-{% endmargin %}
-
-
-*2 Nephi 27:12* [highlight-orange]#Wherefore at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it by the power of God, besides him to whom the book shall be delivered. And they shall testify to the truth of the book and the things therein.#
-
-{% margin %}
-____
-Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:13]#
-____
-{% endmargin %}
-
-
-*2 Nephi 27:13* [highlight-orange]#And there is none other which shall view it, save it be a few according to the will of God, to bear testimony of his word unto the children of men. For the Lord God hath said that the words of the faithful should speak as if it were from the dead.#
-
-{% margin %}
-____
-Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:14]#
-____
-{% endmargin %}
-
-
-*2 Nephi 27:14* [highlight-orange]#Wherefore the Lord God will proceed to bring forth the words of the book. And in the mouth of as many witnesses as seemeth him good will he establish his word. And woe be unto him that rejecteth the word of God.#
-
-{% margin %}
-____
-Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:15]#
-____
-{% endmargin %}
-
-
 *2 Nephi 27:15* [highlight-orange]#But behold, it shall come to pass that the Lord God shall say unto him to whom he shall deliver the book: Take these words which are not sealed and deliver them to another, that he may shew them unto the learned, saying: Read this, I pray thee. And the learned shall say: Bring hither the book and I will read them.#
 
-{% margin %}
-____
-Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:16]#
-____
-{% endmargin %}
-
-
-*2 Nephi 27:16* [highlight-orange]#And now because of the glory of the world and to get gain will they say this, and not for the glory of God.#
+*2 Nephi 27:16* And now because of the glory of the world and to get gain will they say this, and not for the glory of God.
 
 {% margin %}
 ____
-Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:17]#
+And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:11]#
 ____
 {% endmargin %}
-
 
 *2 Nephi 27:17* [highlight-orange]#And the man shall say: I cannot bring the book, for it is sealed.#
-
-{% margin %}
-____
-And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:18]#
-____
-{% endmargin %}
-
 
 *2 Nephi 27:18* [highlight-orange]#Then shall the learned say: I cannot read it.#
 
 {% margin %}
 ____
-The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel.
+And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.”
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:19]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:12]#
 ____
 {% endmargin %}
 
 
 *2 Nephi 27:19* [highlight-orange]#Wherefore it shall come to pass that the Lord God will deliver again the book and the words thereof to him that is not learned. And the man that is not learned shall say: I am not learned.#
 
-{% margin %}
-____
-For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
+*2 Nephi 27:20* Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them. And I am able to do mine own work; wherefore thou shalt read the words which I shall give unto thee.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:20]#
-____
-{% endmargin %}
+*2 Nephi 27:21* Touch not the things which are sealed, for I will bring them forth in mine own due time. For I will shew unto the children of men that I am able to do mine own work.
 
-
-*2 Nephi 27:20* [highlight-orange]#Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them. And I am able to do mine own work; wherefore thou shalt read the words which I shall give unto thee.#
-
-{% margin %}
-____
-That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:21]#
-____
-{% endmargin %}
-
-
-*2 Nephi 27:21* [highlight-orange]#Touch not the things which are sealed, for I will bring them forth in mine own due time. For I will shew unto the children of men that I am able to do mine own work.#
-
-{% margin %}
-____
-Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:22]#
-____
-{% endmargin %}
-
-
-*2 Nephi 27:22* [highlight-orange]#Wherefore when thou hast read the words which I have commanded thee and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again and hide it up unto me, that I may preserve the words which thou hast not read until I shall see fit in mine own wisdom to reveal all things unto the children of men.#
+*2 Nephi 27:22* Wherefore when thou hast read the words which I have commanded thee and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again and hide it up unto me, that I may preserve the words which thou hast not read until I shall see fit in mine own wisdom to reveal all things unto the children of men.
 
 {% margin %}
 ____
@@ -281,19 +121,11 @@ ____
 
 *2 Nephi 27:23* [highlight-orange]#For behold, I am God, and I am a God of miracles. And I will shew unto the world that I am the same yesterday, today, and forever, and I work not among the children of men save it be according to their faith.#
 
-{% margin %}
-____
-They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:24]#
-____
-{% endmargin %}
-
-
 *2 Nephi 27:24* [highlight-orange]#And again it shall come to pass that the Lord shall say unto him that shall read the words that shall be delivered him:#
 
 {% margin %}
 ____
+
 Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-29/[Isaiah 29:13]#
