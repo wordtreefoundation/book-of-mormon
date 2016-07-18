@@ -32,7 +32,15 @@ ____
 
 *2 Nephi 6:8* And now I Jacob would speak somewhat concerning these words. For behold, the Lord hath shewn me that they which were at Jerusalem, from whence we came, have been slain and carried away captive.
 
-*2 Nephi 6:9* Nevertheless the Lord hath shewn unto me that they should return again. And he also hath shewn unto me that the Lord God, the Holy One of Israel, should manifest himself unto them in the flesh. And after that he should manifest himself, they should scourge him and crucify him, according to the words of the angel which spake it unto me.
+{% margin %}
+____
+...God was manifest in the flesh...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Timothy-Chapter-3/[I Timothy 3:16]#
+____
+{% endmargin %}
+
+*2 Nephi 6:9* Nevertheless the Lord hath shewn unto me that they should return again. And he also hath shewn unto me that the Lord [highlight-orange]#God, the Holy One of Israel, should manifest himself unto them in the flesh.# And after that he should manifest himself, they should scourge him and crucify him, according to the words of the angel which spake it unto me.
 
 *2 Nephi 6:10* And after that they have hardened their hearts and stiffened their necks against the Holy One of Israel, behold, the judgments of the Holy One of Israel shall come upon them. And the day cometh that they shall be smitten and afflicted.
 
