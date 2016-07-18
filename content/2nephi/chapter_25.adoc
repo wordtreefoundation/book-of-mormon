@@ -20,9 +20,31 @@
 
 *2 Nephi 25:11* And now this I speak because of the Spirit which is in me. And notwithstanding that they have been carried away, they shall return again and possess the land of Jerusalem. Wherefore they shall be restored again to the lands of their inheritance.
 
-*2 Nephi 25:12* But behold, they shall have wars and rumors of wars. And when the day cometh that the Only Begotten of the Father--yea, even the Father of heaven and of earth--shall manifest himself unto them in the flesh, behold, they will reject him because of their iniquities and the hardness of their hearts and the stiffness of their necks.
+{% margin %}
+____
 
-*2 Nephi 25:13* Behold, they will crucify him. And after that he is laid in a sepulchre for the space of three days, he shall rise from the dead with healing in his wings, and all they that shall believe on his name shall be saved in the kingdom of God. Wherefore my soul delighteth to prophesy concerning him, for I have seen his day, and my heart doth magnify his holy name.
+...wars and rumours of wars...
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:6]#
+
+...the only begotten of the Father...
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:14]#
+____
+{% endmargin %}
+
+*2 Nephi 25:12* But behold, [highlight-orange]#they shall have wars and rumors of wars.# And when the day cometh that [highlight-orange]#the Only Begotten of the Father#--yea, even the Father of heaven and of earth--shall manifest himself unto them in the flesh, behold, they will reject him because of their iniquities and the hardness of their hearts and the stiffness of their necks.
+
+{% margin %}
+____
+
+...arise with healing in his wings.
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Malachi-Chapter-4/[Malachi 4:2]#
+____
+{% endmargin %}
+
+*2 Nephi 25:13* Behold, they will crucify him. And after that he is laid in a sepulchre for the space of three days, he [highlight-orange]#shall rise from the dead with healing in his wings#, and all they that shall believe on his name shall be saved in the kingdom of God. Wherefore my soul delighteth to prophesy concerning him, for I have seen his day, and my heart doth magnify his holy name.
 
 *2 Nephi 25:14* And behold, it shall come to pass that after the Messiah hath risen from the dead and hath manifested himself unto his people, unto as many as will believe on his name, behold, Jerusalem shall be destroyed again; for woe unto them that fight against God and the people of his church.
 
@@ -76,7 +98,16 @@ ____
 
 *2 Nephi 25:28* And now behold, my people, ye are a stiffnecked people. Wherefore I have spoken plain unto you, that ye cannot misunderstand. And the words which I have spoken shall stand as a testimony against you, for they are sufficient to teach any man the right way. For the right way is to believe in Christ and deny him not, for by denying him ye also deny the prophets and the law.
 
-*2 Nephi 25:29* And now behold, I say unto you that the right way is to believe in Christ and deny him not. And Christ is the Holy One of Israel; wherefore ye must bow down before him and worship him with all your might, mind, and strength, and your whole soul. And if ye do this, ye shall in no wise be cast out.
+{% margin %}
+____
+
+...I will in no wise cast out.
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/John-Chapter-6/[John 6:37]#
+____
+{% endmargin %}
+
+*2 Nephi 25:29* And now behold, I say unto you that the right way is to believe in Christ and deny him not. And Christ is the Holy One of Israel; wherefore ye must bow down before him and worship him with all your might, mind, and strength, and your whole soul. And if ye do this, [highlight-orange]#ye shall in no wise be cast out.#
 
 *2 Nephi 25:30* And inasmuch as it shall be expedient, ye must keep the performances and ordinances of God until the law shall be fulfilled which was given unto Moses.
 
