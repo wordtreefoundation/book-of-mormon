@@ -46,7 +46,15 @@
 
 *2 Nephi 5:24* And because of their cursing which was upon them, they did become an idle people, full of mischief and subtlety, and did seek in the wilderness for beasts of prey.
 
-*2 Nephi 5:25* And the Lord God said unto me: They shall be a scourge unto thy seed to stir them up in remembrance of me. And inasmuch as they will not remember me and hearken unto my words, they shall scourge them even unto destruction.
+{% margin %}
+____
+...to stir you up by putting you in remembrance...
+
+[small]#KJV Bible, 1767, http://www.kingjamesbibleonline.org/2-Peter-Chapter-1/[II Peter 1:13]#
+____
+{% endmargin %}
+
+*2 Nephi 5:25* And the Lord God said unto me: They shall be a scourge unto thy seed [highlight-orange]#to stir them up in remembrance of me.# And inasmuch as they will not remember me and hearken unto my words, they shall scourge them even unto destruction.
 
 *2 Nephi 5:26* And it came to pass that I Nephi did consecrate Jacob and Joseph, that they should be priests and teachers over the land of my people.
 
