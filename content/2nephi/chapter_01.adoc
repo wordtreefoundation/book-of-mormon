@@ -24,7 +24,15 @@
 
 *2 Nephi 1:13* O that ye would awake, awake from a deep sleep--yea, even from the sleep of hell--and shake off the awful chains by which ye are bound, which are the chains which bind the children of men, that they are carried away captive down to the eternal gulf of misery and woe.
 
-*2 Nephi 1:14* Awake and arise from the dust and hear the words of a trembling parent, whose limbs ye must soon lay down in the cold and silent grave, from whence no traveler can return. A few more days and I go the way of all the earth.
+{% margin %}
+____
+...from whose bourn no traveller returns...
+
+[small]#Hamlet, W. Shakespeare, 1599, http://www.shakespeare-online.com/plays/hamlet_3_1.html[Hamlet Act 3  Scene 1]#
+____
+{% endmargin %}
+
+*2 Nephi 1:14* Awake and arise from the dust and hear the words of a trembling parent, whose limbs ye must soon lay down in the cold and silent grave, [highlight-orange]#from whence no traveler can return#. A few more days and I go the way of all the earth.
 
 *2 Nephi 1:15* But behold, the Lord hath redeemed my soul from hell. I have beheld his glory, and I am encircled about eternally in the arms of his love.
 
