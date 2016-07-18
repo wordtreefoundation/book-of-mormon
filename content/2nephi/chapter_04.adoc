@@ -48,7 +48,15 @@ ____
 
 *2 Nephi 4:16* Behold, my soul delighteth in the things of the Lord, and my heart pondereth continually upon the things which I have seen and heard.
 
-*2 Nephi 4:17* Nevertheless--notwithstanding the great goodness of the Lord in shewing me his great and marvelous works--my heart exclaimeth: O wretched man that I am! Yea, my heart sorroweth because of my flesh. My soul grieveth because of mine iniquities.
+{% margin %}
+____
+O wretched man that I am!
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-7/[Romans 7:24]#
+____
+{% endmargin %}
+
+*2 Nephi 4:17* Nevertheless--notwithstanding the great goodness of the Lord in shewing me his great and marvelous works--my heart exclaimeth: [highlight-orange]#O wretched man that I am!# Yea, my heart sorroweth because of my flesh. My soul grieveth because of mine iniquities.
 
 {% margin %}
 ____
