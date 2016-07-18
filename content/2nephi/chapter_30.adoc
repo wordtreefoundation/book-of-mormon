@@ -12,7 +12,15 @@
 
 *2 Nephi 30:7* And it shall come to pass that the Jews which are scattered also shall begin to believe in Christ, and they shall begin to gather in upon the face of the land. And as many as shall believe in Christ shall also become a delightsome people.
 
-*2 Nephi 30:8* And it shall come to pass that the Lord God shall commence his work among all nations, kindreds, tongues, and people to bring about the restoration of his people upon the earth.
+{% margin %}
+____
+...to every nation, and kindred, and tongue, and people...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+____
+{% endmargin %}
+
+*2 Nephi 30:8* And it shall come to pass that the Lord God shall commence his work among all [highlight-orange]#nations, kindreds, tongues, and people# to bring about the restoration of his people upon the earth.
 
 {% margin %}
 ____
