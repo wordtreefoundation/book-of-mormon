@@ -4,26 +4,49 @@
 
 *2 Nephi 2:3* Wherefore thy soul shall be blessed, and thou shalt dwell safely with thy brother Nephi, and thy days shall be spent in the service of thy God. Wherefore I know that thou art redeemed because of the righteousness of thy Redeemer, for thou hast beheld that in the fullness of time he cometh to bring salvation unto men.
 
+{% margin %}
+____
+...full of grace and truth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:14]#
+____
+{% endmargin %}
+
 *2 Nephi 2:4* And thou hast beheld in thy youth his glory, wherefore thou art blessed even as they unto whom he shall minister in the flesh. For the Spirit is the same yesterday, today, and forever, and the way is prepared from the fall of man, and salvation is free.
 
 {% margin %}
 ____
-for by the works of the law shall no flesh be justified.
+...the same yesterday, and to day, and for ever.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-13/[Hebrews 13:8]#
 ____
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Galatians-Chapter-2/[Galatians 2:16]#
-
 {% endmargin %}
 
 *2 Nephi 2:5* And men are instructed sufficiently that they know good from evil, and the law is given unto men. And [highlight-orange]#by the law no flesh is justified#; or by the law men are cut off, yea, by the temporal law they were cut off. And also by the spiritual law they perish from that which is good and become miserable forever.
 
-*2 Nephi 2:6* Wherefore redemption cometh in and through the Holy Messiah, for he is full of grace and truth.
+{% margin %}
+____
+...full of grace and truth.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:14]#
+____
+{% endmargin %}
+
+*2 Nephi 2:6* Wherefore redemption cometh in and through the Holy Messiah, [highlight-orange]#for he is full of grace and truth.#
 
 *2 Nephi 2:7* Behold, he offereth himself a sacrifice for sin, to answer the ends of the law unto all those which have a broken heart and a contrite spirit. And unto none else can the ends of the law be answered.
 
 *2 Nephi 2:8* Wherefore how great the importance to make these things known unto the inhabitants of the earth, that they may know that there is no flesh that can dwell in the presence of God save it be through the merits and mercy and grace of the Holy Messiah, which layeth down his life according to the flesh and taketh it again by the power of the Spirit, that he may bring to pass the resurrection of the dead, being the first that should rise.
 
-*2 Nephi 2:9* Wherefore he is the firstfruits unto God, inasmuch as he shall make intercession for all the children of men, and they that believe in him shall be saved.
+{% margin %}
+____
+...the firstfruits unto God...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:4]#
+____
+{% endmargin %}
+
+*2 Nephi 2:9* Wherefore he is [highlight-orange]#the firstfruits unto God#, inasmuch as he shall make intercession for all the children of men, and they that believe in him shall be saved.
 
 *2 Nephi 2:10* And because of the intercession for all, all men cometh unto God. Wherefore they stand in the presence of him to be judged of him according to the truth and holiness which is in him; wherefore the ends of the law which the Holy One hath given unto the inflicting of the punishment which is affixed, which punishment that is affixed is in opposition to that of the happiness which is affixed, to answer the ends of the atonement--
 
