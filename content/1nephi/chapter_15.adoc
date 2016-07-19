@@ -26,7 +26,14 @@
 
 *1 Nephi 15:14* And at that day shall the remnant of our seed know that they are of the house of Israel and that they are the covenant people of the Lord. And then shall they know and come to the knowledge of their forefathers and also to the knowledge of the gospel of their Redeemer, which was ministered unto their fathers by him. Wherefore they shall come to the knowledge of their Redeemer and the very points of his doctrine, that they may know how to come unto him and be saved.
 
-*1 Nephi 15:15* And then at that day will they not rejoice and give praise unto their everlasting God, their rock and their salvation? Yea, at that day will they not receive strength and nourishment from the true vine? Yea, will they not come unto the true fold of God?
+{% margin %}
+____
+...I am the true vine...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-15/[John 15:1]#
+{% endmargin %}
+
+*1 Nephi 15:15* And then at that day will they not rejoice and give praise unto their everlasting God, their rock and their salvation? Yea, at that day will they not receive strength and nourishment from [highlight-orange]#the true vine?# Yea, will they not come unto the true fold of God?
 
 *1 Nephi 15:16* Behold, I say unto you: Yea, they shall be numbered again among the house of Israel; they shall be grafted in, being a natural branch of the olive tree, into the true olive tree.
 
@@ -44,7 +51,14 @@
 
 *1 Nephi 15:23* And they said unto me: What meaneth the rod of iron which our father saw that led to the tree?
 
-*1 Nephi 15:24* And I said unto them that it was the word of God, and that whoso would hearken unto the word of God and would hold fast unto it, they would never perish, neither could the temptations and the fiery darts of the adversary overpower them unto blindness, to lead them away to destruction.
+{% margin %}
+____
+...the fiery darts of the wicked.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-6/[Ephesians 6:16]#
+{% endmargin %}
+
+*1 Nephi 15:24* And I said unto them that it was the word of God, and that whoso would hearken unto the word of God and would hold fast unto it, they would never perish, neither could the temptations and [highlight-orange]#the fiery darts of the adversary# overpower them unto blindness, to lead them away to destruction.
 
 *1 Nephi 15:25* Wherefore I Nephi did exhort them to give heed unto the word of the Lord. Yea, I did exhort them with all the energies of my soul and with all the faculty which I possessed that they would give heed to the word of God and remember to keep his commandments always in all things.
 
@@ -56,7 +70,14 @@
 
 *1 Nephi 15:29* And I said unto them that it was a representation of that awful hell which the angel said unto me was prepared for the wicked.
 
-*1 Nephi 15:30* And I said unto them that our father also saw that the justice of God did also divide the wicked from the righteous, and the brightness thereof was like unto the brightness of a flaming fire which ascendeth up unto God forever and ever and hath no end.
+{% margin %}
+____
+...the smoke of their torment ascendeth up for ever and ever...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:11]#
+{% endmargin %}
+
+*1 Nephi 15:30* And I said unto them that our father also saw that the justice of God did also divide the wicked from the righteous, and the brightness thereof was like unto the brightness of a [highlight-orange]#flaming fire which ascendeth up unto God forever and ever and hath no end.#
 
 *1 Nephi 15:31* And they said unto me: Doth this thing mean the torment of the body in the days of probation, or doth it mean the final state of the soul after the death of the temporal body, or doth it speak of the things which are temporal?
 
