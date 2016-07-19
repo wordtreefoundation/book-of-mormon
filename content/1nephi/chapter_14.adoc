@@ -43,9 +43,25 @@ ____
 
 *1 Nephi 14:14* And it came to pass that I Nephi beheld the power of the Lamb of God, that it descended upon the saints of the church of the Lamb and upon the covenant people of the Lord, which were scattered upon all the face of the earth. And they were armed with righteousness and with the power of God in great glory.
 
-*1 Nephi 14:15* And it came to pass that I beheld that the wrath of God was poured out upon that great and abominable church, insomuch that there were wars and rumors of wars among all the nations and kindreds of the earth.
+{% margin %}
+____
+...wars and rumours of wars...
+____
 
-*1 Nephi 14:16* And as there began to be wars and rumors of wars among all the nations which belonged to the mother of abominations, the angel spake unto me, saying: Behold, the wrath of God is upon the mother of harlots. And behold, thou seest all these things.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:6]#
+{% endmargin %}
+
+*1 Nephi 14:15* And it came to pass that I beheld that the wrath of God was poured out upon that great and abominable church, insomuch that there were [highlight-orange]#wars and rumors of wars# among all the nations and kindreds of the earth.
+
+{% margin %}
+____
+...wars and rumours of wars...
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:6]#
+{% endmargin %}
+
+*1 Nephi 14:16* And as there began to be [highlight-orange]#wars and rumors of wars# among all the nations which belonged to the mother of abominations, the angel spake unto me, saying: Behold, the wrath of God is upon the mother of harlots. And behold, thou seest all these things.
 
 *1 Nephi 14:17* And when the day cometh that the wrath of God is poured out upon the mother of harlots--which is the great and abominable church of all the earth, whose founder is the devil--then at that day the work of the Father shall commence in preparing the way for the fulfilling of his covenants which he hath made to his people which are of the house of Israel.
 
