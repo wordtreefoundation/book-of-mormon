@@ -26,15 +26,21 @@ ____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:23]#
 
 ____
-He it is, who coming after me is preferred before me, [highlight-orange]#whose shoe's latchet I am not worthy to unloose#.
+...there standeth one among you, whom ye know not...He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.
 ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:27]#
 
+____
+...one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-3/[Luke 3:16]#
+
 {% endmargin %}
 
 
-*1 Nephi 10:8* yea, even he should go forth and [highlight-orange]#cry in the wilderness: Prepare ye the way of the Lord and make his paths straight#, for there standeth one among you whom ye know not--and he is mightier than I--[highlight-orange]#whose shoe's latchet I am not worthy to unloose#. And much spake my father concerning this thing.
+*1 Nephi 10:8* yea, even he should go forth and [highlight-orange]#cry in the wilderness: Prepare ye the way of the Lord and make his paths straight, for there standeth one among you whom ye know not--and he is mightier than I--whose shoe's latchet I am not worthy to unloose#. And much spake my father concerning this thing.
 
 
 {% margin %}
