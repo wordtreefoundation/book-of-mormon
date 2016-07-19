@@ -1,6 +1,13 @@
 *1 Nephi 16:1* And now it came to pass that after I Nephi had made an end of speaking to my brethren, behold, they said unto me: Thou hast declared unto us hard things, more than that which we are able to bear.
 
-*1 Nephi 16:2* And it came to pass that I said unto them that I knew that I had spoken hard things against the wicked according to the truth, and the righteous have I justified and testified that they should be lifted up at the last day. Wherefore the guilty taketh the truth to be hard, for it cutteth them to the very center.
+{% margin %}
+____
+...I will raise him up at the last day.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-6/[John 6:40]#
+{% endmargin %}
+
+*1 Nephi 16:2* And it came to pass that I said unto them that I knew that I had spoken hard things against the wicked according to the truth, and the righteous have I justified and testified that they should be [highlight-orange]#lifted up at the last day#. Wherefore the guilty taketh the truth to be hard, for it cutteth them to the very center.
 
 *1 Nephi 16:3* And now my brethren, if ye were righteous and were willing to hearken to the truth and give heed unto it, that ye might walk uprightly before God, then ye would not murmur because of the truth and say: Thou speakest hard things against us.
 
