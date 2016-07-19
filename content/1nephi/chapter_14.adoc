@@ -69,7 +69,15 @@ ____
 
 *1 Nephi 14:19* And I looked and beheld a man, and he was dressed in a white robe.
 
-*1 Nephi 14:20* And the angel said unto me: Behold one of the twelve apostles of the Lamb.
+{% margin %}
+____
+...the twelve apostles of the Lamb.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+{% endmargin %}
+
+*1 Nephi 14:20* And the angel said unto me: Behold one of the [highlight-orange]#twelve apostles of the Lamb.#
 
 *1 Nephi 14:21* Behold, he shall see and write the remainder of these things, yea, and also many things which have been.
 
@@ -77,13 +85,37 @@ ____
 
 *1 Nephi 14:23* Wherefore the things which he shall write are just and true. And behold, they are written in the book which thou beheld proceeding out of the mouth of the Jew. And at the time they proceeded out of the mouth of the Jew, or at the time the book proceeded out of the mouth of the Jew, the things which were written were plain and pure and most precious and easy to the understanding of all men.
 
-*1 Nephi 14:24* And behold, the things which this apostle of the Lamb shall write are many things which thou hast seen. And behold, the remainder shalt thou see.
+{% margin %}
+____
+...the twelve apostles of the Lamb.
+____
 
-*1 Nephi 14:25* But the things which thou shalt see hereafter thou shalt not write, for the Lord God hath ordained the apostle of the Lamb of God that he should write them.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+{% endmargin %}
+
+*1 Nephi 14:24* And behold, the things which this [highlight-orange]#apostle of the Lamb# shall write are many things which thou hast seen. And behold, the remainder shalt thou see.
+
+{% margin %}
+____
+...the twelve apostles of the Lamb.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+{% endmargin %}
+
+*1 Nephi 14:25* But the things which thou shalt see hereafter thou shalt not write, for the Lord God hath ordained the [highlight-orange]#apostle of the Lamb# of God that he should write them.
 
 *1 Nephi 14:26* And also others which have been, to them hath he shown all things, and they have written them. And they are sealed up to come forth in their purity, according to the truth which is in the Lamb, in the own due time of the Lord, unto the house of Israel.
 
-*1 Nephi 14:27* And I Nephi heard and bare record that the name of the apostle of the Lamb was John, according to the word of the angel.
+{% margin %}
+____
+...the twelve apostles of the Lamb.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+{% endmargin %}
+
+*1 Nephi 14:27* And I Nephi heard and bare record that the name of the [highlight-orange]#apostle of the Lamb# was John, according to the word of the angel.
 
 *1 Nephi 14:28* And behold, I Nephi am forbidden that I should write the remainder of the things which I saw. Wherefore the things which I have written sufficeth me, and I have not written but a small part of the things which I saw.
 
