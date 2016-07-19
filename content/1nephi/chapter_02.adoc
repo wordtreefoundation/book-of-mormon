@@ -69,7 +69,16 @@ ____
 
 *1 Nephi 2:15* And my father dwelt in a tent.
 
-*1 Nephi 2:16* And it came to pass that I Nephi being exceeding young, nevertheless being large in stature, and also having great desires to know of the mysteries of God, wherefore I cried unto the Lord. And behold, he did visit me and did soften my heart that I did believe all the words which had been spoken by my father; wherefore I did not rebel against him like unto my brothers.
+{% margin %}
+____
+
+...the mysteries of God...
+
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-3/[Mark 3:5]#
+____
+{% endmargin %}
+
+*1 Nephi 2:16* And it came to pass that I Nephi being exceeding young, nevertheless being large in stature, and also having great desires to know of [highlight-orange]#the mysteries of God#, wherefore I cried unto the Lord. And behold, he did visit me and did soften my heart that I did believe all the words which had been spoken by my father; wherefore I did not rebel against him like unto my brothers.
 
 *1 Nephi 2:17* And I spake unto Sam, making known unto him the things which the Lord had manifested unto me by his Holy Spirit. And it came to pass that he believed in my words.
 
