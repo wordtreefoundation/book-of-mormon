@@ -38,7 +38,14 @@ ____
 
 *1 Nephi 19:16* Yea, then will he remember the isles of the sea; yea, and all the people which are of the house of Israel will I gather in, saith the Lord, according to the words of the prophet Zenos, from the four quarters of the earth.
 
-*1 Nephi 19:17* Yea, and all the earth shall see the salvation of the Lord, saith the prophet; every nation, kindred, tongue, and people shall be blessed.
+{% margin %}
+____
+...to every nation, and kindred, and tongue, and people...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+{% endmargin %}
+
+*1 Nephi 19:17* Yea, and all the earth shall see the salvation of the Lord, saith the prophet; [highlight-orange]#every nation, kindred, tongue, and people# shall be blessed.
 
 *1 Nephi 19:18* And I Nephi have written these things unto my people that perhaps I might persuade them that they would remember the Lord their Redeemer.
 
