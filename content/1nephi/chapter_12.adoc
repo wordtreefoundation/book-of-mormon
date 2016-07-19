@@ -1,6 +1,14 @@
 *1 Nephi 12:1* And it came to pass that the angel said unto me: Look and behold thy seed and also the seed of thy brethren. And I looked and beheld the land of promise. And I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.
 
-*1 Nephi 12:2* And it came to pass that I beheld multitudes gathered together to battle one against the other. And I beheld wars and rumors of wars and great slaughters with the sword among my people.
+{% margin %}
+____
+...wars and rumours of wars...
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:6]#
+{% endmargin %}
+
+*1 Nephi 12:2* And it came to pass that I beheld multitudes gathered together to battle one against the other. And I beheld [highlight-orange]#wars and rumors of wars# and great slaughters with the sword among my people.
 
 *1 Nephi 12:3* And it came to pass that I beheld many generations pass away after the manner of wars and contentions in the land. And I beheld many cities, yea, even that I did not number them.
 
@@ -14,9 +22,25 @@
 
 *1 Nephi 12:8* And the angel spake unto me, saying: Behold the twelve disciples of the Lamb which are chosen to minister unto thy seed.
 
-*1 Nephi 12:9* And he saith unto me: Thou rememberest the twelve apostles of the Lamb. Behold, they are they which shall judge the twelve tribes of Israel; wherefore the twelve ministers of thy seed shall be judged of them, for ye are of the house of Israel.
+{% margin %}
+____
+...the twelve apostles of the Lamb.
+____
 
-*1 Nephi 12:10* And these twelve ministers which thou beholdest shall judge thy seed. And behold, they are righteous forever, for because of their faith in the Lamb of God, their garments are made white in his blood.
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+{% endmargin %}
+
+*1 Nephi 12:9* And he saith unto me: Thou rememberest [highlight-orange]#the twelve apostles of the Lamb.# Behold, they are they which shall judge the twelve tribes of Israel; wherefore the twelve ministers of thy seed shall be judged of them, for ye are of the house of Israel.
+
+{% margin %}
+____
+...their robes, and made them white in the blood of the Lamb.
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:14]#
+{% endmargin %}
+
+*1 Nephi 12:10* And these twelve ministers which thou beholdest shall judge thy seed. And behold, they are righteous forever, for because of their faith in the Lamb of God, [highlight-orange]#their garments are made white in his blood.#
 
 *1 Nephi 12:11* And the angel saith unto me: Look! And I looked and beheld three generations did pass away in righteousness, and their garments were white, even like unto the Lamb of God. And the angel said unto me: These are made white in the blood of the Lamb because of their faith in him.
 
@@ -38,7 +62,15 @@
 
 *1 Nephi 12:20* And it came to pass that I beheld and saw the people of the seed of my brethren, that they had overcome my seed. And they went forth in multitudes upon the face of the land;
 
-*1 Nephi 12:21* and I saw them gathered together in multitudes. And I saw wars and rumors of wars among them, and in wars and rumors of wars I saw many generations pass away.
+{% margin %}
+____
+...wars and rumours of wars...
+____
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:6]#
+{% endmargin %}
+
+*1 Nephi 12:21* and I saw them gathered together in multitudes. And I saw [highlight-orange]#wars and rumors of wars# among them, and in wars and rumors of wars I saw many generations pass away.
 
 *1 Nephi 12:22* And the angel said unto me: Behold, these shall dwindle in unbelief.
 
