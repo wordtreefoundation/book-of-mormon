@@ -139,5 +139,12 @@ ____
 
 *1 Nephi 11:35* And the multitude of the earth was gathered together, and I beheld that [highlight]#they were in a large and spacious building, like unto the building which my father saw#. And the angel of the Lord spake unto me, saying: Behold the world and the wisdom thereof; yea, behold, the house of Israel hath gathered together to fight against [highlight-orange]#the twelve apostles of the Lamb.#
 
-*1 Nephi 11:36* And it came to pass that I saw and bare record that [highlight]#the great and spacious building was the pride of the world; and the fall thereof was exceeding great#. And the angel of the Lord spake unto me, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people that shall fight against the twelve apostles of the Lamb.
+{% margin %}
+____
+...to every nation, and kindred, and tongue, and people...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+{% endmargin %}
+
+*1 Nephi 11:36* And it came to pass that I saw and bare record that [highlight]#the great and spacious building was the pride of the world; and the fall thereof was exceeding great#. And the angel of the Lord spake unto me, saying: Thus shall be the destruction of [highlight-orange]#all nations, kindreds, tongues, and people# that shall fight against the twelve apostles of the Lamb.
 
