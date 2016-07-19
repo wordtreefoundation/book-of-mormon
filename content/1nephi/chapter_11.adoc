@@ -19,9 +19,14 @@ ____
 I drew near and began to eat of it [the fruit of the tree], and I found it delicious beyond description.
 ____
 [small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+____
+...bare record that this is the Son of God.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:34]#
+____
 {% endmargin %}
 
-*1 Nephi 11:7* And behold, this thing shall be given unto thee for a sign, that [highlight]#after thou hast beheld the tree which bare the fruit of which thy father tasted#, thou shalt also behold a man descending out of heaven and him shall ye witness. And after that ye shall have witnessed him, ye shall bear record that it is the Son of God.
+*1 Nephi 11:7* And behold, this thing shall be given unto thee for a sign, that [highlight]#after thou hast beheld the tree which bare the fruit of which thy father tasted#, thou shalt also behold a man descending out of heaven and him shall ye witness. And after that ye shall have witnessed him, ye [highlight-orange]#shall bear record that it is the Son of God.#
 
 {% margin 2 %}
 ____
@@ -124,9 +129,15 @@ ____
 After feasting in this manner a short time, I asked my guide what was the meaning of the spacious building which I saw. He replied, 'It is Babylon, it is Babylon, and it must fall. The people in the doors and windows are the inhabitants thereof, who scorn and despise the Saints of God because of their humility.'
 ____
 [small]#Joseph Smith Sr., http://www.centerplace.org/history/misc/jsp.htm#14[Joseph Smith Senior's Second Vision: The Tree and the Spacious Building]#
+
+____
+...the twelve apostles of the Lamb.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:14]#
+____
 {% endmargin %}
 
-*1 Nephi 11:35* And the multitude of the earth was gathered together, and I beheld that [highlight]#they were in a large and spacious building, like unto the building which my father saw#. And the angel of the Lord spake unto me, saying: Behold the world and the wisdom thereof; yea, behold, the house of Israel hath gathered together to fight against the twelve apostles of the Lamb.
+*1 Nephi 11:35* And the multitude of the earth was gathered together, and I beheld that [highlight]#they were in a large and spacious building, like unto the building which my father saw#. And the angel of the Lord spake unto me, saying: Behold the world and the wisdom thereof; yea, behold, the house of Israel hath gathered together to fight against [highlight-orange]#the twelve apostles of the Lamb.#
 
 *1 Nephi 11:36* And it came to pass that I saw and bare record that [highlight]#the great and spacious building was the pride of the world; and the fall thereof was exceeding great#. And the angel of the Lord spake unto me, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people that shall fight against the twelve apostles of the Lamb.
 
