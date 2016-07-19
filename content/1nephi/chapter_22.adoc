@@ -60,7 +60,17 @@ ____
 
 *1 Nephi 22:13* And the blood of that great and abominable church, which is the whore of all the earth, shall turn upon their own heads, for they shall war among themselves. And the sword of their own hands shall fall upon their own heads, and they shall be drunken with their own blood.
 
-*1 Nephi 22:14* And every nation which shall war against thee, O house of Israel, shall be turned one against another. And they shall fall into the pit which they digged to ensnare the people of the Lord. And all they which fight against Zion shall be destroyed. And that great whore which hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust, and great shall be the fall of it.
+{% margin %}
+____
+
+...pervert the right ways of the Lord?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-13/[Acts 13:10]#
+
+____
+{% endmargin %}
+
+*1 Nephi 22:14* And every nation which shall war against thee, O house of Israel, shall be turned one against another. And they shall fall into the pit which they digged to ensnare the people of the Lord. And all they which fight against Zion shall be destroyed. And that great whore which hath [highlight-orange]#perverted the right ways of the Lord#, yea, that great and abominable church, shall tumble to the dust, and great shall be the fall of it.
 
 {% margin %}
 ____
