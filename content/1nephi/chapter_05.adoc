@@ -32,7 +32,14 @@
 
 *1 Nephi 5:17* And now when my father saw all these things, he was filled with the Spirit and began to prophesy concerning his seed,
 
-*1 Nephi 5:18* that these plates of brass should go forth unto all nations, kindreds, tongues, and people which were of his seed.
+{% margin %}
+____
+...to every nation, and kindred, and tongue, and people...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
+{% endmargin %}
+
+*1 Nephi 5:18* that these plates of brass should go forth unto [highlight-orange]#all nations, kindreds, tongues, and people# which were of his seed.
 
 *1 Nephi 5:19* Wherefore he said that these plates of brass should never perish, neither should they be dimmed any more by time. And he prophesied many things concerning his seed.
 
