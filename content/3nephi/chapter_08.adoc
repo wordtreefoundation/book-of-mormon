@@ -42,7 +42,16 @@ ____
 
 *3 Nephi 8:18* And behold, the rocks were rent in twain; yea, they were broken up upon the face of the whole earth, insomuch that they were found in broken fragments and in seams and in cracks upon all the face of the land.
 
-*3 Nephi 8:19* And it came to pass that when the thunderings and the lightnings and the storm and the tempest and the quakings of the earth did cease--for behold, they did last for about the space of three hours; and it was said by some that the time was greater; nevertheless all these great and terrible things were done in about the space of three hours--and then behold, there was darkness upon the face of the land.
+{% margin %}
+____
+
+...darkness was upon the face of the deep...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Genesis-Chapter-1/[Genesis 1:2]#
+____
+{% endmargin %}
+
+*3 Nephi 8:19* And it came to pass that when the thunderings and the lightnings and the storm and the tempest and the quakings of the earth did cease--for behold, they did last for about the space of three hours; and it was said by some that the time was greater; nevertheless all these great and terrible things were done in about the space of three hours--and then behold, [highlight]#there was darkness upon the face of the land.#
 
 *3 Nephi 8:20* And it came to pass that there was [highlight]#thick darkness upon the face of all the land, insomuch that the inhabitants thereof which had not fallen could feel the vapor of darkness#.
 
