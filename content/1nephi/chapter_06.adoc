@@ -6,7 +6,14 @@
 
 *1 Nephi 6:4* For the fullness of mine intent is that I may persuade men to come unto the God of Abraham and the God of Isaac and the God of Jacob and be saved.
 
-*1 Nephi 6:5* Wherefore the things which are pleasing unto the world I do not write, but the things which are pleasing unto God and unto them which are not of the world.
+{% margin %}
+____
+...they are not of the world...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:14]#
+{% endmargin %}
+
+*1 Nephi 6:5* Wherefore the things which are pleasing unto the world I do not write, but the things which are pleasing unto God and unto them [highlight-orange]#which are not of the world.#
 
 *1 Nephi 6:6* Wherefore I shall give commandment unto my seed that they shall not occupy these plates with things which are not of worth unto the children of men.
 
