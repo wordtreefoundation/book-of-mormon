@@ -1,4 +1,13 @@
-*3 Nephi 8:1* And now it came to pass that according to our record--and we know our record to be true, for behold, it was a just man which did keep the record; for he truly did many miracles in the name of Jesus, and there was not any man which could do a miracle in the name of Jesus save he were cleansed every whit from his iniquity--
+{% margin %}
+____
+
+Wash me throughly from mine iniquity, and cleanse me from my sin.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:2]#
+____
+{% endmargin %}
+
+*3 Nephi 8:1* And now it came to pass that according to our record--and we know our record to be true, for behold, it was a just man which did keep the record; for he truly did many miracles in the name of Jesus, and there was not any man which could do a miracle in the name of Jesus save [highlight]#he were cleansed every whit from his iniquity#--
 
 *3 Nephi 8:2* and now it came to pass, if there was no mistake made by this man in the reckoning of our time, the thirty and third year had passed away.
 
