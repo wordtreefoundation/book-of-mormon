@@ -50,7 +50,17 @@ ____
 
 *1 Nephi 2:10* And he also spake unto [highlight-orange]#Lemuel#, saying: O that thou mightest be like unto this valley, [highlight-orange]#firm and steadfast and immovable in keeping the commandments of the Lord.#
 
-*1 Nephi 2:11* Now this he spake because of the stiffneckedness of Laman and Lemuel. For behold, they did murmur in many things against their father because that he was a visionary man and that he had led them out of the land of Jerusalem, to leave the land of their inheritance and their gold and their silver and their precious things, and to perish in the wilderness. And this they said that he had done because of the foolish imaginations of his heart.
+{% margin %}
+____
+
+...and whom they, in the foolish imaginations of their hearts, had vainly worshipped.
+
+[small]#The First Book of Napoleon, 1809, https://archive.org/details/firstbooknapole00gruagoog[Chapter II, verse 10]#
+____
+{% endmargin %}
+
+
+*1 Nephi 2:11* Now this he spake because of the stiffneckedness of Laman and Lemuel. For behold, they did murmur in many things against their father because that he was a visionary man and that he had led them out of the land of Jerusalem, to leave the land of their inheritance and their gold and their silver and their precious things, and to perish in the wilderness. And this they said that he had done because of the [highlight]#foolish imaginations of his heart#.
 
 *1 Nephi 2:12* And thus Laman and Lemuel, being the eldest, did murmur against their father. And they did murmur because they knew not the dealings of that God who had created them.
 

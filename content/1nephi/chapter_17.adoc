@@ -44,7 +44,16 @@ ____
 
 *1 Nephi 17:19* And now it came to pass that I Nephi was exceeding sorrowful because of the hardness of their hearts. And now when they saw that I began to be sorrowful, they were glad in their hearts, insomuch that they did rejoice over me, saying: We knew that ye could not construct a ship, for we knew that ye were lacking in judgment; wherefore thou canst not accomplish so great a work.
 
-*1 Nephi 17:20* And thou art like unto our father, led away by the foolish imaginations of his heart. Yea, he hath led us out of the land of Jerusalem, and we have wandered in the wilderness for these many years. And our women have toiled being big with child, and they have borne children in the wilderness and suffered all things save it were death. And it would have been better that they had died before they came out of Jerusalem than to have suffered these afflictions.
+{% margin %}
+____
+
+...and whom they, in the foolish imaginations of their hearts, had vainly worshipped.
+
+[small]#The First Book of Napoleon, 1809, https://archive.org/details/firstbooknapole00gruagoog[Chapter II, verse 10]#
+____
+{% endmargin %}
+
+*1 Nephi 17:20* And thou art like unto our father, led away by [highlight]#the foolish imaginations of his heart#. Yea, he hath led us out of the land of Jerusalem, and we have wandered in the wilderness for these many years. And our women have toiled being big with child, and they have borne children in the wilderness and suffered all things save it were death. And it would have been better that they had died before they came out of Jerusalem than to have suffered these afflictions.
 
 *1 Nephi 17:21* Behold, these many years we have suffered in the wilderness, which time we might have enjoyed our possessions and the land of our inheritance; yea, and we might have been happy.
 

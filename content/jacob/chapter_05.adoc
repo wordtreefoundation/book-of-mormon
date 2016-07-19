@@ -60,7 +60,16 @@
 
 *Jacob 5:31* And it came to pass that the Lord of the vineyard did taste of the fruit, every sort according to its number. And the Lord of the vineyard saith: Behold, this long time have we nourished this tree, and I have laid up unto myself against the season much fruit.
 
-*Jacob 5:32* But behold, this time it hath brought forth much fruit, and there is none of it which is good; and behold, there are all kinds of bad fruit, and it profiteth me nothing, notwithstanding all our labor. And now it grieveth me that I should lose this tree.
+{% margin %}
+____
+
+But the Gauls were altogether a wicked and perverse people, and the tree which they had planted in the midst of them was a blasted tree, and lo and behold, it brought forth nothing but bad and forbidden fruit, and all manner of unrighteousness...
+
+[small]#The First Book of Napoleon, 1809, https://archive.org/details/firstbooknapole00gruagoog[Chapter II, verse 10]#
+____
+{% endmargin %}
+
+*Jacob 5:32* But behold, this time it hath brought forth much fruit, and there is none of it which is good; and behold, there are [highlight]all kinds of bad fruit#, and it profiteth me nothing, notwithstanding all our labor. And now it grieveth me that I should lose this tree.
 
 *Jacob 5:33* And the Lord of the vineyard saith unto the servant: What shall we do unto the tree that I may preserve again good fruit thereof unto mine own self ?
 
@@ -70,7 +79,16 @@
 
 *Jacob 5:36* Nevertheless I know that the roots are good, and for mine own purpose I have preserved them. And because of their much strength they have hitherto brought forth from the wild branches good fruit.
 
-*Jacob 5:37* But behold, the wild branches have grew and have overran the roots thereof. And because that the wild branches have overcome the roots thereof, it hath brought forth much evil fruit. And because that it hath brought forth so much evil fruit, thou beholdest that it beginneth to perish. And it will soon become ripened that it may be cast into the fire except we should do something for it to preserve it.
+{% margin %}
+____
+
+And this evil tree was planted in many and divers places but the leaves and branches thereof decayed, and were blasted, and its roots rotted ; because the sap which was in the tree, was poison, and all those who tasted of its fruit perished thereby ; yea, even with a cruel and bloody death.
+
+[small]#The First Book of Napoleon, 1809, https://archive.org/details/firstbooknapole00gruagoog[Chapter II, verse 10]#
+____
+{% endmargin %}
+
+*Jacob 5:37* But behold, the wild branches have grew and have overran the roots thereof. [highlight]#And because that the wild branches have overcome the roots thereof, it hath brought forth much evil fruit.# And because that it hath brought forth so much evil fruit, thou beholdest that it beginneth to perish. And it will soon become ripened that it may be cast into the fire except we should do something for it to preserve it.
 
 *Jacob 5:38* And it came to pass that the Lord of the vineyard saith unto his servant: Let us go down into the nithermost parts of the vineyard, and behold if the natural branches have also brought forth evil fruit.
 
