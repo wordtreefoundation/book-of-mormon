@@ -1,6 +1,15 @@
 *Moroni 9:1* My beloved son, I write unto you again, that ye may know that I am yet alive, but I write somewhat that which is grievious.
 
-*Moroni 9:2* For behold, I have had a sore battle with the Lamanites, in the which we did not conquer. And Archeantus has fallen by the sword, and also Luram and Emron; yea, and we have lost a great number of our choice men.
+{% margin %}
+____
+
+[highlight]#Archeanax# was intimate with Pistratus of Athens. He fortified Sigaeum with a wall from the ruins of Ancient Troy.
+
+[small]#Classical Dictionary, Anthon 1827, https://archive.org/stream/1827classicaldic00lempuoft#page/78/mode/2up[Classical Dictionary p. 79]#
+____
+{% endmargin %}
+
+*Moroni 9:2* For behold, I have had a sore battle with the Lamanites, in the which we did not conquer. And [highlight]#Archeantus# has fallen by the sword, and also Luram and Emron; yea, and we have lost a great number of our choice men.
 
 *Moroni 9:3* And now behold, my son, I fear lest the Lamanites shall destroy this people, for they do not repent. And Satan stirreth them up continually to anger one with another.
 
