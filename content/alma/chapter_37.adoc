@@ -91,7 +91,7 @@ I am meek and lowly in heart: and ye shall find rest unto your souls.
 ____
 {% endmargin %}
 
-*Alma 37:34* Teach them to never be weary of good works, but [highglight-orange]#to be meek and lowly in heart, for such shall find rest to their souls.#
+*Alma 37:34* Teach them to never be weary of good works, but [highlight-orange]#to be meek and lowly in heart, for such shall find rest to their souls.#
 
 *Alma 37:35* O remember, my son, and learn wisdom in thy youth; yea, learn in thy youth to keep the commandments of God.
 
