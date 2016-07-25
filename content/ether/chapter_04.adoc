@@ -75,10 +75,8 @@ ____
 ____
 
 ...the kingdom prepared for you from the foundation of the world...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
 {% endmargin %}
 
 *Ether 4:19* And blessed is he that is found faithful unto my name at the last day, for they shall be lifted up to dwell in the [highlight-orange]#kingdom prepared for them from the foundation of the world.# And behold, it is I that hath spoken it. Amen.
