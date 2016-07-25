@@ -9,7 +9,7 @@
 {% margin %}
 ____
 
-Death is swallowed up in victory. O death, where is thy sting?
+Death is swallowed up in victory. O death, where is thy sting?...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:54-55]#
 ____
@@ -19,31 +19,43 @@ ____
 
 *Mormon 7:6* And he bringeth to pass the resurrection of the dead, whereby man must be raised to stand before his judgment seat.
 
-*Mormon 7:7* And he hath brought to pass the redemption of the world, whereby he that is found guiltless before him at the judgment day hath it given unto them to dwell in the presence of God in his kingdom, to sing ceaseless praises with the choirs above unto the Father and unto the Son and unto the Holy Ghost, which is one God, in a state of happiness which hath no end.
-
 {% margin %}
 ____
-
-...Repent, and be baptized every one of you in the name of Jesus Christ...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
-
+For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-John-Chapter-5/[I John 5:7]#
 {% endmargin %}
 
-*Mormon 7:8* Therefore [highlight-orange]#repent and be baptized in the name of Jesus# and lay hold upon the gospel of Christ, which shall be set before you, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you.
+*Mormon 7:7* And he hath brought to pass the redemption of the world, whereby he that is found guiltless before him at the judgment day hath it given unto them to dwell in the presence of God in his kingdom, to sing ceaseless praises with the choirs above unto the [highlight-orange]#Father and unto the Son and unto the Holy Ghost, which is one God#, in a state of happiness which hath no end.
 
 {% margin %}
 ____
-
-...these are written, that ye might believe...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-20/[John 20:31]#
-
+...Repent, and be baptized every one of you in the name of Jesus Christ...
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
+...to lay hold upon the hope set before us...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:18]#
+{% endmargin %}
+
+*Mormon 7:8* Therefore [highlight-orange]#repent and be baptized in the name of Jesus# and [highlight-orange]#lay hold upon the gospel of Christ, which shall be set before you#, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you.
+
+{% margin %}
+____
+...these are written, that ye might believe...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-20/[John 20:31]#
 {% endmargin %}
 
 *Mormon 7:9* For behold, [highlight-orange]#this is written for the intent that ye may believe that.# And if ye believe that, ye will believe this also. And if ye believe this, ye will know concerning your fathers and also the marvelous works which were wrought by the power of God among them.
 
-*Mormon 7:10* And ye will also know that ye are a remnant of the seed of Jacob. Therefore ye are numbered among the people of the first covenant. And if it so be that ye believe in Christ and are baptized--first with water, then with fire and with the Holy Ghost, following the example of our Savior, according to that which he hath commanded us--it shall be well with you in the day of judgment. Amen.
+{% margin %}
+____
+I indeed baptize you with water...he shall baptize you with the Holy Ghost, and with fire:
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
+{% endmargin %}
+
+*Mormon 7:10* And ye will also know that ye are a remnant of the seed of Jacob. Therefore ye are numbered among the people of the first covenant. And if it so be that ye believe in Christ [highlight-orange]#and are baptized--first with water, then with fire and with the Holy Ghost#, following the example of our Savior, according to that which he hath commanded us--it shall be well with you in the day of judgment. Amen.
 
