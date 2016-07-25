@@ -14,13 +14,43 @@
 
 *Ether 13:8* Wherefore the remnant of the house of Joseph shall be built up upon this land, and it shall be a land of their inheritance. And they shall build up a holy city unto the Lord like unto the Jerusalem of old. And they shall no more be confounded until the end come, when the earth shall pass away.
 
-*Ether 13:9* And there shall be a new heaven and a new earth; and they shall be like unto the old, save the old have passed away and all things have become new.
+{% margin %}
+____
+And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:1]#
+____
+...behold, all things are become new.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-5/[I Corinthians 5:17]#
+{% endmargin %}
 
-*Ether 13:10* And then cometh the New Jerusalem; and blessed are they which dwell therein, for it is they whose garments are white through the blood of the Lamb; and they are they which are numbered among the remnant of the seed of Joseph, which were of the house of Israel.
+*Ether 13:9* And there shall be [highlight-orange]#a new heaven and a new earth; and they shall be like unto the old#, save the old have passed away [highlight-orange]#and all things have become new.#
+
+{% margin %}
+____
+
+...the holy city, new Jerusalem...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:2]#
+____
+...and have washed their robes, and made them white in the blood of the Lamb.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:14]#
+{% endmargin %}
+
+*Ether 13:10* And then [highlight-orange]#cometh the New Jerusalem#; and blessed are they which dwell therein, for it is they [highlight-orange]#whose garments are white through the blood of the Lamb;# and they are they which are numbered among the remnant of the seed of Joseph, which were of the house of Israel.
 
 *Ether 13:11* And then also cometh the Jerusalem of old; and the inhabitants thereof, blessed are they, for they have been washed in the blood of the Lamb; and they are they which were scattered and gathered in from the four quarters of the earth and from the north countries and are partakers of the fulfilling of the covenant which God made with their father Abraham.
 
-*Ether 13:12* And when these things come bringeth to pass the scripture which saith: There are they which were first which shall be last; and there are they which were last which shall be first.
+{% margin %}
+____
+But many *that are* first shall be last; and the last *shall be* first.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-19/[Matthew 19:30]#
+{% endmargin %}
+
+*Ether 13:12* And when these things come bringeth to pass the scripture which saith: [highlight-orange]#There are they which were first which shall be last; and there are they which were last which shall be first.#
 
 *Ether 13:13* And I was about to write more, but I am forbidden; but great and marvelous were the prophecies of Ether. But they esteemed him as naught and cast him out. And he hid himself in the cavity of a rock by day, and by night he went forth, viewing the things which should come upon the people.
 
