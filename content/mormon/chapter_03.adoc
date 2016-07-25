@@ -1,6 +1,13 @@
 *Mormon 3:1* And it came to pass that the Lamanites did not come to battle again until ten years more had passed away. And behold, I had employed my people the Nephites in preparing their lands and their arms against the time of battle.
 
-*Mormon 3:2* And it came to pass that the Lord did say unto me: Cry unto this people: Repent ye and come unto me and be ye baptized and build up again my church, and ye shall be spared.
+{% margin %}
+____
+...Repent, and be baptized every one of you in the name of Jesus Christ...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+{% endmargin %}
+
+*Mormon 3:2* And it came to pass that the Lord did say unto me: Cry unto this people: [highlight-orange]#Repent ye and come unto me and be ye baptized# and build up again my church, and ye shall be spared.
 
 *Mormon 3:3* And I did cry unto this people, but it was in vain. And they did not realize that it was the Lord that had spared them and granted unto them a chance for repentance. And behold, they did harden their hearts against the Lord their God.
 
@@ -28,12 +35,9 @@
 
 {% margin %}
 ____
-
 ...Vengeance is mine; I will repay, saith the Lord.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-12/[Romans 12:19]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-12/[Romans 12:19]#
 {% endmargin %}
 
 *Mormon 3:15* [highlight-orange]#Vengeance is mine, and I will repay#. And because this people repented not after that I had delivered them, behold, they shall be cut off from the face of the earth.
