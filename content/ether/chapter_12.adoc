@@ -201,7 +201,7 @@ ____
 
 *Ether 12:25* Thou hast also made our words powerful and great, even that we cannot write them. Wherefore when we write, we behold our weakness and stumble because of the placing of our words. And I fear lest the Gentiles shall mock at our words.
 
-{% margin2 %}
+{% margin 2 %}
 ____
 
 ...My grace is sufficient for thee: for my strength is made perfect in weakness.
