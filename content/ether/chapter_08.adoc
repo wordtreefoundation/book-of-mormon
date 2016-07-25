@@ -64,7 +64,21 @@ ____
 
 *Ether 8:24* Wherefore the Lord commandeth you, when ye shall see these things come among you, that ye shall awake to a sense of your awful situation because of this secret combination which shall be among you; for woe be unto it because of the blood of them which have been slain, for they cry from the dust for vengeance upon it, and also upon those who build it up.
 
-*Ether 8:25* For it cometh to pass that whoso buildeth it up seeketh to overthrow the freedom of all lands, nations, and countries. And it bringeth to pass the destruction of all people, for it is built up by the devil, which is the father of all lies, even that same liar which beguiled our first parents, yea, even that same liar which hath caused man to commit murder from the beginning, which hath hardened the hearts of men that they have murdered the prophets and stoned them and cast them out from the beginning.
+{% margin %}
+____
+
+Ye are of your father the devil...for he is a liar, and the father of it.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:44]#
+____
+
+...as the serpent beguiled Eve...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-11/[II Corinthians 11:3]#
+
+{% endmargin %}
+
+*Ether 8:25* For it cometh to pass that whoso buildeth it up seeketh to overthrow the freedom of all lands, nations, and countries. And it bringeth to pass the destruction of all people, for it is built up by the [highlight-orange]#devil, which is the father of all lies#, even that same liar which [highlight-orange]#beguiled our first parents#, yea, even that same liar which hath caused man to commit murder from the beginning, which hath hardened the hearts of men that they have murdered the prophets and stoned them and cast them out from the beginning.
 
 *Ether 8:26* Wherefore I Moroni am commanded to write these things, that evil may be done away and that the time may come that Satan may have no power upon the hearts of the children of men, but that they may be persuaded to do good continually, that they may come unto the fountain of all righteousness and be saved.
 
