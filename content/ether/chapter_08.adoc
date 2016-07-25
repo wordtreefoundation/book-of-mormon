@@ -16,7 +16,7 @@
 
 *Ether 8:9* Now the daughter of Jared was exceeding fair. And it came to pass that she did talk with her father and saith unto him: Whereby hath my father so much sorrow? Hath he not read the record which our fathers brought across the great deep? Behold, is there not an account concerning them of old, that they by their secret plans did obtain kingdoms and great glory?
 
-{% margin3 %}
+{% margin 3 %}
 ____
 
 6 But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod.
