@@ -8,12 +8,15 @@
 ____
 
 Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:19]#
 ____
+..that ye...may abound to every good work...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-9/[II Corinthians 9:8]#
 {% endmargin %}
 
-*Ether 12:4* Wherefore whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith and [highlight-orange]#maketh an anchor to the souls of men, which would make them sure and steadfast,# always abounding in good works, being led to glorify God.
+*Ether 12:4* Wherefore whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith and [highlight-orange]#maketh an anchor to the souls of men, which would make them sure and steadfast,# always [highlight-orange]#abounding in good works,# being led to glorify God.
 
 *Ether 12:5* And it came to pass that Ether did prophesy great and marvelous things unto the people, which they did not believe because they saw them not.
 
@@ -21,10 +24,8 @@ ____
 ____
 
 ...faith is the substance of things hoped for, the evidence of things not seen.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 11:1]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 11:1]#
 {% endmargin %}
 
 *Ether 12:6* And now I Moroni would speak somewhat concerning these things. I would shew unto the world that [highlight-orange]#faith is things which are hoped for and not seen.# Wherefore dispute not because ye see not, for ye receive no witness not until after the trial of your faith.
@@ -35,10 +36,8 @@ ____
 ____
 
 ...tasted of the heavenly gift, and were made partakers...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:4]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:4]#
 {% endmargin %}
 
 *Ether 12:8* he has shewn himself unto the world and glorified the name of the Father and prepared a way that thereby others might be [highlight-orange]#partakers of the heavenly gift,# that they might hope for those things which they have not seen.
@@ -49,12 +48,11 @@ ____
 ____
 
 For by it [faith] the elders obtained a good report.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:2]#
 
 Ether 12 follows a similar rhythm to Hebrews 11. While the stories quoted are not the same, the intent clearly is.
 
-____
 {% endmargin %}
 
 *Ether 12:10* Behold, it was [highlight-orange]#by faith that they of old were called# after the holy order of God.
@@ -63,16 +61,13 @@ ____
 ____
 
 By faith Moses...
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:2]#
-
 ____
 
 ...yet show I unto you a more excellent way.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:31]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:31]#
 {% endmargin %}
 
 *Ether 12:11* Wherefore [highlight-orange]#by faith# was the law of [highlight-orange]#Moses# given. But in the gift of his Son hath God [highlight-orange]#prepared a more excellent way#; and it is by faith that it hath been fulfilled.
@@ -81,10 +76,8 @@ ____
 ____
 
 Through faith we understand that the worlds were framed by the word of [highlight]#God, so that things which are seen were not made of things which do appear.#
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:3]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:3]#
 {% endmargin %}
 
 
@@ -93,14 +86,13 @@ ____
 {% margin %}
 ____
 
-By faith...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
-
-And it came to pass that so great was their fear that they fell to the earth and did not obtain the outer door of the prison. And the earth shook mightily and the walls of the prison were rent in twain, so that they fell to the earth; and the chief judge and the lawyers and priests and teachers which smote upon Alma and Amulek were slain by the fall thereof.
-
-[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/alma/chapter_14.html[Alma 14:27]#
+By faith the walls of Jericho fell down...
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:30]#
+____
+And it came to pass that so great was their fear that they fell to the earth and did not obtain the outer door of the prison. And the earth shook mightily and the walls of the prison were rent in twain, so that they fell to the earth; and the chief judge and the lawyers and priests and teachers which smote upon Alma and Amulek were slain by the fall thereof.
+____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/alma/chapter_14.html[Alma 14:27]#
 {% endmargin %}
 
 *Ether 12:13* Behold, [highlight-orange]#it was the faith# of [highlight]#Alma and Amulek that caused the prison to tumble to the earth.#
@@ -109,13 +101,12 @@ ____
 ____
 
 By faith...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
-
-Therefore they did speak unto the great astonishment of the Lamanites, to the convincing them, insomuch that there were eight thousand of the Lamanites which were in the land of Zarahemla and round about baptized unto repentance and were convinced of the wickedness of the traditions of their fathers.
-
-[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/helaman/chapter_05.html[Helaman 5:19]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+____
+Therefore they did speak unto the great astonishment of the Lamanites, to the convincing them, insomuch that there were eight thousand of the Lamanites which were in the land of Zarahemla and round about baptized unto repentance and were convinced of the wickedness of the traditions of their fathers.
+____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/helaman/chapter_05.html[Helaman 5:19]#
 {% endmargin %}
 
 *Ether 12:14* Behold, [highlight-orange]#it was the faith# of [highlight]#Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost.#
@@ -124,13 +115,12 @@ ____
 ____
 
 By faith...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
-
-And this is the account of Ammon and his brethren, their journeyings into the land of Nephi, their sufferings in the land, their sorrows and their afflictions, and their incomprehensible joy, and the reception and safety of the brethren in the land of Jershon. And now may the Lord, the Redeemer of all men, bless their souls forever
-
-[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/alma/chapter_28.html[Alma 28:8]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+____
+And this is the account of Ammon and his brethren, their journeyings into the land of Nephi, their sufferings in the land, their sorrows and their afflictions, and their incomprehensible joy, and the reception and safety of the brethren in the land of Jershon. And now may the Lord, the Redeemer of all men, bless their souls forever
+____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/alma/chapter_28.html[Alma 28:8]#
 {% endmargin %}
 
 *Ether 12:15* Behold, [highlight-orange]#it was the faith# of [highlight]#Ammon and his brethren which wrought so great a miracle among the Lamanites.#
@@ -139,10 +129,8 @@ ____
 ____
 
 Who through [highlight]#faith# subdued kingdoms, [highlight]#wrought# righteousness, obtained promises, stopped the mouths of lions,
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:33]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:33]#
 {% endmargin %}
 
 *Ether 12:16* Yea, and even all they which wrought miracles [highlight-orange]#wrought them by faith#, even those which were before Christ, and also them which were after.
@@ -150,33 +138,39 @@ ____
 {% margin %}
 ____
 
-By faith...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
-
-Therefore more blessed are ye; for ye shall never taste of death, but ye shall live to behold all the doings of the Father unto the children of men, even until all things shall be fulfilled according to the will of the Father when I shall come in my glory with the powers of heaven.
-
-[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/3nephi/chapter_28.html[3 Nephi 28:7]#
+By faith Enoch was translated that he should not see death...
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:5]#
+____
+Therefore more blessed are ye; for ye shall never taste of death, but ye shall live to behold all the doings of the Father unto the children of men, even until all things shall be fulfilled according to the will of the Father when I shall come in my glory with the powers of heaven.
+____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/3nephi/chapter_28.html[3 Nephi 28:7]#
 {% endmargin %}
 
 *Ether 12:17* And it was [highlight-orange]#by faith# that the [highlight]#three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith.#
 
 *Ether 12:18* And neither at any time hath any wrought miracles until after their faith; wherefore they first believed in the Son of God.
 
-*Ether 12:19* And there were many whose faith was so exceeding strong, even before Christ came, which could not be kept from within the veil but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad.
+{% margin %}
+____
+
+...which entereth into that within the veil...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-6/[Hebrews 6:19]#
+{% endmargin %}
+
+*Ether 12:19* And there were many whose faith was so exceeding strong, even before Christ came, which could not be kept [highlight-orange]#from within the veil# but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad.
 
 {% margin %}
 ____
 
 By faith...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
-
-And it came to pass that when the brother of Jared had said these words, behold, the Lord stretched forth his hand and touched the stones one by one with his finger. And the veil was taken from off the eyes of the brother of Jared, and he saw the finger of the Lord. And it was as the finger of a man, like unto flesh and blood; and the brother of Jared fell down before the Lord, for he was struck with fear.
-
-[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/ether/chapter_3.html[Ether 3:6]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:4-33]#
+____
+And it came to pass that when the brother of Jared had said these words, behold, the Lord stretched forth his hand and touched the stones one by one with his finger. And the veil was taken from off the eyes of the brother of Jared, and he saw the finger of the Lord. And it was as the finger of a man, like unto flesh and blood; and the brother of Jared fell down before the Lord, for he was struck with fear.
+____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/ether/chapter_3.html[Ether 3:6]#
 {% endmargin %}
 
 *Ether 12:20* And behold, we have seen in this record that one of these was the brother of Jared; for so great [highlight-orange]was his faith# in God that when [highlight]#God put forth his finger, he could not hide it from the sight of the brother of Jared because of his word which he had spoken unto him, which word he had obtained by faith.#
@@ -185,14 +179,21 @@ ____
 ____
 
 For the Lord had said unto him in times before that if he would believe in him that he could shew unto him all things, it should be shewn unto him. Therefore the Lord could not withhold any thing from him, for he knew that the Lord could shew him all things.
-
-[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/ether/chapter_3.html[Ether 3:26]#
 ____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/ether/chapter_3.html[Ether 3:26]#
 {% endmargin %}
 
 *Ether 12:21* And after that the brother of Jared had beheld the finger of the Lord because of the promise which the brother of Jared had obtained by faith, [highlight]#the Lord could not withhold any thing from his sight; wherefore he shewed him all things, for he could no longer be kept without the veil.#
 
-*Ether 12:22* And it is by faith that my fathers have obtained the promise that these things should come unto their brethren through the Gentiles. Therefore the Lord hath commanded me, yea, even Jesus Christ.
+{% margin %}
+____
+
+Who through faith...obtained promises...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:33]#
+{% endmargin %}
+
+*Ether 12:22* And it is [highlight-orange]#by faith# that my fathers [highlight-orange]#have obtained the promise# that these things should come unto their brethren through the Gentiles. Therefore the Lord hath commanded me, yea, even Jesus Christ.
 
 *Ether 12:23* And I said unto him: Lord, the Gentiles will mock at these things because of our weakness in writing; for Lord, thou hast made us mighty in word by faith, where unto thou hast not made us mighty in writing. For thou hast made all this people that they could speak much because of the Holy Ghost which thou hast given them.
 
@@ -200,11 +201,27 @@ ____
 
 *Ether 12:25* Thou hast also made our words powerful and great, even that we cannot write them. Wherefore when we write, we behold our weakness and stumble because of the placing of our words. And I fear lest the Gentiles shall mock at our words.
 
-*Ether 12:26* And when I had said this, the Lord spake unto me, saying: Fools mock, but they shall mourn. And my grace is sufficient for the meek, that they shall take no advantage of your weakness.
+{% margin2 %}
+____
 
-*Ether 12:27* And if men come unto me, I will shew unto them their weakness. I give unto men weakness that they may be humble. And my grace is sufficient for all men that humble themselves before me. For if they humble themselves before me and have faith in me, then will I make weak things become strong unto them.
+...My grace is sufficient for thee: for my strength is made perfect in weakness.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:9]#
+{% endmargin %}
 
-*Ether 12:28* Behold, I will shew unto the Gentiles their weakness. And I will shew unto them that faith, hope, and charity bringeth unto me, the fountain of all righteousness.
+*Ether 12:26* And when I had said this, the Lord spake unto me, saying: Fools mock, but they shall mourn. [highlight-orange]#And my grace is sufficient# for the meek, that they shall take no advantage of your weakness.
+
+*Ether 12:27* And if men come unto me, I will shew unto them their weakness. I give unto men weakness that they may be humble. And my grace is sufficient for all men that humble themselves before me. For if they humble themselves before me and have faith in me, then will [highlight-orange]#I make weak things become strong unto them.#
+
+{% margin %}
+____
+
+And now abideth faith, hope, charity, these three...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[I Corinthians 13:13]#
+{% endmargin %}
+
+*Ether 12:28* Behold, I will shew unto the Gentiles their weakness. And I will shew unto them that [highlight-orange]#faith, hope, and charity# bringeth unto me, the fountain of all righteousness.
 
 *Ether 12:29* And I Moroni having heard these words was comforted and said: O Lord, thy righteous will be done, for I know that thou workest unto the children of men according to their faith.
 
@@ -212,20 +229,36 @@ ____
 
 *Ether 12:31* For thus did thou manifest thyself unto thy disciples; for after that they had faith and did speak in thy name, thou didst shew thyself unto them in great power.
 
-*Ether 12:32* And I also remember that thou hast said that thou hast prepared a house for man, yea, even among the mansions of thy Father, in the which man might have a more excellent hope. Wherefore man must hope or he cannot receive an inheritance in the place which thou hast prepared.
+{% margin %}
+____
+In my Father's house are many mansions... I go to prepare a place for you.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:2]#
+{% endmargin %}
+
+*Ether 12:32* And I also remember that thou hast said that [highlight-orange]#thou hast prepared a house for man, yea, even among the mansions of thy Father#, in the which man might have a more excellent hope. Wherefore man must hope or he cannot receive an inheritance in the place which thou hast prepared.
 
 {% margin %}
 ____
-
 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-3/[John 3:16]#
 ____
+...I lay down my life, that I might take it again.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-3/[John 10:17]#
 {% endmargin %}
 
-*Ether 12:33* And again I remember that thou hast said that [highlight-orange]#thou hast loved the world, even unto the laying down of thy life for the world,# that thou mightest take it again, to prepare a place for the children of men.
+*Ether 12:33* And again I remember that thou hast said that [highlight-orange]#thou hast loved the world, even unto the laying down of thy life for the world,# that thou [highlight-orange]#mightest take it again#, to prepare a place for the children of men.
 
-*Ether 12:34* And now I know that this love which thou hast had for the children of men is charity. Wherefore except men shall have charity, they cannot inherit that place which thou hast prepared in the mansions of thy Father.
+{% margin %}
+____
+In my Father's house are many mansions... I go to prepare a place for you.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:2]#
+{% endmargin %}
+
+*Ether 12:34* And now I know that this love which thou hast had for the children of men is charity. Wherefore except men shall have charity, they cannot inherit that place which thou hast [highlight-orange]#prepared in the mansions of thy Father.#
 
 {% margin %}
 ____
@@ -233,16 +266,22 @@ ____
 28 Take therefore the talent from him, and give it unto him which hath ten talents.
 
 29 For unto every one that hath shall be given, and he shall have abundance:...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:28-29]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:28-29]#
 {% endmargin %}
 
 *Ether 12:35* Wherefore I know by this thing which thou hast said that if the Gentiles have not charity because of our weakness that thou wilt prove them and [highlight-orange]#take away their talent, yea, even that which they have received, and give unto them which shall have more abundantly.#
 
 *Ether 12:36* And it came to pass that I prayed unto the Lord that he would give unto the Gentiles grace, that they might have charity.
 
-*Ether 12:37* And it came to pass that the Lord said unto me: If they have not charity, it mattereth not unto thee. Thou hast been faithful; wherefore thy garments shall be made clean. And because thou hast seen thy weakness, thou shalt be made strong, even unto the sitting down in the place which I have prepared in the mansions of my Father.
+{% margin %}
+____
+In my Father's house are many mansions... I go to prepare a place for you.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:2]#
+{% endmargin %}
+
+*Ether 12:37* And it came to pass that the Lord said unto me: If they have not charity, it mattereth not unto thee. Thou hast been faithful; wherefore thy garments shall be made clean. And because thou hast seen thy weakness, thou shalt be made strong, even unto the sitting down in the place which [highlight-orange]#I have prepared in the mansions of my Father.#
 
 *Ether 12:38* And now I Moroni bid farewell unto the Gentiles, yea, and also unto my brethren, whom I love, until we shall meet before the judgment seat of Christ, where all men shall know that my garments are not spotted with your blood.
 
@@ -250,5 +289,12 @@ ____
 
 *Ether 12:40* And only a few have I written because of my weakness in writing.
 
-*Ether 12:41* And now I would commend you to seek this Jesus of whom the prophets and apostles have written, that the grace of God the Father and also the Lord Jesus Christ and the Holy Ghost, which beareth record of them, may be and abide in you forever. Amen.
+{% margin %}
+____
+The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-13/[II Corinthians 13:14]#
+{% endmargin %}
+
+*Ether 12:41* And now I would commend you to seek this Jesus of whom the prophets and apostles have written, [highlight-orange#]that the grace of God the Father and also the Lord Jesus Christ and the Holy Ghost, which beareth record of them, may be and abide in you forever. Amen.#
 
