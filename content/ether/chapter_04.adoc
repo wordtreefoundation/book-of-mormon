@@ -1,4 +1,16 @@
-*Ether 4:1* And the Lord commanded the brother of Jared to go down out of the mount from the presence of the Lord and write the things which he had seen. And they were forbidden to come unto the children of men until after that he should be lifted up upon the cross. And for this cause did king Benjamin keep them, that they should not come unto the world until after Christ should shew himself unto his people.
+{% margin %}
+____
+And now Limhi was again filled with joy on learning from the mouth of Ammon that king Benjamin had a gift from God whereby he could interpret such engravings yea, and Ammon also did rejoice.
+____
+[small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/mosiah/chapter_21.html[Mosiah 21:28]#
+____
+
+And now Limhi was again filled with joy on learning from the mouth of Ammon that king Mosiah had a agift from God, whereby he could binterpret such engravings; yea, and Ammon also did rejoice.
+____
+[small]#Book of Mormon, 2006, https://www.lds.org/scriptures/bofm/mosiah/21?lang=eng[Mosiah 21:28]#
+{% endmargin %}
+
+*Ether 4:1* And the Lord commanded the brother of Jared to go down out of the mount from the presence of the Lord and write the things which he had seen. And they were forbidden to come unto the children of men until after that he should be lifted up upon the cross. And for this cause did [highlight]#king Benjamin# keep them, that they should not come unto the world until after Christ should shew himself unto his people.
 
 *Ether 4:2* And after that Christ truly had shewed himself unto his people, he commanded that they should be made manifest.
 
@@ -44,21 +56,20 @@ ____
 
 {% margin %}
 ____
-
+...Repent, and be baptized every one of you in the name of Jesus Christ...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
 He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:16]#
-
 ____
-
 And these signs shall follow them that believe; In my name...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:17]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:17]#
 {% endmargin %}
 
-*Ether 4:18* Therefore repent, all ye ends of the earth, and come unto me and believe in my gospel and be baptized in my name. For [highlight-orange]#he that believeth and is baptized shall be saved, but he that believeth not shall be damned#. [highlight-orange]#And signs shall follow them that believe in my name.#
+*Ether 4:18* Therefore [highlight-orange]#repent, all ye ends of the earth, and come unto me and believe in my gospel and be baptized in my name.# For [highlight-orange]#he that believeth and is baptized shall be saved, but he that believeth not shall be damned#. [highlight-orange]#And signs shall follow them that believe in my name.#
 
 {% margin %}
 ____
