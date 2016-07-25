@@ -24,7 +24,15 @@
 
 *Mormon 2:13* But behold, this my joy was vain; for their sorrowing was not unto repentance because of the goodness of God, but it was rather the sorrowing of the damned because the Lord would not always suffer them to take happiness in sin.
 
-*Mormon 2:14* And they did not come unto Jesus with broken hearts and contrite spirits, but they did curse God and wish to die. Nevertheless they would struggle with the sword for their lives.
+{% margin %}
+____
+
+...a broken and a contrite heart...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:17]#
+{% endmargin %}
+
+*Mormon 2:14* And they did not come unto Jesus with [highlight-orange]#broken hearts and contrite spirits#, but they did curse God and wish to die. Nevertheless they would struggle with the sword for their lives.
 
 *Mormon 2:15* And it came to pass that my sorrow did return unto me again. And I saw that the day of grace was past with them, both temporally and spiritually, for I saw thousands of them hewn down in open rebellion against their God and heaped up as dung upon the face of the land. And thus three hundred and forty and four years had passed away.
 
