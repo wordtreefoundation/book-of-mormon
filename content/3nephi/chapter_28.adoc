@@ -103,7 +103,14 @@ ____
 
 *3 Nephi 28:18* But this much I know, according to the record which hath been given, they did go forth upon the face of the land and did minister unto all the people, uniting as many to the church as would believe in their preaching, baptizing them; and as many as were baptized did receive the Holy Ghost.
 
-*3 Nephi 28:19* And they were cast into prison by them who did not belong to the church. And the prisons could not hold them, for they were rent in twain.
+{% margin %}
+____
+...the veil of the temple was rent in twain...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:51]#
+{% endmargin %}
+
+*3 Nephi 28:19* And they were cast into prison by them who did not belong to the church. And the prisons could not hold them, for they were [highlight-orange]#rent in twain.#
 
 *3 Nephi 28:20* And they were cast down into the earth, but they did smite the earth with the word of God, insomuch that by his power they were delivered out of the depths of the earth. And therefore they could not dig pits sufficiently to hold them.
 
