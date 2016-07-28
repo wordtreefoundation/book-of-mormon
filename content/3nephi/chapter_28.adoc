@@ -8,20 +8,31 @@
 
 *3 Nephi 28:5* And they sorrowed in their hearts, for they durst not speak unto him the thing which they desired.
 
-*3 Nephi 28:6* And he saith unto them: Behold, I know your thoughts. And ye have desired the thing which John my beloved, which was with me in my ministry before that I was lifted up by the Jews, desired of me.
+{% margin %}
+____
+
+20 Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?
+
+21 Peter seeing him saith to Jesus, Lord, and what shall this man do?
+
+22 Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.
+
+23 Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-21/[John 21:20-24]#
+{% endmargin %}
+
+*3 Nephi 28:6* And he saith unto them: Behold, I know your thoughts. And ye have desired the thing which [highlight-orange]#John my beloved, which was with me in my ministry before that I was lifted up by the Jews, desired of me.#
 
 *3 Nephi 28:7* Therefore more blessed are ye; for ye shall never taste of death, but ye shall live to behold all the doings of the Father unto the children of men, even until all things shall be fulfilled according to the will of the Father when I shall come in my glory with the powers of heaven.
 
 {% margin %}
 ____
-
 52 ...in the twinkling of an eye...
 
 53 ...and this mortal must put on immortality.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:52-53]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:52-53]#
 {% endmargin %}
 
 *3 Nephi 28:8* And ye shall never endure the pains of death. But when I shall come in my glory, ye shall be changed [highlight-orange]#in the twinkling of an eye from mortality to immortality.# And then shall ye be blessed in the kingdom of my Father.
@@ -32,23 +43,20 @@ ____
 ____
 
 ...shall sit down in the kingdom of God.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:29]#
 ____
-
 ...that your joy may be full.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 16:24]#
 ____
 That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:21]#
 ____
-
 I and my Father are one
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:30]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:30]#
 {% endmargin %}
 
 *3 Nephi 28:10* And for this cause ye shall have fullness of joy; and ye shall [highlight-orange]#sit down in the kingdom of my Father#. Yea, [highlight-orange]#your joy shall be full#, even as the Father hath given me fullness of joy. [highlight-orange]#And ye shall be even as I am, and I am even as the Father; and the Father and I are one.#
