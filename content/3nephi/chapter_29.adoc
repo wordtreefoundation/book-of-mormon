@@ -8,7 +8,14 @@
 
 *3 Nephi 29:5* Woe unto him that spurneth at the doings of the Lord. Yea, woe unto him that shall deny the Christ and his works.
 
-*3 Nephi 29:6* Yea, woe unto him that shall deny the revelations of the Lord and that shall say: The Lord no longer worketh by revelation or by prophecy or by gifts or by tongues or by healings or by the power of the Holy Ghost.
+{% margin %}
+____
+...gifts of healing...prophecy...tongues...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:9-10]#
+{% endmargin %}
+
+*3 Nephi 29:6* Yea, woe unto him that shall deny the revelations of the Lord and that shall say: The Lord no longer worketh by revelation or [highlight-orange]#by prophecy or by gifts or by tongues or by healings# or by the power of the Holy Ghost.
 
 *3 Nephi 29:7* Yea, and woe unto him that shall say at that day that there can be no miracle wrought by Jesus Christ, for to get gain; for he that doeth this shall become like unto the son of perdition, for whom there was no mercy, according to the words of Christ.
 
