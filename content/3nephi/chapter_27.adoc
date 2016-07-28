@@ -12,9 +12,8 @@
 ____
 
 ...he that shall endure unto the end, the same shall be saved.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
 {% endmargin%}
 
 *3 Nephi 27:6* And [highlight-orange]#whoso# taketh upon him my name [highlight-orange]#and endureth to the end, the same shall be saved# at the last day.
@@ -35,20 +34,40 @@ ____
 
 {% margin %}
 ____
-
 ...I, if I be lifted up from the earth, will draw all men unto me
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:32]#
 ____
+For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:10]#
 {% endmargin%}
 
-*3 Nephi 27:14* And my Father sent me that I might be lifted up upon the cross--and after that [highlight-orange]#I had been lifted up upon the cross, I might draw all men unto me#--that as I have been lifted up by men, even so should men be lifted up by the Father to stand before me to be judged of their works, whether they be good or whether they be evil.
+*3 Nephi 27:14* And my Father sent me that I might be lifted up upon the cross--and after that [highlight-orange]#I had been lifted up upon the cross, I might draw all men unto me#--that as I have been lifted up by men, even so should men be lifted up by the Father [highlight-orange]#to stand before me to be judged of their works, whether they be good or whether they be evil.#
 
 *3 Nephi 27:15* And for this cause have I been lifted up. Therefore, according to the power of the Father, I will draw all men unto me that they may be judged according to their works.
 
-*3 Nephi 27:16* And it shall come to pass that whoso repenteth and is baptized in my name shall be filled. And if he endureth to the end, behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world.
+{% margin %}
+____
+But he that shall endure unto the end, the same shall be saved.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+{% endmargin%}
 
-*3 Nephi 27:17* And he that endureth not unto the end, the same is he that is also hewn down and cast into the fire from whence they can no more return because of the justice of the Father.
+*3 Nephi 27:16* And it shall come to pass that whoso repenteth and is baptized in my name shall be filled. [highlight-orange]#And if he endureth to the end, behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world.#
+
+{% margin %}
+____
+But he that shall endure unto the end, the same shall be saved.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
+____
+...every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:10]#
+{% endmargin%}
+
+*3 Nephi 27:17* And he that [highlight-orange]#endureth not unto the end, the same is he that is also hewn down and cast into the fire# from whence they can no more return because of the justice of the Father.
 
 *3 Nephi 27:18* And this is the word which he hath given unto the children of men. And for this cause he fulfilleth the words which he hath given; and he lieth not but fulfilleth all his words.
 
@@ -57,17 +76,16 @@ ____
 {% margin %}
 ____
 ...[highlight-orange]#Repent ye#...
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:2]#
 ____
 [highlight-orange]#And be ye saved, all the ends of the earth#...
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
 ____
 ...[highlight-orange]#he shall baptize you with the Holy Ghost#...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
 {% endmargin %}
 
 *3 Nephi 27:20* Now this is the commandment: [highlight-orange]#repent#, [highlight-orange]#all ye ends of the earth#, and come unto me and be [higlight-orange]#baptized in my name, that ye may be sanctified by the reception of the Holy Ghost#, that ye may stand spotless before me at the last day.
@@ -75,10 +93,8 @@ ____
 {% margin %}
 ____
 Those things, which ye have both learned, and received, and heard, and seen in me, do...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Philippians-Chapter-4/[Philippians 4:9]#
-
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Philippians-Chapter-4/[Philippians 4:9]#
 {% endmargin %}
 
 *3 Nephi 27:21* Verily verily I say unto you: This is my gospel. And ye know the things that ye must do in my church. [highlight-orange]#For the works which ye have seen me do, that shall ye also do; for that which ye have seen me do, even that shall ye do#.
@@ -89,7 +105,14 @@ ____
 
 *3 Nephi 27:24* Write the works of this people which shall be, even as hath been written of that which hath been.
 
-*3 Nephi 27:25* For behold, out of the books which have been written and which shall be written shall this people be judged, for by them shall their works be known unto men.
+{% margin %}
+____
+...and the dead were judged out of those things which were written in the books, according to their works.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:12]#
+{% endmargin %}
+
+*3 Nephi 27:25* For behold, [highlight-orange]#out of the books which have been written and which shall be written shall this people be judged#, for by them shall their works be known unto men.
 
 *3 Nephi 27:26* And behold, all things are written by the Father. Therefore out of the books which shall be written shall the world be judged.
 
@@ -97,9 +120,8 @@ ____
 ____
 
 Be ye therefore perfect, even as your Father which is in heaven is perfect.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:48]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-5/[Matthew 5:48]#
 {% endmargin %}
 
 *3 Nephi 27:27* And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore what manner of men had ye ought to be? [highlight-orange]#Verily I say unto you: Even as I am.#
@@ -112,14 +134,12 @@ ____
 7 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
 
 8 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:7-8]#
 ____
-
 And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:13]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:13]#
 {% endmargin %}
 
 *3 Nephi 27:29* [highlight-orange]#Therefore ask and ye shall receive; knock and it shall be opened unto you. For he that asketh receiveth; and unto him that knocketh it shall be opened.#
@@ -131,9 +151,8 @@ ____
 {% margin %}
 ____
 ...where moth and rust doth corrupt, and where thieves break through and steal
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:19]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-6/[Matthew 6:19]#
 {% endmargin %}
 
 *3 Nephi 27:32* But behold, it sorroweth me because of the fourth generation from this generation, for they are led away captive by him, even as was the son of perdition. For they will sell me for silver and for gold [highlight-orange]#and for that which moth doth corrupt and which thieves can break through and steal#. And in that day will I visit them, even in turning their works upon their own heads.
@@ -144,14 +163,13 @@ ____
 [highlight-orange]#Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat#:
 
 Because [highlight-orange]#strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it#
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:13-14]#
 ____
 
 ...the night cometh, when no man can work.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-9/[John 9:4]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-9/[John 9:4]#
 {% endmargin %}
 
 *3 Nephi 27:33* And it came to pass that when Jesus had ended these sayings, he saith unto his disciples: [highlight-orange]#Enter ye in at the strait gate. For strait is the gate and narrow is the way that leads to life, and few there be that find it. But wide is the gate and broad the way which leads to death, and many there be that traveleth therein until the night cometh wherein no man can work.#
