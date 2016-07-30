@@ -18,7 +18,14 @@
 
 *3 Nephi 18:10* And when the disciples had done this, Jesus saith unto them: Blessed are ye for this thing which ye have done, for this is fulfilling my commandments. And this doth witness unto the Father that ye are willing to do that which I have commanded you.
 
-*3 Nephi 18:11* And this shall ye always do unto those who repent and are baptized in my name. And ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me, ye shall have my Spirit to be with you.
+{% margin %}
+____
+...Repent, and be baptized...in the name of Jesus Christ...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+{% endmargin %}
+
+*3 Nephi 18:11* And this shall ye always do unto those [highlight-orange]#who repent and are baptized in my name#. And ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me, ye shall have my Spirit to be with you.
 
 *3 Nephi 18:12* And I give unto you a commandment that ye shall do these things. And if ye shall always do these things, blessed are ye, for ye are built upon my rock.
 
@@ -54,12 +61,15 @@ ____
 ____
 
 ...I am the light of the world:...
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
 ____
+...Repent, and be baptized...in the name of Jesus Christ...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
 {% endmargin %}
 
-*3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which do repent and are baptized in my name. Behold, [highlight-orange]#I am the light#; I have set an example before you.
+*3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which [highlight-orange]#do repent and are baptized in my name#. Behold, [highlight-orange]#I am the light#; I have set an example before you.
 
 {% margin %}
 ____
