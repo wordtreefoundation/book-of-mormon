@@ -149,7 +149,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:32* [highlight-orange]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
+*3 Nephi 20:32* [highlight]#Then shall their watchmen lift up their voice; and with the voice together shall they sing, for they shall see eye to eye.#
 
 *3 Nephi 20:33* Then will the Father gather them together again and give unto them Jerusalem for the land of their inheritance.
 
@@ -162,7 +162,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:34* [highlight-orange]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
+*3 Nephi 20:34* [highlight]#Then shall they break forth into joy. Sing together, ye waste places of Jerusalem! For the Father hath comforted his people; he hath redeemed Jerusalem.#
 
 {% margin %}
 ____
@@ -172,7 +172,7 @@ The LORD hath made bare his holy arm in the eyes of all the nations; and all the
 ____
 {% endmargin %}
 
-*3 Nephi 20:35* [highlight-orange]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
+*3 Nephi 20:35* [highlight]#The Father hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of the Father. And the Father and I are one.#
 
 {% margin %}
 ____
@@ -193,7 +193,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:37* [highlight-orange]#Shake thyself from the dust! Arise! Sit down, O Jerusalem! Loose thyself from the bands of thy neck, O captive daughter of Zion!#
+*3 Nephi 20:37* [highlight]#Shake thyself from the dust! Arise! Sit down, O Jerusalem! Loose thyself from the bands of thy neck, O captive daughter of Zion!#
 
 {% margin %}
 ____
@@ -203,7 +203,7 @@ For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be red
 ____
 {% endmargin %}
 
-*3 Nephi 20:38* [highlight-orange]#For thus saith the Lord: Ye have sold yourselves for naught; and ye shall be redeemed without money.#
+*3 Nephi 20:38* [highlight]#For thus saith the Lord: Ye have sold yourselves for naught; and ye shall be redeemed without money.#
 
 {% margin %}
 ____
@@ -214,7 +214,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:39* [highlight-orange]#Verily verily I say unto you that my people shall know my name. Yea, in that day they shall know that I am he that doth speak.
+*3 Nephi 20:39* [highlight]#Verily verily I say unto you that my people shall know my name. Yea, in that day they shall know that I am he that doth speak.#
 
 {% margin %}
 ____
@@ -225,7 +225,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:40* [highlight-orange]#And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace, that bringeth good tidings unto them of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!
+*3 Nephi 20:40* [highlight]#And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace, that bringeth good tidings unto them of good, that publisheth salvation, that saith unto Zion: Thy God reigneth!#
 
 {% margin %}
 ____
@@ -236,7 +236,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:41* [highlight-orange]#And then shall a cry go forth: Depart ye, depart ye! Go ye out from thence! Touch not that which is unclean! Go ye out of the midst of her! Be ye clean that bear the vessels of the Lord!
+*3 Nephi 20:41* [highlight]#And then shall a cry go forth: Depart ye, depart ye! Go ye out from thence! Touch not that which is unclean! Go ye out of the midst of her! Be ye clean that bear the vessels of the Lord!#
 
 {% margin %}
 ____
@@ -247,7 +247,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:42* [highlight-orange]#For ye shall not go out with haste nor go by flight; for the Lord will go before you, and the God of Israel shall be your rearward.
+*3 Nephi 20:42* [highlight]#For ye shall not go out with haste nor go by flight; for the Lord will go before you, and the God of Israel shall be your rearward.#
 
 {% margin %}
 ____
@@ -258,7 +258,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:43* [highlight-orange]#Behold, my servant shall deal prudently. He shall be exalted and extolled and be very high.
+*3 Nephi 20:43* [highlight]#Behold, my servant shall deal prudently. He shall be exalted and extolled and be very high.#
 
 {% margin %}
 ____
@@ -269,7 +269,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:44* [highlight-orange]#As many were astonished at thee--his visage was so marred, more than any man, and his form more than the sons of men--
+*3 Nephi 20:44* [highlight]#As many were astonished at thee--his visage was so marred, more than any man, and his form more than the sons of men--#
 
 {% margin %}
 ____
@@ -280,7 +280,7 @@ ____
 {% endmargin %}
 
 
-*3 Nephi 20:45* [highlight-orange]#so shall he sprinkle many nations. The kings shall shut their mouths at him; for that which had not been told them shall they see, and that which they had not heard shall they consider.
+*3 Nephi 20:45* [highlight]#so shall he sprinkle many nations. The kings shall shut their mouths at him; for that which had not been told them shall they see, and that which they had not heard shall they consider.#
 
 *3 Nephi 20:46* Verily verily I say unto you: All these things shall surely come, even as the Father hath commanded me. And then shall this covenant which the Father hath covenanted with his people be fulfilled. And then shall Jerusalem be inhabited again with my people, and it shall be the land of their inheritance.
 
