@@ -36,7 +36,14 @@
 
 *3 Nephi 19:19* And it came to pass that Jesus departed out of the midst of them and went a little way off from them and bowed himself to the earth, and he saith:
 
-*3 Nephi 19:20* Father, I thank thee that thou hast given the Holy Ghost unto these whom I have chosen. And it is because of their belief in me that I have chosen them out of the world.
+{% margin %}
+____
+...the men which thou gavest me out of the world...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:16]#
+{% endmargin %}
+
+*3 Nephi 19:20* Father, I thank thee that [highlight-orange]#thou hast given# the Holy Ghost unto these whom I have chosen. And it is because of their belief in me [highlight-orange]#that I have chosen them out of the world.#
 
 *3 Nephi 19:21* Father, I pray thee that thou wilt give the Holy Ghost unto all them that shall believe in their words.
 
