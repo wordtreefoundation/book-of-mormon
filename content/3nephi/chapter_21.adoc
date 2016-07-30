@@ -8,7 +8,15 @@
 
 *3 Nephi 21:5* therefore when these works, and the works which shall be wrought among you hereafter, shall come forth from the Gentiles unto your seed, which shall dwindle in unbelief because of iniquity--
 
-*3 Nephi 21:6* for thus it behooveth the Father that it should come forth from the Gentiles, that he may shew forth his power unto the Gentiles, for this cause that the Gentiles--if they will not harden their hearts--that they may repent and come unto me and be baptized in my name and know of the true points of my doctrine, that they may be numbered among my people, O house of Israel.
+{% margin %}
+____
+...Repent, and be baptized...in the name of Jesus Christ...
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
+{% endmargin %}
+
+*3 Nephi 21:6* for thus it behooveth the Father that it should come forth from the Gentiles, that he may shew forth his power unto the Gentiles, for this cause that the Gentiles--if they will not harden their hearts--[highlight-orange]#that they may repent and come unto me and be baptized in my name# and know of the true points of my doctrine, that they may be numbered among my people, O house of Israel.
 
 *3 Nephi 21:7* And when these things come to pass, that thy seed shall begin to know these things, it shall be a sign unto them that they may know that the work of the Father hath already commenced unto the fulfilling of the covenant which he hath made unto the people which are of the house of Israel.
 
