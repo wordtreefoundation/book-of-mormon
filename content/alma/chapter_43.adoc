@@ -49,7 +49,22 @@ ____
 
 *Alma 43:21* but they were not armed with breastplates nor shields--therefore they were exceeding fraid of the armies of the Nephites because of their armor, notwithstanding their number being so much greater than the Nephites.
 
-*Alma 43:22* Behold, now it came to pass that they durst not come against the Nephites in the borders of Jershon. Therefore they departed out of the land of Antionum into the wilderness and took their journey round about in the wilderness, away by the head of the river Sidon, that they might come into the land of Manti and take possession of the land, for they did not suppose that the armies of Moroni would know whither they had gone.
+{% margin %}
+____
+
+Sidon: greek form of the Phoenician name "Zidon".  In the Old Testament ZIDON, now called Saida, was celebrated city of Phoenicia
+
+[small]#KJV Bible, 1769, http://biblehub.com/topical/s/sidon.htm[Bible Hub Topical Guide, "Sidon"]#
+____
+____
+
+..And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and [highlight]#Sidon#, a great multitude...
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-3/[Mark 3:8]#
+
+____
+{% endmargin %}
+
+*Alma 43:22* Behold, now it came to pass that they durst not come against the Nephites in the borders of Jershon. Therefore they departed out of the land of Antionum into the wilderness and took their journey round about in the wilderness, away by the head of the river [highlight]#Sidon#, that they might come into the land of Manti and take possession of the land, for they did not suppose that the armies of Moroni would know whither they had gone.
 
 *Alma 43:23* But it came to pass as soon as they had departed into the wilderness, And Moroni also knowing of the prophecies of Alma sent certain men unto him, desiring him that he should inquire of the Lord whither the armies of the Nephites should go to defend themselves against the Lamanites.
 
