@@ -29,13 +29,19 @@ ____
 
 {% margin %}
 ____
+
+...infinite atonement...
+
+[small]#https://books.google.com/books?id=YNo-AAAAYAAJ&pg=PA119&dq=%22infinite+atonement%22&hl=en&sa=X&ved=0ahUKEwi4sK3p1rDOAhUl7oMKHc9hBZ4Q6AEISjAI#v=onepage&q=%22infinite%20atonement%22&f=false[A Compendium of the System of Divine Truth by Jacob Catlin, Mass. 1824], and https://www.google.com/search?q=%22infinite+atonement%22&lr=lang_en&biw=956&bih=936&source=lnt&tbs=lr%3Alang_1en%2Ccdr%3A1%2Ccd_min%3A1%2F1%2F1800%2Ccd_max%3A12%2F31%2F1830&tbm=bks[many other pre-1830 sources]#
+____
+
 ...this corruptible must put on incorruption...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:53]#
 ____
 {% endmargin %}
 
-*2 Nephi 9:7* Wherefore it must needs be an infinite atonement; save it should be an infinite atonement, [highlight-orange]#this corruption could not put on incorruption#. Wherefore the first judgment which came upon man must needs have remained to an endless duration. And if so, this flesh must have laid down to rot and to crumble to its mother earth, to rise no more.
+*2 Nephi 9:7* Wherefore it must needs be an [highlight]#infinite atonement#; save it should be an infinite atonement, [highlight-orange]#this corruption could not put on incorruption#. Wherefore the first judgment which came upon man must needs have remained to an endless duration. And if so, this flesh must have laid down to rot and to crumble to its mother earth, to rise no more.
 
 *2 Nephi 9:8* O the wisdom of God, his mercy and grace! For behold, if the flesh should rise no more, our spirits must become subject to that angel which fell from before the presence of the Eternal God and became the devil, to rise no more.
 

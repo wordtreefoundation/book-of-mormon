@@ -14,7 +14,15 @@
 
 *Mosiah 15:8* And thus God breaketh the bands of death, having gained the victory over death, giving the Son power to make intercession for the children of men,
 
-*Mosiah 15:9* having ascended into heaven, having the bowels of mercy, being filled with compassion toward the children of men, standing betwixt them and justice, having broken the bands of death, having taken upon himself their iniquity and their transgressions, having redeemed them and satisfied the demands of justice.
+{% margin %}
+____
+...satisfy the demands of justice...
+
+[small]#https://books.google.com/books?id=SdZGAQAAMAAJ&pg=PA149&dq=%22satisfy+the+demands+of+justice%22&hl=en&sa=X&ved=0ahUKEwjclfbezrjJAhUXzGMKHebXCUsQ6AEIHDAA#v=onepage&q=%22satisfy%20the%20demands%20of%20justice%22&f=false[The Christian Observer, vol 15, Boston: 1816]#
+____
+{% endmargin %}
+
+*Mosiah 15:9* having ascended into heaven, having the bowels of mercy, being filled with compassion toward the children of men, standing betwixt them and justice, having broken the bands of death, having taken upon himself their iniquity and their transgressions, having redeemed them and [highlight]#satisfied the demands of justice#.
 
 {% margin %}
 ____

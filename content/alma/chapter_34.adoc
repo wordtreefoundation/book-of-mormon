@@ -20,7 +20,16 @@
 
 *Alma 34:11* Now there is not any man that can sacrifice his own blood which will atone for the sins of another. Now if a man murdereth, behold, will our law, which is just, take the life of his brother? I say unto you: Nay.
 
-*Alma 34:12* But the law requireth the life of him who hath murdered. Therefore there can be nothing which is short of an infinite atonement which will suffice for the sins of the world.
+{% margin %}
+____
+
+...infinite atonement...
+
+[small]#https://books.google.com/books?id=YNo-AAAAYAAJ&pg=PA119&dq=%22infinite+atonement%22&hl=en&sa=X&ved=0ahUKEwi4sK3p1rDOAhUl7oMKHc9hBZ4Q6AEISjAI#v=onepage&q=%22infinite%20atonement%22&f=false[A Compendium of the System of Divine Truth by Jacob Catlin, Mass. 1824], and https://www.google.com/search?q=%22infinite+atonement%22&lr=lang_en&biw=956&bih=936&source=lnt&tbs=lr%3Alang_1en%2Ccdr%3A1%2Ccd_min%3A1%2F1%2F1800%2Ccd_max%3A12%2F31%2F1830&tbm=bks[many other pre-1800 sources]#
+____
+{% endmargin %}
+
+*Alma 34:12* But the law requireth the life of him who hath murdered. Therefore there can be nothing which is short of an [highlight]#infinite atonement# which will suffice for the sins of the world.
 
 {% margin %}
 ____
@@ -38,7 +47,15 @@ ____
 
 *Alma 34:15* And thus he shall bring salvation to all those who shall believe on his name, this being the intent of this last sacrifice, to bring about the bowels of mercy, which overpowereth justice and bringeth about means unto men that they may have faith unto repentance.
 
-*Alma 34:16* And thus mercy can satisfy the demands of justice and encircle them in the arms of safety, while he that exerciseth no faith unto repentance is exposed to the whole law of the demands of justice. Therefore only unto him that hath faith unto repentance is brought about the great and eternal plan of redemption.
+{% margin %}
+____
+...satisfy the demands of justice...
+
+[small]#https://books.google.com/books?id=SdZGAQAAMAAJ&pg=PA149&dq=%22satisfy+the+demands+of+justice%22&hl=en&sa=X&ved=0ahUKEwjclfbezrjJAhUXzGMKHebXCUsQ6AEIHDAA#v=onepage&q=%22satisfy%20the%20demands%20of%20justice%22&f=false[The Christian Observer, vol 15, Boston: 1816]#
+____
+{% endmargin %}
+
+*Alma 34:16* And thus mercy can [highlight]#satisfy the demands of justice# and encircle them in the arms of safety, while he that exerciseth no faith unto repentance is exposed to the whole law of the demands of justice. Therefore only unto him that hath faith unto repentance is brought about the great and eternal plan of redemption.
 
 *Alma 34:17* Therefore may God grant unto you, my brethren, that ye might begin to exercise your faith unto repentance, that ye begin to call upon his holy name that he would have mercy upon you.
 
