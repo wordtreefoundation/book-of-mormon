@@ -43,7 +43,15 @@ ____
 
 *Alma 42:12* And now there was no means to reclaim men from this fallen state, which man had brought upon himself because of his own disobedience.
 
-*Alma 42:13* Therefore according to justice the plan of redemption could not be brought about, only on conditions of repentance of men in this probationary state, yea, this preparatory state. For except it were for these conditions, mercy could not take effect except it should destroy the work of justice. Now the work of justice could not be destroyed. If so, God would cease to be God.
+{% margin %}
+____
+...he would cease to be God
+
+[small]#https://books.google.com/books?id=S4GdaJDYdbYC&pg=PA21&dq=%22would+cease+to+be+god%22&hl=en&sa=X&ved=0ahUKEwj24JzWz7jJAhVJ6WMKHYG9C0kQ6AEIKDAC#v=onepage&q=%22would%20cease%20to%20be%20god%22&f=false[A Series of Lectures on the Doctrine of Universal Benevolence by Abner Kneeland, Philadelphia: 1818, pg 21]; https://books.google.com/books?id=e6ErAAAAYAAJ&pg=PA10&dq=%22would+cease+to+be+god%22&hl=en&sa=X&ved=0ahUKEwj24JzWz7jJAhVJ6WMKHYG9C0kQ6AEIHTAA#v=onepage&q=%22would%20cease%20to%20be%20god%22&f=false[The Sermons and Other Practical Works of the Reverend and Learned Ralph Erskine, A.M., Vol 5, pg 10, London: 1821]#
+____
+{% endmargin %}
+
+*Alma 42:13* Therefore according to justice the plan of redemption could not be brought about, only on conditions of repentance of men in this probationary state, yea, this preparatory state. For except it were for these conditions, mercy could not take effect except it should destroy the work of justice. Now the work of justice could not be destroyed. If so, [highlight]#God would cease to be God#.
 
 *Alma 42:14* And thus we see that all mankind were fallen, and they were in the grasp of justice, yea, the justice of God which consigned them forever to be cut off from his presence.
 

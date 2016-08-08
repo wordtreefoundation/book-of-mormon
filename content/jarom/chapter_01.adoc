@@ -1,5 +1,13 @@
 *Jarom 1:1* Now behold, I Jarom write a few words according to the commandment of my father Enos, that our genealogy may be kept.
 
+{% margin %}
+____
+...plan of salvation...
+
+[small]#https://www.google.com/search?q=%22plan+of+salvation%22&lr=lang_en&source=lnt&tbs=lr%3Alang_1en%2Ccdr%3A1%2Ccd_min%3A1%2F1%2F1800%2Ccd_max%3A12%2F30%2F1830&tbm=bks[many pre-1830 sources]#
+____
+{% endmargin %}
+
 *Jarom 1:2* And as these plates are small and as these things are written for the intent of the benefit of our brethren the Lamanites, wherefore it must needs be that I write a little. But I shall not write the things of my prophesying nor of my revelations. For what could I write more than my fathers have written, for have not they revealed the plan of salvation? I say unto you: Yea; and this sufficeth me.
 
 *Jarom 1:3* Behold, it is expedient that much should be done among this people because of the hardness of their hearts and the deafness of their ears and the blindness of their minds and the stiffness of their necks. Nevertheless God is exceeding merciful unto them and hath not as yet swept them off from the face of the land.
