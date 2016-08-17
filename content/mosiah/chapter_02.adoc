@@ -38,7 +38,18 @@
 
 *Mosiah 2:20* I say unto you my brethren that if you should render all the thanks and praise which your whole souls hath power to possess to that God who hath created you and hath kept and preserved you and hath caused that ye should rejoice and hath granted that ye should live in peace one with another--
 
-*Mosiah 2:21* I say unto you that if ye should serve him who hath created you from the beginning and art preserving you from day to day by lending you breath that ye may live and move and do according to your own will, and even supporting you from one moment to another--I say, if ye should serve him with all your whole soul, and yet ye would be unprofitable servants.
+{% margin %}
+____
+
+9 Doth he thank that servant because he did the things that were commanded him? I trow not.
+
+10 So likewise ye, when ye shall have done all those things which are commanded you, say, We are [highlight-orange]#unprofitable servants#: we have done that which was our duty to do.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-17-10/[Luke 17:9-10]#
+____
+{% endmargin %}
+
+*Mosiah 2:21* I say unto you that if ye should serve him who hath created you from the beginning and art preserving you from day to day by lending you breath that ye may live and move and do according to your own will, and even supporting you from one moment to another--I say, if ye should serve him with all your whole soul, and yet ye would be [highlight-orange]#unprofitable servants#.
 
 *Mosiah 2:22* And behold, all that he requires of you is to keep his commandments. And he hath promised you that if ye would keep his commandments, ye should prosper in the land. And he never doth vary from that which he hath said; therefore if ye do keep his commandments, he doth bless you and prosper you.
 
@@ -70,7 +81,15 @@
 
 *Mosiah 2:36* And now I say unto you my brethren that after ye have known and have been taught all these things, if ye should transgress and go contrary to that which hath been spoken, that ye do withdraw yourselves from the Spirit of the Lord, that it may have no place in you to guide you in wisdom's paths that ye may be blessed, prospered, and preserved--
 
-*Mosiah 2:37* I say unto you that the man that doeth this, the same cometh out in open rebellion against God; therefore he listeth to obey the evil spirit and becometh an enemy to all righteousness. Therefore the Lord hath no place in him, for he dwelleth not in unholy temples.
+{% margin %}
+____
+Will God dwell in an unholy temple?
+
+[small]#https://books.google.com/books?id=BEgRAAAAIAAJ&pg=PA105&dq=%22unholy+temple%22&hl=en&sa=X&ved=0ahUKEwi9xqjg0bjJAhXPK4gKHV0vBTwQ6AEIIjAB#v=onepage&q=%22unholy%20temple%22&f=false[Selections from the Works of Isaac Penington, New-Bedford, Massachusetts: 1818]#
+____
+{% endmargin %}
+
+*Mosiah 2:37* I say unto you that the man that doeth this, the same cometh out in open rebellion against God; therefore he listeth to obey the evil spirit and becometh an enemy to all righteousness. Therefore the Lord hath no place in him, for [highlight]#he dwelleth not in unholy temples#.
 
 *Mosiah 2:38* Therefore if that man repenteth not and remaineth and dieth an enemy to God, the demands of divine justice doth awaken his immortal soul to a lively sense of his own guilt, which doth cause him to shrink from the presence of the Lord and doth fill his breast with guilt and pain and anguish, which is like an unquenchable fire whose flames ascendeth up forever and ever.
 

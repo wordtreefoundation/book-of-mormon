@@ -42,7 +42,20 @@ ____
 
 *2 Nephi 2:10* And because of the intercession for all, all men cometh unto God. Wherefore they stand in the presence of him to be judged of him according to the truth and holiness which is in him; wherefore the ends of the law which the Holy One hath given unto the inflicting of the punishment which is affixed, which punishment that is affixed is in opposition to that of the happiness which is affixed, to answer the ends of the atonement--
 
-*2 Nephi 2:11* for it must needs be that there is an opposition in all things. If not so, my first born in the wilderness, righteousness could not be brought to pass, neither wickedness, neither happiness nor misery, neither good nor bad; wherefore all things must needs be a compound in one. Wherefore if it should be one body, it must needs remain as dead, having no life neither death, nor corruption nor incorruption, happiness nor misery, neither sense nor insensibility.
+{% margin %}
+____
+If there be moral good in any of those tempers or actions, there must be moral evil in the directly opposite; and if there be no moral evil in the latter, there is no moral good in the former; as if there were no natural evil in pain there would be no natural good in pleasure.
+
+[small]#https://books.google.com/books?id=aOphAAAAIAAJ&pg=PA203&lpg=PA203&dq=if+there+be+moral+good+in+any+of+those+tempers+or+actions&source=bl&ots=bIREzVLiCy&sig=gNwN_MBtzeD7bePksIpJcPxexD4&hl=en&sa=X&ved=0ahUKEwixoablg8fOAhVG5GMKHXJBD_MQ6AEIHjAA#v=onepage&q=%22if%20there%20be%20moral%20good%20in%20any%20of%20those%20tempers%20or%20actions%2C%20there%20must%20be%20moral%20evil%20in%20the%20directly%20opposite%22&f=false[The Works of Jonathon Edwards, D.D., vol 2, Boston: 1850.] (sermon originally preached in 1793 and published in New Haven, Connecticut)#
+____
+____
+Farther, in all things different, however moderate their Diversity, there is an appearance of Opposition with respect to each other...
+
+[small]#https://books.google.com/books?id=nndFAAAAcAAJ&pg=PA352&dq=%22appearance+of+opposition%22&hl=en&sa=X&ved=0ahUKEwjlxOCc0bjJAhVCW4gKHSuHBQQQ6AEIKDAC#v=onepage&q=%22appearance%20of%20opposition%22&f=false[The Works of James Harris Esq. vol 1, pg. 352, London: 1801.]#
+____
+{% endmargin %}
+
+*2 Nephi 2:11* for it must needs be that there is an [highlight]#opposition in all things#. If not so, my first born in the wilderness, righteousness could not be brought to pass, neither wickedness, neither happiness nor misery, neither good nor bad; wherefore all things must needs be a compound in one. Wherefore if it should be one body, it must needs remain as dead, having no life neither death, nor corruption nor incorruption, happiness nor misery, neither sense nor insensibility.
 
 *2 Nephi 2:12* Wherefore it must needs have been created for a thing of naught; wherefore there would have been no purpose in the end of its creation. Wherefore this thing must needs destroy the wisdom of God and his eternal purposes, and also the power and the mercy and the justice of God.
 

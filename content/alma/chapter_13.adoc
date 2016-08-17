@@ -114,7 +114,15 @@ ____
 
 *Alma 13:26* And it shall be made known unto just and holy men by the mouth of angels at the time of his coming, that the words of our fathers might be fulfilled, according to that which they have spoken concerning him, which was according to the spirit of prophecy which was in them.
 
-*Alma 13:27* And now my brethren, I wish from the inmost part of my heart--yea, with great anxiety even unto pain--that ye would hearken unto my words and cast off your sins and not procrastinate the day of your repentance,
+{% margin %}
+____
+So we see the folly of [highlight]#procrastinating the day of repentance#...
+
+[small]#https://books.google.com/books?id=KczfGcGsQYMC&pg=PA293&dq=%22day+of+repentance%22&hl=en&sa=X&ved=0ahUKEwip3pSN0rjJAhWVLogKHeX4BMYQ6AEINTAF#v=onepage&q=%22procrastinating%20the%20day%20of%20repentance%22&f=false[The Millennium, or Latter-Day Glory of the Church by Ray Potter, Providence, Rhode Island: 1824]#
+____
+{% endmargin %}
+
+*Alma 13:27* And now my brethren, I wish from the inmost part of my heart--yea, with great anxiety even unto pain--that ye would hearken unto my words and cast off your sins and not [highlight]#procrastinate the day of your repentance#,
 
 {% margin %}
 ____
