@@ -58,7 +58,20 @@ ____
 
 *1 Nephi 13:25* Wherefore these things go forth from the Jews in purity unto the Gentiles, according to the truth which is in God.
 
-*1 Nephi 13:26* And after that they go forth by the hand of the twelve apostles of the Lamb from the Jews unto the Gentiles, behold, after this thou seest the formation of that great and abominable church, which is the most abominable of all other churches. For behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away.
+{% margin %}
+____
+
+...plain and precious truths...
+
+[small]#https://books.google.com/books?id=0GgUAAAAQAAJ&pg=PA28&lpg=PA28&dq=%22than+those+plain+and+precious+truths%22&source=bl&ots=G0EQAECG6k&sig=REQ3FiqjZfI5jr23qsBAh7wrYrA&hl=en&sa=X&ved=0ahUKEwi0mfuB1rjJAhXJoogKHedLBfMQ6AEIHTAA#v=onepage&q=%22than%20those%20plain%20and%20precious%20truths%22&f=false[Directions and Encouragements for Travellers to Zion by Joseph Freeston, London: 1816]#
+
+O let these plain and simple, but precious truths take hold upon your hearts...
+
+[small]#https://books.google.com/books?id=PyIbAAAAYAAJ&pg=PA58&lpg=PA58&dq=%22O+let+these+plain+and+simple,+but+precious+truths+take+hold+upon+your+hearts%22&source=bl&ots=lRZ_p1KXNg&sig=GkWvmwzlurOpkcoA0sIN_s4REn0&hl=en&sa=X&ved=0ahUKEwiv-e-U1rjJAhUMlYgKHcXzDGgQ6AEIHjAA#v=onepage&q=%22O%20let%20these%20plain%20and%20simple%2C%20but%20precious%20truths%20take%20hold%20upon%20your%20hearts%22&f=false[The Washington Theological Repertory, vol 2, Washington D.C.: 1820-21]#
+____
+{% endmargin %}
+
+*1 Nephi 13:26* And after that they go forth by the hand of the twelve apostles of the Lamb from the Jews unto the Gentiles, behold, after this thou seest the formation of that great and abominable church, which is the most abominable of all other churches. For behold, they have taken away from the gospel of the Lamb many parts which are [highlight]#plain and most precious#; and also many covenants of the Lord have they taken away.
 
 {% margin %}
 ____
