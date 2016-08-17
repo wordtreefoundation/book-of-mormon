@@ -182,13 +182,18 @@ ____
 
 {% margin %}
 ____
+...[highlight]#denying yourself of all ungodliness#...
+
+[small]#https://books.google.com/books?id=PyIbAAAAYAAJ&pg=PA194&lpg=PA194&dq=%22You+are+working+out+your+salvation+with+fear+and+trembling,+denying%22&source=bl&ots=lRZ_p1KVP9&sig=rIc7_c3-HCgxtBF92BvA6AC4ybI&hl=en&sa=X&ved=0ahUKEwiNl4681bjJAhVBmYgKHRH5A3kQ6AEIHjAA#v=onepage&q=%22denying%20yourself%20of%20all%20ungodliness%22&f=false[The Washington Theological Repertory, vol 2, pg 194, Washington DC: 1821]#
+____
+____
 And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:9]#
 ____
 {% endmargin %}
 
-*Moroni 10:32* Yea, come unto Christ and be perfected in him, and deny yourselves of all ungodliness. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, [highlight-orange]#then is his grace sufficient for you, that by his grace ye may be perfect in Christ.# And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
+*Moroni 10:32* Yea, come unto Christ and be perfected in him, and [highlight]#deny yourselves of all ungodliness#. And if ye shall deny yourselves of all ungodliness and love God with all your might, mind, and strength, [highlight-orange]#then is his grace sufficient for you, that by his grace ye may be perfect in Christ.# And if by the grace of God ye are perfect in Christ, ye can in no wise deny the power of God.
 
 *Moroni 10:33* And again, if ye by the grace of God are perfect in Christ and deny not his power, then are ye sanctified in Christ by the grace of God through the shedding of the blood of Christ, which is in the covenant of the Father, unto the remission of your sins, that ye become holy, without spot.
 
