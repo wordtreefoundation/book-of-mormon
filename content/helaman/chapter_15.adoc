@@ -11,14 +11,13 @@ ____
 
 {% margin %}
 ____
-
-...woe unto them that are with child...
+And woe unto them that are with child, and to them that give suck in those days!
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:19]#
 ____
 {% endmargin %}
 
-*Helaman 15:2* Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck. For ye shall attempt to flee and there shall be no place for refuge. Yea, and [highlight-orange]#woe unto them which are with child#, for they shall be heavy and cannot flee. Therefore they shall be trodden down and shall be left to perish.
+*Helaman 15:2* Yea, except ye repent, your women shall have great cause to [highlight-orange]#mourn in the day that they shall give suck.# For ye shall attempt to flee and there shall be no place for refuge. Yea, and [highlight-orange]#woe unto them which are with child#, for they shall be heavy and cannot flee. Therefore they shall be trodden down and shall be left to perish.
 
 *Helaman 15:3* Yea, woe unto this people which are called the people of Nephi except they shall repent when they shall see all those signs and wonders which shall be shewed unto them. For behold, they have been a chosen people of the Lord. Yea, the people of Nephi hath he loved. And also hath he chastened them; yea, in the days of their iniquities hath he chastened them because he loveth them.
 
