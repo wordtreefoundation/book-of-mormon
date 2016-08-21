@@ -8,11 +8,9 @@
 
 {% margin %}
 ____
-
 ...the blood of prophets, and of saints, and of all that were slain upon the earth.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 {% endmargin %}
 
 *3 Nephi 9:5* And behold, that great city Moronihah have I covered with earth and the inhabitants thereof, to hide their iniquities and their abominations from before my face, that [highlight-orange]#the blood of the prophets and of the saints# shall not come up any more unto me against them.
@@ -23,44 +21,36 @@ ____
 
 {% margin %}
 ____
-
 ...the blood of prophets, and of saints, and of all that were slain upon the earth.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 {% endmargin %}
 
 *3 Nephi 9:8* And behold, the city of Gadiandi and the city of Gadiomnah and the city of Jacob and the city of Gimgimno, all these have I caused to be sunk and made hills and valleys in the places thereof; and the inhabitants thereof have I buried up in the depths of the earth, to hide their wickedness and abominations from before my face, that [highlight-orange]#the blood of the prophets and the saints# should not come up any more unto me against them.
 
 {% margin %}
 ____
-
 ...the blood of prophets, and of saints, and of all that were slain upon the earth.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 {% endmargin %}
 
 *3 Nephi 9:9* And behold, that great city Jacob-Ugath, which was inhabited by the people of the king Jacob, have I caused to be burned with fire because of their sins and their wickedness, which was above all the wickedness of the whole earth because of their secret murders and combinations, for it was they that did destroy the peace of my people and the government of the land. Therefore I did cause them to be burned, to destroy them from before my face, that [highlight-orange]#the blood of the prophets and the saints# should not come up unto me any more against them.
 
 {% margin %}
 ____
-
 Your country is desolate, your cities are burned with fire
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-1/[Isaiah 1:7]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-1/[Isaiah 1:7]#
 {% endmargin %}
 
 *3 Nephi 9:10* And behold, [highlight]#the city of Laman and the city of Josh and the city of Gad and the city of Kishcumen have I caused to be burned with fire#, and the inhabitants thereof, because of their wickedness in casting out the prophets and stoning them which I did send to declare unto them concerning their wickedness and their abominations.
 
 {% margin %}
 ____
-
 ...the blood of prophets, and of saints...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-18/[Revelation 18:24]#
 {% endmargin %}
 
 *3 Nephi 9:11* And because they did cast them all out, that there were none righteous among them, I did send down fire and destroy them, that their wickedness and abominations might be hid from before my face, that [highlight-orange]#the blood of the prophets and the saints# which I sent among them might not cry unto me from the ground against them.
@@ -69,11 +59,9 @@ ____
 
 {% margin %}
 ____
-
 ...be converted, and I should heal them.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:40]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:40]#
 {% endmargin %}
 
 *3 Nephi 9:13* O all ye that are spared because ye were more righteous than they, will ye not now return unto me and repent of your sins and [highlight-orange]#be converted, that I may heal you?#
@@ -82,15 +70,13 @@ ____
 
 {% margin %}
 ____
-
 ...I am in the Father, and the Father in me...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:11]#
-
-...I have both glorified it, and will glorify it again.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:28]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-14/[John 14:11]#
+____
+...I have both glorified it, and will glorify it again.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-12/[John 12:28]#
 {% endmargin %}
 
 *3 Nephi 9:15* Behold, I am Jesus Christ the Son of God. I created the heavens and the earth and all things that in them is. I was with the Father from the beginning. [highlight-orange]#I am in the Father and the Father in me;# and in [highlight-orange]#me hath the Father glorified his name.#
@@ -99,9 +85,8 @@ ____
 ____
 
 He came unto his own, and his own received him not.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:11]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:11]#
 {% endmargin %}
 
 *3 Nephi 9:16* [highlight-orange]#I came unto my own, and my own received me not;# and the scriptures concerning my coming are fulfilled.
@@ -110,9 +95,9 @@ ____
 ____
 
 But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:12]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:12]#
+
 {% endmargin %}
 
 *3 Nephi 9:17* [highlight-orange]#And as many as have received me, to them have I given to become the sons of God. And even so will I to as many as shall believe on my name.# For behold, by me redemption cometh, and in me is the law of Moses fulfilled.
@@ -121,13 +106,13 @@ ____
 ____
 
 ...I am the light of the world...
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
 ____
 ...I am Alpha and Omega, the beginning and the end, the first and the last.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:13]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:13]#
+
 {% endmargin %}
 
 *3 Nephi 9:18* [highlight-orange]#I am the light and the life of the world#. [highlight-orange]#I am Alpha and Omega, the beginning and the end.#
@@ -136,9 +121,12 @@ ____
 ____
 
 Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-10/[Hebrews 10:8]#
 ____
+For thou desirest not sacrifice...thou delightest not in burnt offering.
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:16]#
 {% endmargin %}
 
 *3 Nephi 9:19* And [highlight-orange]#ye shall offer up unto me no more the shedding of blood; yea, your sacrifices and your burnt offerings shall be done away#, for I will accept none of your sacrifices and your burnt offerings.
@@ -147,13 +135,12 @@ ____
 ____
 
 The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:17]#
-
-...he shall baptize you with the Holy Ghost, and with fire:...
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-51/[Psalms 51:17]#
+____
+...he shall baptize you with the Holy Ghost, and with fire:...
+____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-3/[Matthew 3:11]#
 {% endmargin %}
 
 *3 Nephi 9:20* And [highlight]#ye shall offer for a sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto me with a broken heart and a contrite spirit#, [highlight-orange]#him will I baptize with fire and with the Holy Ghost#, even as the Lamanites because of their faith in me at the time of their conversion were baptized with fire and with the Holy Ghost--and they knew it not.
@@ -168,22 +155,21 @@ ____
 {% endmargin %}
 
 *3 Nephi 9:21* Behold, I have come into the world to bring redemption unto the world, [highlight-orange]to save the world from sin.#
-
+____
 {% margin %}
 ____
 
 Suffer little [highlight]#children to come unto me#, and forbid them not: [highlight]#for of such is the kingdom of God.#
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-18/[Luke 18:16]#
 
 ...I lay down my life, that I might take it again.
-
+____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:17]#
 
 Look unto me, and be ye saved, all the ends of the earth... 
-
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
 ____
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-45/[Isaiah 45:22]#
 {% endmargin %}
 
 *3 Nephi 9:22* [highlight-orange]#Therefore whoso repenteth and cometh unto me as a little child, him will I receive, for of such is the kingdom of God#. Behold, for such [highlight-orange]#I have laid down my life and have taken it up again.# Therefore repent and [highlight]#come unto me, ye ends of the earth, and be saved.#
