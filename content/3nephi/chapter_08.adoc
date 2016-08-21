@@ -64,7 +64,7 @@ ____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:51]#
 {% endmargin %}
 
-*3 Nephi 8:18* And behold, the rocks were rent in twain; yea, they were broken up upon the face of the whole earth, insomuch that they were found in broken fragments and in seams and in cracks upon all the face of the land.
+*3 Nephi 8:18* And behold, [highlight-orange]#the rocks were rent in twain;# yea, they were broken up upon the face of the whole earth, insomuch that they were found in broken fragments and in seams and in cracks upon all the face of the land.
 
 {% margin %}
 ____
