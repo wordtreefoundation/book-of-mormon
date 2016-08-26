@@ -98,7 +98,15 @@ ____
 
 *Alma 5:32* Yea, even woe unto all ye workers of iniquity. Repent, repent, for the Lord God hath spoken it.
 
-*Alma 5:33* Behold, he sendeth an invitation unto all men; for the arms of mercy is extended towards them, and he saith: Repent and I will receive you.
+{% margin %}
+____
+...arm(s) of mercy...
+
+[small]#https://books.google.com/ngrams/graph?content=arms+of+mercy%2Carm+of+mercy&year_start=1800&year_end=1828&corpus=15&smoothing=0&share=&direct_url=t1%3B%2Carms%20of%20mercy%3B%2Cc0%3B.t1%3B%2Carm%20of%20mercy%3B%2Cc0[common theological phrase of the early 1800s]#
+____
+{% endmargin %}
+
+*Alma 5:33* Behold, he sendeth an invitation unto all men; for the [highlight]#arms of mercy# is extended towards them, and he saith: Repent and I will receive you.
 
 *Alma 5:34* Yea, he saith: Come unto me and ye shall partake of the fruit of the tree of life; yea, ye shall eat and drink of the bread and the waters of life freely.
 

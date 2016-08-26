@@ -66,7 +66,15 @@ ____
 
 *3 Nephi 9:13* O all ye that are spared because ye were more righteous than they, will ye not now return unto me and repent of your sins and [highlight-orange]#be converted, that I may heal you?#
 
-*3 Nephi 9:14* Yea, verily I say unto you: If ye will come unto me, ye shall have eternal life. Behold, mine arm of mercy is extended towards you. And whosoever will come, him will I receive. And blessed are they which cometh unto me.
+{% margin %}
+____
+...arm(s) of mercy...
+
+[small]#https://books.google.com/ngrams/graph?content=arms+of+mercy%2Carm+of+mercy&year_start=1800&year_end=1828&corpus=15&smoothing=0&share=&direct_url=t1%3B%2Carms%20of%20mercy%3B%2Cc0%3B.t1%3B%2Carm%20of%20mercy%3B%2Cc0[common theological phrase of the early 1800s]#
+____
+{% endmargin %}
+
+*3 Nephi 9:14* Yea, verily I say unto you: If ye will come unto me, ye shall have eternal life. Behold, mine [highlight]#arm of mercy# is extended towards you. And whosoever will come, him will I receive. And blessed are they which cometh unto me.
 
 {% margin %}
 ____

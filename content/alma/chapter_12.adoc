@@ -110,7 +110,15 @@ ____
 
 *Alma 12:23* And now behold, I say unto you that if it had been possible for Adam for to have partaken of the fruit of the tree of life at that time that there would have been no death and the word would have been void, making God a liar, for he said: If thou eat, thou shalt surely die.
 
-*Alma 12:24* And we see that death comes upon mankind, yea, the death which has been spoken of by Amulek, which is the temporal death. Nevertheless there was a space granted unto man in which he might repent. Therefore this life became a probationary state, a time to prepare to meet God, a time to prepare for that endless state which has been spoken of by us, which is after the resurrection of the dead.
+{% margin %}
+____
+We shall now present the reader with a few of the arguments in favour of the possibility of the final apostacy of the saints.  1. It is argued from the [highlight]#probationary state# of man throughout the present life.  By a state of probation "we mean," (in the words of Mr. H.) "a time in which we are allowed to act on trial for the retributions of a future world."  "It is a time in which we may choose life or death; with the assurance that according to our choice will be our future condition."
+
+[small]#https://books.google.com/books?id=2OwOAAAAIAAJ&pg=PA219&lpg=PA219&dq=the+probationary+state+of+man+throughout+the+present+life&source=bl&ots=dUQoSD103b&sig=JOhVm_1c8g1Nq54a0kHKNHbOW9Y&hl=en&sa=X&ved=0ahUKEwib5--u17jJAhVVMogKHd3DB5QQ6AEIHjAA#v=snippet&q=%22probationary%20state%20of%20man%22&f=false[The Christian's Instructer Instructed; Containing remarks upon a late publication of the Rev. Josiah Hopkins, A. M. by Noah Levings, Middlebury, Vermont: 1827.]#
+____
+{% endmargin %}
+
+*Alma 12:24* And we see that death comes upon mankind, yea, the death which has been spoken of by Amulek, which is the temporal death. Nevertheless there was a space granted unto man in which he might repent. Therefore this life became a [hightlight]#probationary state#, a time to prepare to meet God, a time to prepare for that endless state which has been spoken of by us, which is after the resurrection of the dead.
 
 *Alma 12:25* Now if it had not been for the plan of redemption which was laid from the foundation of the world, there could have been no resurrection of the dead. But there was a plan of redemption laid which shall bring to pass the resurrection of the dead, of which has been spoken.
 
