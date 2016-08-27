@@ -61,7 +61,7 @@ ____
 
 {% endmargin %}
 
-*Helaman 5:12* And now my sons, remember, remember that it is upon the rock of our Redeemer, which is Christ the Son of God, that ye must build your foundation, that when the devil shall send forth his mighty winds--yea, his shafts in the whirlwind--yea, when all his hail and his mighty storm shall beat upon you, it shall have no power over you to drag you down to the gulf of misery and endless woe because of the rock upon which ye are built, which is a sure foundation, a foundation whereon if men buildeth they cannot fall.
+*Helaman 5:12* And now my sons, remember, remember that it is [highlight-orange]#upon the rock of our Redeemer#, which is Christ the Son of God, that ye must build your [highlight-orange]#foundation#, that when the [highlight-orange]#devil# shall send forth his [highlight-orange]#mighty winds#--yea, his shafts in the whirlwind--yea, when all his hail and his [highlight-orange]#mighty storm shall beat upon you#, it shall have no power over you to drag you down to the gulf of misery and endless woe because of the rock upon which ye are built, which is a sure foundation, a foundation whereon if men buildeth they cannot fall.
 
 *Helaman 5:13* And it came to pass that these were the words which Helaman taught to his sons. Yea, he did teach them many things which are not written, and also many things which are written;
 
