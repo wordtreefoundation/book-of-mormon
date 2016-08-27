@@ -23,11 +23,42 @@ ____
 
 *Helaman 5:8* And now my sons, behold, I have somewhat more to desire of you, which desire is that ye may not do these things that ye may boast, but that ye may do these things to [highlight-orange]#lay up for yourselves a treasure in heaven#--yea, which is eternal and which fadeth not away--yea, that ye may have that precious gift of eternal life which we have reason to suppose hath been given to our fathers.
 
-*Helaman 5:9* O remember, remember, my sons, the words which king Benjamin spake unto his people. Yea, remember that there is no other way nor means whereby man can be saved, only through the atoning blood of Jesus Christ, which shall come. Yea, remember that he cometh to redeem the world.
+{% margin %}
+____
+
+Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-4/[Acts 4:12]#
+____
+{% endmargin %}
+
+*Helaman 5:9* O remember, remember, my sons, the words which king Benjamin spake unto his people. Yea, remember that [highlight-orange]#there is no other way nor means whereby man can be saved#, only through the atoning blood of Jesus Christ, which shall come. Yea, remember that he cometh to redeem the world.
 
 *Helaman 5:10* And remember also the words which Amulek spake unto Zeezrom in the city of Ammonihah, for he said unto him that the Lord surely should come to redeem his people, but that he should not come to redeem them in their sins but to redeem them from their sins.
 
 *Helaman 5:11* And he hath power given unto him from the Father to redeem them from their sins because of repentance. Therefore he hath sent his angels to declare the tidings of the conditions of repentance, which bringeth unto the power of the Redeemer, unto the salvation of their souls.
+
+{% margin %}
+____
+
+And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-16/[Matthew 16:18]#
+
+____
+
+24 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+
+25 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
+
+26 And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
+
+27 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:24-27]#
+____
+
+{% endmargin %}
 
 *Helaman 5:12* And now my sons, remember, remember that it is upon the rock of our Redeemer, which is Christ the Son of God, that ye must build your foundation, that when the devil shall send forth his mighty winds--yea, his shafts in the whirlwind--yea, when all his hail and his mighty storm shall beat upon you, it shall have no power over you to drag you down to the gulf of misery and endless woe because of the rock upon which ye are built, which is a sure foundation, a foundation whereon if men buildeth they cannot fall.
 
@@ -59,13 +90,30 @@ ____
 
 *Helaman 5:26* And it came to pass that Nephi and Lehi did stand forth and began to speak unto them, saying: Fear not! For behold, it is God that hath shown unto you this marvelous thing, in the which is shewn unto you that ye cannot lay your hands on us to slay us.
 
-*Helaman 5:27* And behold, when they had said these words, the earth shook exceedingly. And the walls of the prison did shake as if they were about to tumble to the earth; but behold, they did not fall. And behold, they that were in the prison were Lamanites and Nephites which were dissenters.
+{% margin 5 %}
+____  
+
+And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-16/[Acts 16:26]#
+
+____
+
+11 And he said, Go forth, and stand upon the mount before the LORD. And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake:
+
+12 And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Kings-Chapter-19/[1 Kings 19:11-12]#
+____
+{% endmargin %}
+
+*Helaman 5:27* And behold, when they had said these words, [highlight]#the earth shook exceedingly#. And the walls of the prison did shake as if they were about to tumble to the earth; but behold, they did not fall. And behold, they that were in the prison were Lamanites and Nephites which were dissenters.
 
 *Helaman 5:28* And it came to pass that they were overshadowed with a cloud of darkness, and an awful solemn fear came upon them.
 
 *Helaman 5:29* And it came to pass that there came a voice as if it were above the cloud of darkness, saying: Repent ye, repent ye, and seek no more to destroy my servants, which I have sent unto you to declare good tidings.
 
-*Helaman 5:30* And it came to pass when they heard this voice and beheld that it was not a voice of thunder, neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness as if it had been a whisper, and it did pierce even to the very soul--
+*Helaman 5:30* And it came to pass when they heard this voice and beheld that it was not a voice of thunder, [highlight]#neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness as if it had been a whisper, and it did pierce even to the very soul#--
 
 *Helaman 5:31* and notwithstanding the mildness of the voice, behold, the earth shook exceedingly. And the walls of the prison trembled again as if it were about to tumble to the earth. And behold, the cloud of darkness which had overshadowed them did not disperse.
 
@@ -80,7 +128,16 @@ ____
 
 *Helaman 5:32* And behold, the voice came again, saying: [highlight-orange]#Repent ye, repent ye, for the kingdom of heaven is at hand;# and seek no more to destroy my servants. And it came to pass that the earth shook again and the walls trembled.
 
-*Helaman 5:33* And also again the third time the voice came and did speak unto them marvelous words which cannot be uttered by man. And the walls did tremble again; and the earth shook as if it were about to divide asunder.
+{% margin %}
+____
+
+Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings [highlight-orange]#which cannot be uttered#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-8/[Romans 8:26]#
+____
+{% endmargin %}
+
+*Helaman 5:33* And also again the third time the voice came and did speak unto them marvelous words [highlight-orange]#which cannot be uttered# by man. And the walls did tremble again; and the earth shook as if it were about to divide asunder.
 
 *Helaman 5:34* And it came to pass that the Lamanites could not flee because of the cloud of darkness which did overshadow them; yea, and also they were immovable because of the fear which did come upon them.
 
