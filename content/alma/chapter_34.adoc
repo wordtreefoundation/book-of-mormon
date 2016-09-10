@@ -108,14 +108,26 @@ ____
 
 {% margin %}
 ____
+Surely the righteous shall give thanks unto thy name: the [highlight]#upright shall dwell in thy presence#.
 
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Psalms-Chapter-140/[Psalms 140:13]#
+____
+____
+Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-3/[1 Corinthians 3:16]#
+
+[small]#Note: This usage of the word "dwell" is cited by some as a Hebrew phrasing, which Joseph Smith could not have known how to use in this manner#
+____
+____
 ...have washed their robes, and made them white in the blood of the Lamb.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:14]#
 ____
+
 {% endmargin %}
 
-*Alma 34:36* And this I know because the Lord hath said he dwelleth not in unholy temples, but in the hearts of the righteous doth he dwell. Yea, and he hath also said that the righteous should sit down in his kingdom to go no more out, but [highlight-orange]#their garments should be made white through the blood of the Lamb.#
+*Alma 34:36* And this I know because the [highlight]#Lord hath said he dwelleth# not in unholy temples, but in the hearts of the righteous doth he dwell. Yea, and he hath also said that the righteous should sit down in his kingdom to go no more out, but [highlight-orange]#their garments should be made white through the blood of the Lamb.#
 
 *Alma 34:37* And now my beloved brethren, I desire that ye should remember these things and that ye should work out your salvation with fear before God and that ye should no more deny the coming of Christ,
 
