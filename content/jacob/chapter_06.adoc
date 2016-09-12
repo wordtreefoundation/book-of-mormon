@@ -15,7 +15,16 @@ ____
 
 *Jacob 6:4* And how merciful is our God unto us! For he remembereth the house of Israel, both roots and branches. And [highlight-orange]#he stretches forth his hands unto them all the day long. And they are a stiffnecked and a gainsaying people#, but as many as will not harden their hearts shall be saved in the kingdom of God.
 
-*Jacob 6:5* Wherefore, my beloved brethren, I beseech of you in words of soberness that ye would repent and come with full purpose of heart and cleave unto God as he cleaveth unto you. And while his arm of mercy is extended towards you in the light of the day, harden not your hearts;
+{% margin %}
+____
+
+...[highlight]#full purpose of heart#...
+
+[small]#https://www.google.com/search?q=%22full+purpose+of+heart%22&lr=lang_en&source=lnt&tbs=lr%3Alang_1en%2Ccdr%3A1%2Ccd_min%3A1%2F1%2F1800%2Ccd_max%3A12%2F31%2F1830&tbm=bks[many pre-1830 sources]#
+____
+{% endmargin %}
+
+*Jacob 6:5* Wherefore, my beloved brethren, I beseech of you in words of soberness that ye would repent and come with [highlight]#full purpose of heart# and cleave unto God as he cleaveth unto you. And while his arm of mercy is extended towards you in the light of the day, harden not your hearts;
 
 {% margin %}
 ____
