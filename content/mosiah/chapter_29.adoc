@@ -36,7 +36,15 @@
 
 *Mosiah 29:19* And were it not for the interposition of their all-wise Creator--and this because of their sincere repentance--they must have unavoidably remained in bondage until now.
 
-*Mosiah 29:20* But behold, he did deliver them because they did humble themselves before him; and because they cried mightily unto him, he did deliver them out of bondage. And thus doth the Lord work with his power in all cases among the children of men, extending the arm of mercy towards them that put their trust in him.
+{% margin %}
+____
+...arm(s) of mercy...
+
+[small]#https://books.google.com/ngrams/graph?content=arms+of+mercy%2Carm+of+mercy&year_start=1800&year_end=1828&corpus=15&smoothing=0&share=&direct_url=t1%3B%2Carms%20of%20mercy%3B%2Cc0%3B.t1%3B%2Carm%20of%20mercy%3B%2Cc0[common theological phrase of the early 1800s]#
+____
+{% endmargin %}
+
+*Mosiah 29:20* But behold, he did deliver them because they did humble themselves before him; and because they cried mightily unto him, he did deliver them out of bondage. And thus doth the Lord work with his power in all cases among the children of men, extending the [highlight]#arm of mercy# towards them that put their trust in him.
 
 *Mosiah 29:21* And behold, now I say unto you: Ye cannot dethrone an iniquitous king save it be through much contention and the shedding of much blood.
 

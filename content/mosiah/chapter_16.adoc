@@ -104,7 +104,15 @@ ____
 
 *Mosiah 16:11* [highlight-orange]#if they be good, to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation#, being delivered up to the devil, who hath subjected them--which is damnation--
 
-*Mosiah 16:12* having gone according to their own carnal wills and desires, having never called upon the Lord while the arms of mercy was extended towards them--for the arms of mercy was extended towards them and they would not--they being warned of their iniquities, and yet they would not depart from them. And they were commanded to repent, and yet they would not repent.
+{% margin %}
+____
+...arm(s) of mercy...
+
+[small]#https://books.google.com/ngrams/graph?content=arms+of+mercy%2Carm+of+mercy&year_start=1800&year_end=1828&corpus=15&smoothing=0&share=&direct_url=t1%3B%2Carms%20of%20mercy%3B%2Cc0%3B.t1%3B%2Carm%20of%20mercy%3B%2Cc0[common theological phrase of the early 1800s]#
+____
+{% endmargin %}
+
+*Mosiah 16:12* having gone according to their own carnal wills and desires, having never called upon the Lord while the [highlight]#arms of mercy# was extended towards them--for the [highlight]#arms of mercy# was extended towards them and they would not--they being warned of their iniquities, and yet they would not depart from them. And they were commanded to repent, and yet they would not repent.
 
 *Mosiah 16:13* And now had ye not ought to tremble and repent of your sins?--and remember, only in and through Christ ye can be saved.
 

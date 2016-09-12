@@ -87,7 +87,15 @@ ____
 
 *2 Nephi 2:20* And they have brought forth children, yea, even the family of all the earth.
 
-*2 Nephi 2:21* And the days of the children of men were prolonged, according to the will of God, that they might repent while in the flesh. Wherefore their state became a state of probation, and their time was lengthened according to the commandments which the Lord God gave unto the children of men. For he gave commandment that all men must repent, for he shewed unto all men that they were lost because of the transgression of their parents.
+{% margin %}
+____
+We shall now present the reader with a few of the arguments in favour of the possibility of the final apostacy of the saints.  1. It is argued from the [highlight]#probationary state# of man throughout the present life.  By a state of probation "we mean," (in the words of Mr. H.) "a time in which we are allowed to act on trial for the retributions of a future world."  "It is a time in which we may choose life or death; with the assurance that according to our choice will be our future condition."
+
+[small]#https://books.google.com/books?id=2OwOAAAAIAAJ&pg=PA219&lpg=PA219&dq=the+probationary+state+of+man+throughout+the+present+life&source=bl&ots=dUQoSD103b&sig=JOhVm_1c8g1Nq54a0kHKNHbOW9Y&hl=en&sa=X&ved=0ahUKEwib5--u17jJAhVVMogKHd3DB5QQ6AEIHjAA#v=snippet&q=%22probationary%20state%20of%20man%22&f=false[The Christian's Instructer Instructed; Containing remarks upon a late publication of the Rev. Josiah Hopkins, A. M. by Noah Levings, Middlebury, Vermont: 1827.]#
+____
+{% endmargin %}
+
+*2 Nephi 2:21* And the days of the children of men were prolonged, according to the will of God, that they might repent while in the flesh. Wherefore their state became a [highlight]#state of probation#, and their time was lengthened according to the commandments which the Lord God gave unto the children of men. For he gave commandment that all men must repent, for he shewed unto all men that they were lost because of the transgression of their parents.
 
 *2 Nephi 2:22* And now behold, if Adam had not transgressed, he would not have fallen, but he would have remained in the garden of Eden; and all things which were created must have remained in the same state which they were after that they were created. And they must have remained forever and had no end,
 
