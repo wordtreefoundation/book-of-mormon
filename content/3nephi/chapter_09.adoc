@@ -162,7 +162,7 @@ ____
 ____
 {% endmargin %}
 
-*3 Nephi 9:21* Behold, I have come into the world to bring redemption unto the world, [highlight-orange]to save the world from sin.#
+*3 Nephi 9:21* Behold, I have come into the world to bring redemption unto the world, [highlight-orange]#to save the world from sin.#
 ____
 {% margin %}
 ____
