@@ -38,13 +38,13 @@
 ____
 And the small band of Columbia fought desperately, and the slaughter was dreadful ; and the pure snow of heaven was sprinkled and stained with the blood of men!
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[14:22]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[14:22]#
 ____
 
 ____
 And to a certain chief captain called William, whose sir-name was Hull, was given in trust a band of more than two thousand chosen men, to go forth to battle in the north.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[6:2]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[6:2]#
 ____
 
 {% endmargin %}
@@ -73,7 +73,7 @@ ____
 ____
 Now Lloyd, who commanded the Plantagenet, was the chief captain of the squadron of the king...
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[49:14]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[49:14]#
 ____
 {% endmargin %}
 

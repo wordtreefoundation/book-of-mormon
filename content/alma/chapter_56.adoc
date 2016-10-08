@@ -90,13 +90,13 @@
 
 {% margin %}
 ____
-The magic of his \[Zebulun, the chief captain of the host of Columbia's\] words gave joy to their hearts; for they loved him as they loved their own [highlight]#father#.
+The magic of his [Zebulun, the chief captain of the host of Columbia's] words gave joy to their hearts; [highlight]#for they loved him as they loved their own father#.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:48]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:48]#
 ____
 {% endmargin %}
 
-*Alma 56:46* For as I had ever called them my sons--for they were all of them very young--even so they said unto me: [highlight]#Father#, behold, our God is with us, and he will not suffer that we shall fall; then let us go forth. We would not slay our brethren if they would let us alone. Therefore let us go lest they should overpower the army of Antipus.
+*Alma 56:46* For as [highlight]#I had ever called them my sons--for they were all of them very young--even so they said unto me: Father#, behold, our God is with us, and he will not suffer that we shall fall; then let us go forth. We would not slay our brethren if they would let us alone. Therefore let us go lest they should overpower the army of Antipus.
 
 *Alma 56:47* Now they never had fought, yet they did not fear death. And they did think more upon the liberty of their fathers than they did upon their lives. Yea, they had been taught by their mothers that if they did not doubt that God would deliver them.
 
@@ -122,15 +122,13 @@ ____
 ____
 About this time, a [highlight]#stripling# from the south, with his weapon of war in his hand, ran up to Zebulon, and spake unto him...
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:32]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[19:32]#
 ____
-
 ____
 ...the name of the commander whereof was McDonough, (a [highlight]#stripling#).
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[28:2]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[28:2]#
 ____
-
 ____
 And the king said, Enquire thou whose son the [highlight]#stripling# is.
 
