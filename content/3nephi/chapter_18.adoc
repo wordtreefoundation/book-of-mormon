@@ -160,7 +160,7 @@ ____
 
 ...It is expedient for you that I go...
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 16:7]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:7]#
 ____
 {% endmargin %}
 
