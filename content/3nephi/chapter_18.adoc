@@ -21,8 +21,9 @@
 {% margin %}
 ____
 ...Repent, and be baptized...in the name of Jesus Christ...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
 {% endmargin %}
 
 *3 Nephi 18:11* And this shall ye always do unto those [highlight-orange]#who repent and are baptized in my name#. And ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me, ye shall have my Spirit to be with you.
@@ -35,7 +36,8 @@ ____
 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:24]#
-
+____
+____
 ...built his house upon the sand: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-7/[Matthew 7:27]#
@@ -60,13 +62,14 @@ ____
 {% margin %}
 ____
 ...I am the light of the world:...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
 ____
 ____
 ...Repent, and be baptized...in the name of Jesus Christ...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
 {% endmargin %}
 
 *3 Nephi 18:16* And as I have prayed among you, even so shall ye pray in my church, among my people which [highlight-orange]#do repent and are baptized in my name#. Behold, [highlight-orange]#I am the light#; I have set an example before you.
