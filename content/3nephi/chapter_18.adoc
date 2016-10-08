@@ -59,10 +59,10 @@ ____
 
 {% margin %}
 ____
-
 ...I am the light of the world:...
 ____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-8/[John 8:12]#
+____
 ____
 ...Repent, and be baptized...in the name of Jesus Christ...
 ____
@@ -84,10 +84,10 @@ ____
 
 {% margin %}
 ____
-
 Watch and pray, that ye enter not into temptation...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-26/[Matthew 26:41]#
+____
 ____
 ...Satan hath desired to have you, that he may sift you as wheat:
 
@@ -105,7 +105,8 @@ ____
 ...Whatsoever ye shall ask the Father in my name, he will give it you.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:23]#
-
+____
+____
 ...ask, [highlight]#and ye shall receive#, that your joy may be full.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:24]#
