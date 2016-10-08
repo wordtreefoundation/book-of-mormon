@@ -32,7 +32,7 @@
 ____
 Now, there was a certain hypocrite whose name was Elijah, and he was a false prophet in the east, and led astray those of little understanding: moreover, he was an hireling, and preached for the sake of filthy lucre. And he rose up and called himself a preacher of the gospel, and his words were smooth, and the people marvelled at him; But he profaned the temple of the Lord, and he strove to lead his disciples into the wrong way.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#false-prophets[4:11-13]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#false-prophets[4:11-13]#
 ____
 {% endmargin %}
 

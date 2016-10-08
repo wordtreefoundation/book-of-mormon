@@ -24,7 +24,7 @@
 ____
 And they began to prepare their battering rams, their bombs and their rockets, and all kinds of instruments of destruction;
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[46:6]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[46:6]#
 ____
 {% endmargin %}
 
@@ -74,7 +74,7 @@ ____
 ____
 And the battle raged with great violence, and the men of Britain strove hard to pass over the river called Saranac; But the men of war of Columbia, who were upon the opposite side of the water, opposed them, and slew them with great slaughter. And the brave Grosvenor, and Hamilton, and Riley, and the gallant Cronk, drove them back from crossing the bridges. Likewise, many were slain in the river, so that the waters of the Saranac were dyed with the blood of the servants of the king.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rivers[47:2-5]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rivers[47:2-5]#
 ____
 {% endmargin %}
 

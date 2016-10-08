@@ -12,7 +12,7 @@
 ____
 the fourth day of the seventh month, which is the birth day of Columbian Liberty and Independence
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#4thofjuly[26:1]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#4thofjuly[26:1]#
 ____
 {% endmargin %}
 

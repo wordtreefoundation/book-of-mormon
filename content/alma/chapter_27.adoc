@@ -28,7 +28,7 @@
 ____
 So it came to pass , that they gathered together their army and their navy... And they essayed to go against the city of New-Orleans...
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[53:4-5]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[53:4-5]#
 ____
 {% endmargin %}
 

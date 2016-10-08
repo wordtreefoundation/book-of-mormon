@@ -36,7 +36,7 @@
 ____
 Immediately Jackson took two thousand hardy men, who were called volunteers, because they fought freely for their country and led them against the savages. Now the men of war that followed after him were mostly from the state of Tennessee, and men of dauntless courage.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[35:5-6]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#stripling-soldiers[35:5-6]#
 ____
 {% endmargin %}
 

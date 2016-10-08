@@ -82,7 +82,7 @@ ____
 ____
 And Jackson spake, and said unto his captains of fifties, and his captains of hundreds, Fear not; we defend our lives and our liberties, and in that thing the Lord will not forsake us.
 
-The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[54:13]
+[small]#The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[54:13]#
 ____
 {% endmargin %}
 

@@ -10,7 +10,7 @@ IN the twelfth month of the first [highlight]#year of the decree of the great Sa
 
 And Lambert commanded the ship of Britain, and he was a brave and valiant man. So as he passed along, nigh unto the coast of Brazil, where the sun casteth the shadow of a man to the south at noon day: (A place unknown to the children of Israel , in the days of Moses)
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#faraway[15:1-7]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#faraway[15:1-7]#
 ____
 {% endmargin %}
 

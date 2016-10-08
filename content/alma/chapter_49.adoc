@@ -40,7 +40,7 @@
 ____
 But the men of Croghan were prepared for them; and they let loose their weapons of war upon them, and set their destroying engine to work, and smote the men of Britain, hip and thigh, with great slaughter.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:20]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:20]#
 ____
 {% endmargin %}
 
@@ -52,7 +52,7 @@ ____
 ____
 And the deep ditch that surrounded the fort was strewed with their slain and their wounded.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:21]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:21]#
 ____
 {% endmargin %}
 
@@ -66,7 +66,7 @@ ____
 ____
 So the host of Britain were dismayed and overthrown, and fled in confusion from the fort into the forest; ... Now the loss of the men of Britain was about an hundred two score and ten;
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:21-23]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#forts[29:21-23]#
 ____
 {% endmargin %}
 

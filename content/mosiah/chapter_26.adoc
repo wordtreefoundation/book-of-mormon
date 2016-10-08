@@ -20,7 +20,7 @@
 ____
 And after they had eaten and drank, Carden opened his mouth, for he was troubled in his mind, and spake unto Decatur, saying: Lo! if this thing which hath happened be known unto the king, that one of the vessels of Britain hath struck her flag, and become captive to a vessel of the United States, what shall be done unto the captain thereof? for such a thing hath not been heard of among the nations of the earth.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#inception[13:17]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#inception[13:17]#
 ____
 {% endmargin %}
 

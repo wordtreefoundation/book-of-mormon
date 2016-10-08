@@ -8,7 +8,7 @@
 ____
 Furthermore, have not the servants of the king leagued with [highlight]#the savages of the wilderness#, and given unto them silver and gold, and placed the destroying engines in their hands? Thereby [highlight]#stirring up the spirit of Satan within them, that they might spill the blood of the people of Columbia#; even the blood of our old men, our wives, and our little ones!
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#native-americans[1:19]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#native-americans[1:19]#
 ____
 {% endmargin %}
 

@@ -32,7 +32,7 @@
 ____
 Oh! earth, how long shall thy inhabitants delight in warfare? when shall the old men cease to weep for their children? Behold you lonely widows; they weep for their husbands and their children; but they shall see their faces no more! The fair daughters of Columbia sigh for the return of their beloved. Seest thou those little ones? they fly to their disconsolate mother, they leap with joy at the name of the father! but he shall never return!
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#martyrs[14:39-41]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#martyrs[14:39-41]#
 ____
 {% endmargin %}
 

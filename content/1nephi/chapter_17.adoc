@@ -34,7 +34,7 @@
 ____
 Like other men of genius, in these days, he [Robert Fulton, the inventor of the steam boat] was spoken of but slightly at first; for the people said, Lo! the man is beside himself and they laughed at him; nevertheless, he exceeded their expectations.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#fulton[50:5]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#fulton[50:5]#
 ____
 {% endmargin %}
 

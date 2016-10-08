@@ -3,7 +3,7 @@
 ____
 Now these [highlight]#steam-boats# were cunningly contrived, and had abundance of [highlight]#curious workmanship# therein, such as surpassed the comprehension of all the wise men of the east, from the beginning to this day.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[12:12]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[12:12]#
 ____
 {% endmargin %}
 

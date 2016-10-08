@@ -112,7 +112,7 @@ ____
 ____
 And he marched with his army through the wilderness more than an hundred miles, to a town built upon a place called by the savages the Holy-Ground, where three of the Indian prophets dwelt.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#three-nephites[35:19]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#three-nephites[35:19]#
 ____
 {% endmargin %}
 

@@ -48,7 +48,7 @@
 ____
 Oh! earth, how long shall thy inhabitants delight in warfare?
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#martyrs[14:39]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#martyrs[14:39]#
 ____
 {% endmargin %}
 

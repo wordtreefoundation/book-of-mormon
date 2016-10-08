@@ -2,7 +2,7 @@
 ____
 For the chief governor of the land of Columbia, and the great Sanhedrim of the people, had taken them under their care, And sent good men amongst them to preach the gospel, and instruct them in the sublime doctrine of the Saviour of the world. And they hearkened unto the preachers, and were convinced, and their natures were softened.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:19-21]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:19-21]#
 ____
 {% endmargin %}
 

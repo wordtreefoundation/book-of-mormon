@@ -14,7 +14,7 @@
 ____
 Howsoever, they cut down the tall trees of the forest, and hewed them, and [highlight]#built many more strong vessels#; although they had no gophar-wood amongst them in these days. And they made stories to them, even to the third story, and they put windows in them, and they pitched them within and without with pitch; [highlight]#after the fashion of the ark#.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#barges[28:12]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#barges[28:12]#
 ____
 {% endmargin %}
 
@@ -24,7 +24,7 @@ ____
 ____
 And the vessels of war of Columbia that were upon the waters of the lake called Ontario, were commanded by a brave man, whose name was Chauncey. ... On the same day the sails of the vessels were spread to the winds of heaven, and they moved towards a place called Little York, in the province of Canada.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[19:3,7]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[19:3,7]#
 ____
 {% endmargin %}
 

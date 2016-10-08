@@ -149,7 +149,7 @@ ____
 ____
 For, in the mean time, Hardy had sent a messenger to the inhabitants, saying, If ye will not prove wicked, and will refrain from sending your evil torpedoes amongst our vessels, then will we spare your town.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[43:11-12]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[43:11-12]#
 ____
 {% endmargin %}
 

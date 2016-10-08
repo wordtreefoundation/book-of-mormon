@@ -4,7 +4,7 @@
 ____
 Lo! the lords and the princes of the Kingdom of Britain, in the fulness of their pride and power, have trampled upon the altar of Liberty, and violated the sanctuary thereof: Inasmuch as they hearkened not unto the voice of moderation, when the voice of the people of Columbia [America] was, Peace! peace!
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[1:8-9]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[1:8-9]#
 ____
 {% endmargin %}
 
@@ -18,19 +18,19 @@ ____
 ____
 Now it happened about this time that there were numbers of the inhabitants of the country of Columbia whose hearts yearned after the king of Britain. These men were called Tories, which signifieth, in the vernacular tongue, the blind followers of royalty.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[3:15-18]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[3:15-18]#
 ____
 
 ____
 For, when the gallant young men of Baltimore heard the rumor, that the slaves of Britain were coming upon them; With the spirit of freemen, they grasped their weapons of war in their hands, and went out to meet them without fear; resolved to conquer or to die.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[48:11-12]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[48:11-12]#
 ____
 
 ____
 Nevertheless, David said unto the captains of the king, Come singly, and not like cowards, upon me; then shall ye receive the thunders of the freemen of Columbia abundantly; 
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[38:26]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[38:26]#
 ____
 {% endmargin %}
 
@@ -42,7 +42,7 @@ ____
 ____
 For the voice of the people of Columbia had spoken peace from the beginning ; they wished war might cease , and that the breach between the nations might be healed.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[55:7]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#freemen-kingmen[55:7]#
 ____
 {% endmargin %}
 
@@ -70,7 +70,7 @@ ____
 ____
 But if, peradventure, we should be overcome, even then shall not the sacred cause of LIBERTY perish, neither shall the people of Columbia be disheartened.
 
-The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[24:15]
+[small]#The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#liberty[24:15]#
 ____
 {% endmargin %}
 
@@ -108,7 +108,7 @@ ____
 ____
 And the army of Columbia went into winter quarters; for the earth was covered with snow, and the waters of the great lakes, on the borders of which they had pitched their tents, were congealed.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#pitching-tents[11:17]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#pitching-tents[11:17]#
 ____
 {% endmargin %}
 

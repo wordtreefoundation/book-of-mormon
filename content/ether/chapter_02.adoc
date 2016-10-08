@@ -44,7 +44,7 @@
 ____
 Howsoever, they cut down the tall trees of the forest, and hewed them, and [highlight]#built many more strong vessels#; although they had no gophar-wood amongst them in these days. And they made stories to them, even to the third story, and [highlight]#they put windows in them#, and they pitched them within and without with pitch; after the fashion of the ark.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#barges[28:12]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#barges[28:12]#
 ____
 
 See also link:chapter_06.adoc[Ether 6:7].

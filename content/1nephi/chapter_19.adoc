@@ -2,7 +2,7 @@
 ____
 Likewise, the people gave him [Oliver Perry] much silver plate, with gravings thereon, mentioning his deeds.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#brass-records[31:33]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#brass-records[31:33]#
 ____
 {% endmargin %}
 

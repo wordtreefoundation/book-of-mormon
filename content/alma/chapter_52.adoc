@@ -70,7 +70,7 @@
 ____
 The officers and soldiers of Columbia fought bravely, and there were many slain and wounded on both sides;
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[23:24]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[23:24]#
 ____
 {% endmargin %}
 

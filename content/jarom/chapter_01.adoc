@@ -24,7 +24,7 @@ ____
 ____
 Their polished steels, of fine workmanship, glittered in the sun, and the movement of their squadrons was as the waving of a wheat-field, when the south wind passeth gently over it.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[54:7]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[54:7]#
 ____
 {% endmargin %}
 

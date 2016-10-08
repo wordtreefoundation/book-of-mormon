@@ -26,7 +26,7 @@
 ____
 Lo! we are stronger than the host of Columbia; therefore, let us go with all our might against their chief city, and make capture thereof.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[44:21]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[44:21]#
 ____
 {% endmargin %}
 

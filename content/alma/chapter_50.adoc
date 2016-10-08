@@ -74,7 +74,7 @@
 ____
 But it came to pass, in the same year, that the people of Columbia were revenged of the evil:
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[34:10]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[34:10]#
 ____
 {% endmargin %}
 

@@ -27,7 +27,7 @@ ____
 ____
 Now these wonderful torpedoes were made partly of brass and partly of iron, and were cunningly contrived with curious works, like unto a clock; and as it were a large ball.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#liahona[50:24]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#liahona[50:24]#
 ____
 {% endmargin %}
 

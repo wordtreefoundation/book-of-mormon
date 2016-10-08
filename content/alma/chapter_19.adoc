@@ -89,7 +89,7 @@ ____
 ____
 Nevertheless, the lamb shall not be slain; for the Lord will be his deliverer.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[2:8]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[2:8]#
 ____
 {% endmargin %}
 

@@ -76,7 +76,7 @@ About this time a band of sea-robbers and pirates, who had established themselve
 
 But a valiant man, called Daniel, sir-named Patterson, went against them with his small fighting vessels, and scattered them abroad, and took their vessels, and destroyed their petty establishment of sea-robbery.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#robbers[49:37-38]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#robbers[49:37-38]#
 ____
 {% endmargin %}
 

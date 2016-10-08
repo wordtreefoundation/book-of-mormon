@@ -72,7 +72,7 @@
 ____
 Now there were some amongst the tribes of the [highlight]#savages who had been instructed in the ways of God#, and taught to walk in the path of righteousness;
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:18]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:18]#
 ____
 {% endmargin %}
 

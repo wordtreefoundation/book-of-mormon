@@ -14,7 +14,7 @@ Now there were some amongst the tribes of the savages who had been instructed in
 
 Amongst these tribes were those who were called, the Six nations of New-York Indians: And their eyes were opened, and they saw the evil and the wickedness of Britain... And when the red savages and the men of Britain fell into their hands, they raised neither the tomahawk nor the scalping knife. Nay, they treated them kindly; and those who were slain in battle they disturbed not; and their humanity exceeded the humanity of the white men of Britain.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:19-21]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#missionary-work[26:19-21]#
 ____
 {% endmargin %}
 

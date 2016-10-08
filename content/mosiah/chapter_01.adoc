@@ -20,7 +20,7 @@
 ____
 Then shall thy name be proclaimed with the sound of the trumpet throughout all the earth ; and thou shalt be a prince and a ruler over this people.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[3:32]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[3:32]#
 ____
 {% endmargin %}
 

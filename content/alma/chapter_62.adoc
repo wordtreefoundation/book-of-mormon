@@ -10,7 +10,7 @@
 ____
 And it came to pass, that a great multitude flocked to the banners of the great Sanhedrim.
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#liberty[6:14]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#liberty[6:14]#
 ____
 {% endmargin %}
 
@@ -38,7 +38,7 @@ ____
 ____
 And their weapons of war were of curious workmanship [footnote: rifles]
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[19:13]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#weapons[19:13]#
 ____
 {% endmargin %}
 

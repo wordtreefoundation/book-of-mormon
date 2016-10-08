@@ -32,7 +32,7 @@
 ____
 For although the king, who calleth himself our father, across the great waters, did put the instruments of death into our hands, and give us the black dust in abundance; nevertheless he deceived us;
 
-The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[35:42]
+[small]#The Late War, 1816, https://wordtreefoundation.github.io/thelatewar/#rare-phrases[35:42]#
 ____
 {% endmargin %}
 
