@@ -148,7 +148,7 @@ ____
 {% endmargin %}
 
 
-*Mosiah 13:22* [highlight]#[highlight]#Thou shalt not commit adultery. Thou shalt not steal.##
+*Mosiah 13:22* [highlight]#Thou shalt not commit adultery. Thou shalt not steal.#
 
 {% margin %}
 ____
