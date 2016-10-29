@@ -18,6 +18,7 @@ ____
 ____
 
 ...the first heaven and the first earth were passed away...
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:1]#
 ____
 {% endmargin %}
@@ -33,6 +34,7 @@ ____
 ____
 ____
 ...stand before God...judged...according to their works.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:12]#
 ____
 {% endmargin %}
@@ -42,6 +44,7 @@ ____
 {% margin %}
 ____
 And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-5/[John 5:29]#
 ____
 {% endmargin %}
@@ -76,6 +79,7 @@ ____
 {% margin %}
 ____
 ...and heard unspeakable words, which it is not lawful for a man to utter.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:4]#
 ____
 {% endmargin %}
@@ -85,6 +89,7 @@ ____
 {% margin %}
 ____
 ...they had all things common
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-4/[Acts 4:32]#
 ____
 {% endmargin %}
