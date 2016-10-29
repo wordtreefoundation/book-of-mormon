@@ -16,10 +16,14 @@
 
 {% margin %}
 ____
-53 And the graves were opened; and [highlight-orange]#many# bodies of the [highlight-orange]#saints# which slept arose,
-54 And came out of the graves after his resurrection, and went into the holy city, and [highlight-orange]#appeared unto many#.
+52 And the graves were opened; and [highlight-orange]#many# bodies of the [highlight-orange]#saints# which slept arose,
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52-53]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52]#
+____
+____
+53 And came out of the graves after his resurrection, and went into the holy city, and [highlight-orange]#appeared unto many#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:53]#
 ____
 {% endmargin %}
 
@@ -29,10 +33,14 @@ ____
 
 {% margin %}
 ____
-53 And the graves were opened; and [highlight-orange]#many# bodies of the [highlight-orange]#saints# which slept arose,
-54 And came out of the graves after his resurrection, and went into the holy city, and [highlight-orange]#appeared unto many#.
+52 And the graves were opened; and [highlight-orange]#many# bodies of the [highlight-orange]#saints# which slept arose,
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52-53]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52]#
+____
+____
+53 And came out of the graves after his resurrection, and went into the holy city, and [highlight-orange]#appeared unto many#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:53]#
 ____
 {% endmargin %}
 
