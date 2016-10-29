@@ -14,11 +14,29 @@
 
 *3 Nephi 23:8* And when Nephi had brought forth the records and laid them before him, and he cast his eyes upon them and saith:
 
-*3 Nephi 23:9* Verily I say unto you: I commanded my servant Samuel the Lamanite that he should testify unto this people that at the day that the Father should glorify his name in me that there were many saints which should arise from the dead and should appear unto many and should minister unto them. And he saith unto them: Were it not so?
+{% margin %}
+____
+53 And the graves were opened; and [highlight-orange]#many# bodies of the [highlight-orange]#saints# which slept arose,
+54 And came out of the graves after his resurrection, and went into the holy city, and [highlight-orange]#appeared unto many#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52-53]#
+____
+{% endmargin %}
+
+*3 Nephi 23:9* Verily I say unto you: I commanded my servant Samuel the Lamanite that he should testify unto this people that at the day that the Father should glorify his name in me that there were [highlight-orange]#many saints# which should arise from the dead and should [highlight-orange]#appear unto many# and should minister unto them. And he saith unto them: Were it not so?
 
 *3 Nephi 23:10* And his disciples answered him and said: Yea, Lord, Samuel did prophesy according to thy words, and they were all fulfilled.
 
-*3 Nephi 23:11* And Jesus saith unto them: How be it that ye have not written this thing?--that many saints did arise and appear unto many and did minister unto them.
+{% margin %}
+____
+53 And the graves were opened; and [highlight-orange]#many# bodies of the [highlight-orange]#saints# which slept arose,
+54 And came out of the graves after his resurrection, and went into the holy city, and [highlight-orange]#appeared unto many#.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:52-53]#
+____
+{% endmargin %}
+
+*3 Nephi 23:11* And Jesus saith unto them: How be it that ye have not written this thing?--that [highlight-orange]#many saints did arise and appear unto many# and did minister unto them.
 
 *3 Nephi 23:12* And it came to pass that Nephi remembered that this thing had not been written.
 
