@@ -39,8 +39,9 @@
 {% margin %}
 ____
 ...the men which thou gavest me out of the world...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:16]#
+____
 {% endmargin %}
 
 *3 Nephi 19:20* Father, I thank thee that [highlight-orange]#thou hast given# the Holy Ghost unto these whom I have chosen. And it is because of their belief in me [highlight-orange]#that I have chosen them out of the world.#
