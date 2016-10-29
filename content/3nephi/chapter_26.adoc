@@ -9,15 +9,17 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-3/[II Peter 3:12]#
 ____
+____
 
 ...the heaven departed as a scroll when it is rolled together...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-6/[Revelation 6:14]#
 ____
+____
 
 ...the first heaven and the first earth were passed away...
-____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:1]#
+____
 {% endmargin %}
 
 *3 Nephi 26:3* And he did expound all things, even from the beginning until the time that he should come in his glory--yea, even all things which should come upon the face of the earth--[highlight-orange]#even until the elements should melt with fervent heat# and [highlight-orange]#the earth should be wrapped together as a scroll# and [highlight-orange]#the heavens and the earth should pass away,#
@@ -29,9 +31,10 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-11/[Revelation 11:9]#
 ____
-...stand before God...judged...according to their works.
 ____
+...stand before God...judged...according to their works.
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:12]#
+____
 {% endmargin %}
 
 *3 Nephi 26:4* and even unto the great and last day when all [highlight-orange]#people and all kindreds and all nations and tongues# shall [highlight-orange]#stand before God to be judged of their works#, whether they be good or whether they be evil--
@@ -39,8 +42,8 @@ ____
 {% margin %}
 ____
 And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
-____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-5/[John 5:29]#
+____
 {% endmargin %}
 
 *3 Nephi 26:5* [highlight-orange]#if they be good, to the resurrection of everlasting life; and if they be evil, to the resurrection of damnation#--being on a parallel, the one on the one hand and the other on the other hand--according to the mercy and the justice and the holiness which is in Christ, which was before the world began.
@@ -73,8 +76,8 @@ ____
 {% margin %}
 ____
 ...and heard unspeakable words, which it is not lawful for a man to utter.
-____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:4]#
+____
 {% endmargin %}
 
 *3 Nephi 26:18* And many of them saw and [highlight-orange]#heard unspeakable things which are not lawful to be written.#
@@ -82,8 +85,8 @@ ____
 {% margin %}
 ____
 ...they had all things common
-____
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-4/[Acts 4:32]#
+____
 {% endmargin %}
 
 *3 Nephi 26:19* And they taught and did minister one to another; and [highlight-orange]#they had all things common# among them, every man dealing justly one with another.
