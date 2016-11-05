@@ -18,8 +18,9 @@ ____
 22 Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.
 
 23 Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-21/[John 21:20-24]#
+____
 {% endmargin %}
 
 *3 Nephi 28:6* And he saith unto them: Behold, I know your thoughts. And ye have desired the thing which [highlight-orange]#John my beloved, which was with me in my ministry before that I was lifted up by the Jews, desired of me.#
@@ -31,8 +32,9 @@ ____
 52 ...in the twinkling of an eye...
 
 53 ...and this mortal must put on immortality.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:52-53]#
+____
 {% endmargin %}
 
 *3 Nephi 28:8* And ye shall never endure the pains of death. But when I shall come in my glory, ye shall be changed [highlight-orange]#in the twinkling of an eye from mortality to immortality.# And then shall ye be blessed in the kingdom of my Father.
@@ -43,20 +45,24 @@ ____
 ____
 
 ...shall sit down in the kingdom of God.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-13/[Luke 13:29]#
 ____
-...that your joy may be full.
 ____
+...that your joy may be full.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 16:24]#
 ____
-That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
 ____
+That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-17/[John 17:21]#
 ____
-I and my Father are one
 ____
+I and my Father are one
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-10/[John 10:30]#
+____
 {% endmargin %}
 
 *3 Nephi 28:10* And for this cause ye shall have fullness of joy; and ye shall [highlight-orange]#sit down in the kingdom of my Father#. Yea, [highlight-orange]#your joy shall be full#, even as the Father hath given me fullness of joy. [highlight-orange]#And ye shall be even as I am, and I am even as the Father; and the Father and I are one.#
@@ -106,8 +112,9 @@ ____
 {% margin %}
 ____
 ...the veil of the temple was rent in twain...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-27/[Matthew 27:51]#
+____
 {% endmargin %}
 
 *3 Nephi 28:19* And they were cast into prison by them who did not belong to the church. And the prisons could not hold them, for they were [highlight-orange]#rent in twain.#
@@ -136,7 +143,6 @@ ____
 ...every nation, and kindred, and tongue, and people
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-14/[Revelation 14:6]#
-
 ____
 {% endmargin %}
 
@@ -150,7 +156,6 @@ ____
 For we must all appear before the judgment seat of Christ;...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:10]#
-
 ____
 {% endmargin %}
 

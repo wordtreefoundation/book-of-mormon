@@ -11,8 +11,9 @@
 {% margin %}
 ____
 ...gifts of healing...prophecy...tongues...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:9-10]#
+____
 {% endmargin %}
 
 *3 Nephi 29:6* Yea, woe unto him that shall deny the revelations of the Lord and that shall say: The Lord no longer worketh by revelation or [highlight-orange]#by prophecy or by gifts or by tongues or by healings# or by the power of the Holy Ghost.

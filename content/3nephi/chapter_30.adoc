@@ -3,8 +3,9 @@
 {% margin %}
 ____
 Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
 {% endmargin %}
 
 *3 Nephi 30:2* Turn, all ye Gentiles, from your wicked ways and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations and your idolatries, and of your murders and your priestcrafts and your envyings and your strifes, and from all your wickedness and abominations, and [highlight-orange]#come unto me and be baptized in my name, that ye may receive a remission of your sins and be filled with the Holy Ghost#, that ye may be numbered with my people which are of the house of Israel.
