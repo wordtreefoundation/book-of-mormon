@@ -17,12 +17,14 @@
 {% margin %}
 ____
 And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:1]#
 ____
-...behold, all things are become new.
 ____
+...behold, all things are become new.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-5/[I Corinthians 5:17]#
+____
 {% endmargin %}
 
 *Ether 13:9* And there shall be [highlight-orange]#a new heaven and a new earth; and they shall be like unto the old#, save the old have passed away [highlight-orange]#and all things have become new.#
@@ -31,12 +33,14 @@ ____
 ____
 
 ...the holy city, new Jerusalem...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-21/[Revelation 21:2]#
 ____
-...and have washed their robes, and made them white in the blood of the Lamb.
 ____
+...and have washed their robes, and made them white in the blood of the Lamb.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-7/[Revelation 7:14]#
+____
 {% endmargin %}
 
 *Ether 13:10* And then [highlight-orange]#cometh the New Jerusalem#; and blessed are they which dwell therein, for it is they [highlight-orange]#whose garments are white through the blood of the Lamb;# and they are they which are numbered among the remnant of the seed of Joseph, which were of the house of Israel.
@@ -46,8 +50,9 @@ ____
 {% margin %}
 ____
 But many *that are* first shall be last; and the last *shall be* first.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-19/[Matthew 19:30]#
+____
 {% endmargin %}
 
 *Ether 13:12* And when these things come bringeth to pass the scripture which saith: [highlight-orange]#There are they which were first which shall be last; and there are they which were last which shall be first.#

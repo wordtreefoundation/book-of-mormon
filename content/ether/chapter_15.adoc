@@ -1,3 +1,4 @@
+
 *Ether 15:1* And it came to pass that when Coriantumr had recovered of his wounds, he began to remember the words which Ether had spoken unto him.
 
 *Ether 15:2* He saw that there had been slain by the sword already nearly two millions of his people. And he began to sorrow in his heart; yea, there had been slain two millions of mighty men, and also their wives and their children.
@@ -36,7 +37,14 @@
 
 *Ether 15:19* But behold, the Spirit of the Lord had ceased striving with them. And Satan had full power over the hearts of the people, for they were given up unto the hardness of their hearts and the blindness of their minds, that they might be destroyed; wherefore they went again to battle.
 
-*Ether 15:20* And it came to pass that they fought all that day. And when the night came, they slept upon their swords.
+{% margin 6%}
+____
+But ever King Arthur rode throughout the battle of Sir Mordred many times, and did full nobly as a noble king should, and at all times he fainted never; and Sir Mordred that day put him in devoir, and in great peril. And thus [highlight]#they fought all the long day#, and never stinted till the noble knights were laid to the cold earth; and ever they fought still [highlight]#till it was near night#, and by that time was there [highlight]#an hundred thousand laid dead upon the down#. Then was Arthur wood wroth out of measure, when he saw his people so slain from him.
+
+[small]#Le Morte d'Arthur, 1485, https://books.google.com/books?id=NOCLCwAAQBAJ&lpg=PT1158&dq=fought%20all%20the%20long%20day%2C%20and%20never%20stinted%20till%20the%20noble%20knights%20were%20laid%20to%20the%20cold%20earth&pg=PT1158#v=onepage&q=fought%20all%20the%20long%20day,%20and%20never%20stinted%20till%20the%20noble%20knights%20were%20laid%20to%20the%20cold%20earth&f=true[Book XXI, Chapter IV]#
+____
+{% endmargin %}
+*Ether 15:20* And it came to pass that [highlight]#they fought all that day. And when the night came#, they slept upon their swords.
 
 *Ether 15:21* And on the morrow they fought even until the night came.
 
@@ -54,13 +62,23 @@
 
 *Ether 15:28* And it came to pass that when the men of Coriantumr had received sufficient strength that they could walk, they were about to flee for their lives. But behold, Shiz arose, and also his men, and he swore in his wrath that he would slay Coriantumr or he would perish by the sword;
 
-*Ether 15:29* wherefore he did pursue them. And on the morrow he did overtake them, and they fought again with the sword. And it came to pass that when they had all fallen by the sword, save it were Coriantumr and Shiz, behold, Shiz had fainted with loss of blood.
+{% margin 6%}
+____
+Then the king looked about him, and then was he ware, of all his host and of all his good knights, [highlight]#were left no more alive but two knights#; that one was Sir Lucan the Butler, and his brother Sir Bedivere, and they were full sore wounded. ...  Then was King Arthur ware where Sir Mordred [highlight]#leaned upon his sword# among a great heap of dead men
 
-*Ether 15:30* And it came to pass that when Coriantumr had leaned upon his sword, that he rested a little, and he smote off the head of Shiz.
+Then the king gat his spear in both his hands, and ran toward Sir Mordred, crying: Traitor, now is they deathday come. And when Sir Mordred heard Sir Arthur, he ran until him with his sword drawn in his hand. And there King Arthur smote Sir Mordred under the shield, and a foin of his spear, throughout the body, more than a fathom. And when Sir Mordred [highlight]#felt that he had his death wound he thrust himself with the might that he had up to the bur# of King Arthur’s spear. And right so he [highlight]#smote his father Arthur#, with his sword holden in both his hands, on the side of the head, that the sword pierced the helmet and the brain-pan, and therewithal [highlight]#Sir Mordred fell stark dead to the earth#; and the noble [highlight]#Arthur fell in a swoon to the earth, and there he swooned ofttimes#
 
-*Ether 15:31* And it came to pass that after he had smote off the head of Shiz that Shiz raised upon his hands and fell. And after that he had struggled for breath, he died.
+[small]#Le Morte d'Arthur, 1485, https://books.google.com/books?id=NOCLCwAAQBAJ&lpg=PT1158&dq=were%20left%20no%20more%20alive%20but%20two%20knights%3B%20that%20one%20was%20Sir%20Lucan%20the%20Butler%2C%20and%20his%20brother%20Sir%20Bedivere&pg=PT1158#v=onepage&q=were%20left%20no%20more%20alive%20but%20two%20knights;%20that%20one%20was%20Sir%20Lucan%20the%20Butler,%20and%20his%20brother%20Sir%20Bedivere&f=true[Book XXI, Chapter IV]#
+____
+{% endmargin %}
 
-*Ether 15:32* And it came to pass that Coriantumr fell to the earth and became as if he had no life.
+*Ether 15:29* wherefore he did pursue them. And on the morrow he did overtake them, and they fought again with the sword. And it came to pass that when they had [highlight]#all fallen by the sword, save it were Coriantumr and Shiz#, behold, Shiz had fainted with loss of blood.
+
+*Ether 15:30* And it came to pass that [highlight]#when Coriantumr had leaned upon his sword#, that he rested a little, and he smote off the head of Shiz.
+
+*Ether 15:31* And it came to pass [highlight]#that after he had smote off the head of Shiz that Shiz raised upon his hands and fell. And after that he had struggled for breath, he died#.
+
+*Ether 15:32* And it came to pass that [highlight]#Coriantumr fell to the earth and became as if he had no life#.
 
 *Ether 15:33* And the Lord spake unto Ether and said unto him: Go forth. And he went forth and beheld that the words of the Lord had all been fulfilled. And he finished his record--and the hundredth part I have not written--and he hid them in a manner that the people of Limhi did find them.
 
