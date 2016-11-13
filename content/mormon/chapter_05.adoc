@@ -27,8 +27,9 @@
 {% margin %}
 ____
 ... that ye might believe that Jesus is the Christ, the Son of God...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-20/[John 20:31]#
+____
 {% endmargin %}
 
 *Mormon 5:14* And behold, they shall go unto the unbelieving of the Jews. And for this intent shall they go, [highlight-orange]#that they may be persuaded that Jesus is the Christ, the Son of the living God#, that the Father may bring about through his Most Beloved his great and eternal purpose in the restoring the Jews or all the house of Israel to the land of their inheritance, which the Lord their God hath given them, unto the fulfilling of his covenant,
@@ -38,8 +39,9 @@ ____
 {% margin %}
 ____
 ...ye were without Christ...and without God in the world...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Ephesians-Chapter-2/[Ephesians 2:12]#
+____
 {% endmargin %}
 
 *Mormon 5:16* For behold, the Spirit of the Lord hath already ceased to strive with their fathers. And [highlight-orange]#they are without Christ and God in the world#, and they are driven about as chaff before the wind.
@@ -55,6 +57,14 @@ ____
 *Mormon 5:21* And also the Lord will remember the prayers of the righteous which hath been put up unto him for them.
 
 *Mormon 5:22* And then, O ye Gentiles, how can ye stand before the power of God except ye shall repent and turn from your evil ways?
+
+{% margin %}
+____
+And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-6/[Revelation 6:14]#
+____
+{% endmargin %}
 
 *Mormon 5:23* Know ye not that ye are in the hands of God? Know ye not that he hath all power and at his great command the earth shall be rolled together as a scroll?
 

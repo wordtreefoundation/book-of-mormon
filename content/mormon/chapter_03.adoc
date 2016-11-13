@@ -3,8 +3,9 @@
 {% margin %}
 ____
 ...Repent, and be baptized every one of you in the name of Jesus Christ...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
+____
 {% endmargin %}
 
 *Mormon 3:2* And it came to pass that the Lord did say unto me: Cry unto this people: [highlight-orange]#Repent ye and come unto me and be ye baptized# and build up again my church, and ye shall be spared.
@@ -36,8 +37,9 @@ ____
 {% margin %}
 ____
 ...Vengeance is mine; I will repay, saith the Lord.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-12/[Romans 12:19]#
+____
 {% endmargin %}
 
 *Mormon 3:15* [highlight-orange]#Vengeance is mine, and I will repay#. And because this people repented not after that I had delivered them, behold, they shall be cut off from the face of the earth.

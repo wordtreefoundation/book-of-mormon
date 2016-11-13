@@ -42,7 +42,6 @@ ____
 ...Vengeance is mine; I will repay, saith the Lord.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Romans-Chapter-12/[Romans 12:19]#
-
 ____
 {% endmargin %}
 
@@ -93,7 +92,6 @@ ____
 [highlight-orange]#For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.#
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-8/[Acts 8:23]#
-
 ____
 {% endmargin %}
 

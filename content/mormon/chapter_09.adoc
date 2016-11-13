@@ -4,12 +4,14 @@
 ____
 
 ... heavens shall be rolled together as a scroll...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-34/[Isaiah 34:4]#
 ____
-...and the elements shall melt with fervent heat?
 ____
+...and the elements shall melt with fervent heat?
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Peter-Chapter-3/[II Peter 3:12]#
+____
 {% endmargin %}
 
 *Mormon 9:2* Behold, will ye believe in the day of your visitation? Behold, when the Lord shall come--yea, even that great day when the [highlight]#earth shall be rolled together as a scroll# and [highlight-orange]#the elements shall melt with fervent heat#--yea, in that great day when ye shall be brought to stand before the Lamb of God, then will ye say that there is no God?
@@ -25,8 +27,9 @@ ____
 {% margin %}
 ____
 ...to another the gifts of healing...prophecy...divers kinds of tongues...interpretation of tongues...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-12/[II Corinthians 12:9-10]#
+____
 {% endmargin %}
 
 *Mormon 9:7* And again I speak unto you who deny the revelations of God and say that they are done away, that there is [highlight-orange]#no revelations nor prophecies nor gifts nor healing nor speaking with tongues and the interpretation of tongues;#
@@ -37,12 +40,14 @@ ____
 ____
 
 Jesus Christ the same yesterday, and to day, and for ever.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-13/[Hebrews 13:8]#
 ____
-...with whom is no variableness, neither shadow of turning.
 ____
+...with whom is no variableness, neither shadow of turning.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/James-Chapter-1/[James 1:17]#
+____
 {% endmargin %}
 
 *Mormon 9:9* For do we not read that [highlight-orange]#God is the same yesterday, today, and forever#, and in [highlight-orange]#him there is no variableness, neither shadow of changing?#
@@ -56,12 +61,14 @@ ____
 {% margin %}
 ____
 ...for the trumpet shall sound...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:52]#
 ____
-And I saw the dead, small and great, stand before God... 
 ____
+And I saw the dead, small and great, stand before God... 
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-20/[Revelation 20:12]#
+____
 {% endmargin %}
 
 *Mormon 9:13* and because of the redemption of man which came by Jesus Christ they are brought back into the presence of the Lord. Yea, this is wherein all men are redeemed, because the death of Christ bringeth to pass the resurrection, which bringeth to pass a redemption from an endless sleep, from which sleep all men shall be awoke by the power of God [highlight-orange]#when the trump shall sound#. And they shall [highlight-orange]#come forth, both small and great, and all shall stand before his bar#, being redeemed and loosed from this eternal band of death, which death is a temporal death.
@@ -69,8 +76,9 @@ ____
 {% margin %}
 ____
 He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Revelation-Chapter-22/[Revelation 22:11]#
+____
 {% endmargin %}
 
 *Mormon 9:14* And then cometh the judgment of the Holy One upon them. [highlight-orange]#And then cometh the time that he that is filthy shall be filthy still, and he that is righteous shall be righteous still; he that is happy shall be happy still, and he that is unhappy shall be unhappy still.#
@@ -147,7 +155,7 @@ ____
 But he that shall endure unto the end, the same shall be saved.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-24/[Matthew 24:13]#
-
+____
 ____
 
 ...will in no wise cast out.
