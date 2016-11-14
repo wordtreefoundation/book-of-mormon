@@ -66,7 +66,7 @@ And the heaven departed as a scroll when it is rolled together; and every mounta
 ____
 {% endmargin %}
 
-*Mormon 5:23* Know ye not that ye are in the hands of God? Know ye not that he hath all power and at his great command the earth shall be rolled together as a scroll?
+*Mormon 5:23* Know ye not that ye are in the hands of God? Know ye not that he hath all power and at his great command the [highlight-orange]#earth shall be rolled together as a scroll#?
 
 *Mormon 5:24* Therefore repent ye and humble yourselves before him lest he shall come out in justice against you, lest a remnant of the seed of Jacob shall go forth among you as a lion and tear you in pieces, and there is none to deliver.
 
