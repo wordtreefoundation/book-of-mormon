@@ -1,13 +1,14 @@
 {% margin %}
 ____
 And now Limhi was again filled with joy on learning from the mouth of Ammon that king Benjamin had a gift from God whereby he could interpret such engravings yea, and Ammon also did rejoice.
-____
+
 [small]#Book of Mormon, 1830, http://www.bookofmormonorigins.com/content/mosiah/chapter_21.html[Mosiah 21:28]#
 ____
-
-And now Limhi was again filled with joy on learning from the mouth of Ammon that king Mosiah had a gift from God, whereby he could interpret such engravings; yea, and Ammon also did rejoice.
 ____
+And now Limhi was again filled with joy on learning from the mouth of Ammon that king Mosiah had a gift from God, whereby he could interpret such engravings; yea, and Ammon also did rejoice.
+
 [small]#Book of Mormon, 2013, https://www.lds.org/scriptures/bofm/mosiah/21?lang=eng[Mosiah 21:28]#
+____
 {% endmargin %}
 
 *Ether 4:1* And the Lord commanded the brother of Jared to go down out of the mount from the presence of the Lord and write the things which he had seen. And they were forbidden to come unto the children of men until after that he should be lifted up upon the cross. And for this cause did [highlight]#king Benjamin# keep them, that they should not come unto the world until after Christ should shew himself unto his people.
@@ -36,7 +37,6 @@ ____
 ...the manifestation of the Spirit...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-12/[I Corinthians 12:7]#
-
 ____
 {% endmargin %}
 
@@ -57,26 +57,28 @@ ____
 {% margin %}
 ____
 ...Repent, and be baptized every one of you in the name of Jesus Christ...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Acts-Chapter-2/[Acts 2:38]#
 ____
-He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 ____
+He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:16]#
 ____
 And these signs shall follow them that believe; In my name...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Mark-Chapter-16/[Mark 16:17]#
+____
 {% endmargin %}
 
 *Ether 4:18* Therefore [highlight-orange]#repent, all ye ends of the earth, and come unto me and believe in my gospel and be baptized in my name.# For [highlight-orange]#he that believeth and is baptized shall be saved, but he that believeth not shall be damned#. [highlight-orange]#And signs shall follow them that believe in my name.#
 
 {% margin %}
 ____
-
 ...the kingdom prepared for you from the foundation of the world...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Matthew-Chapter-25/[Matthew 25:34]#
+____
 {% endmargin %}
 
 *Ether 4:19* And blessed is he that is found faithful unto my name at the last day, for they shall be lifted up to dwell in the [highlight-orange]#kingdom prepared for them from the foundation of the world.# And behold, it is I that hath spoken it. Amen.
