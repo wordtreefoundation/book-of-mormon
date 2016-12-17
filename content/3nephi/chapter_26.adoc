@@ -1,6 +1,15 @@
 *3 Nephi 26:1* And now it came to pass that when Jesus had told these things, he expounded them unto the multitude. And he did expound all things unto them, both great and small.
 
-*3 Nephi 26:2* And he saith: These scriptures which ye had not with you, the Father commanded that I should give unto you. For it was wisdom in him that they should be given unto future generations.
+{% margin %}
+____
+
+See I Nephi 22:15 and II Nephi 26:4 compared with Malachi 4:1, II Nephi 25:13 and 26:9 compared with Malachi 4:2. 
+
+[small]# http://www.bookofmormonorigins.com/content/1nephi/chapter_22.html [I Nephi 22:15]#
+____
+{% endmargin %}
+
+*3 Nephi 26:2* And he saith: [highlight]#These scriptures which ye had not with you#, the Father commanded that I should give unto you. For it was wisdom in him that they should be given unto future generations.
 
 {% margin %}
 ____
