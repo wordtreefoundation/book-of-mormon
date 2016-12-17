@@ -108,6 +108,8 @@ ____
 ...Whatsoever ye shall ask the Father in my name, he will give it you.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-16/[John 16:23]#
+____
+____
 
 ...all things, whatsoever ye shall ask in prayer, believing, ye shall receive.
 
@@ -213,18 +215,20 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:2]#
 ____
+____
 
 Charity never faileth:...
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:8]#
-
+____
+____
 ...but the greatest of these is charity.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-13/[1 Corinthians 13:13]#
 ____
 {% endmargin %}
 
-*Moroni 7:46* Wherefore, my beloved brethren, [highlight-orange]#if ye have not charity, ye are nothing;# [highlight-orange]#for charity never faileth.# Wherefore cleave unto charity, [highlight-orange]#which is the greatest of all.# For all things must fail;#
+*Moroni 7:46* Wherefore, my beloved brethren, [highlight-orange]#if ye have not charity, ye are nothing;# [highlight-orange]#for charity never faileth.# Wherefore cleave unto charity, [highlight-orange]#which is the greatest of all.# For all things must fail;
 
 *Moroni 7:47* but charity is the pure love of Christ, and it endureth forever. And whoso is found possessed of it at the last day, it shall be well with them.
 
