@@ -4,14 +4,8 @@ require 'state_machine'
 
 Highlight = Struct.new(:color, :text)
 
-class Verse
+Verse = Struct.new(:book, :chapter, :verse, :text, :sources) do
   VERSE_RE = /\*([\w\s]+) (\d+):(\d+)\* (.*)/
-
-  attr_accessor :book, :chapter, :verse, :sources
-
-  def initialize(book, chapter, verse, text, sources)
-    @book, @chapter, @verse, @sources = book, chapter, verse, sources
-  end
 
   def self.from_line(line, sources)
     book, chapter, verse, text = line.match(VERSE_RE).captures
@@ -19,10 +13,8 @@ class Verse
   end
 end
 
-class Source
+Source = Struct.new(:text, :reference) do
   REFERENCES_START_WITH = '[small]#'
-
-  attr_accessor :text, :reference
 
   def self.from_lines(lines=[])
     lines.select! {|line| line.size > 0 }
@@ -35,16 +27,7 @@ class Source
       new(text, reference)
     end
   end
-  def initialize(text, reference)
-    @text, @reference = text, reference
-  end
 end
-
-#class Footnote
-#  def initialize(text)
-#    @text = text
-#  end
-#end
 
 Footnote = Struct.new(:text)
 
@@ -124,7 +107,7 @@ end
 
 if __FILE__ == $0
   if ARGV.size == 0
-    puts "usage: #{File.basename(__FILE__)} <file>.asc ..."
+    puts "usage: #{File.basename(__FILE__)} <file>.adoc ..."
     exit
   end
 
@@ -138,7 +121,8 @@ if __FILE__ == $0
     end
   end
   parser.verses.each do |verse|
-    puts verse.book + [verse.chapter, verse.verse].join(":")
-    p verse.sources
+    p verse
+    #puts verse.book + [verse.chapter, verse.verse].join(":")
+    #p verse.sources
   end
 end
