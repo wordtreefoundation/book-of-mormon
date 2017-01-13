@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'state_machine'
+require 'find'
 
 Highlight = Struct.new(:color, :text)
 
@@ -16,10 +17,13 @@ end
 Source = Struct.new(:text, :reference) do
   REFERENCES_START_WITH = '[small]#'
 
+  def self.is_footnote(lines)
+    lines.size == 1 and !lines.first.start_with?(REFERENCES_START_WITH)
+  end
+
   def self.from_lines(lines=[])
     lines.select! {|line| line.size > 0 }
-    if lines.size == 1 and !lines.first.start_with?(REFERENCES_START_WITH)
-      # it's a footnote
+    if is_footnote(lines)
       Footnote.new(lines[0])
     else
       text = lines[0...-1]
@@ -32,16 +36,45 @@ end
 Footnote = Struct.new(:text)
 
 class Parser
+  IS_VERSE_RE = /\*.+\*/
   END_MARGIN = '{% endmargin %}'
   START_MARGIN_RE = /{% margin( \d)? ?%}/
   SOURCE_DELIMITER = "____"
+  ASCII_DOC_EXT = ".adoc"
 
   attr_accessor :verses
+
+  class << self
+    # parses a file and returns an array of verses
+    def parse_file(filename)
+      parser = new
+      IO.foreach(filename) {|line| parser.parse(line.chomp) }
+      parser.verses
+    end
+
+    # returns a single array of verses from all the files.
+    def parse_files(filenames)
+      filenames.flat_map {|filename| parse_file(filename) }
+    end
+
+    # parses all files in directory ending in ASCII_DOC_EXT (recursively) and
+    # returns array of verses (because not everyone uses zsh for simple
+    # recursive globs)
+    def parse_directory(dir)
+      files = []
+      Find.find(dir) do |path| 
+        Find.prune if File.directory?(path) && File.basename(path)[0] == '.'
+        files << path if File.extname(path) == ASCII_DOC_EXT 
+      end
+      files.sort!
+      parse_files(files)
+    end
+  end
 
   def initialize
     @verses = []
     @source_lines = []
-    super()
+    super
   end
 
   state_machine :state, initial: :in_verses do
@@ -83,7 +116,7 @@ class Parser
         if line =~ START_MARGIN_RE
           @sources = []
           start_margin
-        elsif line.size > 0
+        elsif line =~ IS_VERSE_RE
           @verses << Verse.from_line(line, @sources || [])
           @sources = []
         end
@@ -104,25 +137,25 @@ class Parser
   end
 end
 
-
 if __FILE__ == $0
   if ARGV.size == 0
-    puts "usage: #{File.basename(__FILE__)} <file>.adoc ..."
+    script = File.basename(__FILE__)
+    puts "usage: #{script} <file>.adoc ..."
+    puts "usage: #{script} <directory>"
+    puts "  the directory invocation will process all adoc files in dir"
+    puts ""
+    puts "to parse entire book of mormon from the repo's base dir, run:"
+    puts "  #{script} content"
     exit
   end
 
-  parser = Parser.new
-
-  ARGV.each do |filename|
-    next if filename.include?("external")
-    IO.foreach(filename) do |line|
-      line.chomp!
-      parser.parse(line)
+  verses =
+    if File.directory?(ARGV.first)
+      Parser.parse_directory(ARGV.first)
+    else
+      Parser.parse_files(ARGV)
     end
-  end
-  parser.verses.each do |verse|
-    p verse
-    #puts verse.book + [verse.chapter, verse.verse].join(":")
-    #p verse.sources
+  source_to_verse = {}
+  verses.each do |verse|
   end
 end
