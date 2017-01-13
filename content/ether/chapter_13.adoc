@@ -23,7 +23,7 @@ ____
 ____
 ...behold, all things are become new.
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-5/[I Corinthians 5:17]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/2-Corinthians-Chapter-5/[II Corinthians 5:17]#
 ____
 {% endmargin %}
 

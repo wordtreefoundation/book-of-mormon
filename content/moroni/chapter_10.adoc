@@ -171,14 +171,15 @@ ____
 Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-52/[Isaiah 52:1]#
-
+____
+____
 Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Isaiah-Chapter-54/[Isaiah 54:2]#
 ____
 {% endmargin %}
 
-*Moroni 10:31* [highlight-orange]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.#
+*Moroni 10:31* [highlight]#And awake and arise from the dust, O Jerusalem! Yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.#
 
 {% margin %}
 ____
