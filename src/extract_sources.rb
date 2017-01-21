@@ -28,6 +28,14 @@ end
 Source = Struct.new(:text, :reference) do
   REFERENCES_START_WITH = '[small]#'
 
+  def self.strip_small_format_string(reference)
+    if reference.end_with?('#')
+      reference.sub(REFERENCES_START_WITH, '')[0...-1]
+    else
+      reference
+    end
+  end
+
   def self.is_footnote(lines)
     lines.size == 1 and !lines.first.start_with?(REFERENCES_START_WITH)
   end
@@ -38,7 +46,13 @@ Source = Struct.new(:text, :reference) do
       Footnote.new(lines[0])
     else
       text = lines[0...-1]
-      reference = lines.last
+      last_line = lines.last
+      reference =
+        if last_line
+          strip_small_format_string(last_line)
+        else
+          last_line
+        end
       new(text, reference)
     end
   end
@@ -108,7 +122,7 @@ class Parser
     state :in_margin do
       def parse(line)
         if line == END_MARGIN
-          if @source_lines.size > 0
+          if @source_lines.size > 0 && @source_lines.any? {|line| !line.strip.empty? }
             @sources << Source.from_lines(@source_lines)
             @source_lines = []
           end
