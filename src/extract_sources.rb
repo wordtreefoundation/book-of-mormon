@@ -1,11 +1,22 @@
 #!/usr/bin/env ruby
 
-require 'state_machine'
 require 'find'
+require 'optparse'
+require 'yaml'
 
-Highlight = Struct.new(:color, :text)
+begin
+  require 'state_machine'
+rescue LoadError
+  abort "Aborting! Must have the gem state_machine installed!"
+end
 
-Verse = Struct.new(:book, :chapter, :verse, :text, :sources) do
+class Hash
+  def stringify_keys
+    map {|k, v| [k.to_s, v] }.to_h
+  end
+end
+
+ScriptureVerse = Struct.new(:book, :chapter, :verse, :text, :sources) do
   VERSE_RE = /\*([\w\s]+) (\d+):(\d+)\* (.*)/
 
   def self.from_line(line, sources)
@@ -42,29 +53,29 @@ class Parser
   SOURCE_DELIMITER = "____"
   ASCII_DOC_EXT = ".adoc"
 
-  attr_accessor :verses
+  attr_accessor :scripture_verses
 
   class << self
-    # parses a file and returns an array of verses
+    # parses a file and returns an array of scripture_verses
     def parse_file(filename)
       parser = new
       IO.foreach(filename) {|line| parser.parse(line.chomp) }
-      parser.verses
+      parser.scripture_verses
     end
 
-    # returns a single array of verses from all the files.
+    # returns a single array of scripture_verses from all the files.
     def parse_files(filenames)
       filenames.flat_map {|filename| parse_file(filename) }
     end
 
     # parses all files in directory ending in ASCII_DOC_EXT (recursively) and
-    # returns array of verses (because not everyone uses zsh for simple
+    # returns array of scripture_verses (because not everyone uses zsh for simple
     # recursive globs)
     def parse_directory(dir)
       files = []
-      Find.find(dir) do |path| 
+      Find.find(dir) do |path|
         Find.prune if File.directory?(path) && File.basename(path)[0] == '.'
-        files << path if File.extname(path) == ASCII_DOC_EXT 
+        files << path if File.extname(path) == ASCII_DOC_EXT
       end
       files.sort!
       parse_files(files)
@@ -72,7 +83,7 @@ class Parser
   end
 
   def initialize
-    @verses = []
+    @scripture_verses = []
     @source_lines = []
     super
   end
@@ -117,7 +128,7 @@ class Parser
           @sources = []
           start_margin
         elsif line =~ IS_VERSE_RE
-          @verses << Verse.from_line(line, @sources || [])
+          @scripture_verses << ScriptureVerse.from_line(line, @sources || [])
           @sources = []
         end
       end
@@ -138,24 +149,47 @@ class Parser
 end
 
 if __FILE__ == $0
-  if ARGV.size == 0
+  opts = {}
+  parser = OptionParser.new do |op|
     script = File.basename(__FILE__)
-    puts "usage: #{script} <file>.adoc ..."
-    puts "usage: #{script} <directory>"
-    puts "  the directory invocation will process all adoc files in dir"
-    puts ""
-    puts "to parse entire book of mormon from the repo's base dir, run:"
-    puts "  #{script} content"
-    exit
+    op.banner = "usage: #{script} [OPTS] <file>.adoc ..."
+    op.separator "usage: #{script} [OPTS] <directory>"
+    op.separator "  the directory invocation will process all adoc files in dir"
+    op.separator ""
+    op.separator "to parse entire book of mormon from the repo's base dir, run:"
+    op.separator "  ./src/#{script} content > bom.yml"
+    op.separator ""
+    op.separator "options: "
+    op.on("--structs", "Output yaml coded as ruby structs.",
+     "(Default is to emit YAML readable by any",
+     "language's YAML parser w/o dependencies.) """
+    ) {|v| opts[:structs] = v }
+  end
+  parser.parse!
+
+  if ARGV.size == 0
+    puts parser
+      exit
   end
 
-  verses =
+  scripture_verses =
     if File.directory?(ARGV.first)
       Parser.parse_directory(ARGV.first)
     else
       Parser.parse_files(ARGV)
     end
-  source_to_verse = {}
-  verses.each do |verse|
-  end
+
+  objects_prepped_for_yaml_output =
+    if opts[:structs]
+      scripture_verses
+    else
+      # this could be more elegant (define methods on the structs themselves)
+      scripture_verses.map do |scripture_verse|
+        scripture_verse.to_h.stringify_keys.merge(
+          {'sources' => scripture_verse.sources.map {|source| source.to_h.stringify_keys } }
+        )
+      end
+    end
+
+  puts objects_prepped_for_yaml_output.to_yaml
 end
