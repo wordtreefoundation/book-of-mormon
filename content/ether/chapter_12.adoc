@@ -90,7 +90,7 @@ ____
 {% margin %}
 ____
 By faith the walls of Jericho fell down...
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Hebrews-Chapter-11/[Hebrews 11:30]#
 ____
 ____

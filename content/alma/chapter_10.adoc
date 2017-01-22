@@ -21,11 +21,13 @@ ____
 *Alma 10:7* As I was a journeying to see a very near kindred, behold, an angel of the Lord appeared unto me and said: Amulek, return to thine own house, for thou shalt feed a prophet of the Lord, yea, a holy man which art a chosen man of God; for he hath fasted many days because of the sins of this people, and he is an hungered. And thou shall receive him into thy house and feed him. And he shall bless thee and thy house, and the blessing of the Lord shall rest upon thee and thy house.
 
 {% margin %}
+____
 The phrase "a going" is relatively uncommon in print from this period, but is also present in a letter written by Joseph Smith:
-____
+
 Mr. Stowell has a prospect of getting five or six hundred dollars he does not know certain that he can get it but he is a going to try and if he can get the money...
-____
+
 http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-october-1829[Letter to Oliver Cowdery, 22 October 1829]
+____
 {% endmargin %}
 
 *Alma 10:8* And it came to pass that I obeyed the voice of the angel and returned towards my house. And as I was a going thither, I found the man which the angel said unto me thou shalt receive into thy house; and behold, it was this same man which hath been speaking unto you concerning the things of God.

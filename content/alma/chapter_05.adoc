@@ -155,11 +155,11 @@ ____
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:29]#
 ____
+____
 
 ...believe on his name:
 
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/John-Chapter-1/[John 1:12]#
-
 ____
 {% endmargin %}
 
