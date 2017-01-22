@@ -2,6 +2,7 @@
 
 require 'find'
 require 'optparse'
+require 'uri'
 require 'yaml'
 
 begin
@@ -25,40 +26,58 @@ ScriptureVerse = Struct.new(:book, :chapter, :verse, :text, :sources) do
   end
 end
 
-Source = Struct.new(:text, :reference) do
+
+Source = Struct.new(:text, :reference, :href) do
   REFERENCES_START_WITH = '[small]#'
+  REFERENCES_END_WITH = '#'
 
-  def self.strip_small_format_string(reference)
-    if reference.end_with?('#')
-      reference.sub(REFERENCES_START_WITH, '')[0...-1]
-    else
-      reference
+  class << self
+    def strip_small_format_string(reference)
+      if reference.end_with?('#')
+        reference.sub(REFERENCES_START_WITH, '')[0...-1]
+      else
+        reference
+      end
     end
-  end
 
-  def self.is_footnote(lines)
-    lines.size == 1 and !lines.first.start_with?(REFERENCES_START_WITH)
-  end
+    def is_reference_line?(line)
+      line.start_with?(REFERENCES_START_WITH) && line.end_with?(REFERENCES_END_WITH)
+    end
 
-  def self.from_lines(lines=[])
-    lines.select! {|line| line.size > 0 }
-    if is_footnote(lines)
-      Footnote.new(lines[0])
-    else
-      text = lines[0...-1]
-      last_line = lines.last
-      reference =
-        if last_line
-          strip_small_format_string(last_line)
-        else
-          last_line
+    def many_from_lines(lines)
+      reference_indices = lines.map.with_index {|line, index| index if is_reference_line?(line) }.compact
+
+      if reference_indices.empty?
+        # This is a footnote.  It only has text (no references).
+        [Source.new(lines.join(" "))]
+      else
+        start_index = 0
+        sources = []
+        reference_indices.each do |reference_index|
+          text = lines[start_index...reference_index].join
+          reference = strip_small_format_string(lines[reference_index])
+          sources << new(text, reference)
+          start_index = reference_index + 1
         end
-      new(text, reference)
+        sources
+      end
     end
   end
-end
 
-Footnote = Struct.new(:text)
+  # A source with no reference is considered a 'footnote'
+  def is_a_footnote?
+    self.reference.nil? && self.href.nil?
+  end
+
+  def initialize(*args)
+    super(*args)
+    if self.reference
+      # remove any ascii doc tag on the end of the href
+      self.href = URI.extract(self.reference).first.sub(/\[.*?\]\Z/, '')
+    end
+  end
+
+end
 
 class Parser
   IS_VERSE_RE = /\*.+\*/
@@ -123,7 +142,7 @@ class Parser
       def parse(line)
         if line == END_MARGIN
           if @source_lines.size > 0 && @source_lines.any? {|line| !line.strip.empty? }
-            @sources << Source.from_lines(@source_lines)
+            @sources.push(*Source.many_from_lines(@source_lines))
             @source_lines = []
           end
           end_margin
@@ -151,7 +170,7 @@ class Parser
     state :in_source do
       def parse(line)
         if line == SOURCE_DELIMITER
-          @sources << Source.from_lines(@source_lines)
+          @sources.push(*Source.many_from_lines(@source_lines))
           @source_lines = []
           end_source
         else
