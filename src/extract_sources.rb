@@ -17,17 +17,61 @@ class Hash
   end
 end
 
-ScriptureVerse = Struct.new(:book, :chapter, :verse, :text, :sources) do
+class ScriptureVerse < Struct.new(:book, :chapter, :verse, :text, :sources)
   VERSE_RE = /\*([\w\s]+) (\d+):(\d+)\* (.*)/
 
   def self.from_line(line, sources)
     book, chapter, verse, text = line.match(VERSE_RE).captures
     new(book, chapter.to_i, verse.to_i, text, sources)
   end
+
+  alias_method :old_to_h, :to_h
+
+  def to_h
+    old_to_h.stringify_keys.merge({'sources' => self.sources.map(&:to_h)})
+  end
 end
 
+class BibleVerseDetails < Struct.new(:book, :chapter, :start_verse, :end_verse, :relevant_text, :url)
+  KING_JAMES_ONLINE_BASE = "http://www.kingjamesbibleonline.org/"
+  CHAPTER_RE = %r!#{KING_JAMES_ONLINE_BASE}([\-\w]+)-Chapter-(\d+)!
+  CHAPTER_VERSE_RE = %r!#{KING_JAMES_ONLINE_BASE}([\-\w]+)-(\d+)-(\d+)/!
+  BIBLE_VERSE_RE = %r{:([\d\-]+)\]\Z}
 
-Source = Struct.new(:text, :reference, :url) do
+  # takes all the BibleVerse's information and sets the appropriate url to the
+  # online King James Bible.
+  # book should already be hyphenated
+  def self.generate_url(hyphenated_book, chapter, start_verse, end_verse)
+    single_verse = (start_verse == end_verse)
+    details = [hyphenated_book, single_verse ? chapter : "Chapter-#{chapter}"]
+    details << start_verse if single_verse
+    url = [KING_JAMES_ONLINE_BASE, details.join("-")].join
+    url << "/"
+  end
+
+  def self.from_source(source)
+    if md = CHAPTER_RE.match(source.url)
+      hyphenated_book, chapter_str = md.captures
+      if md = BIBLE_VERSE_RE.match(source.reference)
+        start_verse, end_verse = md.captures.first.split("-").map(&:to_i)
+      end
+    elsif md = CHAPTER_VERSE_RE.match(source.url)
+      hyphenated_book, chapter_str, verse_str = md.captures
+      start_verse = verse_str.to_i
+    end
+    end_verse ||= start_verse
+    url = generate_url(hyphenated_book, chapter_str, start_verse, end_verse)
+    new(hyphenated_book.gsub('-', ' '), chapter_str.to_i, start_verse, end_verse, source.text, url)
+  end
+
+  alias_method :old_to_h, :to_h
+  def to_h
+    old_to_h.stringify_keys
+  end
+
+end
+
+class Source < Struct.new(:text, :reference, :url, :bible_verse_details)
   REFERENCES_START_WITH = '[small]#'
   REFERENCES_END_WITH = '#'
 
@@ -56,7 +100,11 @@ Source = Struct.new(:text, :reference, :url) do
         reference_indices.each do |reference_index|
           text = lines[start_index...reference_index].join
           reference = strip_small_format_string(lines[reference_index])
-          sources << new(text, reference)
+          source = new(text, reference)
+          if source.url.start_with?(BibleVerseDetails::KING_JAMES_ONLINE_BASE)
+            source.bible_verse_details = BibleVerseDetails.from_source(source)
+          end
+          sources << source
           start_index = reference_index + 1
         end
         sources
@@ -75,6 +123,12 @@ Source = Struct.new(:text, :reference, :url) do
       # remove any ascii doc tag on the end of the url
       self.url = URI.extract(self.reference).first.sub(/\[.*?\]\Z/, '')
     end
+  end
+
+  alias_method :old_to_h, :to_h
+  def to_h
+    details_hash = self.bible_verse_details ? {'bible_verse_details' =>  self.bible_verse_details.to_h} : {}
+    old_to_h.stringify_keys.merge(details_hash)
   end
 
 end
@@ -216,12 +270,7 @@ if __FILE__ == $0
     if opts[:structs]
       scripture_verses
     else
-      # this could be more elegant (define methods on the structs themselves)
-      scripture_verses.map do |scripture_verse|
-        scripture_verse.to_h.stringify_keys.merge(
-          {'sources' => scripture_verse.sources.map {|source| source.to_h.stringify_keys } }
-        )
-      end
+      scripture_verses.map(&:to_h)
     end
 
   puts objects_prepped_for_yaml_output.to_yaml
