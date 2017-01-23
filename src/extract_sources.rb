@@ -121,7 +121,12 @@ class Source < Struct.new(:text, :reference, :url, :bible_verse_details)
     super(*args)
     if self.reference
       # remove any ascii doc tag on the end of the url
-      self.url = URI.extract(self.reference).first.sub(/\[.*?\]\Z/, '')
+      self.url = URI.extract(self.reference).first.sub(/\[.*\]\Z/, '')
+      # The above regex works 99% of the time, but sometimes it doesn't clip
+      # off the first square bracket and first word.  It's a mystery to me
+      # because I've validated the regex online.  Until we figure out what is
+      # wrong, we'll do an additional substitution to remove the last bit:
+      self.url = self.url.sub(/\[\w+\Z/, '')
     end
   end
 
