@@ -70,7 +70,7 @@ ____
 ____
 And I have [highlight]#filled him with the spirit# of God, in wisdom, and in understanding, and in knowledge
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-32/[Exodus 31:3]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Exodus-Chapter-31/[Exodus 31:3]#
 
 ____
 {% endmargin %}
