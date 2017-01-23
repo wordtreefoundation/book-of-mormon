@@ -27,7 +27,7 @@ ScriptureVerse = Struct.new(:book, :chapter, :verse, :text, :sources) do
 end
 
 
-Source = Struct.new(:text, :reference, :href) do
+Source = Struct.new(:text, :reference, :url) do
   REFERENCES_START_WITH = '[small]#'
   REFERENCES_END_WITH = '#'
 
@@ -66,14 +66,14 @@ Source = Struct.new(:text, :reference, :href) do
 
   # A source with no reference is considered a 'footnote'
   def is_a_footnote?
-    self.reference.nil? && self.href.nil?
+    self.reference.nil? && self.url.nil?
   end
 
   def initialize(*args)
     super(*args)
     if self.reference
-      # remove any ascii doc tag on the end of the href
-      self.href = URI.extract(self.reference).first.sub(/\[.*?\]\Z/, '')
+      # remove any ascii doc tag on the end of the url
+      self.url = URI.extract(self.reference).first.sub(/\[.*?\]\Z/, '')
     end
   end
 
