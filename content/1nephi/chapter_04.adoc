@@ -27,7 +27,7 @@ ____
 
 ...that one man should die for the people, and that the whole nation perish not.
 
-[small]#KJV, 1769, http://www.kingjamesbibleonline.org/Jonh-Chapter-11/[John 11:50]#
+[small]#KJV, 1769, http://www.kingjamesbibleonline.org/John-Chapter-11/[John 11:50]#
 ____
 {% endmargin %}
 
