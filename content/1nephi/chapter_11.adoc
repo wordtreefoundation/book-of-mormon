@@ -88,11 +88,13 @@ ____
 *1 Nephi 11:23* And he spake unto me, saying: Yea, and the most joyous to the soul.
 
 {% margin %}
+____
 The phrase "a going" is relatively uncommon in print from this period, but is also present in a letter written by Joseph Smith:
-____
+
 Mr. Stowell has a prospect of getting five or six hundred dollars he does not know certain that he can get it but he is a going to try and if he can get the money...
-____
+
 http://www.josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-october-1829[Letter to Oliver Cowdery, 22 October 1829]
+____
 {% endmargin %}
 
 *1 Nephi 11:24* And after that he had said these words, he said unto me: Look! And I looked and I beheld the Son of God [highlight]#a going# forth among the children of men. And I saw many fall down at his feet and worship him.

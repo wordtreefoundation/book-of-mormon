@@ -22,11 +22,10 @@ They hid themselves in the wilderness; they couched down as a lion; and as a you
 
 [small]#The Late War, 1817, https://wordtreefoundation.github.io/thelatewar/#entering-hearts[3:17]#
 ____
-
 ____
 The young lions roar after their prey, and seek their meat from God.
 
-King James Bible, https://www.kingjamesbibleonline.org/Psalms-104-21/[Psalm 104:21]
+[small]#King James Bible, http://www.kingjamesbibleonline.org/Psalms-104-21/[Psalm 104:21]#
 ____
 {% endmargin %}
 

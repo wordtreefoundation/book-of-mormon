@@ -91,8 +91,8 @@ ____
 
 *Helaman 5:26* And it came to pass that Nephi and Lehi did stand forth and began to speak unto them, saying: Fear not! For behold, it is God that hath shown unto you this marvelous thing, in the which is shewn unto you that ye cannot lay your hands on us to slay us.
 
-{% margin 5 %}
-____  
+{% margin %}
+____
 
 And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed.
 

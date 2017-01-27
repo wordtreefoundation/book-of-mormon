@@ -43,8 +43,9 @@ ____
 ____
 
 ...and the rough ways shall be made smooth;
-____
+
 [small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/Luke-Chapter-3/[Luke 3:5]#
+____
 {% endmargin %}
 
 *3 Nephi 8:13* And the highways were broken up, and the level roads were spoiled, and [highlight-orange]#many smooth places became rough.#
