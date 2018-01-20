@@ -44,7 +44,7 @@ ____
 
 ...be ye stedfast, unmoveable, always abounding in the work of the Lord...
 
-[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[I Corinthians 15:58]#
+[small]#KJV Bible, 1769, http://www.kingjamesbibleonline.org/1-Corinthians-Chapter-15/[1 Corinthians 15:58]#
 ____
 {% endmargin %}
 
