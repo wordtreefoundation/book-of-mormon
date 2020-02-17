@@ -6,7 +6,16 @@
 
 *Mosiah 20:4* And having tarried in the wilderness and having discovered the daughters of the Lamanites, they laid and watched them.
 
-*Mosiah 20:5* And when there were but few of them gathered together to dance, they came forth out of their secret places and took them and carried them into the wilderness, yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.
+{% margin %}
+____
+But look, there is the annual festival of the Lord in Shiloh, which lies north of Bethel, east of the road that goes from Bethel to Shechem, and south of Lebonah.”
+
+So they instructed the Benjamites, saying, “Go and hide in the vineyards and watch. When the young women of Shiloh come out to join in the dancing, rush from the vineyards and each of you seize one of them to be your wife.
+[small]#King James Bible, https://www.kingjamesbibleonline.org/Judges-Chapter-21/[Judges 21:19-21]#
+____
+{% endmargin %}
+
+*Mosiah 20:5* [highlight]#And when there were but few of them gathered together to dance, they came forth out of their secret places and took them and carried them into the wilderness, yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.#
 
 *Mosiah 20:6* And it came to pass that when the Lamanites found that their daughters had been missing, they were angry with the people of Limhi; for they thought it was the people of Limhi.
 
